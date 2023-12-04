@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="eaccf605-653e-4da7-9ab2-d3551a9fef9e" chapterId="95aab816-3591-4eeb-a31b-5c5c4e4e316f" sgxmlv="1.2" qq="off">
+  <page level="FR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Un capitaine a versé un pot-de-vin aux autorités portuaires et les médias en ligne en parlent maintenant. Quelles sont les conséquences possibles pour sa société?</txt>
+      <txt c="X" s="2" delay="0" crct="90" align="left">Des amendes</txt>
+      <txt c="X" s="2" delay="0" crct="79" align="left">Des peines de prison</txt>
+      <txt c="X" s="2" delay="0" crct="32" align="left">Des pertes commerciales</txt>
+      <txt c="X" s="2" delay="0" crct="82" align="left">Toutes les réponses ci-dessus</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">A Captain gave a bribe to the port authorities and now it is reported in the online media. What are the possible consequences for his/her company?</txt>
+      <txt c="X" s="2" delay="0" crct="22" align="left">Fines</txt>
+      <txt c="X" s="2" delay="0" crct="17" align="left">Prison sentences</txt>
+      <txt c="X" s="2" delay="0" crct="14" align="left">Loss of business</txt>
+      <txt c="X" s="2" delay="0" crct="42" align="left">All of the above</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">船长向港务局行贿，现在被在线媒体曝光。对其公司可能会有什么样的后果？</txt>
+      <txt c="X" s="2" delay="0" crct="20" align="left">罚款</txt>
+      <txt c="X" s="2" delay="0" crct="55" align="left">服刑</txt>
+      <txt c="X" s="2" delay="0" crct="72" align="left">损失业务</txt>
+      <txt c="X" s="2" delay="0" crct="70" align="left">以上都是</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Un capitán sobornó a las autoridades portuarias y ahora ha sido denunciado en las redes de comunicación por Internet. ¿Cuáles son las posibles consecuencias para su compañía?</txt>
+      <txt c="X" s="2" delay="0" crct="50" align="left">Multas</txt>
+      <txt c="X" s="2" delay="0" crct="45" align="left">Penas de prisión</txt>
+      <txt c="X" s="2" delay="0" crct="38" align="left">Pérdida del negocio</txt>
+      <txt c="X" s="2" delay="0" crct="36" align="left">Todas las opciones anteriores</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Капитан дал взятку портовым чиновникам, и информация об этом всплыла в электронных СМИ. Каковы возможные последствия для его компании?</txt>
+      <txt c="X" s="2" delay="0" crct="42" align="left">Штрафы</txt>
+      <txt c="X" s="2" delay="0" crct="95" align="left">Тюремные заключения</txt>
+      <txt c="X" s="2" delay="0" crct="60" align="left">Потеря бизнеса</txt>
+      <txt c="X" s="2" delay="0" crct="36" align="left">Все указанное выше</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">عندما يقدم القبطان رشوة لسلطات الميناء ويتم الإبلاغ عن هذا الموقف ونشره في وسائل الإعلام الإلكترونية، ما هي العواقب المحتملة للشركة الخاصة به/بها؟</txt>
+      <txt c="X" s="2" delay="0" crct="10" align="left">غرامات</txt>
+      <txt c="X" s="2" delay="0" crct="67" align="left">أحكام بالسجن</txt>
+      <txt c="X" s="2" delay="0" crct="72" align="left">خسارة العمل</txt>
+      <txt c="X" s="2" delay="0" crct="32" align="left">جميع ما سبق</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

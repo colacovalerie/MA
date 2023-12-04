@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="e4bf9c33-8b6d-4e3d-be25-ce6c6e77f082" chapterId="a568884f-0a4f-45dd-93da-613fbf74279e" sgxmlv="1.2" qq="off">
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Un navire est à quai et l'agent utilise la corruption pour aider le navire à quitter le port plus rapidement. Le capitaine n'a découvert cela qu'après que l'agent ait déjà versé le pot-de-vin aux autorités.
+
+La société peut-elle être tenue responsable de l’acte de corruption commis par l’agent portuaire?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="51" align="left">Oui</txt>
+      <txt c="X" s="2" y="280" delay="0" crct="57" align="left">Non</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">A ship is at berth, and the agent resorts to bribery to help the ship leave the port faster. The Captain found out about that only after the agent has already paid the bribe to the authorities.
+
+Can the company be liable for the bribery committed by the agent?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="17" align="left">Yes</txt>
+      <txt c="X" s="2" y="280" delay="0" crct="33" align="left">No</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">停泊船只的代理人行贿，意在帮助船只尽快离港。 代理人向主管当局行贿之后，船长才知情。
+
+公司是否要对代理的贿赂行为负责？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="7" align="left">是</txt>
+      <txt c="X" s="2" y="280" delay="0" crct="57" align="left">否</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Un buque está atracado y el agente recurre al soborno para ayudar a que el buque abandone el puerto más rápido. El capitán se enteró de esto después de que el agente hubiera pagado el soborno a las autoridades.
+
+¿La compañía puede ser responsable del soborno cometido por el agente?</txt>
+      <txt c="X" s="2" delay="0" crct="5" align="left">Sí</txt>
+      <txt c="X" s="2" delay="0" crct="61" align="left">No</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Корабль стоит у причала, и агент прибегает к подкупу, чтобы помочь кораблю быстрее покинуть порт. Об этом капитан узнал только после того, как агент уже дал взятку властям.
+
+Будет ли компания нести ответственность за дачу взятки агентом?</txt>
+      <txt c="X" s="2" delay="0" crct="67" align="left">Да</txt>
+      <txt c="X" s="2" delay="0" crct="27" align="left">Нет</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">السفينة في المرسى، ويلجأ الوكيل إلى تقديم الرشوة لمساعدة السفينة على مغادرة الميناء بشكل أسرع. اكتشف القبطان ذلك بعد أن دفع الوكيل الرشوة للسلطات بالفعل. يمكن أن تكون الشركة مسؤولة عن جريمة الرشوة التي ارتكبها الوكيل؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="5" align="left">نعم</txt>
+      <txt c="X" s="2" y="280" delay="0" crct="31" align="left">لا</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

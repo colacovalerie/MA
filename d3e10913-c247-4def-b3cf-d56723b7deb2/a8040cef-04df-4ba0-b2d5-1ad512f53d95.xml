@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="a8040cef-04df-4ba0-b2d5-1ad512f53d95" chapterId="a568884f-0a4f-45dd-93da-613fbf74279e" sgxmlv="1.2" qq="off">
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Un agent de l’immigration a exigé un paiement du capitaine. Après de longues négociations, le capitaine réussit à éviter ce paiement.
+
+Que doit faire le capitaine maintenant?</txt>
+      <txt c="X" s="2" y="190" delay="0" crct="98" align="left">Aucun paiement n’a été effectué donc il n’y a rien à signaler.</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="24" align="left">Signaler la demande afin de partager les bonnes pratiques.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">An immigration authority has demanded a payment from the Captain. After long negotiations, the Captain manages to avoid paying.
+
+What should the Captain do now?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="36" align="left">No payment was made so there is nothing to report</txt>
+      <txt c="X" s="2" y="280" delay="0" crct="90" align="left">Report the demand in order to share best practices</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">移民局向船长索要好处费。一番谈判后，船长设法避免了付钱。
+
+船长现在应该怎样做？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="70" align="left">不付钱，也不报告</txt>
+      <txt c="X" s="2" y="280" delay="0" crct="8" align="left">报告此事以便分享最佳做法</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Una autoridad de inmigración ha exigido un pago al capitán. Después de largas negociaciones, el capitán se las arregla para evitar pagar.
+
+¿Qué debería hacer ahora el capitán?</txt>
+      <txt c="X" s="2" delay="0" crct="98" align="left">No se hizo ningún pago, así que no hay nada que notificar.</txt>
+      <txt c="X" s="2" delay="0" crct="38" align="left">Notifique la petición para compartir las mejores prácticas.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Инспектор иммиграционной службы потребовал у капитана денег. После длительных переговоров капитану удалось отвергнуть это требование.
+
+Что теперь делать капитану?</txt>
+      <txt c="X" s="2" delay="0" crct="78" align="left">Инспектор не получил денег, поэтому отчитываться не о чем</txt>
+      <txt c="X" s="2" delay="0" crct="22" align="left">Сообщить о вымогательстве для обмена опытом</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">عندما تطلب هيئة الهجرة مبلغًا من القبطان، وبعد مفاوضات طويلة، يتمكن القبطان من تجنب الدفع.
+
+ما الذي يجب على القبطان القيام به في تلك الحالة؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="34" align="left">لم يتم دفع أي مبلغ، لذا لا يوجد ما يمكن الإبلاغ عنه</txt>
+      <txt c="X" s="2" y="280" delay="0" crct="66" align="left">الإبلاغ عن الطلب لمشاركة أفضل الممارسات</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

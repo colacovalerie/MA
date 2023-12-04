@@ -1,0 +1,7 @@
+<section id="objectivesPanel" class="row-12 full-width ">
+    <page-title></page-title>
+    <ul ng-style="$root.mainData.fontStyles['objectivesbody']">
+        <li class="fadeable" ng-repeat="obj in $root.mainData.objectives  track by $index"
+            ng-if="objCtrl.showPOItem($index)">{{obj}}</li>
+    </ul>
+</section>

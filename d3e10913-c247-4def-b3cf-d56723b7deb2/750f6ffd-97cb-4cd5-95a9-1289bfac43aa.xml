@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="750f6ffd-97cb-4cd5-95a9-1289bfac43aa" chapterId="a568884f-0a4f-45dd-93da-613fbf74279e" sgxmlv="1.2" qq="off">
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Un navire est à quai. L’agent portuaire appelle la société pour l’informer qu’il peut accélérer le processus d’autorisation au titre du contrôle par l’État du port s’il donne un peu d’argent en espèces aux autorités.
+
+La société peut-elle être tenue responsable des actions commises par l’agent portuaire?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="48" align="left">Oui, il s’agit d’un paiement de facilitation.</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="49" align="left">Non, la société ne peut pas être responsable.</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="77" align="left">Oui, il s’agit d’un pot-de-vin.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">A ship is at berth. The agent calls the company to say that he can speed up and ensure the Port State Control (PSC) clearance if he gives the authorities some cash.
+
+Can the company be liable for the actions committed by the agent?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="72" align="left">Yes, it is a facilitation payment</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="73" align="left">No, the company cannot be responsible</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="11" align="left">Yes, it is a bribe</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">船停泊在泊位上。代理联系公司，说如果他能送官方机构一些现金，就能让船更快地离开港口，并且保证港口国管制 (PSC) 部门给予通关。
+
+公司是否要对代理的行为负责？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="44" align="left">是，这是便利费</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="13" align="left">否，公司不对此负责</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="73" align="left">是，这是贿赂</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Un barco está atracado. El agente llama a la compañía para decir que puede acelerar y asegurar la autorización del Control del Estado del Puerto (PSC) si le da a las autoridades dinero en efectivo.
+
+¿La compañía puede ser responsable de las acciones realizadas por el agente?</txt>
+      <txt c="X" s="2" delay="0" crct="56" align="left">Sí, es un pago para la simplificación de trámites.</txt>
+      <txt c="X" s="2" delay="0" crct="53" align="left">No, la compañía no puede ser responsable.</txt>
+      <txt c="X" s="2" delay="0" crct="57" align="left">Sí, es un soborno.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Судно стоит на причале. Агент звонит в компанию и говорит, что он может дать денег инспекторам службы государственного портового контроля (СГПК), чтобы ускорить получение разрешения.
+
+Будет ли компания нести ответственность за действия агента?</txt>
+      <txt c="X" s="2" delay="0" crct="10" align="left">Да, это вознаграждение за оказание содействия</txt>
+      <txt c="X" s="2" delay="0" crct="5" align="left">Нет, компания не несет ответственности</txt>
+      <txt c="X" s="2" delay="0" crct="15" align="left">Да, это взятка</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">عندما تكون السفينة في المرسى، ويتصل الوكيل بالشركة لإبلاغهم بإمكانية تسريع تصريح الرقابة في دول الميناء وتأمينه، في حالة تقديم بعض الأموال للسلطات.
+
+هل يمكن أن تكون الشركة مسؤولة عن الأعمال التي ارتكبها الوكيل؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="80" align="left">نعم، لأنها مدفوعات تسهيل</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="101" align="left">لا، لا يمكن أن تكون الشركة مسؤولة عن ذلك</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="67" align="left">نعم، فإن هذا التصرف يُعد رشوة</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

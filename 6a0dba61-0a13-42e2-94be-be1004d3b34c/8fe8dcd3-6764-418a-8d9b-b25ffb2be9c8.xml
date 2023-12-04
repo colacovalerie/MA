@@ -1,0 +1,341 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="8fe8dcd3-6764-418a-8d9b-b25ffb2be9c8">
+  <page level="EN">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Summary  •  Summary]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc7_p1a.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc7_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc7_p1_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Summary]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="149"><![CDATA[This course has shown the following central corruption issues that MACN is working against in collaboration with members and governments around the world:]]></txt>
+      <txt c="X" bull="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[Facilitation payments are small payments in cash or in kind made for a service to which you have a legal right or other entitlement.]]></txt>
+      <txt c="X" bull="X" fontcolor="0c0254" s="2" w="470" align="left" rpo="2,3,4" delay="0" y="149"><![CDATA[Bribery is the acceptance, offering, solicitation or promise of benefits, in kind or monetary, in the hope to gain business advantages to which you would not otherwise be entitled.]]></txt>
+      <txt c="X" bull="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[Remember to:- Be Prepared- Stand Your Ground- Be a Leader]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Summary. This course has shown the following central corruption issues that MACN is working against in collaboration with members and governments around the world: Facilitation payments are small payments in cash or in kind made for a service to which you have a legal right or other entitlement.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt> Bribery is the acceptance, offering, solicitation or promise of benefits, in kind or monetary, in the hope to gain business advantages to which you would not otherwise be entitled. Remember to:- Be Prepared- Stand Your Ground- Be a Leader</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Résumé  •  Résumé]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc7_p1a.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc7_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc7_p1_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Résumé]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="149"><![CDATA[Cette formation]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="180"><![CDATA[a montré les principaux problèmes de corruption suivants contre lesquels lutte le MACN en collaboration avec ses membres et avec les gouvernements du monde entier:]]></txt>
+      <txt c="X" bull="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[Les paiements de facilitation sont des paiements de faible valeur, en espèces ou en nature, versés pour un service auquel vous avez un droit légal ou un autre droit.]]></txt>
+      <txt c="X" bull="X" fontcolor="0c0254" s="2" w="470" align="left" rpo="2,3,4" delay="0" y="149"><![CDATA[Un pot-de-vin est l’acceptation, l’offre, la sollicitation ou la promesse d’avantages, en nature ou en espèces, dans l’espoir d’obtenir des avantages commerciaux auxquels vous n’auriez pas droit autrement.]]></txt>
+      <txt c="X" bull="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[N’oubliez pas:- Soyez préparé- Rester sur ses positions- Soyez un leader]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Résumé. Cette formation a montré les principaux problèmes de corruption suivants contre lesquels lutte le MACN en collaboration avec ses membres et avec les gouvernements du monde entier: •  Les paiements de facilitation sont des paiements de faible valeur, en espèces ou en nature, versés pour un service auquel vous avez un droit légal ou un autre droit.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>•  Un pot-de-vin est l’acceptation, l’offre, la sollicitation ou la promesse d’avantages, en nature ou en espèces, dans l’espoir d’obtenir des avantages commerciaux auxquels vous n’auriez pas droit autrement. •  N’oubliez pas: - Soyez préparé - Rester sur ses positions - Soyez un leader</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[总结  •  总结]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc7_p1a.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc7_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">sc7_p1_i2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[总结]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" w="470" align="left" delay="0" y="155"><![CDATA[本课程展示了 MACN 与世界各地的成员国和政府合作，共同打击以下主要腐败问题：]]></txt>
+      <txt c="X" bull="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0"><![CDATA[便利费是指支付小额现金或实物来取得您依法有权获得的服务或其他权利。]]></txt>
+      <txt c="X" bull="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" w="470" align="left" delay="0"><![CDATA[贿赂是指以实物或钱财形式接受、提供、索取或许诺利益，以期获得原本无权获得的商业利益。]]></txt>
+      <txt c="X" bull="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0"><![CDATA[谨记；]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" delay="0" x="488"><![CDATA[-  做好准备
+-  坚持立场
+-  做出表率]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>本课程展示了 MACN 与世界各地的成员国和政府合作，共同打击以下主要腐败问题：
+
+便利费是指支付小额现金或实物来取得您依法有权获得的服务或其他权利。</sndTxt>
+      <sndTxt>贿赂是指以实物或钱财形式接受、提供、索取或许诺利益，以期获得原本无权获得的商业利益。
+谨记；
+做好准备
+坚持立场
+做出表率</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Resumen  •  Resumen]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc7_p1a.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc7_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc7_p1_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Resumen]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="149"><![CDATA[En este curso]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="180"><![CDATA[se han descrito los siguientes problemas centrales de corrupción contra los que trabaja la MACN en colaboración con los miembros y los gobiernos de todo el mundo:]]></txt>
+      <txt c="X" bull="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[Los pagos para la simplificación de trámites son pagos pequeños en efectivo o en especie realizados a cambio de un servicio al que usted tiene derecho legal o de otro tipo.]]></txt>
+      <txt c="X" bull="X" fontcolor="0c0254" s="2" w="470" align="left" rpo="2,3,4" delay="0" y="149"><![CDATA[El soborno es la aceptación, el ofrecimiento, la solicitud o la promesa de beneficios, en especie o en efectivo, con la esperanza de obtener ventajas comerciales a las que de otro modo usted no tendría derecho.]]></txt>
+      <txt c="X" bull="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[Recuerde lo siguiente:- Esté preparado- Manténgase firme- Sea un buen líder]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Resumen. En este curso se han descrito los siguientes problemas centrales de corrupción contra los que trabaja la MACN en colaboración con los miembros y los gobiernos de todo el mundo: Los pagos para la simplificación de trámites son pagos pequeños en efectivo o en especie realizados a cambio de un servicio al que usted tiene derecho legal o de otro tipo.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>El soborno es la aceptación, el ofrecimiento, la solicitud o la promesa de beneficios, en especie o en efectivo, con la esperanza de obtener ventajas comerciales a las que de otro modo usted no tendría derecho. Recuerde lo siguiente:- Esté preparado- Manténgase firme- Sea un buen líder</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Обзор  •  Обзор]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc7_p1a.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc7_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc7_p1_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Обзор]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="149"><![CDATA[В этом курсе]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="180"><![CDATA[ были продемонстрированы основные формы коррупции, с которыми борется MACN в сотрудничестве со своими членами и государственными органами по всему миру:]]></txt>
+      <txt c="X" bull="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[Вознаграждения за оказание содействия — небольшие вознаграждения, в денежном или натуральном выражении, за предоставление услуг, на которые вы имеете право по закону или в силу иных обстоятельств.]]></txt>
+      <txt c="X" bull="X" fontcolor="0c0254" s="2" w="470" align="left" rpo="2,3,4" delay="0" y="149"><![CDATA[Взяточничество — получение, предложение, требование или обещание благ, в натуральном или денежном выражении, с целью достижения коммерческих преимуществ, на которые в противном случае вы не имеете права.]]></txt>
+      <txt c="X" bull="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[Помните:- Подготовьтесь- Стойте на своем- Будьте лидером]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Обзор. Вознаграждения за оказание содействия — небольшие вознаграждения, в денежном или натуральном выражении, за предоставление услуг, на которые вы имеете право по закону или в силу иных обстоятельств. Вознаграждения за оказание содействия — небольшие вознаграждения, в денежном или натуральном выражении, за предоставление услуг, на которые вы имеете право по закону или в силу иных обстоятельств.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Взяточничество — получение, предложение, требование или обещание благ, в натуральном или денежном выражении, с целью достижения коммерческих преимуществ, на которые в противном случае вы не имеете права.Помните:ПодготовьтесьСтойте на своемБудьте лидером</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[الملخص  •  الملخص]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc7_p1a.png</pic>
+      <pic y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc7_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc7_p1_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="478"><![CDATA[ الملخص]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" w="470" align="left" delay="0" y="149"><![CDATA[تناولت هذه الدورة التدريبية القضايا الرئيسية المتعلقة بالفساد والتي تعمل شبكة مكافحة الفساد في البحار في مكافحتها بالتعاون مع الأعضاء والحكومات في جميع أنحاء العالم على النحو التالي:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0"><![CDATA[• مدفوعات التسهيل سواء كانت مبالغ بسيطة نقدًا أو عينًا مقابل خدمة يحق لك الحصول عليها بموجب القانون أو أي حق آخر.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="18" s="2" w="470" align="left" rpo="2,3,4" delay="0" y="149"><![CDATA[• تُعرف الرشوة بأنها عملية قبول مزايا أو عرضها أو الالتماس أو الوعد بالحصول عليها سواء كانت عينية أو نقدية أملًا في الحصول على مزايا تجارية لا يحق لك الحصول عليها بخلاف ذلك.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0"><![CDATA[• تذكر الآتي:
+
+• كن مستعدًا
+• اثبت على موقفك
+• تحلى بسمات القيادة]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

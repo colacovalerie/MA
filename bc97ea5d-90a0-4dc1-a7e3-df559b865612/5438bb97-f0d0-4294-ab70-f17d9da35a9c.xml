@@ -1,0 +1,918 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="5438bb97-f0d0-4294-ab70-f17d9da35a9c">
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Why Anti-Corruption Matters]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="34" hot="S" preload="X" y="180" x="40">sc1_p9_1.png</pic>
+      <pic hotid="35" hot="S" y="180" x="500">sc1_p9_2.png</pic>
+      <pic hotid="36" hot="S" y="345" x="40">sc1_p9_3.png</pic>
+      <pic hotid="37" hot="S" y="345" x="500">sc1_p9_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p9.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="40"><![CDATA[Why Anti-Corruption Matters]]></txt>
+      <txt c="X" swp="X" fontsize="13" s="2" align="left" delay="0" y="125" x="40"><![CDATA[Our company has a zero-tolerance policy towards bribery and facilitation payments.]]></txt>
+      <txt c="X" swp="X" fontsize="13" s="2" align="left" delay="0" y="125" x="500"><![CDATA[Click on the icons to understand how corrupt activities can affect your company and you personally.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" w="470" align="left" delay="0" y="295" x="80"><![CDATA[Working Environment]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="295" x="540"><![CDATA[Liability]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="460" x="80"><![CDATA[Your Company’s Reputation]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="460" x="540"><![CDATA[Corporate Fines]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Why Anti-Corruption Matters. Our company has a zero-tolerance policy towards bribery and facilitation payments.Click on the icons to understand how corrupt activities can affect your company and you personally.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Importance de lutter contre la corruption]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="5" hot="S" preload="X" y="180" x="40">sc1_p9_1.png</pic>
+      <pic hotid="6" hot="S" y="180" x="500">sc1_p9_2.png</pic>
+      <pic hotid="7" hot="S" y="345" x="40">sc1_p9_3.png</pic>
+      <pic hotid="8" hot="S" y="345" x="500">sc1_p9_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p9.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="22" s="2" align="left" delay="0" y="74" x="40"><![CDATA[Importance des mesures anticorruption]]></txt>
+      <txt c="X" swp="X" fontsize="12" s="2" w="450" align="left" delay="0" y="125" x="40"><![CDATA[Notre entreprise a une tolérance zéro en ce qui concerne les pots-de-vin et les paiements de facilitation.]]></txt>
+      <txt c="X" swp="X" fontsize="12" s="2" align="left" delay="0" y="125" x="500"><![CDATA[Cliquez sur les icônes pour comprendre en quoi des activités de corruption peuvent vous nuire personnellement ainsi qu’à votre société.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="295" x="80"><![CDATA[Environnement de travail]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="295" x="540"><![CDATA[Responsabilité]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="460" x="80"><![CDATA[La réputation de votre société]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="460" x="540"><![CDATA[Amendes imposées aux sociétés]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Importance des mesures anticorruption. Notre entreprise a une tolérance zéro en ce qui concerne les pots-de-vin et les paiements de facilitation. Cliquez sur les icônes pour comprendre en quoi des activités de corruption peuvent vous nuire personnellement ainsi qu’à votre société.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 1 节： 简介  •  反腐败重要的原因]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="9" hot="S" preload="X" y="180" x="40">sc1_p9_1.png</pic>
+      <pic hotid="10" hot="S" y="180" x="500">sc1_p9_2.png</pic>
+      <pic hotid="11" hot="S" y="345" x="40">sc1_p9_3.png</pic>
+      <pic hotid="12" hot="S" y="345" x="500">sc1_p9_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p9.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="40"><![CDATA[反腐败重要的原因
+]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="125" x="40"><![CDATA[我们公司对贿赂和便利费采用零容忍的政策。]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="125" x="500"><![CDATA[单击图标了解腐败活动如何影响您自己和所在的公司。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="15" s="1" w="470" align="left" delay="0" y="295" x="80"><![CDATA[工作环境
+]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="295" x="540"><![CDATA[责任
+]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="460" x="80"><![CDATA[您所在公司的声誉
+]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="460" x="540"><![CDATA[公司受罚
+]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>反腐败重要的原因。我们公司对贿赂和便利费采用零容忍的政策。单击图标了解腐败活动如何影响您自己和所在的公司。
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 1: Introducción  •  Por qué es importante la lucha contra la corrupción]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="17" hot="S" preload="X" y="180" x="40">sc1_p9_1.png</pic>
+      <pic hotid="18" hot="S" y="180" x="500">sc1_p9_2.png</pic>
+      <pic hotid="19" hot="S" y="345" x="40">sc1_p9_3.png</pic>
+      <pic hotid="20" hot="S" y="345" x="500">sc1_p9_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p9.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="900" align="left" delay="0" y="74" x="40"><![CDATA[Por qué es importante la lucha contra la corrupción]]></txt>
+      <txt c="X" swp="X" fontsize="13" s="2" w="470" align="left" delay="0" y="125" x="40"><![CDATA[Nuestra compañía tiene una política de tolerancia cero hacia el soborno y los pagos para la simplificación de trámites.]]></txt>
+      <txt c="X" swp="X" fontsize="13" s="2" w="470" align="left" delay="0" y="125" x="500"><![CDATA[Haga clic en los iconos para comprender cómo las actividades corruptas pueden afectar a su compañía y a usted personalmente.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="295" x="80"><![CDATA[Entorno de trabajo]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="295" x="540"><![CDATA[Responsabilidad]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="460" x="80"><![CDATA[La reputación de su compañía]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="460" x="540"><![CDATA[Multas corporativas]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Por qué es importante la lucha contra la corrupción. Nuestra compañía tiene una política de tolerancia cero hacia el soborno y los pagos para la simplificación de trámites.Haga clic en los iconos para comprender cómo las actividades corruptas pueden afectar a su compañía y a usted personalmente.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 1: Введение  •  Почему важно бороться с коррупцией]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="29" hot="S" preload="X" y="180" x="40">sc1_p9_1.png</pic>
+      <pic hotid="30" hot="S" y="180" x="500">sc1_p9_2.png</pic>
+      <pic hotid="31" hot="S" y="345" x="40">sc1_p9_3.png</pic>
+      <pic hotid="32" hot="S" y="345" x="500">sc1_p9_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p9.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="600" align="left" delay="0" y="74" x="40"><![CDATA[Почему важно бороться с коррупцией]]></txt>
+      <txt c="X" swp="X" fontsize="12" s="2" w="440" align="left" delay="0" y="125" x="40"><![CDATA[Наша компания исповедует политику абсолютной нетерпимости в отношении подкупа и предоставления вознаграждений за оказание содействия.]]></txt>
+      <txt c="X" swp="X" fontsize="12" s="2" align="left" delay="0" y="125" x="500"><![CDATA[Нажимайте на значки, чтобы узнать, какие негативные последствия может иметь коррупция для вас и вашей компании.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="295" x="80"><![CDATA[Условия труда]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="295" x="540"><![CDATA[Ответственность]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="460" x="80"><![CDATA[Репутация вашей компании]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="460" x="540"><![CDATA[Штрафы для компаний]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Почему важно бороться с коррупцией. Наша компания исповедует политику абсолютной нетерпимости в отношении подкупа и предоставления вознаграждений за оказание содействия. Нажимайте на значки, чтобы узнать, какие негативные последствия может иметь коррупция для вас и вашей компании.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 1  •  ما أهمية مكافحة الفساد]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="1" hot="S" preload="X" y="180" x="40">sc1_p9_1.png</pic>
+      <pic hotid="2" hot="S" y="180" x="500">sc1_p9_2.png</pic>
+      <pic hotid="3" hot="S" y="345" x="40">sc1_p9_3.png</pic>
+      <pic hotid="4" hot="S" y="345" x="500">sc1_p9_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p9.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="460"><![CDATA[ما أهمية مكافحة الفساد]]></txt>
+      <txt c="X" swp="X" fontsize="15" s="2" align="left" delay="0" y="125" x="460"><![CDATA[تتبع شركتنا سياسة عدم تهاون صارمة تجاه الرشوة ومدفوعات التسهيل.]]></txt>
+      <txt c="X" swp="X" fontsize="15" s="2" w="430" align="right" delay="0" y="125" x="20"><![CDATA[انقر فوق الرموز لفهم كيف يمكن أن تؤثر الأنشطة الفاسدة على شركتك وعليك شخصيًا.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="20" s="1" w="150" align="left" delay="0" y="290" x="280"><![CDATA[بيئة العمل]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="20" s="1" w="150" align="left" delay="0" y="290" x="750"><![CDATA[المسؤولية]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="20" s="1" w="150" align="left" delay="0" y="450" x="280"><![CDATA[سمعة شركتك]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="20" s="1" w="150" align="left" delay="0" y="450" x="750"><![CDATA[تغريم الشركات]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages>
+    <page id="1">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[القسم 1  •  ما أهمية مكافحة الفساد]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s1.png</pic>
+        <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s1.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[بيئة العمل]]></txt>
+        <txt c="X" swp="X" fontsize="18" s="2" w="470" align="left" delay="0" y="149"><![CDATA[يؤدي الفساد إلى خلق بيئة عمل غير آمنة. من خلال رفضنا الفساد، نخلق بيئة عمل أكثر أمانًا لطواقم العمل من خلال التخفيف من المخاطر التشغيلية والتأخيرات.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="2">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[القسم 1  •  ما أهمية مكافحة الفساد]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s2.png</pic>
+        <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[المسؤولية]]></txt>
+        <txt c="X" swp="X" fontsize="18" s="2" w="470" align="left" delay="0" y="149"><![CDATA[ينظم القانون الجنائي ما يتعلق بالفساد. ومن ثم فإن العواقب المحتملة للفساد تشمل الحكم بالسجن.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="3">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[القسم 1  •  ما أهمية مكافحة الفساد]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s3.png</pic>
+        <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[سمعة شركتك]]></txt>
+        <txt c="X" swp="X" fontsize="18" s="2" w="470" align="left" delay="0" y="149"><![CDATA[ثقة العملاء أمر ضروري عند ممارسة الأعمال التجارية. هذا يتطلب منك التصرف بأمانة وأن تكون شريكًا نزيهًا وموثوقًا به في كل ما تفعله الشركة. تشكل الأنشطة الفاسدة خطرًا كبيرًا على سمعتك وكذلك على سمعة الشركة.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="4">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[القسم 1  •  ما أهمية مكافحة الفساد]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s4.png</pic>
+        <pic>
+        </pic>
+        <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s4.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[تغريم الشركات]]></txt>
+        <txt c="X" swp="X" fontsize="18" s="2" w="470" align="left" delay="0" y="149"><![CDATA[من سمات التشريعات المتعلقة بمكافحة الفساد في جميع أنحاء العالم أن يتم تغريم الشركات إذا ثبت إدانتها بالفساد. على سبيل المثال:]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="3" align="left" delay="0"><![CDATA[في 31 يناير 2020، أبرم مكتب مكافحة جرائم الاحتيال الخطيرة في المملكة المتحدة اتفاقية تأجيل الملاحقة القضائية (DPA) مع شركة إيرباص إس إي (Airbus SE). وبموجب أحكام اتفاقية تأجيل الملاحقة القضائية، وافقت شركة إيرباص على دفع غرامة وتكاليف تصل قيمتها إلى 991 مليون يورو في المملكة المتحدة، وبإجمالي 3 فاصل 6 مليارات يورو، كجزء من أكبر حكم عالمي بتهمة الرشوة، تورطت فيها سلطات في فرنسا والولايات المتحدة.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="5">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Importance de lutter contre la corruption]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s1.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s1.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Environnement de travail]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[La corruption entraîne des conditions de travail dangereuses. En refusant la corruption, nous créons un environnement de travail plus sûr pour les équipages en atténuant les risques et les retards opérationnels.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Environnement de travail. La corruption entraîne des conditions de travail dangereuses. En refusant la corruption, nous créons un environnement de travail plus sûr pour les équipages en atténuant les risques et les retards opérationnels.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="6">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Importance de lutter contre la corruption]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s2.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Responsabilité]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[La corruption est régie par le droit pénal. Les conséquences possibles de la corruption comprennent donc des peines de prison.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Responsabilité. La corruption est régie par le droit pénal. Les conséquences possibles de la corruption comprennent donc des peines de prison.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="7">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Importance de lutter contre la corruption]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s3.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[La réputation de votre société]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[La confiance des clients est essentielle à la conduite des affaires. Cela implique la nécessité d’agir et d’être un partenaire honnête et fiable dans toutes les activités de la société. Les actes de corruption constituent un risque considérable pour votre réputation et pour la société.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>La réputation de votre société. La confiance des clients est essentielle à la conduite des affaires. Cela implique la nécessité d’agir et d’être un partenaire honnête et fiable dans toutes les activités de la société. Les actes de corruption constituent un risque considérable pour votre réputation et pour la société.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="8">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Importance de lutter contre la corruption]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s4.png</pic>
+        <pic>
+        </pic>
+        <pic preload="X" y="155" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s4.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Amendes imposées aux sociétés]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="175"><![CDATA[L’une des particularités de la législation de lutte contre la corruption dans le monde consiste à condamner les entreprises à des amendes si celles-ci sont reconnues coupables de corruption. Par exemple:]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="3" align="left" delay="0"><![CDATA[Le 31 janvier 2020, le service britannique de la répression des fraudes majeures (SFO, Serious Fraud Office) a signé un accord de poursuite différé avec Airbus SE. Selon les termes de cet accord, Airbus a accepté de payer une amende et des frais s’élevant à 991 millions d’euros au Royaume-Uni, pour un total de 3,6 milliards d’euros. Ce qui en fait la plus importante résolution mondiale en matière de corruption impliquant des autorités françaises et américaines.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Amendes imposées aux sociétés. L’une des particularités de la législation de lutte contre la corruption dans le monde consiste à condamner les entreprises à des amendes si celles-ci sont reconnues coupables de corruption. Par exemple: Le 31 janvier 2020, le service britannique de la répression des fraudes majeures (SFO, Serious Fraud Office) a signé un accord de poursuite différé avec Airbus SE. Selon les termes de cet accord, Airbus a accepté de payer une amende et des frais s’élevant à 991 millions d’euros au Royaume-Uni, pour un total de 3,6 milliards d’euros. Ce qui en fait la plus importante résolution mondiale en matière de corruption impliquant des autorités françaises et américaines.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="9">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[第 1 节： 简介  •  反腐败重要的原因]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s1.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s1.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[工作环境
+]]></txt>
+        <txt c="X" swp="X" fontsize="18" s="2" w="470" align="left" delay="0" y="149"><![CDATA[腐败会导致不安全的工作环境。通过拒绝腐败和缓解运营风险与延误，我们为船员创造更安全的工作环境。]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>工作环境。腐败会导致不安全的工作环境。通过拒绝腐败和缓解运营风险与延误，我们为船员创造更安全的工作环境。</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="10">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[第 1 节： 简介  •  反腐败重要的原因]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s2.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[责任]]></txt>
+        <txt c="X" swp="X" fontsize="18" s="2" w="470" align="left" delay="0" y="149"><![CDATA[腐败属于刑法管辖范围。所以腐败行为可能导致被判入狱。]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>责任。 腐败属于刑法管辖范围。所以腐败行为可能导致被判入狱。</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="11">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[第 1 节： 简介  •  反腐败重要的原因]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s3.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[您所在公司的声誉
+]]></txt>
+        <txt c="X" swp="X" fontsize="18" s="2" w="470" align="left" delay="0" y="149"><![CDATA[生意场上客户的信任至关重要。这要求在完成公司的每项工作时都要诚实守信。腐败活动会为您和公司的声誉带来巨大风险。]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>您所在公司的声誉。生意场上客户的信任至关重要。这要求在完成公司的每项工作时都要诚实守信。腐败活动会为您和公司的声誉带来巨大风险。
+</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="12">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[第 1 节： 简介  •  反腐败重要的原因]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s4.png</pic>
+        <pic>
+        </pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s4.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[公司受罚]]></txt>
+        <txt c="X" swp="X" fontsize="16" s="2" w="470" align="left" delay="0" y="149"><![CDATA[世界各地反腐败立法的一个特点是，如果发现公司有腐败行为，就会加以处罚。例如：]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="3" align="left" delay="0"><![CDATA[2020 年 1 月 31 日，英国严重欺诈署与空客公司签订了延期起诉协议 (DPA) 。根据 DPA 的条款，空客同意在英国支付 9.91 亿欧元的罚款和费用，这是总额达 36 亿欧元的全球最大贿赂决议的一部分，涉及法国和美国当局。]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>公司受罚。世界各地反腐败立法的一个特点是，如果发现公司有腐败行为，就会加以处罚。例如：2020 年 1 月 31 日，英国严重欺诈署与空客公司签订了延期起诉协议 (DPA) 。根据 DPA 的条款，空客同意在英国支付 9.91 亿欧元的罚款和费用，这是总额达 36 亿欧元的全球最大贿赂决议的一部分，涉及法国和美国当局。</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="17">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Sección 1: Introducción  •  Por qué es importante la lucha contra la corrupción]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s1.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s1.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Entorno de trabajo]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[La corrupción genera un entorno de trabajo inseguro. Al rechazar la corrupción, creamos un entorno de trabajo más seguro para las tripulaciones al mitigar los riesgos y retrasos operacionales.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Entorno de trabajo.La corrupción genera un entorno de trabajo inseguro. Al rechazar la corrupción, creamos un entorno de trabajo más seguro para las tripulaciones al mitigar los riesgos y retrasos operacionales.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="18">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Sección 1: Introducción  •  Por qué es importante la lucha contra la corrupción]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s2.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Responsabilidad]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[La corrupción está regulada por el derecho penal. Por lo tanto, las posibles consecuencias de la corrupción incluyen penas de prisión.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Responsabilidad.La corrupción está regulada por el derecho penal. Por lo tanto, las posibles consecuencias de la corrupción incluyen penas de prisión.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="19">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Sección 1: Introducción  •  Por qué es importante la lucha contra la corrupción]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s3.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[La reputación de su compañía]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[La confianza de los clientes es esencial cuando se hacen negocios. Esto requiere que usted actúe y sea un socio honrado y fiable en cualquier cosa que haga la compañía. Las actividades corruptas suponen un gran riesgo para su reputación y para la compañía.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>La reputación de su compañía.La confianza de los clientes es esencial cuando se hacen negocios. Esto requiere que usted actúe y sea un socio honrado y fiable en cualquier cosa que haga la compañía. Las actividades corruptas suponen un gran riesgo para su reputación y para la compañía.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="20">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Sección 1: Introducción  •  Por qué es importante la lucha contra la corrupción]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s4.png</pic>
+        <pic>
+        </pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s4.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Multas corporativas]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Una característica de la legislación anticorrupción en todo el mundo es que se multa a las compañías si se les declara culpables de corrupción. Por ejemplo:]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="3" align="left" delay="0"><![CDATA[El 31 de enero de 2020, la Oficina de Fraudes Graves del Reino Unido firmó un Acuerdo de Procesamiento Diferido (DPA, en inglés) con Airbus SE. Bajo los términos del DPA, Airbus aceptó pagar una multa y costos que ascendieron a 991 millones de euros en el Reino Unido, y en total 3600 millones de euros, como parte de la mayor resolución internacional del mundo para el soborno, que implicó a autoridades de Francia y de Estados Unidos.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Multas corporativas.Una característica de la legislación anticorrupción en todo el mundo es que se multa a las compañías si se les declara culpables de corrupción. Por ejemplo:El 31 de enero de 2020, la Oficina de Fraudes Graves del Reino Unido firmó un Acuerdo de Procesamiento Diferido (DPA, en inglés) con Airbus SE. Bajo los términos del DPA, Airbus aceptó pagar una multa y costos que ascendieron a 991 millones de euros en el Reino Unido, y en total 3600 millones de euros, como parte de la mayor resolución internacional del mundo para el soborno, que implicó a autoridades de Francia y de Estados Unidos.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="29">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Раздел 1: Введение  •  Почему важно бороться с коррупцией]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s1.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s1.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Условия труда]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Коррупция приводит к снижению безопасности условий труда. Отвергая коррупцию, мы создаем более безопасную рабочую среду для экипажей благодаря уменьшению операционных рисков и задержек.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Условия труда. Коррупция приводит к снижению безопасности условий труда. Отвергая коррупцию, мы создаем более безопасную рабочую среду для экипажей благодаря уменьшению операционных рисков и задержек.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="30">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Раздел 1: Введение  •  Почему важно бороться с коррупцией]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s2.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Ответственность]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[За коррупцию предусмотрена уголовная ответственность. Один из видов наказания — тюремное заключение.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Ответственность. За коррупцию предусмотрена уголовная ответственность. Один из видов наказания — тюремное заключение.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="31">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Раздел 1: Введение  •  Почему важно бороться с коррупцией]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s3.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Репутация вашей компании]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[В бизнесе очень важно сохранять доверие клиентов. Для этого необходимо быть честным и надежным партнером в любой ситуации. Коррупционная деятельность ставит под угрозу вашу личную репутацию и репутацию компании.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Репутация вашей компании. В бизнесе очень важно сохранять доверие клиентов. Для этого необходимо быть честным и надежным партнером в любой ситуации. Коррупционная деятельность ставит под угрозу вашу личную репутацию и репутацию компании.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="32">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Раздел 1: Введение  •  Почему важно бороться с коррупцией]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s4.png</pic>
+        <pic>
+        </pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s4.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Штрафы для компаний]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Особенностью антикоррупционного законодательства по всему миру является наложение штрафов на компании, уличенные в коррупционной деятельности. Например:]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="3" align="left" delay="0"><![CDATA[31 января 2020 года Отдел по борьбе с крупным мошенничеством (Великобритания) заключил соглашение об отсрочке судебного преследования с компанией Airbus SE. В соответствии с условиями сделки, заключенной в рамках крупнейшего международного соглашения с участием государственных органов Франции и США, авиастроительный концерн согласился выплатить штраф в размере 991 млн евро в Великобритании (а всего — 3,6 млрд евро) по делу о подкупе.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Штрафы для компаний. Особенностью антикоррупционного законодательства по всему миру является наложение штрафов на компании, уличенные в коррупционной деятельности. Например:31 января 2020 года Отдел по борьбе с крупным мошенничеством (Великобритания) заключил соглашение об отсрочке судебного преследования с компанией Airbus SE. В соответствии с условиями сделки, заключенной в рамках крупнейшего международного соглашения с участием государственных органов Франции и США, авиастроительный концерн согласился выплатить штраф в размере 991 млн евро в Великобритании (а всего — 3,6 млрд евро) по делу о подкупе.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="34">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Why Anti-Corruption Matters]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s1.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s1.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Working Environment]]></txt>
+        <txt c="X" swp="X" fontsize="14" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Corruption leads to an unsafe working environment. By rejecting corruption, we create a safer working environment for crews by mitigating operational risks and delays.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Working Environment. Corruption leads to an unsafe working environment. By rejecting corruption, we create a safer working environment for crews by mitigating operational risks and delays.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="35">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Why Anti-Corruption Matters]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s2.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Liability]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Corruption is regulated by criminal law. The possible consequences of corruption therefore include prison sentences.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Liability. Corruption is regulated by criminal law. The possible consequences of corruption therefore include prison sentences.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="36">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Why Anti-Corruption Matters]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s3.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Your Company’s Reputation]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Trust of customers is essential when doing business. This requires that you act and are an honest and reliable partner in everything the company does. Corrupt activities pose a huge risk to your reputation and the company.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Your Company’s Reputation. Trust of customers is essential when doing business. This requires that you act and are an honest and reliable partner in everything the company does. Corrupt activities pose a huge risk to your reputation and the company.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="37">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Why Anti-Corruption Matters]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p9_s4.png</pic>
+        <pic>
+        </pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p9_s4.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Corporate Fines]]></txt>
+        <txt c="X" swp="X" fontsize="14" s="2" w="470" align="left" delay="0" y="149"><![CDATA[A feature of anti-corruption legislation around the world is that companies are fined if they are found guilty of corruption. For example:]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="3" align="left" delay="0"><![CDATA[On 31 January 2020, the UK Serious Fraud Office entered into a Deferred Prosecution Agreement (DPA) with Airbus SE. Under the terms of the DPA, Airbus agreed to pay a fine and costs amounting to €991m in the UK, and in total €3.6bn, as part the world’s largest global resolution for bribery, involving authorities in France and the United States.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Corporate Fines. A feature of anti-corruption legislation around the world is that companies are fined if they are found guilty of corruption. For example:On 31 January 2020, the UK Serious Fraud Office entered into a Deferred Prosecution Agreement (DPA) with Airbus SE. Under the terms of the DPA, Airbus agreed to pay a fine and costs amounting to €991m in the UK, and in total €3.6bn, as part the world’s largest global resolution for bribery, involving authorities in France and the United States.</sndTxt>
+      </soundTexts>
+    </page>
+  </subpages>
+</pages>

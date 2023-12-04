@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="42cd3801-16e6-48fb-8248-65e5392e2b3f" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 1: Introduction  •  Key Elements of Corruption</title>
+    <pics>
+      <pic x="0" y="70">sc1_p4.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Key Elements of Corruption
+</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">Why does corruption matter? </txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">Strong business ethics are required to maintain the trust of customers, partners and employees. Not complying with anti-corruption laws, diminishes that trust and can therefore damage a company’s reputation and have severe financial consequences.
+
+This course will cover the most frequently experienced types of corruption in shipping: bribes and facilitation payments.
+
+</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Key Elements of Corruption. Why does corruption matter? Strong business ethics are required to maintain the trust of customers, partners and employees. Not complying with anti-corruption laws, diminishes that trust and can therefore damage a company’s reputation and have severe financial consequences.
+This course will cover the most frequently experienced types of corruption in shipping: bribes and facilitation payments.
+
+
+
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 1: Introduction  •  Éléments clés de la corruption</title>
+    <pics>
+      <pic x="0" y="70">sc1_p4.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Éléments clés de la corruption
+</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">Comment la corruption est-elle définie ?
+</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">Une éthique professionnelle solide est nécessaire pour préserver la confiance des clients, des partenaires et des employés. Manquer de se conformer aux lois anticorruption érode cette confiance et peut donc nuire à la réputation de la société et avoir de lourdes conséquences financières.
+
+Cette formation se concentrera sur les types de corruption les plus fréquemment rencontrés dans le secteur du transport maritime : les pots-de-vin et les paiements de facilitation.
+
+</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Éléments clés de la corruption. Comment la corruption est-elle définie ?
+Une éthique professionnelle solide est nécessaire pour préserver la confiance des clients, des partenaires et des employés. Manquer de se conformer aux lois anticorruption érode cette confiance et peut donc nuire à la réputation de la société et avoir de lourdes conséquences financières.
+
+Cette formation se concentrera sur les types de corruption les plus fréquemment rencontrés dans le secteur du transport maritime : les pots-de-vin et les paiements de facilitation.
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>第 1 节： 简介  •  腐败的要素</title>
+    <pics>
+      <pic x="0" y="70">sc1_p4.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">腐败的要素</txt>
+      <txt swp="X" c="X" s="1" y="149" delay="0" fontsize="20" align="left" fontcolor="c3000a">腐败由何定义？</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" fontsize="16" align="left">维护客户、合作伙伴和员工的信任需要强大的商业道德力量。不遵守反腐败法会削弱这种信任，导致损害公司的声誉，并造成严重的财务损失。
+
+本课程涵盖在运输中最常遇到的两类腐败：贿赂和便利费。</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>腐败的要素. 腐败由何定义？
+维护客户、合作伙伴和员工的信任需要强大的商业道德力量。不遵守反腐败法会削弱这种信任，导致损害公司的声誉，并造成严重的财务损失。
+
+本课程涵盖在运输中最常遇到的两类腐败：贿赂和便利费。</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>القسم 1  •  عناصر الفساد الرئيسة</title>
+    <pics>
+      <pic x="0" y="70">sc1_p4.png</pic>
+      <pic />
+      <pic preload="X" x="850" y="125">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" x="478" y="74" delay="0" fontsize="30" align="right" fontcolor="0c0254">عناصر الفساد الرئيسة</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="20" align="right" fontcolor="c3000a">ما هي محددات الفساد؟
+</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" fontsize="16" align="right">تعد أخلاقيات العمل النزيهة ضرورة قصوى للحفاظ على ثقة العملاء والشركاء والموظفين. يقلل عدم الامتثال لقوانين مكافحة الفساد من هذه الثقة وبالتالي يمكن أن يضر بسمعة الشركة ويترتب عليه عواقب مالية وخيمة.
+
+ستغطي هذه الدورة التدريبية أنواع الفساد الأكثر شيوعًا في عملية الشحن وهي: الرشاوى ومدفوعات التسهيل.
+
+
+</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Sección 1: Introducción  •  Elementos clave de la corrupción</title>
+    <pics>
+      <pic x="0" y="70">sc1_p4.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" w="600" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Elementos clave de la corrupción</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">¿Cómo se define la corrupción?</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">Es necesario tener una ética comercial sólida para mantener la confianza de los clientes, socios y empleados. El incumplimiento de las leyes anticorrupción disminuye esa confianza y, por lo tanto, puede dañar la reputación de una compañía y tener graves consecuencias económicas.
+
+Este curso abarcará los tipos de corrupción más frecuentes en el sector marítimo: sobornos y pagos para la simplificación de trámites.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Elementos clave de la corrupción. ¿Cómo se define la corrupción?
+Es necesario tener una ética comercial sólida para mantener la confianza de los clientes, socios y empleados. El incumplimiento de las leyes anticorrupción disminuye esa confianza y, por lo tanto, puede dañar la reputación de una compañía y tener graves consecuencias económicas.
+
+Este curso abarcará los tipos de corrupción más frecuentes en el sector marítimo: sobornos y pagos para la simplificación de trámites.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Раздел 1: Введение  •  Основные элементы коррупции</title>
+    <pics>
+      <pic x="0" y="70">sc1_p4.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="150">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Основные элементы коррупции</txt>
+      <txt swp="X" c="X" s="2" y="175" delay="0" fontsize="18" align="left" fontcolor="c3000a">Что определяет коррупцию?</txt>
+      <txt swp="X" c="X" s="2" w="470" delay="0" align="left">Для сохранения доверия клиентов, партнеров и сотрудников необходимо поддерживать высокие этические стандарты ведения бизнеса. Несоблюдение антикоррпуционного законодательства уменьшает степень доверия и, следовательно, может нанести ущерб репутации компании и привести к серьезным финансовым последствиям.
+
+В нашем курсе рассматриваются наиболее распространенные формы коррупции в сфере судовых перевозок: взятки и вознаграждения за оказание содействия.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Основные элементы коррупции. Что определяет коррупцию? Для сохранения доверия клиентов, партнеров и сотрудников необходимо поддерживать высокие этические стандарты ведения бизнеса. Несоблюдение антикоррпуционного законодательства уменьшает степень доверия и, следовательно, может нанести ущерб репутации компании и привести к серьезным финансовым последствиям.
+
+В нашем курсе рассматриваются наиболее распространенные формы коррупции в сфере судовых перевозок: взятки и вознаграждения за оказание содействия.</sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

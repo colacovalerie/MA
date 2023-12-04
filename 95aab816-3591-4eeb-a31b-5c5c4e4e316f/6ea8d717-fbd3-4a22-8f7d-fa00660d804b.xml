@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="6ea8d717-fbd3-4a22-8f7d-fa00660d804b" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Section 4: Case Study – Time is Money  •  First Time at a Port</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p1a.png</pic>
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="225">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="308">sc4_p1_r2.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" noDelay="X" x="475" y="140">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="475" y="220">sc3_p6_r2.png</pic>
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">First Time at a Port</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="14" align="left" />
+      <txt swp="X" c="X" s="2" w="410" y="145" delay="0" align="left">The Captain arrives to a port to load grain during the high season. He has never been to this port before and is unsure of what to expect. The Captain calls the operator to discuss the port call.</txt>
+      <txt swp="X" c="X" s="1" x="525" y="230" delay="0" fontsize="14" align="left" fontcolor="0c0254">Captain</txt>
+      <txt swp="X" c="X" s="2" y="255" delay="0" fontsize="14" align="left">I'm arriving at this port for the first time and don't know what to expect.</txt>
+      <txt swp="X" c="X" s="1" y="313" delay="0" fontsize="14" align="left" fontcolor="c3000a">Operator</txt>
+      <txt swp="X" c="X" s="2" x="525" y="338" delay="0" fontsize="14" align="left">I have heard of issues with government cargo hold surveyors requesting substantial amounts of money or threatening to unjustly fail the clearance of cargo holds.
+However, our Captains have managed to stand their ground and not pay. Be prepared when they come on board and advise them of our anti-corruption policy. Remember that acting confidently goes a long way.</txt>
+      <txt c="X" s="1" y="145" delay="0" fontsize="14" align="left" rpo="3,4,5,6,7" fontcolor="0c0254">Captain</txt>
+      <txt swp="X" c="X" s="2" y="170" delay="0" fontsize="14" align="left">I will try that, but what if it fails?</txt>
+      <txt swp="X" c="X" s="1" y="225" delay="0" fontsize="14" align="left" fontcolor="c3000a">Operator</txt>
+      <txt swp="X" c="X" s="2" y="250" delay="0" align="left">Use your judgement and act confident. Please revisit our frontline guidelines and have anti-corruption placards visible on the ship. Call us if you need support.</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>First Time at a Port. The Captain arrives to a port to load grain during the high season. He has never been to this port before and is unsure of what to expect. The Captain calls the operator to discuss the port call. I'm arriving at this port for the first time and don't know what to expect. I have heard of issues with government cargo hold surveyors requesting substantial amounts of money or threatening to unjustly fail the clearance of cargo holds.However, our Captains have managed to stand their ground and not pay. Be prepared when they come on board and advise them of our anti-corruption policy. Remember that acting confidently goes a long way.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>I will try that, but what if it fails? Use your judgement and act confident. Please revisit our frontline guidelines and have anti-corruption placards visible on the ship. Call us if you need support.
+</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Section 4: Étude de cas — Le temps, c’est de l’argent.  •  Première arrivée dans un port</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p1a.png</pic>
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="215">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="293">sc4_p1_r2_fr.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" noDelay="X" x="475" y="140">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="475" y="220">sc2_p8_r2.png</pic>
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Première arrivée dans un port</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="470" y="145" delay="0" fontsize="13" align="left">Le capitaine fait escale dans un port pour charger du grain pendant la haute saison. Il n’a jamais fait escale dans ce port auparavant et ne sait pas à quoi s’attendre. Le capitaine appelle l’exploitant pour parler de l’escale.</txt>
+      <txt swp="X" c="X" s="1" x="525" y="220" delay="0" fontsize="13" align="left" fontcolor="0c0254">Capitaine</txt>
+      <txt swp="X" c="X" s="2" w="450" y="240" delay="0" fontsize="13" align="left">«J’arrive à ce port pour la première fois et je ne sais pas à quoi m’attendre.»
+</txt>
+      <txt swp="X" c="X" s="1" y="298" delay="0" fontsize="13" align="left" fontcolor="c3000a">Exploitant</txt>
+      <txt swp="X" c="X" s="2" x="525" y="323" delay="0" fontsize="13" align="left">«J’ai entendu parler de problèmes avec les inspecteurs de cargaisons maritimes de l’État qui exigent des sommes d’argent considérables ou qui menacent de ne pas valider l’inspection des cales.
+
+Par contre, nos capitaines ont réussi à rester sur leurs positions et à ne pas payer. Soyez préparé lorsqu’ils montent à bord et informez-les de notre politique de lutte contre la corruption. Souvenez-vous que faire preuve d’assurance peut faire toute la différence.»</txt>
+      <txt c="X" s="1" y="145" delay="0" fontsize="14" align="left" rpo="3,4,5,6,7" fontcolor="0c0254">Capitaine</txt>
+      <txt swp="X" c="X" s="2" y="170" delay="0" fontsize="14" align="left">«Je vais essayer ça, mais que faire si ça ne fonctionne pas?»
+</txt>
+      <txt swp="X" c="X" s="1" y="225" delay="0" fontsize="14" align="left" fontcolor="c3000a">Exploitant</txt>
+      <txt swp="X" c="X" s="2" y="250" delay="0" align="left">«Faites preuve de bon sens et agissez avec assurance. Veuillez passer en revue nos directives de première ligne et placez des panneaux de lutte contre la corruption qui soient visibles sur le navire. Appelez-nous si vous avez besoin d’aide.»
+</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Première arrivée dans un port. Le capitaine fait escale dans un port pour charger du grain pendant la haute saison. Il n’a jamais fait escale dans ce port auparavant et ne sait pas à quoi s’attendre. Le capitaine appelle l’exploitant pour parler de l’escale. «J’arrive à ce port pour la première fois et je ne sais pas à quoi m’attendre.» «J’ai entendu parler de problèmes avec les inspecteurs de cargaisons maritimes de l’État qui exigent des sommes d’argent considérables ou qui menacent de ne pas valider l’inspection des cales.
+
+Par contre, nos capitaines ont réussi à rester sur leurs positions et à ne pas payer. Soyez préparé lorsqu’ils montent à bord et informez-les de notre politique de lutte contre la corruption. Souvenez-vous que faire preuve d’assurance peut faire toute la différence.»
+</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>«Je vais essayer ça, mais que faire si ça ne fonctionne pas?» «Faites preuve de bon sens et agissez avec assurance. Veuillez passer en revue nos directives de première ligne et placez des panneaux de lutte contre la corruption qui soient visibles sur le navire. Appelez-nous si vous avez besoin d’aide.»
+</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>第 4 节： 案例研究 - 时间就是金钱  •  第一次到港</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p1a.png</pic>
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="225">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="308">sc4_p1_r2.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" noDelay="X" x="475" y="140">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="475" y="220">sc3_p6_r2.png</pic>
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">第一次到港
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="410" y="145" delay="0" fontsize="16" align="left">船长在旺季到港口装运粮食。他以前从未到过这个港口，不确定会出现什么情况。船长联系运营方讨论港口停靠的情况。</txt>
+      <txt swp="X" c="X" s="1" x="525" y="230" delay="0" fontsize="18" align="left" fontcolor="0c0254">船长</txt>
+      <txt swp="X" c="X" s="2" y="255" delay="0" fontsize="16" align="left">"我是第一次到这个港口，不知道会出现什么情况。"</txt>
+      <txt swp="X" c="X" s="1" y="313" delay="0" fontsize="18" align="left" fontcolor="c3000a">运营方</txt>
+      <txt swp="X" c="X" s="2" x="525" y="338" delay="0" fontsize="16" align="left">"我听说政府货舱检验师索要大额贿赂，否则就威胁不给清关。
+
+但是，我们的船长坚持立场，不给这笔钱。在这些人上船时做好准备，告诉他们我们的反腐败政策。记住，自信行事会笑到最后。"</txt>
+      <txt c="X" s="1" y="145" delay="0" fontsize="18" align="left" rpo="3,4,5,6,7" fontcolor="0c0254">船长</txt>
+      <txt swp="X" c="X" s="2" y="170" delay="0" fontsize="16" align="left">"我试试看，但要是不行怎么办？"</txt>
+      <txt swp="X" c="X" s="1" y="225" delay="0" fontsize="18" align="left" fontcolor="c3000a">运营方</txt>
+      <txt swp="X" c="X" s="2" y="250" delay="0" fontsize="16" align="left">"根据您自己的判断去做，要有信心。再看看我们的一线指导方针，在船上贴上反腐标语牌。需要帮助时联系我们。"</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>第一次到港。船长在旺季到港口装运粮食。他以前从未到过这个港口，不确定会出现什么情况。船长联系运营方讨论港口停靠的情况。"我是第一次到这个港口，不知道会出现什么情况。" "我听说政府货舱检验师索要大额贿赂，否则就威胁不给清关。
+
+但是，我们的船长坚持立场，不给这笔钱。在这些人上船时做好准备，告诉他们我们的反腐败政策。记住，自信行事会笑到最后。"</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>"我试试看，但要是不行怎么办？" "根据您自己的判断去做，要有信心。再看看我们的一线指导方针，在船上贴上反腐标语牌。需要帮助时联系我们。"
+
+</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Sección 4: Caso práctico - El tiempo es oro  •  La primera vez en un puerto</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p1a.png</pic>
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="225">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="308">sc4_p1_r2.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" noDelay="X" x="475" y="140">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="475" y="220">sc3_p6_r2.png</pic>
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">La primera vez en un puerto</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="14" align="left" />
+      <txt swp="X" c="X" s="2" w="460" y="145" delay="0" align="left">El capitán llega a un puerto para cargar grano en temporada alta. Es la primera vez que está en este puerto y no está seguro de lo que pueda pasar. El capitán llama al operador para comentar la escala portuaria.</txt>
+      <txt swp="X" c="X" s="2" x="525" y="230" delay="0" fontsize="14" align="left" fontcolor="0c0254">Capitán</txt>
+      <txt swp="X" c="X" s="2" y="255" delay="0" fontsize="13" align="left">"Llego a este puerto por primera vez y no sé qué esperar".</txt>
+      <txt swp="X" c="X" s="2" y="313" delay="0" fontsize="14" align="left" fontcolor="c3000a">Operador</txt>
+      <txt swp="X" c="X" s="2" x="525" y="338" delay="0" fontsize="13" align="left">"He oído hablar de problemas con los inspectores de las bodegas de carga del gobierno, que solicitan cantidades importantes de dinero o amenazan con no autorizar injustamente el despacho de las bodegas de carga.
+Sin embargo, nuestros capitanes han logrado mantenerse firmes y no pagar. Esté preparado cuando suban a bordo e infórmeles de nuestra política anticorrupción. Recuerde que actuar con seguridad es fundamental".</txt>
+      <txt c="X" s="2" y="145" delay="0" fontsize="14" align="left" rpo="3,4,5,6,7" fontcolor="0c0254">Capitán</txt>
+      <txt swp="X" c="X" s="2" y="170" delay="0" fontsize="13" align="left">"Lo intentaré, ¿pero qué pasa si no funciona?"</txt>
+      <txt swp="X" c="X" s="2" y="225" delay="0" fontsize="14" align="left" fontcolor="c3000a">Operator</txt>
+      <txt swp="X" c="X" s="2" y="250" delay="0" fontsize="13" align="left">"Siga su sentido común y actúe con confianza. Revise nuestras directrices de primera línea y ponga carteles anticorrupción visibles en el barco. Llámenos si necesita asistencia".</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>La primera vez en un puerto. El capitán llega a un puerto para cargar grano en temporada alta. Es la primera vez que está en este puerto y no está seguro de lo que pueda pasar. El capitán llama al operador para comentar la escala portuaria. "Llego a este puerto por primera vez y no sé qué esperar". "He oído hablar de problemas con los inspectores de las bodegas de carga del gobierno, que solicitan cantidades importantes de dinero o amenazan con no autorizar injustamente el despacho de las bodegas de carga.
+Sin embargo, nuestros capitanes han logrado mantenerse firmes y no pagar. Esté preparado cuando suban a bordo e infórmeles de nuestra política anticorrupción. Recuerde que actuar con seguridad es fundamental".</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>"Lo intentaré, ¿pero qué pasa si no funciona?". "Siga su sentido común y actúe con confianza. Revise nuestras directrices de primera línea y ponga carteles anticorrupción visibles en el barco. Llámenos si necesita asistencia".</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Раздел 4: Изучение конкретной ситуации — Время — деньги  •  Первый раз в порту</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p1a.png</pic>
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic preload="X" noFade="X" noDelay="X" x="478" y="145">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="225">sc4_p1a_russ.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" noDelay="X" x="475" y="140">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="475" y="220">sc4_p1b_russ.png</pic>
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i1a.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i1b.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Первый раз в порту</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="14" align="left" />
+      <txt swp="X" c="X" s="2" w="410" y="145" delay="0" align="left">Капитан прибывает в порт для погрузки зерна в сезон высокого спроса. Он никогда ранее не был в этом порту и не знает, чего ожидать. Капитан звонит оператору, чтобы обсудить заход в порт.</txt>
+      <txt c="X" s="2" x="525" y="150" delay="0" fontsize="14" align="left" rpo="3" fontcolor="0c0254">Капитан</txt>
+      <txt swp="X" c="X" s="2" y="175" delay="0" fontsize="14" align="left">«Я захожу в этот порт впервые и не знаю, чего ожидать.»</txt>
+      <txt swp="X" c="X" s="2" y="230" delay="0" fontsize="14" align="left" fontcolor="c3000a">Оператор</txt>
+      <txt swp="X" c="X" s="2" x="525" y="255" delay="0" fontsize="14" align="left">«Я слышал, что возникали проблемы с государственными инспекторами по проверке трюмов. Они требуют большие суммы денег, иначе угрожают, что безосновательно откажут в признании трюма годным для перевозки груза.
+
+Однако нашим капитанам удавалось стоять на своем и не платить. Будьте готовы к встрече с инспекторами. Когда они поднимутся на борт, сообщите им о нашей антикоррупционной политике. Помните, что уверенность в себе — залог успеха.»</txt>
+      <txt c="X" s="2" y="145" delay="0" fontsize="14" align="left" rpo="3,4,5,6,7" fontcolor="0c0254">Капитан</txt>
+      <txt swp="X" c="X" s="2" y="170" delay="0" fontsize="14" align="left">«Я попробую, а что если не получится?»</txt>
+      <txt swp="X" c="X" s="2" y="225" delay="0" fontsize="14" align="left" fontcolor="c3000a">Оператор</txt>
+      <txt swp="X" c="X" s="2" y="250" delay="0" align="left">«Действуйте уверенно и руководствуйтесь здравым смыслом. Освежите в памяти руководящие принципы нашей компании и не забудьте разместить на видном месте антикоррупционные таблички. Если понадобится помощь, звоните нам.»
+</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Первый раз в порту. Капитан прибывает в порт для погрузки зерна в сезон высокого спроса. Он никогда ранее не был в этом порту и не знает, чего ожидать. Капитан звонит оператору, чтобы обсудить заход в порт.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>«Я захожу в этот порт впервые и не знаю, чего ожидать.» «Я слышал, что возникали проблемы с государственными инспекторами по проверке трюмов. Они требуют большие суммы денег, иначе угрожают, что безосновательно откажут в признании трюма годным для перевозки груза.
+
+Однако нашим капитанам удавалось стоять на своем и не платить. Будьте готовы к встрече с инспекторами. Когда они поднимутся на борт, сообщите им о нашей антикоррупционной политике. Помните, что уверенность в себе — залог успеха.»</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>«Я попробую, а что если не получится?» «Действуйте уверенно и руководствуйтесь здравым смыслом. Освежите в памяти руководящие принципы нашей компании и не забудьте разместить на видном месте антикоррупционные таблички. Если понадобится помощь, звоните нам.»</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>القسم 4: دراسة حالة - الوقت من ذهب  •  الوصول إلى الميناء لأول مرة</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p1a.png</pic>
+      <pic preload="X" noFade="X" x="850" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="225">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="308">sc4_p1_r2.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" noDelay="X" x="475" y="140">sc4_p1_r1.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="475" y="220">sc3_p6_r2.png</pic>
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p1_i2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="30" align="left" fontcolor="0c0254">الوصول إلى الميناء لأول مرة</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="450" y="145" delay="0" fontsize="16" align="left">وصل القبطان إلى الميناء لشحن حمولة حبوب خلال موسم الذروة، ولم يسبق له زيارة هذا الميناء من قبل وهو غير متأكد مما يمكن توقعه؛ اتصل القبطان بالمشغل لمناقشة شؤون الوصول إلى ميناء التوقف.</txt>
+      <txt swp="X" c="X" s="1" w="410" x="525" y="230" delay="0" fontsize="18" align="left" fontcolor="0c0254">القبطان</txt>
+      <txt swp="X" c="X" s="2" y="255" delay="0" fontsize="16" align="left">"هذه أول مرة لي لزيارة هذا الميناء ولا أعرف ما سيحدث".</txt>
+      <txt swp="X" c="X" s="1" y="313" delay="0" fontsize="18" align="left" fontcolor="c3000a">المشغل</txt>
+      <txt swp="X" c="X" s="2" x="525" y="338" delay="0" fontsize="15" align="left">"لقد سمعت عن مشكلات تتعلق بخبراء معاينة بضائع الشحن التابعين للحكومة الذين يطلبون مبالغ طائلة وإلا يهددون بمنع تخليص بضائع السفينة بدون وجه حق.
+
+على الرُغم من ذلك، تمكن القبطان من الثبات على موقفه ولم يدفع لهم، وكان مستعدًا عندما صعدوا إلى متن السفينة وأبلغهم بسياسة مكافحة الفساد المتبعة لدينا؛ لذا تذكر أن التصرف بثقة يقطع عليك شوطًا كبيرًا من النجاح.»</txt>
+      <txt c="X" s="1" y="145" delay="0" fontsize="18" align="left" rpo="3,4,5,6,7" fontcolor="0c0254">القبطان</txt>
+      <txt swp="X" c="X" s="2" y="170" delay="0" fontsize="16" align="left">«سأحاول القيام بذلك، ولكن ماذا سيحدث إن أخفقت؟»</txt>
+      <txt swp="X" c="X" s="1" y="225" delay="0" fontsize="18" align="left" fontcolor="c3000a">المشغل</txt>
+      <txt swp="X" c="X" s="2" y="250" delay="0" align="left">«اتخذ قرارك وتصرف بثقة؛ يُرجى مراجعة إرشادات الخط الأمامي الخاصة بنا ووضع لافتات واضحة لمكافحة الفساد على السفينة. «اتصل بنا إذا كنت بحاجة إلى دعم.»</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

@@ -1,0 +1,52 @@
+<section id="vid"  class="sg-page " ui-event="{ touchstart : 'clearRollover()'}">
+
+
+    <!--<div ng-if="visible">-->
+    <h3 ng-if="flvVideo" style="position:absolute;left:0;right:0;bottom:100px;text-align:center;color: red">FLV format is not supported!</h3>
+    <video id="{{subPrefix}}sgVideo" class="videoPO" webkit-playsinline playsinline autoplay preload="auto" ng-class="{'visible':videoReady}"
+           ng-if="addVideoDOM"
+           ng-src="{{videoData.src}}"
+           type="video/mp4"
+           ui-event="{
+              ended:'videoEnded()',
+              play:'videoPlayEvent()',
+              suspend:'videoBuffered()',
+              canplaythrough:'canplaythroughEvent()',
+              progress:'downloadProgress($event)'}"
+           ng-style="styleCalculator(videoData)"  disablePictureInPicture></video>
+    <div class="po" ng-if="txt.text || page.pics[$index].src" ng-class="{'visible':visible}" ng-repeat="txt in page.texts track by $index">
+        <img ng-class="{'fadeable':!pictures[$index].noDelay}" ng-style="processPic(pictures[$index])"
+             class="poItem"
+             ng-if="showPOItem(pictures[$index])"
+             hm-tap="itemClickHandler(pictures[$index])"
+             ng-src="{{pictures[$index].src}}"
+             ng-mouseover="mouseOver($event, $index)"
+             ng-mouseleave="mouseLeave($event, $index)"
+             ng-mousemove="mouseMove($event, $index)"
+             ui-event="{ touchstart : 'touchImage($event, $index)'}"
+             draggable="false">
+
+        <div ng-class="{'fadeable':!page.pics[$index].noDelay}"
+             class="poItem poText" id="{{subPrefix}}poText{{txt.index}}"
+             ng-style="processText(txt)"
+             ng-if="showPOItem(txt)"
+             hm-tap="itemClickHandler(txt)"><span class="bullet" ng-if="txt.bullet">&bull; </span>{{txt.text}}</div>
+
+    </div>
+    <div ng-if="tempPO" class="prerender-container">
+        <div class="po " repeat-done="layoutDone()" ng-cloak ng-repeat="txt in page.texts track by $index">
+            <div ng-class="{'fadeable':!page.pics[$index].noDelay}"
+                 class="poItem poText" id="temp{{subPrefix}}poText{{txt.index}}"
+                 ng-style="processText(txt, true)"><span class="bullet" ng-if="txt.bullet">&bull; </span>{{txt.text}}</div></div>
+    </div>
+    <div ng-show="mouseOverText"
+         id="{{subPrefix}}rollOverText" class="poItem rollOverText"
+         ng-class="{'active':mouseOverText}"
+         ng-style="styleCalculator(mouseOverText)"><div>{{mouseOverText.text}}</div></div>
+    <div ng-show="manualPlay" class="btn btn-lg mouseActive manual-play glyphicon glyphicon-play"  hm-tap="firstRunVideo()"></div>
+    <!--</div>-->
+    <page-title></page-title>
+
+    <subtitles></subtitles>
+    
+</section>

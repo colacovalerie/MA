@@ -1,0 +1,41 @@
+<section id="welcomePanel" class="row-12 full-width " ng-style="welcomeBackground()">
+    <div class="col-xs-6 row" style="height: calc(100% - 76px); top: 18px;">
+        <div ng-if="$root.mainData.levels != null && !langIsSet" class="row-1 middle levelSelector">
+            <div style="width: 100%"  ng-style="$root.mainData.fontStyles['levelselector']">
+                <label style="width: 100%" for="levelSel" class="text-center">{{translation.WELCOME_PANEL_SELECT_LEVEL}}</label>
+                <select style="margin-bottom: 15px" class="form-control on-top" ng-model="tempLevel.data" ng-change="levelChanged(tempLevel)"  id="levelSel" ng-disabled="!levelSelectEnebled()" >
+                    <option ng-repeat="level in $root.mainData.levels" value="{{level.id}}">{{level.text}}</option>
+                </select>
+            </div>
+
+        </div>
+        <div ng-style="copyrightStyle" class="middle row-5 infoText__full-bordered" ng-class="{'row-5': !$root.scorm}">
+            <div  class="text-left">
+                <div ng-if="!mainData.customWelcome" ng-style="$root.mainData.fontStyles['copyrightbody']" class="copyrights "> {{translation.WELCOME_PANEL_COPYRIGHTS}}<br><br>Seagull AS<br>P.O. Box 1062<br>N-3194 Horten, Norway
+                </div>
+                <div ng-if="mainData.customWelcome" ng-style="$root.mainData.fontStyles['copyrightbody']" class="custom-copyrights "
+                > {{mainData.customWelcome.copyrights}}</div>
+                <div class="full-width" ng-style="$root.mainData.fontStyles['copyrightbody']" ><span ng-style="$root.mainData.fontStyles['copyrightbody']" ng-if="!mainData.customWelcome || mainData.customWelcome.showPlayerVersion">Ocean E-learning Player v<span app-version></span> HTML<br></span>
+                <span ng-if="!mainData.customWelcome || mainData.customWelcome.showModuleId">{{translation.WELCOME_PANEL_MODULE_ID}} {{$root.mainData.moduleId}}<br></span>
+                <span ng-if="!mainData.customWelcome || mainData.customWelcome.showModuleVersion">{{translation.WELCOME_PANEL_MODULE_VERSION}} {{$root.mainData.version}} ({{$root.mainData.build}})</span></div>
+            </div>
+            
+        </div>
+        <div class="infoText scrollable row-5"
+         ng-class="{'row-6':$root.scorm, 'increase-height':$root.scorm, 'increased-padding':mainData.customWelcome ,'opacity-hidden':mainData.customWelcome && !mainData.customWelcome.showDisclaimer}"
+         ng-style="disclaimerStyle">{{translation.DISCLAIMER}}<span
+         
+         ng-style="$root.mainData.fontStyles['disclaimerbody'] && {top:'calc(51% + ' + disclaimerTop+')'}"
+         ng-class="{'without-language-selection': $root.scorm}"
+         class="infoText-label"
+           >{{translation.WELCOME_PANEL_DISCLAIMER_LABEL}}</span></div>
+   
+    </div>
+    <div class="col-xs-6 row" style="height: calc(100% - 33px);">
+
+        <div ng-class="{'increased-padding':mainData.customWelcome ,'opacity-hidden':mainData.customWelcome && !mainData.customWelcome.showCredits}" id="creditsInfo" class="infoText scrollable row-11" 
+        ng-style="creditsStyle">{{translation.CREDITS}}
+            <span  ng-style="{top: creditsTop}" class="infoText-label">{{translation.WELCOME_PANEL_CREDITS_LABEL}}</span>
+        </div>
+    </div>
+</section>

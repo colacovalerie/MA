@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="7cfd89e0-4b9d-4b7a-b67d-93b856107b7d" chapterId="6c5322dc-cc15-4f35-99b9-4c5fc39a77cd" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">The Customs officials couldn’t find any mistakes during their check. However, they still asked the Captain for a few cans of soda and a bottle of alcohol, which would help them to avoid checking the ship second time in order to find some mistakes. The Captain provided a few cans of soda and a bottle of alcohol to the authorities to avoid delays.
+
+How would the cans of soda and bottle of alcohol be considered?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="76" align="left">A bribe</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="28" align="left">A facilitation payment</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Les agents des douanes n’ont pas trouvé d’erreur pendant leur inspection. Elles ont malgré tout demandé au capitaine quelques cannettes de boisson gazeuse et une bouteille d’alcool, ce qui leur éviterait de vérifier les documents une seconde fois et d’essayer de trouver des erreurs. Le capitaine a remis quelques cannettes de boisson gazeuse et une bouteille d’alcool aux autorités pour éviter un retard.
+
+Comment les canettes de soda et les bouteilles d'alcool seraient-elles considérées?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="96" align="left">Un pot-de-vin</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="12" align="left">Un paiement de facilitation</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">海关官员没有检查出任何问题。但是，他们仍让船长送几罐饮料和一瓶酒，否则他们就第二次检查，刻意找错误。为了不耽误行程，船长送了他们几罐饮料和一瓶酒。
+
+几听苏打水和那瓶酒的情况怎么样</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="40" align="left">贿赂</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="96" align="left">便利费</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Los funcionarios de Aduanas no pudieron encontrar ningún error durante su inspección. Sin embargo, aún así le pidieron al capitán unos refrescos y una botella de alcohol, lo cual haría que no tuvieran que revisar el barco por segunda vez para encontrar algunos errores. El capitán dio unos refrescos y una botella de alcohol a las autoridades para evitar retrasos.
+
+¿Cómo se considerarían las latas de refresco y las botellas de alcohol?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="96" align="left">Soborno</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="76" align="left">Pago para la simplificación de trámites</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">По итогам проверки таможенные инспекторы не нашли каких-либо недочетов. Однако они все равно попросили у капитана несколько банок лимонада и бутылку спиртного, угрожая в противном случае проверить судно еще раз более тщательно и найти несоответствия. Чтобы избежать задержек, капитан дал инспекторам несколько банок лимонада и бутылку спиртного.
+
+Как можно было бы рассматривать банки с газировкой и бутылку алкоголя?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="10" align="left">Взятка</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="12" align="left">Вознаграждение за оказание содействия</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">لم يتمكن مسؤولو الجمارك من إيجاد أي خطأ أثناء القيام بعملية تفقد السفينة، ولكن لم يمنعهم ذلك من طلب الحصول على بعض علب المشروبات الغازية وزجاجة من المشروبات الكحولية، حيث إن ذلك قد يساعدهم في عدم تفقد السفينة مرة أخرى في محاولة منهم لإيجاد بعض الأخطاء. قدم القبطان علب المشروبات الغازية وزجاجة من المشروبات الكحولية للسلطات لتفادي التأخير.
+
+في سياق الموقف أعلاه، تحت أي مصطلح يجب يف سيتم اعتبار علب الصودا وزجاجات الكحول؟ </txt>
+      <txt c="X" s="2" y="200" delay="0" crct="76" align="left">الرشوة</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="28" align="left">مدفوعات التسهيل</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

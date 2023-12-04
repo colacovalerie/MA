@@ -1,0 +1,27 @@
+<section id="doc" class="sg-page"  style="overflow: hidden">
+
+    <!--<embed ng-if="pdfSource" class="poItem" ng-style="styleCalculator(page.pics[0])"  ng-src="{{pdfSource}}">-->
+    <!--<object ng-if="!$root.mobile && pdfSource" style="pointer-events: all" data='{{pdfSource}}#toolbar=2'-->
+    <!--type='application/pdf'-->
+            <!--ng-style="{position: 'absolute', left:pdfX, top:pdfY}"-->
+    <!--width='{{pdfWidth}}px'-->
+    <!--height='{{pdfHeight}}px'>-->
+
+
+    <!--</object>-->
+    <!--<div ng-if="$root.mobile" id="{{subPrefix}}pdf-container" class="pdfContainer mouseActive" ng-class="{'minusIndex':reorder}"-->
+         <!--ng-style="{maxHeight: pdfHeight, width:pdfWidth, left:pdfX, top:pdfY,transform:pdfScale,zoom:pdfZoom}">-->
+        <!--&lt;!&ndash;&ndash;&gt;-->
+
+    <!--</div>-->
+    <iframe src="{{viewerPath + pdfSource}}" ng-if="pdfSource && frameDisplayed"
+            class="pdfContainer mouseActive" ng-class="{'minusIndex':reorder}"
+            ng-style="{maxHeight: pdfHeight,height: pdfHeight, width:pdfWidth, left:pdfX, top:pdfY,transform:pdfScale,zoom:pdfZoom}">
+        width="{{pdfWidth}}" height="{{pdfHeight}}" allowfullscreen webkitallowfullscreen></iframe>
+
+    <!--<div ng-if="!$root.mobile" class="btn btn-default print-btn glyphicon glyphicon-print" ng-class="{'print-enabled':printVisible}" hm-tap="print()"></div>-->
+
+
+    <page-title></page-title>
+
+</section>

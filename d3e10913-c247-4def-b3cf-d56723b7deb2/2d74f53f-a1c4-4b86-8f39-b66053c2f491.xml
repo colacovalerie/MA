@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="2d74f53f-a1c4-4b86-8f39-b66053c2f491" chapterId="6c5322dc-cc15-4f35-99b9-4c5fc39a77cd" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">The immigration authorities couldn’t find any mistakes during their check. However, they still asked the Captain for a few cartons of cigarettes, which would help them to avoid checking the documents for a second time and trying to find some mistakes. The Captain provided a few cartons of cigarettes to the authorities to avoid delays.
+
+How would the cigarettes be considered?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="80" align="left">A bribe</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="92" align="left">A facilitation payment</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Les autorités d’immigration n’ont pas trouvé d’erreurs pendant leur inspection. Toutefois, elles ont malgré tout demandé au capitaine quelques cartouches de cigarettes, ce qui leur éviterait de vérifier les documents une seconde fois et d’essayer de trouver des erreurs. Le capitaine a remis quelques cartouches de cigarettes aux autorités pour éviter un retard.
+
+Comment les cigarettes seraient-elles considérées?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="92" align="left">Un pot-de-vin</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="40" align="left">Un paiement de facilitation</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">移民局没有检查出任何问题。但是，他们仍让船长送几盒烟，否则他们就第二次检查材料，刻意找错误。为了不耽误行程，船长送了他们几盒烟。
+
+这些香烟属于哪种分类？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="86" align="left">贿赂</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="80" align="left">便利费</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Las autoridades de inmigración no pudieron encontrar ningún error durante su inspección. Sin embargo, aún así le pidieron al capitán paquetes de cigarrillos, lo cual haría que no revisaran los documentos por segunda vez y encontraran algunos errores. El capitán dio algunos paquetes de cigarrillos a las autoridades para evitar retrasos.
+
+¿Qué se consideraría que son los cigarrillos?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="48" align="left">Soborno</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="40" align="left">Pago para la simplificación de trámites</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">По итогам проверки инспекторы иммиграционной службы не нашли каких-либо недочетов. Однако они все равно попросили у капитана несколько блоков сигарет, угрожая в противном случае проверить документы еще раз более тщательно и найти несоответствия. Чтобы избежать задержек, капитан дал инспекторам сигареты.
+
+Это рассматривается как…</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="30" align="left">Взятка</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="30" align="left">Вознаграждение за оказание содействия</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">لم تجد السلطات المعنية بالهجرة أي خطأ أثناء عملية تفقد المستندات، وعلى الرغم من ذلك طلبوا من القبطان إعطائهم عددًا من علب السجائر، حيث إن ذلك من شأنه مساعدتهم في تجنب تفقد المستندات مرة أخرى ومحاولة إيجاد أي خطأ. قدم القبطان عددًا من علب السجائر للسلطات المعنية بالهجرة لتفادي التأخير.
+
+في سياق الموقف أعلاه، تحت أي مصطلح يجب أن تندرج السجائر؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="80" align="left">الرشوة</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="92" align="left">مدفوعات التسهيل</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

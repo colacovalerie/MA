@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="786ca589-3ace-4271-8799-b639e01d77a7" chapterId="6c5322dc-cc15-4f35-99b9-4c5fc39a77cd" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">The ship is running behind schedule when she enters the port. There is a long queue for ships waiting to get their goods cleared by Customs officials. The local officials quickly learn that the ship is running behind schedule and offer the Captain the chance to jump the line. The Captain pays.
+
+Who committed bribery?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="6" align="left">The Captain</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="93" align="left">The public official</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="44" align="left">The Company</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="88" align="left">All of the above</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="94" align="left">No-one</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Le navire est en retard sur son calendrier au moment de faire escale dans le port. La file d’attente est longue pour les navires qui attendent que leurs marchandises soient dédouanées par les agents des douanes. Les fonctionnaires locaux découvrent rapidement que le navire a pris du retard et proposent au capitaine de passer devant les autres navires. Le capitaine effectue un paiement.
+
+Qui a commis un acte de corruption?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="40" align="left">Le capitaine</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="27" align="left">Le fonctionnaire</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="18" align="left">La société</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="68" align="left">Toutes les réponses ci-dessus</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="36" align="left">Personne</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">船进港时已经误点了。等候海关官员为货物清关的船排起了长队。当地的官员很快就了解到该船已经误点，他们为船长提供了一个插队的机会。船长付了这笔钱。
+
+谁实施了贿赂？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="56" align="left">船长</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="87" align="left">公共官员</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="44" align="left">公司</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="96" align="left">以上都是</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="60" align="left">没有人</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">El barco viene con retraso cuando entra en el puerto. Hay una larga cola para los barcos que esperan a que los funcionarios de aduanas despachen sus mercancías. Los funcionarios locales se enteran rápidamente de que la nave está retrasada y ofrecen al capitán la oportunidad de saltarse la fila. El capitán paga.
+
+¿Quién cometió el soborno?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="90" align="left">El capitán</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="43" align="left">El funcionario público</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="60" align="left">La compañía</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="36" align="left">Todas las opciones anteriores</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="18" align="left">Ninguno</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Судно, заходящее в порт, отстает от графика. В порту выстроилась длинная очередь из кораблей, ожидающих таможенной очистки груза. Местные чиновники быстро узнают, что судно отстает от графика, и предлагают капитану возможность избежать очереди. Капитан платит.
+
+Кто совершил подкуп?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="74" align="left">Капитан</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="75" align="left">Чиновник</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="82" align="left">Компания</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="10" align="left">Все указанные выше</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="72" align="left">Никто</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">السفينة متأخرة عن موعدها المحدد لدخولها الميناء، وهناك صف طويل من السفن التي تنتظر أن يتم تخليص البضائع المتواجدة على متنها من جانب مسؤولي الجمارك، وسرعان ما علم المسؤولون المحليون بأن السفينة متخلفة عن موعدها المحدد وعرضوا على القبطان فرصة لتخطي السفن التي تنتظر أمامه، وعليه دفع القبطان المبلغ.
+
+من الذي ارتكب جريمة الرشوة؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="6" align="left">القبطان</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="93" align="left">المسؤول العام</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="44" align="left">الشركة</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="88" align="left">جميع ما سبق</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="94" align="left">لا أحد</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

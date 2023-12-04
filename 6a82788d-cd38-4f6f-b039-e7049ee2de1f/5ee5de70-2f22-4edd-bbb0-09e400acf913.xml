@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="5ee5de70-2f22-4edd-bbb0-09e400acf913" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc3_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">03</txt>
+      <txt swp="X" c="X" s="1" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">CASE STUDY</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">MINOR THINGS CAN HAVE BIG CONSEQUENCES</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Section 3. Case study. Minor things can have big consequences.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc3_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">03</txt>
+      <txt swp="X" c="X" s="2" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">ÉTUDE DE CAS
+</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">LES PETITES CHOSES PEUVENT AVOIR DE GRANDES CONSÉQUENCES</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>3. ÉTUDE DE CAS. LES PETITES CHOSES PEUVENT AVOIR DE GRANDES CONSÉQUENCES.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc3_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">03</txt>
+      <txt swp="X" c="X" s="1" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">案例研究</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">小事可能产生重大后果</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>3. 案例研究。 小事可能产生重大后果
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc3_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">03</txt>
+      <txt swp="X" c="X" s="2" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">CASO PRÁCTICO</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">LOS DETALLES PEQUEÑOS PUEDEN TENER GRANDES CONSECUENCIAS</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>03 CASO PRÁCTICO. LOS DETALLES PEQUEÑOS PUEDEN TENER GRANDES CONSECUENCIAS
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc3_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">03</txt>
+      <txt swp="X" c="X" s="2" w="800" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">ИЗУЧЕНИЕ КОНКРЕТНОЙ СИТУАЦИИ</txt>
+      <txt swp="X" c="X" s="1" y="445" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="470" delay="0" fontsize="22" align="left" fontcolor="ffffff">МЕЛОЧИ МОГУТ ПРИВЕСТИ К СЕРЬЕЗНЫМ ПОСЛЕДСТВИЯМ</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>03 ИЗУЧЕНИЕ КОНКРЕТНОЙ СИТУАЦИИ. МЕЛОЧИ МОГУТ ПРИВЕСТИ К СЕРЬЕЗНЫМ ПОСЛЕДСТВИЯМ</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc3_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">03</txt>
+      <txt swp="X" c="X" s="1" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">دراسة حالة </txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">قد تحمل الأفعال البسيطة عواقب وخيمة</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

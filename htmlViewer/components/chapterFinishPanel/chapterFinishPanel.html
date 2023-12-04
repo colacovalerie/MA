@@ -1,0 +1,14 @@
+<section id="chapterFinishPanel" class="row-12 full-width ng-cloak">
+    <div  style="margin: auto; display: flex; flex-direction: column; align-items: center;"  >
+        <div class="text-center summaryheader" ng-style="$root.mainData.fontStyles['summaryheader']">
+            <span style="width: 100%; display: inline-block;">{{translation.SUMMARY_PANEL_TEXT_BEFORE_CHAPTER}}</span>
+          <span style="width: 100%; display: inline-block;">{{chapter.name}}</span>
+           <!-- <span style="padding-bottom: 28px;"></span> -->
+        </div>
+            <div hm-press="controlsCtrl.menuClick()" hm-tap="controlsCtrl.menuClick()" class="mouseActive">
+                <button style="outline: none; color: white; pointer-events: all; cursor: pointer; position: relative; padding: 18px;"
+                class="btn btn-primary btn-block ng-binding">{{translation.SUMMARY_PANEL_RETURN_TEXT}}</button>
+            </div>
+    </div>
+
+</section>

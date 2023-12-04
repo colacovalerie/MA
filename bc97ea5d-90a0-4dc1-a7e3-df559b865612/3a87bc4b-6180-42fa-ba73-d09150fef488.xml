@@ -1,0 +1,382 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="3a87bc4b-6180-42fa-ba73-d09150fef488">
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Welcome from the MACN]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p2.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Welcome from the MACN]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[The Maritime Anti-Corruption Network (MACN) is a global business network working towards its vision of a maritime industry free from corruption, enabling fair trade to the benefit of society at large.MACN's mission is to promote good business practices in the maritime industry for dealing with bribes, facilitation payments and other forms of corruption by:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[developing and sharing best practice]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[creating awareness of the challenges]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[collaborating with key stakeholders to develop sustainable solutions.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[This training is supported by MACN and aims to put MACN members on the right track toward achieving a maritime industry free of corruption.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Welcome from the MACN. The Maritime Anti-Corruption Network (MACN) is a global business network working towards its vision of a maritime industry free from corruption, enabling fair trade to the benefit of society at large.MACN's mission is to promote good business practices in the maritime industry for dealing with bribes, facilitation payments and other forms of corruption by:•  developing and sharing best practice•  creating awareness of the challenges•  collaborating with key stakeholders to develop sustainable solutions.This training is supported by MACN and aims to put MACN members on the right track toward achieving a maritime industry free of corruption.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Message de bienvenue de la part du MACN]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p2.png</pic>
+      <pic noFade="X" y="155" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p2_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p2_i2.mp3</snd>
+      <snd wfs="T" preload="X">sc1_p2_i3.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Message de bienvenue de la part du MACN]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="175"><![CDATA[Le Maritime anticorruption Network]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0"><![CDATA[(MACN — réseau maritime anticorruption) est un réseau professionnel mondial qui vise à libérer le secteur maritime de toute forme de corruption pour permettre un commerce équitable au profit de la société dans son ensemble.]]></txt>
+      <txt c="X" s="2" align="left" rpo="3,4" delay="0" y="175"><![CDATA[La mission du MACN consiste à promouvoir les bonnes pratiques professionnelles dans le secteur maritime en ce qui concerne les pots-de-vin, les paiements de facilitation et autres formes de corruption :]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[en développant et en partageant de bonnes pratiques,]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[en sensibilisant les acteurs aux enjeux,]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[et en collaborant avec les principales parties intéressées pour mettre au point des solutions durables.]]></txt>
+      <txt c="X" s="2" align="left" rpo="5,6,7,8" delay="0" y="175"><![CDATA[Cette formation est soutenue par le MACN et vise à mettre ses membres sur la bonne voie pour faire en sorte que le secteur maritime soit exempt de toute forme de corruption.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Message de bienvenue de la part du MACN. Le Maritime anticorruption Network (MACN — réseau maritime anticorruption) est un réseau professionnel mondial qui vise à libérer le secteur maritime de toute forme de corruption pour permettre un commerce équitable au profit de la société dans son ensemble.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>La mission du MACN consiste à promouvoir les bonnes pratiques professionnelles dans le secteur maritime en ce qui concerne les pots-de-vin, les paiements de facilitation et autres formes de corruption : •  en développant et en partageant de bonnes pratiques, •  en sensibilisant les acteurs aux enjeux, •  et en collaborant avec les principales parties intéressées pour mettre au point des solutions durables.</sndTxt>
+      <sndTxt>Cette formation est soutenue par le MACN et vise à mettre ses membres sur la bonne voie pour faire en sorte que le secteur maritime soit exempt de toute forme de corruption.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 1 节： 简介  •  来自 MACN 的问候]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p2.png</pic>
+      <pic>
+      </pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[来自 MACN 的问候]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="1" align="left" delay="0" y="149"><![CDATA[海事反腐败网络 (MACN)]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="470" align="left" delay="0" y="180"><![CDATA[是一个全球企业网络，旨在实现海事行业的零腐败，通过公平贸易为社会带来最大的收益。MACN 的使命是在海事行业中推行良好的商业惯例，通过以下措施防范贿赂、便利费和其他形式的腐败:]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[制订和共享最佳做法]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[创建对困难的认识]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[与关键利益相关方协作制订可持续解决方案。
+]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[本培训得到 MACN 的支持，旨在让 MACN 成员步入正确的轨道，实现海事行业的零腐败目标。]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>来自 MACN 的问候. 是一个全球企业网络，旨在实现海事行业的零腐败，通过公平贸易为社会带来最大的收益。
+
+MACN 的使命是在海事行业中推行良好的商业惯例，通过以下措施防范贿赂、便利费和其他形式的腐败：
+
+•  制订和共享最佳做法
+•  创建对困难的认识
+•  与关键利益相关方协作制订可持续解决方案。
+
+本培训得到 MACN 的支持，旨在让 MACN 成员步入正确的轨道，实现海事行业的零腐败目标。
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 1  •  مرحبًا بك في شبكة مكافحة الفساد في البحار]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p2.png</pic>
+      <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="26" s="1" align="right" delay="0" y="74" x="478"><![CDATA[مرحبًا بك في شبكة مكافحة الفساد في البحار]]></txt>
+      <txt crct="64" c="X" swp="X" fontsize="16" s="2" w="470" align="left" delay="0" y="155"><![CDATA[شبكة مكافحة الفساد في البحار (MACN) هي شبكة أعمال عالمية تعمل على تحقيق رؤيتها نحو قطاع بحري خالٍ من الفساد، لتمكين التجارة العادلة بما يخدم مصالح المجتمع ككل.تتمثل رسالة شبكة مكافحة الفساد في البحار في تعزيز الممارسات التجارية الجيدة في القطاع البحري عند التعامل مع الرشاوى والمدفوعات التي تتم بغرض التسهيل وأشكال الفساد الأخرى من خلال:]]></txt>
+      <txt crct="11" c="X" swp="X" fontsize="16" s="2" align="right" delay="0"><![CDATA[•إعداد الممارسات المفضلة ونشرها ومشاركتها،]]></txt>
+      <txt crct="70" c="X" swp="X" fontsize="16" s="2" align="right" delay="0"><![CDATA[•وترسيخ الوعي حيال التحديات،]]></txt>
+      <txt crct="63" c="X" swp="X" fontsize="16" s="2" align="right" delay="0"><![CDATA[•والتعاون مع الأطراف المعنية الرئيسة لإعداد حلول مستدامة.]]></txt>
+      <txt crct="42" c="X" swp="X" fontsize="16" s="2" align="right" delay="0"><![CDATA[تدعم شبكة مكافحة الفساد في البحار هذا المحتوى التدريبي وتهدف إلى وضع أعضاء الشبكة على الطريق الصحيح لتحقيق خلو القطاع البحري من الفساد.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 1: Introducción  •  Bienvenida de parte de la MACN]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p2.png</pic>
+      <pic>
+      </pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="600" align="left" delay="0" y="74" x="478"><![CDATA[Bienvenida de parte de la MACN]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="149"><![CDATA[La Red Marítima Anticorrupción]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="180"><![CDATA[(MACN, por sus siglas en inglés) es una red internacional de compañías que trabaja en pro de su visión de un sector marítimo sin corrupción, que permita un comercio justo en beneficio de la sociedad en general.La misión de la MACN consiste en fomentar las buenas prácticas comerciales en el sector marítimo para hacer frente a los sobornos, los pagos para la simplificación de trámites y otras formas de corrupción de las siguientes maneras:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[desarrollando y compartiendo mejores prácticas]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[generando conciencia sobre los desafíos]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[colaborando con los principales interesados para desarrollar soluciones sostenibles.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[Esta capacitación cuenta con el respaldo de la MACN y tiene como objetivo indicar a los miembros de la MACN el camino adecuado para lograr un sector marítimo sin corrupción.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Bienvenida de parte de la MACN. La Red Marítima Anticorrupción (MACN, por sus siglas en inglés) es una red internacional de compañías que trabaja en pro de su visión de un sector marítimo sin corrupción, que permita un comercio justo en beneficio de la sociedad en general. La misión de la MACN consiste en fomentar las buenas prácticas comerciales en el sector marítimo para hacer frente a los sobornos, los pagos para la simplificación de trámites y otras formas de corrupción de las siguientes maneras:
+
+desarrollando y compartiendo mejores prácticas
+generando conciencia sobre los desafíos
+colaborando con los principales interesados para desarrollar soluciones sostenibles.
+Esta capacitación cuenta con el respaldo de la MACN y tiene como objetivo indicar a los miembros de la MACN el camino adecuado para lograr un sector marítimo sin corrupción.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 1: Введение  •  Приветствие от MACN]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p2.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p2_a.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p2_b.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Приветствие от MACN]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="149"><![CDATA[Морская антикоррупционная сеть]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="180"><![CDATA[(MACN) — международная ассоциация, деятельность которой направлена на искоренение коррупции в морской отрасли и создание условий для справедливой торговли во благо всего общества.]]></txt>
+      <txt c="X" s="2" align="left" rpo="3,4" delay="0" y="149"><![CDATA[Задача MACN — продвижение передовых методов ведения бизнеса в морской отрасли с целью борьбы со взятками, вознаграждениями за оказание содействия и другими формами коррупции. Способы достижения цели:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[разработка рекомендаций и обмен опытом;]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[повышение осведомленности о проблемах;]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[сотрудничество с заинтересованными сторонами для поиска эффективных решений.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[Курс создан при поддержке MACN и содержит рекомендации по борьбе коррупцией в морской отрасли для членов MACN.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Приветствие от MACN. Морская антикоррупционная сеть (MACN) — международная ассоциация, деятельность которой направлена на искоренение коррупции в морской отрасли и создание условий для справедливой торговли во благо всего общества.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Задача MACN — продвижение передовых методов ведения бизнеса в морской отрасли с целью борьбы со взятками, вознаграждениями за оказание содействия и другими формами коррупции. Способы достижения цели: разработка рекомендаций и обмен опытом; повышение осведомленности о проблемах; сотрудничество с заинтересованными сторонами для поиска эффективных решений. Курс создан при поддержке MACN и содержит рекомендации по борьбе коррупцией в морской отрасли для членов MACN.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

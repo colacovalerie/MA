@@ -1,0 +1,50 @@
+<section  id="q2"  class="sg-page">
+
+    <div ng-if="visible" class="q2Container fullSizeTransparent" ng-class="{'mobile':$root.mobile}"
+         ui-event="{ touchend : 'stopCallback($event)', touchmove : 'dragCallback($event)' }"
+         ng-mousemove="dragCallback($event)" ng-mouseup="stopCallback($event)">
+        <div ng-if="!mobile" class="templateInactivePart fullSizeTransparent" hm-swipe="playerSwipe($event)" hm-recognizer-options='[{"type":"swipe","threshold":150, "directions":"DIRECTION_HORIZONTAL"}]'></div>
+        <img class="poItem"
+             ng-if="picture.src"
+             ng-style="processPic(picture)"
+             ng-src="{{picture.src}}"
+             draggable="false">
+        <div class="poItem poText"
+             ng-if="showPOItem(question)"
+             id="q1QuestionText"
+             ng-style="processText(question)">{{question.text}}</div>
+        <div id="dropContainer" >
+            <!-- SCORM-START -->
+            <div class="poItem poText q2DropItem"
+                 ng-repeat="answ in answers track by $index"
+                 ng-class="{'active':answ.hovered}"
+                 id="dropItem{{answ.index}}"
+                 ng-style="processText(answ, $index)">{{answ.text}}</div>
+            <!-- SCORM-END -->
+    </div>
+        <div class="dragContainer" ng-if="visible">
+            <div class="drag-item-container"
+                 ng-repeat="match in shuffledMatches track by $index"
+                 ui-event="{ touchstart : 'startCallback($event, match)'}"
+                 ng-mousedown="startCallback($event, match)">
+                <span ng-if="!match.picture"
+                      id="dragItem{{match.index}}"
+                      class="poItem label label-default q2DragItem q2DragText"
+                      ng-class="{'solved':answerChecked,'dragged':match.isDragged}"
+                      ng-style="processText(match, $index)">{{match.text}}</span>
+                <img ng-if="match.picture" draggable="false"
+                     id="dragItem{{match.index}}"
+                     ng-src="{{match.text}}"
+                     ng-class="{'solved':answerChecked,'dragged':match.isDragged}"
+                     ng-style="processText(match, $index)"
+                     class="poItem q2DragItem">
+            </div>
+        </div>
+        <div ng-if="feedback" class="poItem" ng-style="feedbacksContStyle">
+            <div class="feedbackText" ng-style="processText(feedback)" >{{feedback.text}}</div>
+        </div>
+    </div>
+    <page-title></page-title>
+    <subtitles></subtitles>
+
+</section>

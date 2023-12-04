@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="9fed317e-482c-4fb2-9125-f10da1b6c19d" chapterId="95aab816-3591-4eeb-a31b-5c5c4e4e316f" sgxmlv="1.2" qq="off">
+  <page level="FR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="870" x="40" y="80" delay="0" pt="1" e="-3" align="left">La presse a rendu compte d’un scandale de corruption concernant une société. Quelles sont les conséquences possibles ?</txt>
+      <txt c="X" s="2" delay="0" crct="90" align="left">Des amendes</txt>
+      <txt c="X" s="2" delay="0" crct="75" align="left">Des peines de prison</txt>
+      <txt c="X" s="2" delay="0" crct="18" align="left">Des pertes commerciales</txt>
+      <txt c="X" s="2" delay="0" crct="54" align="left">Toutes les réponses ci-dessus</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">A company has been reported on in the media due to a corruption scandal. What are the possible consequences?</txt>
+      <txt c="X" s="2" delay="0" crct="76" align="left">Fines</txt>
+      <txt c="X" s="2" delay="0" crct="37" align="left">Prison sentences</txt>
+      <txt c="X" s="2" delay="0" crct="100" align="left">Loss of business</txt>
+      <txt c="X" s="2" delay="0" crct="84" align="left">All of the above</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">公司已经因腐败丑闻被媒体报道。可能会有什么样的后果？</txt>
+      <txt c="X" s="2" delay="0" crct="16" align="left">罚款</txt>
+      <txt c="X" s="2" delay="0" crct="65" align="left">服刑</txt>
+      <txt c="X" s="2" delay="0" crct="30" align="left">损失业务</txt>
+      <txt c="X" s="2" delay="0" crct="54" align="left">以上都是</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Una compañía ha sido denunciada en los medios de comunicación debido a un escándalo de corrupción. ¿Cuáles son las posibles consecuencias?</txt>
+      <txt c="X" s="2" delay="0" crct="89" align="left">Multas</txt>
+      <txt c="X" s="2" delay="0" crct="13" align="left">Penas de prisión</txt>
+      <txt c="X" s="2" delay="0" crct="60" align="left">Pérdida del negocio</txt>
+      <txt c="X" s="2" delay="0" crct="49" align="left">Todas las opciones anteriores</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">В СМИ появилась информация о том, компания замешана в коррупционном скандале. Каковы возможные последствия?</txt>
+      <txt c="X" s="2" delay="0" crct="32" align="left">Штрафы</txt>
+      <txt c="X" s="2" delay="0" crct="83" align="left">Тюремные заключения</txt>
+      <txt c="X" s="2" delay="0" crct="72" align="left">Потеря бизнеса</txt>
+      <txt c="X" s="2" delay="0" crct="80" align="left">Все указанное выше</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">عندما يتم الإبلاغ عن شركة في وسائل الإعلام بسبب فضيحة فساد، ما هي العواقب المحتملة؟</txt>
+      <txt c="X" s="2" delay="0" crct="42" align="left">غرامات</txt>
+      <txt c="X" s="2" delay="0" crct="49" align="left">أحكام بالسجن</txt>
+      <txt c="X" s="2" delay="0" crct="44" align="left">خسارة العمل</txt>
+      <txt c="X" s="2" delay="0" crct="20" align="left">جميع ما سبق</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

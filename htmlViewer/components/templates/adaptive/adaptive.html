@@ -1,0 +1,485 @@
+<section id="adaptive" class="sg-page row-12 mouseActive fullSizeTransparent">
+    <div id="adaptive-container" style="height: 100%" ng-if="adaptiveData" hm-tap="mainWindowTap($event)">
+        <div ng-if="!feedback">
+            <div id="percentage">
+            <!--<div class="percentage-text">-->
+                    <!--&lt;!&ndash;<div ng-if="adaptiveProgress.seen>0" class="seen">Widziałeś: {{adaptiveProgress.seen}}%</div>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<div ng-if="adaptiveProgress.acquainted>0" class="acquainted">Znasz:&ndash;&gt;-->
+                        <!--&lt;!&ndash;{{adaptiveProgress.acquainted}}%&ndash;&gt;-->
+                    <!--&lt;!&ndash;</div>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<div ng-if="adaptiveProgress.learned>0" class="learned">Umiesz: {{adaptiveProgress.learned}}%</div>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<div ng-if="adaptiveProgress.mastered>0" class="mastered">Opanowałeś: {{adaptiveProgress.mastered}}%&ndash;&gt;-->
+                    <!--</div>-->
+                <!--</div>-->
+                
+                <!--<div id="seen" ng-style="{width: adaptiveProgress.seen+'%'}" class="bar"></div>-->
+                <!--<div id="acquainted" ng-style="{width: adaptiveProgress.acquainted+'%'}" class="bar"></div>-->
+                <!--<div id="learned" ng-style="{width: adaptiveProgress.learned+'%'}" class="bar"></div>-->
+                <div ng-style="{width: adaptiveProgress.overall+'%'}" class="bar overall"></div>
+            </div>
+            
+            <img class="main-image adaptive-inactive-region" ng-show="showImage && question.img" ng-src="{{question.img}}"
+                 class="transitional"/>
+            <div id="declaration-phase"
+                 ng-if="viewPhase === DECLARATION_PHASE"
+                 class="full-size-absolute adaptive-inactive-region">
+                <div ng-show="!showResult" class="full-size-absolute transitional">
+                    <h2 class="description" ng-style="styling('declaration-description')">{{translation.ADL_DO_YOU_KNOW}}</h2>
+                    <div class="full-size-absolute adaptive-inactive-region">
+                        <h2 class="definition" hm-tap="playAudio()" ng-style="styling('declaration-definition')"><span>{{question.toLearnWord}}<span
+                                class="glyphicon glyphicon-volume-up play-sound-btn"></span></span></h2>
+                    </div>
+                    <div class="full-size-absolute adaptive-inactive-region">
+                        <div class="declaration known" hm-tap="declaration(true)">
+                            <i class="glyphicon glyphicon-ok "></i>
+                        </div>
+                        <div class="declaration unknown" hm-tap="declaration(false)">
+                            <i class="glyphicon glyphicon-remove "></i>
+                        </div>
+                    </div>
+                
+                </div>
+                <div ng-show="showResult" class="full-size-absolute transitional adaptive-inactive-region">
+                    <div class="full-size-absolute">
+                        <h2 class="definition" hm-tap="playAudio()" ng-style="styling('declaration-description')"><span>{{question.toLearnWord}}<span
+                                class="glyphicon glyphicon-volume-up play-sound-btn"></span></span></h2>
+                        <div class="translation">
+                            <h3>
+                    <span ng-style="styling('declaration-translation')" ng-repeat="learnAlt in question.usersLangAlternatives track by $index">
+                    {{learnAlt}}</span>
+                                </span>
+                            </h3>
+                            <div class="usage" ng-style="styling('declaration-usage')" ng-bind-html="question.toLearnUsage"></div>
+                        </div>
+                    
+                    </div>
+                </div>
+            
+            
+            </div>
+            <div id="test-phase"
+                 ng-if="viewPhase  === TEST_PHASE">
+                <div ng-if="!showResult">
+                    <h2 ng-if="!helperMode" class="description" ng-style="styling('test-description')">{{translation.ADL_CHOOSE_PROPER_TRANSLATION}}</h2>
+                    <h2 ng-if="helperMode" class="description" ng-style="styling('test-description')">{{translation.ADL_CHOOSE_PROPER_IMAGE}}</h2>
+                </div>
+                
+                <div class="full-size-absolute adaptive-inactive-region">
+                    <h2 class="definition" hm-tap="playAudio()" ng-style="styling('test-definition')"><span>{{question.toLearnWord}}<span
+                            class="glyphicon glyphicon-volume-up play-sound-btn"></span></span></h2>
+                </div>
+                <div ng-if="!helperMode" class="transitional test-answers-container adaptive-inactive-region"
+                     ng-class="{'vertical-mode':vertical}">
+                    <div class="left-answers">
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[0])" ng-style="styling('test-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[0].markCorrect,
+                                    'adaptive-incorrect':answers[0].markIncorrect,
+                                    'adaptive-hidden':answers[0].markHidden}">
+                            <div>{{answers[0].usersLangWord}}</div>
+                        </div>
+                        <br>
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[1])" ng-style="styling('test-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[1].markCorrect,
+                                    'adaptive-incorrect':answers[1].markIncorrect,
+                                    'adaptive-hidden':answers[1].markHidden}">
+                            <div>{{answers[1].usersLangWord}}</div>
+                        </div>
+                    </div>
+                    <div class="right-answers">
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[2])" ng-style="styling('test-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[2].markCorrect,
+                                    'adaptive-incorrect':answers[2].markIncorrect,
+                                    'adaptive-hidden':answers[2].markHidden}">
+                            <div>{{answers[2].usersLangWord}}</div>
+                        </div>
+                        <br>
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[3])" ng-style="styling('test-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[3].markCorrect,
+                                    'adaptive-incorrect':answers[3].markIncorrect,
+                                    'adaptive-hidden':answers[3].markHidden}">
+                            <div>{{answers[3].usersLangWord}}</div>
+                        </div>
+                    </div>
+                
+                </div>
+                <div ng-if="helperMode" class="transitional test-answers-container adaptive-inactive-region"
+                     ng-class="{'vertical-mode':vertical}">
+                    <div class="test-answer transitional helper-mode" ng-repeat="answer in answers track by $index"
+                         hm-tap="selectedAnswerHandler(answer)" ng-style="styling('test-helper-answer')"
+                         ng-class="{'vertical-mode':vertical,'adaptive-correct':answer.markCorrect,
+             'adaptive-incorrect':answer.markIncorrect,
+             'adaptive-hidden':answer.markHidden}">
+                        <img ng-src="{{answer.img}}"/>
+                    </div>
+                </div>
+            </div>
+            <div id="test-revers-phase"
+                 ng-if="viewPhase === TEST_REVERSE_PHASE">
+                <div ng-if="!showResult">
+                    <h2 class="description" ng-style="styling('test-rev-description')">{{translation.ADL_CHOOSE_PROPER_TRANSLATION}}</h2>
+                </div>
+                
+                <div class="full-size-absolute adaptive-inactive-region">
+                    <h2 class="definition" ng-style="styling('test-rev-definition')"><span>{{question.usersLangWord}}</span></h2>
+                </div>
+                <div ng-if="!helperMode" class="transitional test-answers-container adaptive-inactive-region"
+                     ng-class="{'vertical-mode':vertical}">
+                    <div class="left-answers">
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[0])" ng-style="styling('test-rev-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[0].markCorrect,
+                                    'adaptive-incorrect':answers[0].markIncorrect,
+                                    'adaptive-hidden':answers[0].markHidden}">
+                            <div>{{answers[0].toLearnWord}}</div>
+                        </div>
+                        <br>
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[1])" ng-style="styling('test-rev-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[1].markCorrect,
+                                    'adaptive-incorrect':answers[1].markIncorrect,
+                                    'adaptive-hidden':answers[1].markHidden}">
+                            <div>{{answers[1].toLearnWord}}</div>
+                        </div>
+                    </div>
+                    <div class="right-answers">
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[2])" ng-style="styling('test-rev-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[2].markCorrect,
+                                    'adaptive-incorrect':answers[2].markIncorrect,
+                                    'adaptive-hidden':answers[2].markHidden}">
+                            <div>{{answers[2].toLearnWord}}</div>
+                        </div>
+                        <br>
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[3])" ng-style="styling('test-rev-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[3].markCorrect,
+                                    'adaptive-incorrect':answers[3].markIncorrect,
+                                    'adaptive-hidden':answers[3].markHidden}">
+                            <div>{{answers[3].toLearnWord}}</div>
+                        </div>
+                    </div>
+                
+                </div>
+                <div ng-if="helperMode" class="transitional test-answers-container adaptive-inactive-region helper-mode"
+                     ng-class="{'vertical-mode':vertical}">
+                    <div class="test-answer transitional helper-mode" ng-repeat="answer in answers track by $index"
+                         hm-tap="selectedAnswerHandler(answer)" ng-style="styling('test-rev-helper-answer')"
+                         ng-class="{'vertical-mode':vertical,'adaptive-correct':answer.markCorrect,
+             'adaptive-incorrect':answer.markIncorrect,
+             'adaptive-hidden':answer.markHidden}">
+                        <div>{{answer.toLearnWord}}</div>
+                    </div>
+                </div>
+            
+            </div>
+            <div id="write-phase" ng-if="viewPhase  === WRITE_PHASE" class="adaptive-inactive-region">
+                <h2 ng-if="!showResult && !mobile" class="description" ng-style="styling('write-description')">{{showHint ? translation.ADL_REWRITE:langName(translation.ADL_TRANSLATE)}}</h2>
+                <div class="full-size-absolute adaptive-inactive-region">
+                    <h2 class="definition" hm-tap="playAudio()" ng-style="styling('write-definition')"><span>{{question.toLearnWord}}<span
+                            class="glyphicon glyphicon-volume-up play-sound-btn"></span></span></h2>
+                </div>
+                <div class="single-answer" ng-class="{'helper-mode':helperMode,'mobile':mobile}">
+                   <div ng-if="showResult">
+                        <div class="correct-info" ng-style="styling('write-correct-info')">{{question.usersLangWord}}</div>
+                    </div>
+                    <div ng-if="showResult && answerTextCopy &&  question.markIncorrect">
+                        <div class="incorrect-info" ng-style="styling('write-wrong-info')">{{answerTextCopy}}</div>
+                    </div>
+                    <!--<div ng-if="showResult" class="form-label" ng-class="{'adaptive-correct':question.markCorrect,-->
+                    <!--'adaptive-incorrect':question.markIncorrect}">-->
+                    <!--{{question.markCorrect ? 'Correct Answer': 'Your Answer'}}-->
+                    <!--</div>-->
+                    
+                    <form id="test-form" class="answer-form" ng-if="!showResult" ng-submit="answerSubmit(answerText)">
+                        <input type="text" ng-model="answerText" name="answerText" class="form-control" ng-style="styling('write-answerInput')"
+                               ng-class="{'adaptive-correct':question.markCorrect,
+                                    'adaptive-incorrect':question.markIncorrect}"
+                               placeholder="{{showHint ? translation.ADL_REWRITE + '...':langName(translation.ADL_TRANSLATE) + '...'}}"
+                               autocomplete="off"
+                               ng-disabled="showResult"
+                               show-focus="!showResult"
+                               required>
+
+                        <button ng-if="!showResult" type="submit" form="test-form"
+                                class=" answer-submit-button abs-correction glyphicon glyphicon-chevron-right "  ng-class="{'mobile':mobile}"></button>
+                    </form>
+
+                </div>
+                
+
+            </div>
+            <div id="write-reverse-phase" ng-if="viewPhase === WRITE_REVERSE_PHASE">
+                <h2 ng-if="!showResult && !mobile" class="description" ng-style="styling('write-rev-description')">{{showHint ?
+                    translation.ADL_REWRITE:langName(translation.ADL_TRANSLATE)}}</h2>
+                <div class="full-size-absolute adaptive-inactive-region">
+                    <h2 class="definition adaptive-inactive-region" ng-style="styling('write-rev-definition')">
+                        <span>{{question.usersLangWord}}</span></h2>
+                </div>
+                <div class="single-answer adaptive-inactive-region" ng-class="{'helper-mode':helperMode,'mobile':mobile}">
+                    <div ng-if="showResult">
+                        <div class="correct-info" hm-tap="playAudio()" ng-style="styling('write-rev-correct-info')"><span>{{question.toLearnWord}} <span
+                                class="glyphicon glyphicon-volume-up play-sound-btn"></span></span></div>
+                    </div>
+                    <div ng-if="showHint && !showResult" class="hint" ng-style="styling('write-rev-hint')">
+                        <h3>{{question.toLearnWord}}</h3>
+                    </div>
+                    
+                    <div ng-if="showResult && answerTextCopy &&  question.markIncorrect">
+                        <div class="incorrect-info" ng-style="styling('write-rev-incorrect-info')">{{answerTextCopy}}</div>
+                    </div>
+                    
+                    
+                    <form id="test-reverse-form" class="answer-form" ng-if="!showResult"
+                          ng-submit="answerSubmit(answerText)">
+                        <input type="text" ng-model="answerText" name="answerText" class="form-control" ng-style="styling('write-rev-answerInput')"
+                               ng-class="{'adaptive-correct':question.markCorrect,
+                                    'adaptive-incorrect':question.markIncorrect}"
+                               placeholder="{{showHint ? translation.ADL_REWRITE + '...':langName(translation.ADL_TRANSLATE) + '...'}}"
+                               autocomplete="off"
+                               ng-disabled="showResult"
+                               show-focus="!showResult"
+                               required>
+
+                        <button ng-if="!showResult" type="submit" form="test-reverse-form"
+                                class=" answer-submit-button abs-correction glyphicon glyphicon-chevron-right "  ng-class="{'mobile':mobile}"></button>
+                    </form>
+                
+                </div>
+
+            
+            </div>
+            <div id="hearing-test-phase"
+                 ng-if="viewPhase  === HEARING_TEST_PHASE">
+                <div ng-if="!showResult">
+                    <h2 ng-if="!helperMode" class="description" ng-style="styling('hearing-test-description')">{{translation.ADL_CHOOSE_PROPER_TRANSLATION}}</h2>
+                    <h2 ng-if="helperMode" class="description" ng-style="styling('hearing-test-description')">{{translation.ADL_CHOOSE_PROPER_IMAGE}}</h2>
+                </div>
+                <div class="full-size-absolute adaptive-inactive-region">
+                    <h2 class="definition" hm-tap="playAudio()" ng-style="styling('hearing-test-definition')">
+                        <span class="glyphicon glyphicon-volume-up play-sound-btn"></span></h2>
+                </div>
+                <div ng-if="!helperMode" class="transitional test-answers-container adaptive-inactive-region"
+                     ng-class="{'vertical-mode':vertical}">
+                    <div class="left-answers">
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[0])" ng-style="styling('hearing-test-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[0].markCorrect,
+                                    'adaptive-incorrect':answers[0].markIncorrect,
+                                    'adaptive-hidden':answers[0].markHidden}">
+                            <div>{{answers[0].usersLangWord}}</div>
+                        </div>
+                        <br>
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[1])" ng-style="styling('hearing-test-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[1].markCorrect,
+                                    'adaptive-incorrect':answers[1].markIncorrect,
+                                    'adaptive-hidden':answers[1].markHidden}">
+                            <div>{{answers[1].usersLangWord}}</div>
+                        </div>
+                    </div>
+                    <div class="right-answers">
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[2])" ng-style="styling('hearing-test-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[2].markCorrect,
+                                    'adaptive-incorrect':answers[2].markIncorrect,
+                                    'adaptive-hidden':answers[2].markHidden}">
+                            <div>{{answers[2].usersLangWord}}</div>
+                        </div>
+                        <br>
+                        <div class="test-answer transitional" hm-tap="selectedAnswerHandler(answers[3])" ng-style="styling('hearing-test-answer')"
+                             ng-class="{'vertical-mode':vertical,'adaptive-correct':answers[3].markCorrect,
+                                    'adaptive-incorrect':answers[3].markIncorrect,
+                                    'adaptive-hidden':answers[3].markHidden}">
+                            <div>{{answers[3].usersLangWord}}</div>
+                        </div>
+                    </div>
+        
+                </div>
+                <div ng-if="helperMode" class="transitional test-answers-container adaptive-inactive-region"
+                     ng-class="{'vertical-mode':vertical}">
+                    <div class="test-answer transitional helper-mode" ng-repeat="answer in answers track by $index"
+                         hm-tap="selectedAnswerHandler(answer)" ng-style="styling('hearing-test-helper-answer')"
+                         ng-class="{'vertical-mode':vertical,'adaptive-correct':answer.markCorrect,
+             'adaptive-incorrect':answer.markIncorrect,
+             'adaptive-hidden':answer.markHidden}">
+                        <img ng-src="{{answer.img}}"/>
+                    </div>
+                </div>
+            </div>
+            <div id="hearing-phase" ng-if="viewPhase === HEARING_PHASE">
+                <h2 ng-if="!showResult && !mobile" class="description" ng-style="styling('hearing-description')">{{langName(translation.ADL_TRANSLATE)}}</h2>
+                <div class="full-size-absolute adaptive-inactive-region">
+                    <h2 class="definition" hm-tap="playAudio()" ng-style="styling('hearing-definition')">
+                        <span class="glyphicon glyphicon-volume-up play-sound-btn"></span></h2>
+                </div>
+                <div class="single-answer adaptive-inactive-region" ng-class="{'helper-mode':helperMode,'mobile':mobile}">
+                    <div ng-if="showResult">
+                        <div class="correct-info" ng-style="styling('hearing-correct-info')">{{question.usersLangWord}}</div>
+                    </div>
+                    <div ng-if="showResult && answerTextCopy && question.markIncorrect">
+                        <div class="incorrect-info" ng-style="styling('hearing-incorrect-info')">{{answerTextCopy}}</div>
+                    </div>
+                    <!--<div ng-if="showResult" class="form-label" ng-class="{'adaptive-correct':question.markCorrect,-->
+                    <!--'adaptive-incorrect':question.markIncorrect}">-->
+                    <!--{{question.markCorrect ? 'Correct Answer': 'Your Answer'}}-->
+                    <!--</div>-->
+                    
+                    <form id="hearing-form" class="answer-form" ng-if="!showResult"
+                          ng-submit="answerSubmit(answerText)">
+                        <input type="text" ng-model="answerText" name="answerText" class="form-control" ng-style="styling('hearing-answerInput')"
+                               ng-class="{'adaptive-correct':question.markCorrect,
+                                    'adaptive-incorrect':question.markIncorrect}"
+                               placeholder="{{langName(translation.ADL_TRANSLATE)}}..."
+                               autocomplete="off"
+                               ng-disabled="showResult"
+                               show-focus="!showResult"
+                        
+                               required>
+                        <button ng-if="!showResult" type="submit" form="hearing-form"
+                                class=" answer-submit-button abs-correction glyphicon glyphicon-chevron-right "  ng-class="{'mobile':mobile}"></button>
+                    </form>
+                
+                </div>
+
+            
+            </div>
+            <form ng-submit="continueTest()">
+                <button ng-if="showResult" type="submit" show-focus="showResult"
+                        class=" btn glyphicon glyphicon-chevron-right adaptive-continue">
+                </button>
+            
+            
+            </form>
+            <div ng-if="showIWasWrong" class="dont-know"
+                 hm-tap="declarationWrong()">{{translation.ADL_DONT_KNOW}} <i
+                    class="glyphicon glyphicon-remove face "></i>
+            </div>
+            <div ng-if="!showResult && (viewPhase === WRITE_PHASE || viewPhase === WRITE_REVERSE_PHASE || viewPhase === HEARING_PHASE)"
+                 class="dont-know"
+                 hm-tap="answerSubmit('')">{{translation.ADL_DONT_KNOW}} <i
+                    class="glyphicon glyphicon-remove face "></i>
+            </div>
+        </div>
+        <div ng-if="feedback" id="feedback" class="adaptive-inactive-region">
+            <div ng-if="!showReport">
+                <div ng-if="feedback === DECLARATION_DONE_FEEDBACK">
+                    <h2 class="description">{{translation.DECLARATION_DONE_FEEDBACK}}</h2>
+                </div>
+                <div ng-if="feedback === IN_PROGRESS_FEEDBACK">
+                    <h2 class="description">{{translation.IN_PROGRESS_FEEDBACK}}</h2>
+                </div>
+                <div ng-if="feedback === HALF_DONE_FEEDBACK">
+                    <h2 class="description">{{translation.HALF_DONE_FEEDBACK}}</h2>
+                </div>
+                <div ng-if="feedback === ALL_DONE_FEEDBACK">
+                    <h2 ng-if="!assessmentMode" class="description">{{translation.ALL_DONE_FEEDBACK}}</h2>
+                    <div ng-if="assessmentMode" class="assessment-report">
+                        <h2 class="description">{{translation.YOUR_SCORE}} {{assessmentScore}}%</h2>
+                        <div class="report">
+                            <table class="report-table">
+                                <!--<tr>-->
+                                    <!--<th class="word">Tłumaczenie na angielski</th>-->
+                                    <!--<th class="separator"></th>-->
+                                    <!--<th class="word">Tłumaczenie na polski</th>-->
+                                <!--</tr>-->
+                                <tr ng-repeat="item in items">
+                                    <td> <div class="word" ng-class="{'correct':item.phasePoints[WRITE_REVERSE_PHASE] > 0,'incorrect':item.phasePoints[WRITE_REVERSE_PHASE] < 0 }">{{item.toLearnWord}}</div></td>
+                                    <!--<td class="separator"></td>-->
+                                    <td> <div class="word" ng-class="{'correct':item.phasePoints[HEARING_PHASE] > 0,'incorrect':item.phasePoints[HEARING_PHASE] < 0 }">{{item.usersLangWord}}</div></td>
+                                </tr>
+                            </table>
+                        </div>
+                        
+                        
+                    </div>
+                    
+                    
+                </div>
+                <div ng-if="feedback === ERR2_FEEDBACK">
+                    <h2 class="description">{{translation.ERR2_FEEDBACK}}</h2>
+                </div>
+                <div ng-if="feedback === ERR3_FEEDBACK">
+                    <h2 class="description">{{translation.ERR3_FEEDBACK}}</h2>
+                </div>
+                <img ng-if="!assessmentMode" class="main-image adaptive-inactive-region transitional" ng-src="{{feedbackImage}}"/>
+                <div id="feedback-bars" ng-if="!assessmentMode">
+                    <div class="progress ">
+                        <div class="progress-bar seen" role="progressbar" aria-valuenow="{{adaptiveProgress.seen}}"
+                             aria-valuemin="0" aria-valuemax="100" ng-style="feedbackBarWidth(adaptiveProgress.seen)">
+                            <div class="percent-label">{{translation.ADL_NEW}}</div>
+                            <div class="percent-text">{{adaptiveProgress.seen}}%</div>
+                        </div>
+                    </div>
+                    <div class="progress">
+                        <div class="progress-bar acquainted" role="progressbar" aria-valuenow="{{adaptiveProgress.acquainted}}"
+                             aria-valuemin="0" aria-valuemax="100" ng-style="feedbackBarWidth(adaptiveProgress.acquainted)">
+                            <div class="percent-label">{{translation.ADL_SEEN}}</div>
+                            <div class="percent-text">{{adaptiveProgress.acquainted}}%</div>
+                        </div>
+                    </div>
+                    <div class="progress">
+                        <div class="progress-bar learned" role="progressbar" aria-valuenow="{{adaptiveProgress.learned}}"
+                             aria-valuemin="0" aria-valuemax="100" ng-style="feedbackBarWidth(adaptiveProgress.learned)">
+                            <div class="percent-label">{{translation.ADL_ACQUAINTED}}</div>
+                            <div class="percent-text">{{adaptiveProgress.learned}}%</div>
+                        </div>
+                    </div>
+                    <div class="progress ">
+                        <div class="progress-bar mastered" role="progressbar" aria-valuenow="{{adaptiveProgress.mastered}}"
+                             aria-valuemin="0" aria-valuemax="100" ng-style="feedbackBarWidth(adaptiveProgress.mastered)">
+                            <div class="percent-label">{{translation.ADL_MASTERED}}</div>
+                            <div class="percent-text">{{adaptiveProgress.mastered}}%</div>
+                        </div>
+                    </div>
+    
+                </div>
+            </div>
+            <div ng-if="showReport">
+                <table class="report-table" >
+                    <tr>
+                        <th class="word">Word</th>
+                        <th ng-if="!assessmentMode" >Declared known</th>
+                        <th ng-if="allowedPhases[TEST_PHASE]">Test1</th>
+                        <th ng-if="allowedPhases[TEST_REVERSE_PHASE]">Test2</th>
+                        <th ng-if="allowedPhases[WRITE_PHASE]">Writing1</th>
+                        <th ng-if="allowedPhases[WRITE_REVERSE_PHASE]">Writing2</th>
+                        <th ng-if="allowedPhases[HEARING_PHASE]">Hearing</th>
+                    </tr>
+                    <tr ng-repeat="item in items">
+                        <td class="word">{{item.toLearnWord}}</td>
+                        <td ng-if="!assessmentMode" ><i class="glyphicon" ng-class="{'glyphicon-ok':item.givenAnswers[0], 'glyphicon-remove':!item.givenAnswers[0]}"></i></td>
+                        <td ng-if="allowedPhases[TEST_PHASE]" ng-class="{'passed':questionPhases[$index]>TEST_PHASE,'current':questionPhases[$index]===TEST_PHASE}">
+                            <span class="no-answer" ng-if="item.givenAnswers[1].length === 0">-</span>
+                            <span ng-if="item.givenAnswers[1].length > 0">{{item.givenAnswers[1].length}}</span>
+                        </td>
+                        <td ng-if="allowedPhases[TEST_REVERSE_PHASE]" ng-class="{'passed':questionPhases[$index]>TEST_REVERSE_PHASE,'current':questionPhases[$index]===TEST_REVERSE_PHASE}">
+                            <span class="no-answer" ng-if="item.givenAnswers[2].length === 0">-</span>
+                            <span ng-if="item.givenAnswers[2].length > 0">{{item.givenAnswers[2].length}}</span>
+                        </td>
+                        <td ng-if="allowedPhases[WRITE_PHASE]" ng-class="{'passed':questionPhases[$index]>WRITE_PHASE,'current':questionPhases[$index]===WRITE_PHASE}">
+                            <span class="no-answer" ng-if="item.givenAnswers[3].length === 0">-</span>
+                            <span ng-if="item.givenAnswers[3].length > 0">{{item.givenAnswers[3].length}}</span>
+                        </td>
+                        <td ng-if="allowedPhases[WRITE_REVERSE_PHASE]"ng-class="{'passed':questionPhases[$index]>WRITE_REVERSE_PHASE,'current':questionPhases[$index]===WRITE_REVERSE_PHASE}">
+                            <span class="no-answer" ng-if="item.givenAnswers[4].length === 0">-</span>
+                            <span ng-if="item.givenAnswers[4].length > 0">{{item.givenAnswers[4].length}}</span>
+                        </td>
+                        <td ng-if="allowedPhases[HEARING_PHASE]" ng-class="{'passed':questionPhases[$index]>HEARING_PHASE,'current':questionPhases[$index]===HEARING_PHASE}">
+                            <span class="no-answer" ng-if="item.givenAnswers[5].length === 0">-</span>
+                            <span ng-if="item.givenAnswers[5].length > 0">{{item.givenAnswers[5].length}}</span>
+                        </td>
+                        
+                        <!--<td ng-repeat="answers in item.givenAnswers">{{answers.length}}</td>-->
+                    </tr>
+                </table>
+                
+            </div>
+            <!--<button class="btn glyphicon report-btn" ng-class="{'glyphicon-tasks':showReport, 'glyphicon-th-list':!showReport}" ng-click="showReport=!showReport">-->
+            <!--</button>-->
+            
+            <form ng-if="feedback !== ALL_DONE_FEEDBACK || assessmentMode" ng-submit="continueTest()">
+                <button type="submit" show-focus="true"
+                        class=" btn glyphicon glyphicon-chevron-right adaptive-continue">
+                </button>
+    
+    
+            </form>
+        </div>
+       
+    </div>
+    
+    <!--<page-title ng-hide="subPageData && !isSubPage"></page-title>-->
+</section>

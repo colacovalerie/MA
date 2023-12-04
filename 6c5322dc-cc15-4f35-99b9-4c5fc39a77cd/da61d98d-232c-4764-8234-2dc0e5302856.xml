@@ -1,0 +1,963 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="da61d98d-232c-4764-8234-2dc0e5302856">
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 2: Étude de cas — n’ouvrez pas les vannes  •  Comment cette situation aurait-elle pu être évitée?]]></title>
+    <pics>
+      <pic hotid="2" hot="S" noFade="X" y="70" x="0">sc2_p10.png</pic>
+      <pic noFade="X" y="155" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Comment cette situation aurait-elle pu être évitée?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="175" x="478"><![CDATA[1. Vérifiez tous les documents à l’avance.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="210"><![CDATA[2. Envoyer les documents par voie électronique dans la mesure du possible.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="260"><![CDATA[3. Soyez prêt et ayez tous les documents appropriés en règle lorsque vous vous entretenez avec les autorités gouvernementales.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="478"><![CDATA[4. Prévoyez autant de temps que possible lorsque vous planifiez des actions qui nécessitent une interaction avec des autorités gouvernementales.]]></txt>
+      <txt c="X" fontcolor="0c0254" s="2" align="left" rpo="3,4,5,6" y="175"><![CDATA[5. Il est également important de se préparer sur le plan opérationnel :]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="450" align="left" delay="0" x="490"><![CDATA[Obtenez des informations détaillées auprès de l’agent portuaire sur la façon d’effectuer les paiements officiels (frais, amendes) avant de vous entretenir avec des autorités gouvernementales. Cela vous permettra d’éviter les transactions en espèces. Vous montrez également que vous avez connaissance des exigences locales.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[Informez d’avance l’agent portuaire concernant la politique de lutte contre la corruption de votre société et sur le fait que les tiers agissant au nom de votre entreprise sont tenus d’appliquer les mêmes règles.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[Faites en sorte que des panneaux concernant la lutte contre la corruption sont clairement visibles aux visiteurs, par exemple, sur la passerelle.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 2: Case Study – Don’t Open the Floodgates  •  How Could this Situation be Prevented?]]></title>
+    <pics>
+      <pic hotid="3" hot="S" noFade="X" y="70" x="0">sc2_p10.png</pic>
+      <pic noFade="X" y="155" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[How Could this Situation be Prevented?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="175" x="478"><![CDATA[1. Double check all documentation in advance.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="210"><![CDATA[2. Submit documentation electronically when possible, e.g. pre-arrival documents.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="260"><![CDATA[3. Have all relevant documentation in order and have it ready when meeting with the government officials.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="478"><![CDATA[4. Include as much lead time as possible when planning actions that require government interaction.]]></txt>
+      <txt c="X" fontcolor="0c0254" s="2" align="left" rpo="3,4,5,6" y="175"><![CDATA[5. It is also important to be prepared operationally in advance:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="450" align="left" delay="0" x="490"><![CDATA[Get detailed information from the agent on how official payments (fees, fines) are paid before speaking with government officials. This will help you to avoid cash transactions. You also show that you are aware of local requirements.
+]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[Inform the agent in advance of your company’s anti-corruption policy, and of the fact that third parties acting on your company’s behalf must enforce the same rules.
+]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[Have anti-corruption signs clearly visible for visitors, e.g. at the gangway.
+]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 2 节： 案例研究 - 不要开先例  •  如何防范这种情形？]]></title>
+    <pics>
+      <pic hotid="4" hot="S" noFade="X" y="70" x="0">sc2_p10.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[如何防范这种情形？]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" w="470" align="left" delay="0" y="155" x="478"><![CDATA[1. 提前复查所有文档。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0"><![CDATA[2. 如可能，提交电子版本的资料。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0"><![CDATA[3. 在与政府官员会面前准备好所有相关文档。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0" x="478"><![CDATA[4. 规划需要政府介入的措施时，尽可能多预留时间。]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="18" s="2" align="left" rpo="3,4,5,6" y="155"><![CDATA[5. 在操作方面提前做好准备也同样重要：]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0" x="490"><![CDATA[在与政府官员谈话前向代理详细了解向官方付费（费用、罚款）的方式。这会帮助您避免现金交易。还可表明您了解当地的要求。]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[提前通知代理您公司的反腐败政策，并告之代表公司行事的第三方必须遵循同样的规则。]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[准备能让来宾清楚看到的反腐败标志，例如在通道中张贴。]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+     <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 2: Caso práctico - No abra las compuertas  •  ¿Cómo se podría prevenir esta situación?]]></title>
+    <pics>
+      <pic hotid="6" hot="S" noFade="X" y="70" x="0">sc2_p10.png</pic>
+      <pic noFade="X" y="149" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[¿Cómo se podría prevenir esta situación?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="175" x="478"><![CDATA[1. Revise con antelación toda la documentación:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="210"><![CDATA[2. Presente la documentación de manera electrónica cuando sea posible.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="260"><![CDATA[3. Tenga al día toda la documentación pertinente y téngala lista cuando se reúna con los funcionarios gubernamentales.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="478"><![CDATA[4. Cuente con el mayor tiempo posible en la planificación de acciones que requieran la interacción del gobierno.
+
+]]></txt>
+      <txt c="X" fontcolor="0c0254" s="2" align="left" rpo="3,4,5,6" y="175"><![CDATA[5. También es importante prepararse con antelación a nivel operativo:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="450" align="left" delay="0" x="490"><![CDATA[Pida al agente información detallada sobre cómo se emiten los pagos oficiales (tasas, multas) antes de hablar con los funcionarios gubernamentales. Esto le ayudará a evitar las transacciones en efectivo. También demuestra que está al tanto de los requisitos locales.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[Informe con antelación al agente de la política anticorrupción de su compañía y de que los terceros que actúen en nombre de su compañía deben hacer cumplir las mismas normas.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[Coloque carteles anticorrupción claramente visibles para los visitantes, por ejemplo, en la pasarela.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 2: Изучение конкретной ситуации — Не выпускайте джинна из бутылки  •  Как можно было бы предотвратить эту ситуацию?]]></title>
+    <pics>
+      <pic hotid="8" hot="S" noFade="X" y="70" x="0">sc2_p10.png</pic>
+      <pic noFade="X" y="149" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Как можно было бы предотвратить эту ситуацию?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="175" x="478"><![CDATA[Заранее перепроверяйте все документы.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[По возможности, предоставляйте документацию в электронном виде.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[Содержите в порядке всю необходимую документацию и будьте готовы предъявить ее при встрече с представителями органов власти.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="478"><![CDATA[Выделите время на подготовку и тщательно планируйте любые мероприятия, которые подразумевают взаимодействие с органами власти.]]></txt>
+      <txt c="X" fontcolor="0c0254" s="2" align="left" rpo="3,4,5,6" y="175"><![CDATA[Заранее решайте оперативные вопросы:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="450" align="left" delay="0" x="490"><![CDATA[Перед встречей с представителями органов власти узнайте у агента, как осуществляются официальные платежи (сборы, штрафы). Это поможет избежать операций с наличными. Кроме того, это покажет, что вы в курсе местных требований.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[Заранее проинформируйте агента об антикоррупционной политике своей компании и о том, что третьи лица, действующие в интересах компании, также обязаны следовать этим правилам.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[Разместите антикоррупционные таблички на видном месте, например рядом с трапом.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 2: دراسة حالة - لا تفتح الباب على مصراعيه  •  كيف يمكن منع حدوث هذا الموقف؟]]></title>
+    <pics>
+      <pic hotid="9" hot="S" noFade="X" y="70" x="0">sc2_p10.png</pic>
+      <pic noFade="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="478"><![CDATA[ كيف يمكن منع حدوث هذا الموقف؟]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="17" s="2" w="450" align="left" delay="0" y="155" x="478"><![CDATA[• تحقق مرة أخرى من جميع الوثائق مسبقًا.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="17" s="2" align="left" delay="0" y="210"><![CDATA[• تقديم الوثائق إلكترونياً إن أمكن.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="17" s="2" align="left" delay="0" y="260"><![CDATA[• قم بترتيب جميع الوثائق ذات الصلة وجعلها جاهزة عند الاجتماع مع المسؤولين الحكوميين.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="17" s="2" align="left" delay="0" x="478"><![CDATA[• خصيص أكبر قدر ممكن من وقت التنفيذ عند التخطيط للإجراءات التي تتطلب التعامل مع الحكومة.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="17" s="2" w="450" align="left" rpo="3,4,5,6" y="155" x="478"><![CDATA[• من المهم أيضًا أن تكون مستعدًا مسبقًا من الناحية التشغيلية:]]></txt>
+      <txt c="X" swp="X" fontsize="17" s="2" w="450" align="left" delay="0" x="478"><![CDATA[• احصل على معلومات تفصيلية من الوكيل عن كيفية سداد المدفوعات الرسمية (الغرامات والرسوم) قبل التحدث مع المسؤولين الحكوميين. هذا سوف يساعد في تجنب المعاملات النقدية، كما يُظهر أيضًا أنك على دراية بالاشتراطات المحلية.]]></txt>
+      <txt c="X" swp="X" fontsize="17" s="2" align="left" delay="0"><![CDATA[• أبلغ الوكيل مسبقًا بسياسة مكافحة الفساد الخاصة بشركتك، وحقيقة أن الأطراف الأخرى التي تعمل نيابة عن شركتك يجب أن تفرض نفس القواعد.]]></txt>
+      <txt c="X" swp="X" fontsize="17" s="2" align="left" delay="0"><![CDATA[• ضع لوحات مكافحة الفساد في مكان مرئي للزوار على سبيل المثال على سلم السفينة.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages>
+    <page level="FR" id="1">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[]]></title>
+      <pics>
+        <pic fps="25" nv="sc2__p10.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="14840"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="22160"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="29240"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="34560"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="44440"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="53040"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="65520"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>How Could this Situation be Prevented? 1. Double check all documentation in advance. 2. Submit documentation electronically when possible, e.g. pre-arrival documents.
+
+
+</sndTxt>
+        <sndTxt>3. Have all relevant documentation in order and have it ready when meeting with the government officials.
+</sndTxt>
+        <sndTxt>4. Include as much lead time as possible when planning actions that require government interaction.
+</sndTxt>
+        <sndTxt>5. It is also important to be prepared operationally in advance:</sndTxt>
+        <sndTxt>Get detailed information from the agent on how official payments (fees, fines) are paid before speaking with government officials. </sndTxt>
+        <sndTxt>This will help you to avoid cash transactions. You also show that you are aware of local requirements.
+</sndTxt>
+        <sndTxt>Inform the agent in advance of your company’s anti-corruption policy, and of the fact that third parties acting on your company’s behalf must enforce the same rules.
+</sndTxt>
+        <sndTxt>Have anti-corruption signs clearly visible for visitors, e.g. at the gangway.
+</sndTxt>
+      </soundTexts>
+    </page>
+    <page level="EN" id="2">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic fps="25" nv="sc2_p10.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="14840"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="22160"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="29240"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="34560"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="44440"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="53040"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="65520"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Comment cette situation aurait-elle pu être évitée ? 1. Vérifiez tous les documents à l’avance. 2. Envoyer les documents par voie électronique dans la mesure du possible.</sndTxt>
+        <sndTxt>3. Soyez prêt et ayez tous les documents appropriés en règle lorsque vous vous entretenez avec les autorités gouvernementales.</sndTxt>
+        <sndTxt>4. Prévoyez autant de temps que possible lorsque vous planifiez des actions qui nécessitent une interaction avec des autorités gouvernementales.</sndTxt>
+        <sndTxt>5. Il est également important de se préparer sur le plan opérationnel :</sndTxt>
+        <sndTxt>Obtenez des informations détaillées auprès de l’agent portuaire sur la façon d’effectuer les paiements officiels (frais, amendes) avant de vous entretenir avec des autorités gouvernementales.</sndTxt>
+        <sndTxt>Cela vous permettra d’éviter les transactions en espèces. Vous montrez également que vous avez connaissance des exigences locales.</sndTxt>
+        <sndTxt>Informez d’avance l’agent portuaire concernant la politique de lutte contre la corruption de votre société et sur le fait que les tiers agissant au nom de votre entreprise sont tenus d’appliquer les mêmes règles.</sndTxt>
+        <sndTxt>Faites en sorte que des panneaux concernant la lutte contre la corruption sont clairement visibles aux visiteurs, par exemple, sur la passerelle.</sndTxt>
+      </soundTexts>
+    </page>
+    <page level="CH" id="3">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic fps="25" nv="sc2_p10.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="14840"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="22160"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="29240"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="34560"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="44440"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="53040"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="65520"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>How Could this Situation be Prevented? 1. Double check all documentation in advance. 2. Submit documentation electronically when possible, e.g. pre-arrival documents.</sndTxt>
+        <sndTxt>3. Have all relevant documentation in order and have it ready when meeting with the government officials.</sndTxt>
+        <sndTxt>4. Include as much lead time as possible when planning actions that require government interaction.</sndTxt>
+        <sndTxt>5. It is also important to be prepared operationally in advance:</sndTxt>
+        <sndTxt>Get detailed information from the agent on how official payments (fees, fines) are paid before speaking with government officials. </sndTxt>
+        <sndTxt>This will help you to avoid cash transactions. You also show that you are aware of local requirements.
+</sndTxt>
+        <sndTxt>Inform the agent in advance of your company’s anti-corruption policy, and of the fact that third parties acting on your company’s behalf must enforce the same rules.
+</sndTxt>
+        <sndTxt>Have anti-corruption signs clearly visible for visitors, e.g. at the gangway.
+</sndTxt>
+      </soundTexts>
+    </page>
+    <page level="CH" id="4">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[  ]]></title>
+      <pics>
+        <pic fps="25" nv="sc2_p10.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="14840"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="22160"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="29240"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="34560"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="44440"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="53040"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="65520"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>如何防范这种情形？ 提前复查所有文档。如可能，提交电子版本的资料。</sndTxt>
+        <sndTxt>在与政府官员会面前准备好所有相关文档。</sndTxt>
+        <sndTxt>规划需要政府介入的措施时，尽可能多预留时间。</sndTxt>
+        <sndTxt>在操作方面提前做好准备也同样重要：</sndTxt>
+        <sndTxt>在与政府官员谈话前向代理详细了解向官方付费（费用、罚款）的方式。</sndTxt>
+        <sndTxt>这会帮助您避免现金交易。还可表明您了解当地的要求。</sndTxt>
+        <sndTxt>提前通知代理您公司的反腐败政策，并告之代表公司行事的第三方必须遵循同样的规则。</sndTxt>
+        <sndTxt>准备能让来宾清楚看到的反腐败标志，例如在通道中张贴。</sndTxt>
+      </soundTexts>
+    </page>
+    <page level="ES" id="6">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic fps="25" nv="sc2_p10.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="14840"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="22160"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="29240"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="34560"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="44440"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="53040"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="65520"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>¿Cómo se podría prevenir esta situación? 1. Revise con antelación toda la documentación:. 2. Presente la documentación de manera electrónica cuando sea posible.</sndTxt>
+        <sndTxt>3. Tenga al día toda la documentación pertinente y téngala lista cuando se reúna con los funcionarios gubernamentales.</sndTxt>
+        <sndTxt>4. Cuente con el mayor tiempo posible en la planificación de acciones que requieran la interacción del gobierno.</sndTxt>
+        <sndTxt>5. También es importante prepararse con antelación a nivel operativo:</sndTxt>
+        <sndTxt>Pida al agente información detallada sobre cómo se emiten los pagos oficiales (tasas, multas) antes de hablar con los funcionarios gubernamentales. </sndTxt>
+        <sndTxt>Esto le ayudará a evitar las transacciones en efectivo. También demuestra que está al tanto de los requisitos locales.</sndTxt>
+        <sndTxt>Informe con antelación al agente de la política anticorrupción de su compañía y de que los terceros que actúen en nombre de su compañía deben hacer cumplir las mismas normas.</sndTxt>
+        <sndTxt>Coloque carteles anticorrupción claramente visibles para los visitantes, por ejemplo, en la pasarela.</sndTxt>
+      </soundTexts>
+    </page>
+    <page level="RU" id="8">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic fps="25" nv="sc2_p10.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="14840"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="22160"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="29240"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="34560"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="44440"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="53040"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="65520"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Как можно было бы предотвратить эту ситуацию? Заранее перепроверяйте все документы. По возможности, предоставляйте документацию в электронном виде.</sndTxt>
+        <sndTxt>Содержите в порядке всю необходимую документацию и будьте готовы предъявить ее при встрече с представителями органов власти.</sndTxt>
+        <sndTxt>Выделите время на подготовку и тщательно планируйте любые мероприятия, которые подразумевают взаимодействие с органами власти.</sndTxt>
+        <sndTxt>Заранее решайте оперативные вопросы:</sndTxt>
+        <sndTxt>Перед встречей с представителями органов власти узнайте у агента, как осуществляются официальные платежи (сборы, штрафы). Это поможет избежать операций с наличными.</sndTxt>
+        <sndTxt>Кроме того, это покажет, что вы в курсе местных требований.</sndTxt>
+        <sndTxt>Заранее проинформируйте агента об антикоррупционной политике своей компании и о том, что третьи лица, действующие в интересах компании, также обязаны следовать этим правилам.</sndTxt>
+        <sndTxt>Разместите антикоррупционные таблички на видном месте, например рядом с трапом.</sndTxt>
+      </soundTexts>
+    </page>
+    <page level="AR" id="9">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic fps="25" nv="sc2_p10.mp4" exactfit="X" h="557" w="990">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+  </subpages>
+</pages>

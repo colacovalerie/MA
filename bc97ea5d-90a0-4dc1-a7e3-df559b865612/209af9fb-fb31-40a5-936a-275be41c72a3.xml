@@ -1,0 +1,455 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="209af9fb-fb31-40a5-936a-275be41c72a3">
+  <page level="EN">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Prevent Risks]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p11.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Prevent Risks]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="149" x="478"><![CDATA[1. Double check all documentation in advance:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[e.g. Check individual crewmembers’ paperwork and escalate directly to your crew operator if the paperwork is not in order. This may include crew visas, yellow fever certificates, employment contracts, etc.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="450" align="left" delay="0" x="478"><![CDATA[2. Submit documentation electronically where possible:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[e.g. pre-arrival documents.]]></txt>
+      <txt c="X" txtFade="X" fontcolor="0c0254" s="2" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[3. Have all relevant documentation in order and have it ready when meeting with government officials.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" rpo="3"><![CDATA[4. Include as much time to prepare as possible when planning actions that require government interaction.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" rpo="4" delay="0"><![CDATA[5. It is also important to be prepared operationally in advance:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" rpo="5" delay="0" x="500"><![CDATA[e.g. Discharge expired medicine and check all medicine lists to ensure they reflect the actual medical supply.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Prevent Risks. 1. Double check all documentation in advance:  •  e.g. Check individual crewmembers’ paperwork and escalate directly to your crew operator if the paperwork is not in order. This may include crew visas, yellow fever certificates, employment contracts, etc. 2. Submit documentation electronically where possible: •  e.g. pre-arrival documents.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3. Have all relevant documentation in order and have it ready when meeting with government officials. 4. Include as much time to prepare as possible when planning actions that require government interaction. 5. It is also important to be prepared operationally in advance:  •  e.g. Discharge expired medicine and check all medicine lists to ensure they reflect the actual medical supply.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Éviter les risques]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p11.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Éviter les risques]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="149" x="478"><![CDATA[1. Vérifiez tous les documents à l’avance.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[Par ex., vérifiez les documents de chaque membre d’équipage et signalez à l’exploitant si l’un des documents n’est pas en règle. Il peut s’agir de visas pour l’équipage, de certificats de vaccination contre la fièvre jaune, de contrats de travail, etc.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="450" align="left" delay="0" x="478"><![CDATA[2. Envoyez les documents par voie électronique dans la mesure du possible:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[o par ex., documents préalables à l’arrivée.]]></txt>
+      <txt c="X" txtFade="X" fontcolor="0c0254" s="2" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[3. Soyez prêt et ayez tous les documents appropriés en règle lorsque vous vous entretenez avec des autorités gouvernementales.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" rpo="3"><![CDATA[4. Prévoyez autant de temps que possible pour la préparation lorsqu’il s’agit de planifier des actions qui nécessitent une interaction avec des autorités gouvernementales.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" rpo="4" delay="0"><![CDATA[5. Il est également important de se préparer sur le plan opérationnel:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" rpo="5" delay="0" x="500"><![CDATA[par exemple, éliminez les médicaments périmés et vérifiez toutes les listes de médicaments pour s’assurer que celles-ci reflètent la réserve réelle de fournitures médicales.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Éviter les risques. 1. Vérifiez tous les documents à l’avance. • Par ex., vérifiez les documents de chaque membre d’équipage et signalez à l’exploitant si l’un des documents n’est pas en règle. Il peut s’agir de visas pour l’équipage, de certificats de vaccination contre la fièvre jaune, de contrats de travail, etc. 2. Envoyez les documents par voie électronique dans la mesure du possible: •  o par ex., documents préalables à l’arrivée.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3.Soyez prêt et ayez tous les documents appropriés en règle lorsque vous vous entretenez avec des autorités gouvernementales. 4. Prévoyez autant de temps que possible pour la préparation lorsqu’il s’agit de planifier des actions qui nécessitent une interaction avec des autorités gouvernementales. 5. Il est également important de se préparer sur le plan opérationnel: •  par exemple, éliminez les médicaments périmés et vérifiez toutes les listes de médicaments pour s’assurer que celles-ci reflètent la réserve réelle de fournitures médicales.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 1 节： 简介  •  阻止风险]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p11.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[阻止风险
+]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" delay="0" y="149" x="478"><![CDATA[1. 提前复查所有文档。]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" w="440" align="left" delay="0" x="500"><![CDATA[例如，检查每个船员的资料，如果发现不合格的地方，直接上报船务文员。这可能包括船员签证、黄热病证明、雇佣合同等。
+]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" w="450" align="left" delay="0" x="478"><![CDATA[2. 如可能提交电子版本的资料：]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" w="440" align="left" delay="0" x="500"><![CDATA[例如，入境前文档。]]></txt>
+      <txt c="X" txtFade="X" fontcolor="0c0254" fontsize="18" s="1" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[3. 在与政府官员会面前准备好所有相关文档。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" rpo="3"><![CDATA[4. 规划需要政府介入的措施时，尽可能多留出准备时间。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" rpo="4" delay="0"><![CDATA[5. 在操作方面提前做好准备也同样重要：]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" w="440" align="left" rpo="5" delay="0" x="500"><![CDATA[例如，排除过期药品并检查所有药品清单，以确保它们反映实际的医疗用品供应情况。
+
+]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>阻止风险。   1  提前复查所有文档。
+例如，检查每个船员的资料，如果发现不合格的地方，直接上报船务文员。这可能包括船员签证、黄热病证明、雇佣合同等。2 如可能提交电子版本的资料：例如，入境前文档。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3 在与政府官员会面前准备好所有相关文档。4 规划需要政府介入的措施时，尽可能多留出准备时间。5 在操作方面提前做好准备也同样重要：  •  例如，排除过期药品并检查所有药品清单，以确保它们反映实际的医疗用品供应情况。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 1: Introducción  •  Prevención de riesgos]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p11.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Prevención de riesgos]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="149" x="478"><![CDATA[1. Revise con antelación toda la documentación:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[por ejemplo, compruebe la documentación de cada miembro de la tripulación y lleve el caso directamente al operador de la tripulación si la documentación no está en orden. Esto puede incluir visas de la tripulación, certificados de fiebre amarilla, contratos de empleo, etc.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="450" align="left" delay="0" x="478"><![CDATA[2. Presente la documentación de manera electrónica cuando sea posible:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[por ejemplo, los documentos previos a la llegada.]]></txt>
+      <txt c="X" txtFade="X" fontcolor="0c0254" s="2" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[3. Tenga al día toda la documentación pertinente y téngala lista cuando se reúna con los funcionarios gubernamentales.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" rpo="3"><![CDATA[4. Dedique el mayor tiempo de preparación posible a la hora de planificar las acciones que requieran la interacción del gobierno.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" rpo="4" delay="0"><![CDATA[También es importante prepararse con antelación a nivel operativo:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" rpo="5" delay="0" x="500"><![CDATA[por ejemplo, descartar los medicamentos caducados y comprobar todas las listas de medicamentos para asegurarse de que reflejen el suministro médico real.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Prevención de riesgos. Revise con antelación toda la documentación:por ejemplo, compruebe la documentación de cada miembro de la tripulación y lleve el caso directamente al operador de la tripulación si la documentación no está en orden. Esto puede incluir visas de la tripulación, certificados de fiebre amarilla, contratos de empleo, etc.Presente la documentación de manera electrónica cuando sea posible:por ejemplo, los documentos previos a la llegada.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Tenga al día toda la documentación pertinente y téngala lista cuando se reúna con los funcionarios gubernamentales. Dedique el mayor tiempo de preparación posible a la hora de planificar las acciones que requieran la interacción del gobierno. También es importante prepararse con antelación a nivel operativo: por ejemplo, descartar los medicamentos caducados y comprobar todas las listas de medicamentos para asegurarse de que reflejen el suministro médico real.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 1: Введение  •  Предотвращайте риски]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p11.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Предотвращайте риски]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="149" x="478"><![CDATA[Заранее перепроверяйте все документы.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[Например, проверяйте документы членов экипажа и, если что-то не в порядке, обращайтесь напрямую к крюинг-оператору. Речь идет о таких документах, как визы, свидетельства о вакцинации против желтой лихорадки, договоры найма и другие.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="450" align="left" delay="0" x="478"><![CDATA[Если возможно, предоставляйте документацию в электронном виде:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[например, документы, требуемые перед приходом судна.]]></txt>
+      <txt c="X" txtFade="X" fontcolor="0c0254" s="2" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[Содержите в порядке всю необходимую документацию и будьте готовы предъявить ее при встрече с представителями государственных органов.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" rpo="3"><![CDATA[Выделите время на подготовку и тщательно планируйте любые мероприятия, которые подразумевают взаимодействие с органами власти.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" rpo="4" delay="0"><![CDATA[Заранее решайте оперативные вопросы:]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" rpo="5" delay="0" x="500"><![CDATA[Например, удаляйте лекарства с истекшим сроком годности и сверяйте списки лекарств с фактическими запасами.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Предотвращайте риски. Заранее перепроверяйте все документы.Например, проверяйте документы членов экипажа и, если что-то не в порядке, обращайтесь напрямую к крюинг-оператору. Речь идет о таких документах, как визы, свидетельства о вакцинации против желтой лихорадки, договоры найма и другие.Если возможно, предоставляйте документацию в электронном виде:например, документы, требуемые перед приходом судна.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Содержите в порядке всю необходимую документацию и будьте готовы предъявить ее при встрече с представителями государственных органов.Выделите время на подготовку и тщательно планируйте любые мероприятия, которые подразумевают взаимодействие с органами власти.Заранее решайте оперативные вопросы:Например, удаляйте лекарства с истекшим сроком годности и сверяйте списки лекарств с фактическими запасами</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 1  •  الحد من المخاطر]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p11.png</pic>
+      <pic y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p11_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="478"><![CDATA[الحد من المخاطر]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0" y="149" x="478"><![CDATA[• تحقق مرة أخرى من جميع الوثائق مسبقًا.]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="440" align="left" delay="0" x="500"><![CDATA[    • على سبيل المثال: تحقق من الأوراق الخاصة بكل فرد من أفراد الطاقم وقم بتصعيد الأمر مباشرة إلى مشغل الطاقم إذا كانت الأوراق غير سليمة. قد يشمل ذلك تأشيرات الطاقم وشهادات الحمى الصفراء وعقود العمل وما إلى ذلك.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" w="450" align="left" delay="0" x="478"><![CDATA[• تقديم الوثائق إلكترونياً إن أمكن:]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="440" align="left" delay="0" x="500"><![CDATA[    •على سبيل المثال: مستندات ما قبل الوصول.]]></txt>
+      <txt c="X" txtFade="X" fontcolor="0c0254" fontsize="18" s="2" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[•قم بترتيب جميع الوثائق ذات الصلة وجعلها جاهزة عند الاجتماع مع المسؤولين الحكوميين.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="3"><![CDATA[•خصص أكبر قدر ممكن من الوقت للاستعداد عند التخطيط للإجراءات التي تتطلب التعامل مع الحكومة.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" rpo="4" delay="0"><![CDATA[•من المهم أيضًا أن تكون مستعدًا مسبقًا من الناحية التشغيلية:]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="440" align="left" rpo="5" delay="0" x="500"><![CDATA[•على سبيل المثال قم بالتخلص من الأدوية منتهية الصلاحية وتحقق من جميع قوائم الأدوية للتأكد من أنها تعكس الإمدادات الطبية الفعلية.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

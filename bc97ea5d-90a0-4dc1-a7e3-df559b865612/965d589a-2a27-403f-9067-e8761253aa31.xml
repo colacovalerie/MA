@@ -1,0 +1,381 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="965d589a-2a27-403f-9067-e8761253aa31">
+  <page level="EN">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Corruption is Regulated Globally]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p5.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Corruption is Regulated Globally]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="149"><![CDATA[The two main anti-corruption laws that have a global reach are:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0" y="180" x="478"><![CDATA[1. The US Foreign Corrupt Practices Act (FCPA)]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[Applies to virtually all the world’s largest companies and makes the bribery of foreign government officials illegal.]]></txt>
+      <txt c="X" txtFade="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="3" delay="0" y="180" x="478"><![CDATA[2. The UK Bribery Act]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[Sets high anti-corruption standards which companies must live up to. It has a global jurisdiction, meaning that it is not only limited to companies that are based in the UK. The Act classifies all bribery and facilitation payments as illegal, and thereby makes no distinction between them.]]></txt>
+      <txt c="X" swp="X" s="2" w="450" align="left" delay="0" x="478"><![CDATA[During the past few years, many countries have followed the strict regulations that the UK put forward in 2010. Countries are focusing more time and resources to tackle the problems caused by facilitation payments including companies who continue to pay these, and applying a global jurisdiction.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Corruption is Regulated Globally. The two main anti-corruption laws that have a global reach are:•  The US Foreign Corrupt Practices Act (FCPA).•  Applies to virtually all the world’s largest companies and makes the bribery of foreign government officials illegal.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>•  The UK Bribery Act•  Sets high anti-corruption standards which companies must live up to. It has a global jurisdiction, meaning that it is not only limited to companies that are based in the UK. The Act classifies all bribery and facilitation payments as illegal, and thereby makes no distinction between them.During the past few years, many countries have followed the strict regulations that the UK put forward in 2010. Countries are focusing more time and resources to tackle the problems caused by facilitation payments including companies who continue to pay these, and applying a global jurisdiction.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  La corruption est réglementée à l’échelle du globe]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p5.png</pic>
+      <pic noFade="X" y="155" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="155" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[La corruption est réglementée à l’échelle du globe]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="175"><![CDATA[Les deux lois anticorruption principales qui ont une portée mondiale sont les suivantes:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0" x="478"><![CDATA[1. La loi américaine sur les pratiques de corruption à l’étranger (Foreign Corrupt Practices Act)]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[Cette loi s’applique essentiellement à toutes les plus grandes sociétés du monde et rend illégale la corruption de fonctionnaires de gouvernements étrangers.]]></txt>
+      <txt c="X" txtFade="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="2,3,4" delay="0" y="175" x="478"><![CDATA[2. La loi sur la corruption du Royaume-Uni (UK Bribery Act)]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" y="228" x="500"><![CDATA[Cette loi fixe des normes anticorruption strictes que les entreprises doivent respecter. Sa juridiction mondiale implique que celle-ci ne se limite pas uniquement aux sociétés dont le siège est au Royaume-Uni. La loi classe toutes les formes de corruption et de paiements de facilitation comme illégales et ne fait ainsi aucune distinction entre elles.]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" x="478"><![CDATA[Au cours des dernières années, de nombreux pays ont suivi les réglementations strictes que le Royaume-Uni a imposées en 2010. Les pays dévouent désormais plus de temps et de ressources aux problèmes causés par les paiements de facilitation et aux entreprises qui continuent de les payer en appliquant une compétence mondiale.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>La corruption est réglementée à l’échelle du globe. Les deux lois anticorruption principales qui ont une portée mondiale sont les suivantes: 1. La loi américaine sur les pratiques de corruption à l’étranger (Foreign Corrupt Practices Act) •  Cette loi s’applique essentiellement à toutes les plus grandes sociétés du monde et rend illégale la corruption de fonctionnaires de gouvernements étrangers.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>2. La loi sur la corruption du Royaume-Uni (UK Bribery Act). •  Cette loi fixe des normes anticorruption strictes que les entreprises doivent respecter. Sa juridiction mondiale implique que celle-ci ne se limite pas uniquement aux sociétés dont le siège est au Royaume-Uni. La loi classe toutes les formes de corruption et de paiements de facilitation comme illégales et ne fait ainsi aucune distinction entre elles. Au cours des dernières années, de nombreux pays ont suivi les réglementations strictes que le Royaume-Uni a imposées en 2010. Les pays dévouent désormais plus de temps et de ressources aux problèmes causés par les paiements de facilitation et aux entreprises qui continuent de les payer en appliquant une compétence mondiale.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 1 节： 简介  •  全球都对腐败制定了法规]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p5.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[全球都对腐败制定了法规]]></txt>
+      <txt c="X" swp="X" fontsize="15" s="1" align="left" delay="0" y="149"><![CDATA[在全球有两部深有影响的反腐败法：]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" delay="0" y="180" x="478"><![CDATA[1. 美国海外反腐败法 (FCPA)]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="15" s="2" w="440" align="left" delay="0" x="500"><![CDATA[几乎全球所有最大的公司都在运用这一法案，将贿赂外国政府官员视为非法行为。]]></txt>
+      <txt c="X" txtFade="X" fontcolor="0c0254" fontsize="18" s="1" align="left" rpo="3" delay="0" y="180" x="478"><![CDATA[2. 英国反贿赂法]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="15" s="2" w="440" align="left" delay="0" x="500"><![CDATA[设立公司必须遵守的反腐败高标准。它具备全球管辖权，所以管辖对象不仅限于总部在英国的公司。该法案将所有贿赂和便利费均归类为非法，使得两者之间无区别。
+]]></txt>
+      <txt c="X" swp="X" fontsize="15" s="2" w="450" align="left" delay="0" x="478"><![CDATA[在过去几年中，许多国家都采纳了英国在 2010 年发布的严格法规。许多国家更关注解决由便利费引发的问题所需的时间和资源（包括一直支付这些费用的公司）以及运用全球管辖权。
+
+]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>在全球有两部深有影响的反腐败法：•  美国海外反腐败法 (FCPA)•  几乎全球所有最大的公司都在运用这一法案，将贿赂外国政府官员视为非法行为。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>•  英国反贿赂法
+•  设立公司必须遵守的反腐败高标准。它具备全球管辖权，所以管辖对象不仅限于总部在英国的公司。该法案将所有贿赂和便利费均归类为非法，使得两者之间无区别。
+在过去几年中，许多国家都采纳了英国在 2010 年发布的严格法规。许多国家更关注解决由便利费引发的问题所需的时间和资源（包括一直支付这些费用的公司）以及运用全球管辖权。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 1  •  يخضع الفساد للرقابة على مستوى العالم]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p5.png</pic>
+      <pic y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="1" align="right" delay="0" y="74" x="478"><![CDATA[يخضع الفساد للرقابة على مستوى العالم]]></txt>
+      <txt crct="28" c="X" swp="X" fontsize="16" s="2" align="right" delay="0" y="149"><![CDATA[إن القانونين الرئيسيين لمكافحة الفساد اللذين لهما نطاقاً عالمياً هما:]]></txt>
+      <txt crct="33" c="X" swp="X" fontcolor="0c0254" fontsize="20" s="1" align="left" delay="0" y="180" x="478"><![CDATA[• قانون الممارسات الأجنبية الفاسدة الأمريكي (FCPA)]]></txt>
+      <txt crct="72" c="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0" x="478"><![CDATA[• يسري فعليًا على أكبر الشركات في العالم ويجعل رشوة المسؤولين الحكوميين الأجانب غير قانونية.]]></txt>
+      <txt crct="91" c="X" txtFade="X" fontcolor="0c0254" fontsize="20" s="1" align="left" rpo="3" delay="0" y="180" x="478"><![CDATA[• قانون الرشوة في المملكة المتحدة]]></txt>
+      <txt crct="92" c="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0" x="478"><![CDATA[• يضع معايير عالية لمكافحة الفساد يجب على الشركات الالتزام بها. لهذا القانون ولاية قضائية عالمية، مما يعني أنه لا يقتصر فقط على الشركات التي توجد مقراتها في المملكة المتحدة. يصنف القانون جميع المدفوعات التي تتم بغرض الرشوة والتسهيل على أنها غير قانونية، وبالتالي لا يميز بينها.]]></txt>
+      <txt crct="31" c="X" swp="X" s="2" w="450" align="left" delay="0" x="478"><![CDATA[خلال السنوات القليلة الماضية، اتبعت العديد من الدول اللوائح الصارمة التي وضعتها المملكة المتحدة في عام 2010. تُسخر البلدان المزيد من الوقت والموارد لمعالجة المشكلات التي تسببها المدفوعات التي تتم بغرض التسهيل والتيسير، بما في ذلك الشركات التي تواصل اتباع هذا النهج، وتعمل على تطبيق الاختصاص القضائي العالمي.]]></txt>
+      <txt crct="78" c="X" s="2" align="left"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 1: Introducción  •  La corrupción está regulada a nivel internacional]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p5.png</pic>
+      <pic y="155" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" w="600" align="left" delay="0" y="74" x="478"><![CDATA[La corrupción está regulada a nivel internacional]]></txt>
+      <txt c="X" swp="X" s="2" w="510" align="left" delay="0" y="175"><![CDATA[Las dos principales leyes anticorrupción que tienen alcance internacional son:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" w="470" align="left" delay="0" y="220" x="478"><![CDATA[1. La Ley de Prácticas Corruptas en el Extranjero (FCPA, por sus siglas en inglés) de los Estados Unidos]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[Prácticamente, aplica a todas las compañías más grandes del mundo y logra que el soborno de funcionarios gubernamentales extranjeros sea ilegal.]]></txt>
+      <txt c="X" txtFade="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="3" delay="0" y="220" x="478"><![CDATA[2. Ley antisoborno del Reino Unido]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[Establece altos estándares anticorrupción que las compañías deben cumplir. Tiene una jurisdicción internacional, es decir, que no solo se limita a las compañías que tienen su sede en el Reino Unido. La ley clasifica como ilegales todos los sobornos y los pagos para la simplificación de trámites y, por lo tanto, no hace ninguna distinción entre ellos.]]></txt>
+      <txt c="X" swp="X" s="2" w="450" align="left" delay="0" x="478"><![CDATA[Durante los últimos años, muchos países han seguido las estrictas regulaciones que el Reino Unido presentó en 2010. Los países están dedicando más tiempo y recursos a abordar los problemas causados por los pagos para la simplificación de trámites, incluidas las compañías que siguen pagándolos, y están aplicando una jurisdicción internacional.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>La corrupción está regulada a nivel internacional.Las dos principales leyes anticorrupción que tienen alcance internacional son: Prácticamente, aplica a todas las compañías más grandes del mundo y logra que el soborno de funcionarios gubernamentales extranjeros sea ilegal.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Ley antisoborno del Reino Unido.Establece altos estándares anticorrupción que las compañías deben cumplir. Tiene una jurisdicción internacional, es decir, que no solo se limita a las compañías que tienen su sede en el Reino Unido. La ley clasifica como ilegales todos los sobornos y los pagos para la simplificación de trámites y, por lo tanto, no hace ninguna distinción entre ellos.Durante los últimos años, muchos países han seguido las estrictas regulaciones que el Reino Unido presentó en 2010. Los países están dedicando más tiempo y recursos a abordar los problemas causados por los pagos para la simplificación de trámites, incluidas las compañías que siguen pagándolos, y están aplicando una jurisdicción internacional</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 1: Введение  •  Международное антикоррупционное законодательство]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p5.png</pic>
+      <pic y="175" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic noDelay="X">
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p5_i2_a.mp3</snd>
+      <snd wfs="T" preload="X">sc1_p5_i3.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" w="500" align="left" delay="0" y="74" x="478"><![CDATA[Международное антикоррупционное законодательство]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="200"><![CDATA[Два основных антикоррупционных закона, имеющих экстерриториальное действие:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0" x="478"><![CDATA[Закон США о коррупции за рубежом]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[Действует в отношении практически всех крупнейших компаний в мире и запрещает подкуп представителей органов власти в других странах.]]></txt>
+      <txt c="X" txtFade="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="4" delay="0" y="240" x="478"><![CDATA[Закон Великобритании о противодействии взяточничеству]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="440" align="left" delay="0" x="500"><![CDATA[Устанавливает строгие антикоррупционные нормы, которым должны следовать компании. Имеет экстерриториальное действие, то есть его юрисдикция не ограничена только компаниями, расположенными в Великобритании. Закон запрещает любые взятки и вознаграждения за оказание содействия, не делая различий между ними.]]></txt>
+      <txt c="X" s="2" w="450" align="left" rpo="3,4,5,6,7" delay="0" y="200" x="478"><![CDATA[За последние несколько лет многие страны начали придерживаться строгих норм, введенных Великобританией в 2010 году. Страны уделяют все больше внимания проблеме вознаграждений за оказание содействия и применяют нормы международного права в отношении компаний, уличенных в выплате таких вознаграждений.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Международное антикоррупционное законодательство. Два основных антикоррупционных закона, имеющих экстерриториальное действие: Закон США о коррупции за рубежом: Действует в отношении практически всех крупнейших компаний в мире и запрещает подкуп представителей органов власти в других странах.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Закон Великобритании о противодействии взяточничеству. Устанавливает строгие антикоррупционные нормы, которым должны следовать компании. Имеет экстерриториальное действие, то есть его юрисдикция не ограничена только компаниями, расположенными в Великобритании. Закон запрещает любые взятки и вознаграждения за оказание содействия, не делая различий между ними. </sndTxt>
+      <sndTxt>За последние несколько лет многие страны начали придерживаться строгих норм, введенных Великобританией в 2010 году. Страны уделяют все больше внимания проблеме вознаграждений за оказание содействия и применяют нормы международного права в отношении компаний, уличенных в выплате таких вознаграждений.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

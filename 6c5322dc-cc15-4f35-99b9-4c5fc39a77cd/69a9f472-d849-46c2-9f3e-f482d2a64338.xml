@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="69a9f472-d849-46c2-9f3e-f482d2a64338" sgxmlv="1.2" qq="off">
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 2: Étude de cas — n’ouvrez pas les vannes  •  Aucun pouvoir de négociation</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p12.png</pic>
+      <pic noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p12.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="27" align="left" fontcolor="0c0254">Aucun pouvoir de négociation. </txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="470" x="478" y="149" delay="0" align="left">Trois agents de l’immigration et deux agents des douanes montent ensuite à bord. Eux aussi ont des exigences pour pouvoir faire leur travail correctement. Le capitaine remarque qu’ils sont déjà fâchés lorsqu’ils montent à bord et demandent immédiatement des cigarettes. Le capitaine répond fermement, mais poliment qu’il n’est pas autorisé à leur donner des cigarettes.
+
+Si le capitaine avait payé les fonctionnaires précédents, cela aurait considérablement réduit son pouvoir de négociation auprès des agents de l’immigration et des douanes. Il sait que s’il a payé une fois, il va devoir continuer de payer.
+
+L’un des hauts fonctionnaires de l’immigration s’obstine et laisse entendre que le risque d’embarquer des passagers clandestins pendant la nuit est très élevé et qu’il est susceptible de revenir le lendemain pour vérifier.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Aucun pouvoir de négociation. Trois agents de l’immigration et deux agents des douanes montent ensuite à bord. Eux aussi ont des exigences pour pouvoir faire leur travail correctement. Le capitaine remarque qu’ils sont déjà fâchés lorsqu’ils montent à bord et demandent immédiatement des cigarettes. Le capitaine répond fermement, mais poliment qu’il n’est pas autorisé à leur donner des cigarettes.
+
+Si le capitaine avait payé les fonctionnaires précédents, cela aurait considérablement réduit son pouvoir de négociation auprès des agents de l’immigration et des douanes. Il sait que s’il a payé une fois, il va devoir continuer de payer.
+
+L’un des hauts fonctionnaires de l’immigration s’obstine et laisse entendre que le risque d’embarquer des passagers clandestins pendant la nuit est très élevé et qu’il est susceptible de revenir le lendemain pour vérifier.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 2: Case Study – Don’t Open the Floodgates  •  No Bargaining Power</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p12.png</pic>
+      <pic noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p12.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="27" align="left" fontcolor="0c0254">No Bargaining Power
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="470" x="478" y="149" delay="0" align="left">Next on board are three Immigration officials and two Customs officials, and they are also making demands to do their job properly. The Captain notices that they are already upset when they come on board and immediately ask for cigarettes. The Captain responds firmly but politely that he is not authorised to give them any cigarettes. 
+
+If the Captain paid the previous officials, it would have drastically eroded his bargaining power with the Immigration and Customs officials. He knows that if he pays once he will have to continue.
+
+One of the senior Immigration officials does not give up and he hints that the risk of getting stowaways on board during the night is very high and he may come back tomorrow to check.
+
+
+
+
+
+</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>No Bargaining Power. Next on board are three Immigration officials and two Customs officials, and they are also making demands to do their job properly. The Captain notices that they are already upset when they come on board and immediately ask for cigarettes. The Captain responds firmly but politely that he is not authorised to give them any cigarettes. If the Captain paid the previous officials, it would have drastically eroded his bargaining power with the Immigration and Customs officials. He knows that if he pays once he will have to continue. One of the senior Immigration officials does not give up and he hints that the risk of getting stowaways on board during the night is very high and he may come back tomorrow to check.
+
+
+
+
+
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>第 2 节： 案例研究 - 不要开先例  •  没有谈判能力</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p12.png</pic>
+      <pic noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p12.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">没有谈判能力</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="470" x="478" y="149" delay="0" fontsize="16" align="left">接下来登船的是三位移民官和两位海关官员，他们也想借工作之便收点好处费。船长注意到他们是带着情绪登船的，一上船就索要香烟。船长坚决而又不失礼貌地回答，他无权给他们烟。
+
+如果船长给了前面的官员好处，在移民和海关官员面前的谈判能力就会大大减少。他知道如果给了一次好处，就不得不继续给下去。
+
+其中一名高级移民官员并没有放弃，他暗示说，偷渡者在夜间上船的风险非常大，他可能明天再回来检查。</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>没有谈判能力。接下来登船的是三位移民官和两位海关官员，他们也想借工作之便收点好处费。船长注意到他们是带着情绪登船的，一上船就索要香烟。船长坚决而又不失礼貌地回答，他无权给他们烟。
+
+如果船长给了前面的官员好处，在移民和海关官员面前的谈判能力就会大大减少。他知道如果给了一次好处，就不得不继续给下去。
+
+其中一名高级移民官员并没有放弃，他暗示说，偷渡者在夜间上船的风险非常大，他可能明天再回来检查。</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Sección 2: Caso práctico - No abra las compuertas  •  Sin poder de negociación</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p12.png</pic>
+      <pic noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p12.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="27" align="left" fontcolor="0c0254">Sin poder de negociación</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="470" x="478" y="149" delay="0" align="left">Los siguientes a bordo son tres funcionarios de Inmigración y dos de Aduanas, y también hacen peticiones a cambio de hacer su trabajo correctamente. El capitán percibe que ya están molestos cuando suben a bordo e inmediatamente piden cigarrillos. El capitán responde firme pero educadamente que no está autorizado a darles ningún cigarrillo.
+
+Si el capitán pagó a los funcionarios anteriores, habría erosionado drásticamente su poder de negociación con los funcionarios de Inmigración y Aduanas. Sabe que, si paga una vez, tendrá que volver a pagar.
+
+Uno de los altos funcionarios de Inmigración no se rinde y da a entender que el riesgo de subir polizones a bordo durante la noche es muy alto y que puede volver mañana para comprobarlo.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Sin poder de negociación. Los siguientes a bordo son tres funcionarios de Inmigración y dos de Aduanas, y también hacen peticiones a cambio de hacer su trabajo correctamente. El capitán percibe que ya están molestos cuando suben a bordo e inmediatamente piden cigarrillos. El capitán responde firme pero educadamente que no está autorizado a darles ningún cigarrillo.
+
+Si el capitán pagó a los funcionarios anteriores, habría erosionado drásticamente su poder de negociación con los funcionarios de Inmigración y Aduanas. Sabe que, si paga una vez, tendrá que volver a pagar.
+
+Uno de los altos funcionarios de Inmigración no se rinde y da a entender que el riesgo de subir polizones a bordo durante la noche es muy alto y que puede volver mañana para comprobarlo.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Раздел 2: Изучение конкретной ситуации — Не выпускайте джинна из бутылки  •  Отсутствие переговорной силы</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p12.png</pic>
+      <pic noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p12.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="25" align="left" fontcolor="0c0254">Отсутствие переговорной силы</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="470" x="478" y="149" delay="0" align="left">Далее на борт поднимаются трое инспекторов службы иммиграционного контроля и два таможенных инспектора. Они также требуют вознаграждения за выполнение своих обязанностей. Капитан сразу замечает, что у них плохое настроение. Поднявшись на борт, они сразу же просят сигарет. Капитан твердо, но вежливо отвечает, что он не имеет права давать им сигареты.
+
+Если бы капитан заплатил предыдущим инспекторам, его переговорная позиция во время встречи с представителями службы иммиграционного и таможенного контроля была бы значительно подорвана. Капитан знает: если заплатишь один раз, потом придется платить еще.
+
+Один из старших инспекторов службы иммиграционного контроля не сдается и намекает, что ночью на борту могут оказаться «зайцы» и что он может вернуться с проверкой на следующий день.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Отсутствие переговорной силы. Далее на борт поднимаются трое инспекторов службы иммиграционного контроля и два таможенных инспектора. Они также требуют вознаграждения за выполнение своих обязанностей. Капитан сразу замечает, что у них плохое настроение. Поднявшись на борт, они сразу же просят сигарет. Капитан твердо, но вежливо отвечает, что он не имеет права давать им сигареты.
+
+Если бы капитан заплатил предыдущим инспекторам, его переговорная позиция во время встречи с представителями службы иммиграционного и таможенного контроля была бы значительно подорвана. Капитан знает: если заплатишь один раз, потом придется платить еще.
+
+Один из старших инспекторов службы иммиграционного контроля не сдается и намекает, что ночью на борту могут оказаться «зайцы» и что он может вернуться с проверкой на следующий день.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>القسم 2: دراسة حالة - لا تفتح الباب على مصراعيه  •  عدم القدرة على التفاوض</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p12.png</pic>
+      <pic noFade="X" x="850" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p12.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="30" align="left" fontcolor="0c0254"> عدم القدرة على التفاوض</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="450" x="478" y="149" delay="0" fontsize="17" align="left">صعد فيما بعد إلى متن السفينة ثلاثة من مسؤولي الهجرة واثنين من مسؤولي الجمارك ويطالبون رشوة أيضًا لأداء عملهم بشكل صحيح. لاحظ القبطان أنهم كانوا مستائين بالفعل عندما صعدوا إلى متن السفينة وطلبوا السجائر على الفور. رد القبطان بحزم ولكن بلباقة بأنه غير مصرح له بإعطائهم أي سجائر.
+
+إذا قدم القبطان للمسؤولين السابقين رشوة، لكان من الممكن أن يؤدي ذلك إلى تقويض قدرته على التفاوض مع مسؤولي الهجرة والجمارك بشكل كبير، كما أنه يعلم في قرارة نفسه أنه إذا قدم رشوة مرة واحدة فسيتعين عليه الاستمرار في التصرف على هذا النحو.
+
+لا يستسلم أحد كبار مسؤولي الهجرة ويلمح إلى شدة خطورة اصطحاب المسافرين خلسة على متن السفينة أثناء الليل، وقد يعود غدًا للتحقق من هذا الأمر.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages>
+    <page id="1">
+      <template alignTxt="left" pm="standard" mode="autoback">vid.swf</template>
+      <title />
+      <pics>
+        <pic exactfit="X" h="557" w="990" fps="25" nv="sc2__p10.mp4" />
+        <pic />
+        <pic />
+        <pic />
+        <pic />
+        <pic />
+        <pic />
+        <pic />
+        <pic />
+      </pics>
+      <sounds>
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+      </sounds>
+      <texts>
+        <txt c="X" s="2" delay="0" align="left" />
+        <txt c="X" s="2" cue="0" delay="0" align="left" />
+        <txt c="X" s="2" cue="14840" delay="0" align="left" />
+        <txt c="X" s="2" cue="22160" delay="0" align="left" />
+        <txt c="X" s="2" cue="29240" delay="0" align="left" />
+        <txt c="X" s="2" cue="34560" delay="0" align="left" />
+        <txt c="X" s="2" cue="44440" delay="0" align="left" />
+        <txt c="X" s="2" cue="53040" delay="0" align="left" />
+        <txt c="X" s="2" cue="65520" delay="0" align="left" />
+      </texts>
+      <soundTexts>
+        <sndTxt />
+        <sndTxt>How Could this Situation be Prevented? 1. Double check all documentation in advance. 2. Submit documentation electronically when possible, e.g. pre-arrival documents.
+
+
+</sndTxt>
+        <sndTxt>3. Have all relevant documentation in order and have it ready when meeting with the government officials.
+</sndTxt>
+        <sndTxt>4. Include as much lead time as possible when planning actions that require government interaction.
+</sndTxt>
+        <sndTxt>5. It is also important to be prepared operationally in advance:</sndTxt>
+        <sndTxt>Get detailed information from the agent on how official payments (fees, fines) are paid before speaking with government officials. </sndTxt>
+        <sndTxt>This will help you to avoid cash transactions. You also show that you are aware of local requirements.
+</sndTxt>
+        <sndTxt>Inform the agent in advance of your company’s anti-corruption policy, and of the fact that third parties acting on your company’s behalf must enforce the same rules.
+</sndTxt>
+        <sndTxt>Have anti-corruption signs clearly visible for visitors, e.g. at the gangway.
+</sndTxt>
+      </soundTexts>
+    </page>
+  </subpages>
+</pages>

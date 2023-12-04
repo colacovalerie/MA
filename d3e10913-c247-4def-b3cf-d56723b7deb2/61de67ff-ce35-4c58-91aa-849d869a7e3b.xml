@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="61de67ff-ce35-4c58-91aa-849d869a7e3b" chapterId="6c5322dc-cc15-4f35-99b9-4c5fc39a77cd" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">If a Captain gives some bottles of alcohol to the Customs authorities, in order to gain business advantages to which he/she would not otherwise be entitled.
+
+How would that be considered?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="49" align="left">A bribe</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="25" align="left">A facilitation payment</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="70" align="left">Business as usual, not a criminal offence</txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Le capitaine offre des bouteilles d’alcool aux agents des douanes afin d’en tirer des avantages commerciaux auxquels il n’aurait pas droit autrement.
+
+Comment cela serait-il considéré?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="45" align="left">Un pot-de-vin</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="77" align="left">Un paiement de facilitation</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="96" align="left">Une affaire courante, pas un délit</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">如果船长给海关部门送了几瓶酒，以期获得原本其无权获得的商业利益。
+
+这会被视为何种行为？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="91" align="left">贿赂</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="43" align="left">便利费</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="26" align="left">正常商业往来，不是刑事犯罪</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Si un capitán da unas botellas de alcohol a las autoridades de Aduanas para obtener ventajas comerciales a las que de otra manera no tendría derecho.
+
+¿Qué se consideraría eso?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="89" align="left">Soborno</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="89" align="left">Pago para la simplificación de trámites</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="72" align="left">El desarrollo normal de la actividad, no es un delito penal</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Если капитан дарит таможенным чиновникам несколько бутылок спиртного с целью получения коммерческих преимуществ, на которые в противном случае он не имеете права.
+
+Это рассматривается как…</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="29" align="left">Взятка</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="83" align="left">Вознаграждение за оказание содействия</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="76" align="left">Обычная практика в бизнесе, ничего противозаконного</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">إذا أعطى القبطان بعض زجاجات الكحول إلى سلطات الجمارك بغرض الحصول على مزايا تجارية لن يتمكن/تتمكن من الحصول عليها بخلاف ذلك.
+
+ما المصطلح الذي يصف هذه الجملة؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="21" align="left">الرشوة</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="19" align="left">مدفوعات التسهيل</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="30" align="left">أسلوب العمل المعتاد وليس جريمة جنائية</txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

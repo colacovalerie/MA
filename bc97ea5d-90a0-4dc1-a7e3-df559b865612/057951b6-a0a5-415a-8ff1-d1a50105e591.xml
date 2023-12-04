@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="057951b6-a0a5-415a-8ff1-d1a50105e591" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Section 1: Introduction  •  What can Corruption Look Like?</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p8.png</pic>
+      <pic x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" w="600" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">What can Corruption Look Like?
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" fontcolor="c3000a" />
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" align="left">The terms "tea" and "coffee" money are widely used as code words for bribery, and often conceal the true nature of a corrupt transaction. Whether it happens on the ship, or in the boardroom, corruption rests on the abuse of power. Further, corrupt demands are often coded as a token of appreciation, a gift, a sign of respect or a favour for a friend. There is no exception in shipping, where requests for petty corruption are common.
+
+ 
+</txt>
+      <txt txtFade="X" c="X" s="2" x="478" y="149" align="left" rpo="2">Examples of how bribery is concealed: </txt>
+      <txt swp="X" c="X" s="1" delay="0" align="left" fontcolor="0c0254">•  Kenya:</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">During the Kenyan elections in 2009, it was revealed that employees used the word "chicken" to refer to bribes in their emails. The case is known as the "Chickengate Scandal" </txt>
+      <txt swp="X" c="X" s="1" delay="0" align="left" fontcolor="0c0254">•  In Hungary,
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">the term "Nokia box" became a symbol of corruption in 2010 after the head of the Budapest Public Transport Company was caught handing over cash to the deputy mayor of Budapest in a Nokia box.</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>What can Corruption Look Like? The terms "tea" and "coffee" money are widely used as code words for bribery, and often conceal the true nature of a corrupt transaction. Whether it happens on the ship, or in the boardroom, corruption rests on the abuse of power. Further, corrupt demands are often coded as a token of appreciation, a gift, a sign of respect or a favour for a friend. There is no exception in shipping, where requests for petty corruption are common.
+
+ 
+</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Examples of how bribery is concealed: •  Kenya: During the Kenyan elections in 2009, it was revealed that employees used the word "chicken" to refer to bribes in their emails. The case is known as the "Chickengate Scandal"  •  In Hungary, the term "Nokia box" became a symbol of corruption in 2010 after the head of the Budapest Public Transport Company was caught handing over cash to the deputy mayor of Budapest in a Nokia box.</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Section 1: Introduction  •  Sous quelles formes la corruption peut-elle se présenter?</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p8.png</pic>
+      <pic x="478" y="155">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="478" y="155">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" w="500" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Sous quelles formes la corruption peut-elle se présenter?</txt>
+      <txt swp="X" c="X" s="2" y="175" delay="0" fontsize="16" align="left" fontcolor="c3000a">Les mots « thé » et « café » sont universellement utilisés</txt>
+      <txt swp="X" c="X" s="2" w="470" y="205" delay="0" align="left">comme codes secrets pour signifier un pot-de-vin afin de dissimuler la véritable nature d’une transaction. Qu’un acte de corruption ait lieu à bord ou à quai, il s’agit fondamentalement d’un abus de pouvoir. En outre, les demandes de pots-de-vin sont souvent formulées de manière codée et prennent la forme de remerciements, de cadeaux, de marques de respect ou de services rendus à un ami. Le secteur du transport maritime ne fait pas exception et les demandes de pots-de-vin de faible valeur sont monnaie courante.</txt>
+      <txt c="X" s="2" x="478" y="175" fontsize="16" align="left" rpo="2,3" fontcolor="c3000a">Voici quelques exemples de dissimulation de pots-de-vin:</txt>
+      <txt swp="X" c="X" s="1" delay="0" align="left" fontcolor="0c0254">•  Kenya:</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">Lors des élections au Kenya en 2009, il s’est avéré que certains employés utilisaient le mot « poulet » pour faire référence à des pots-de-vin dans leurs e-mails. Cette affaire est connue sous le nom du scandale du « Chickengate ».</txt>
+      <txt swp="X" c="X" s="1" delay="0" align="left" fontcolor="0c0254">•  En Hongrie,
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">le terme « Boîte Nokia » est devenu un symbole de corruption en 2010 après que le directeur de la société de transports en commun de Budapest ait été surpris en train de remettre de l’argent en espèces au maire adjoint de la ville dans une boîte Nokia.
+</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Sous quelles formes la corruption peut-elle se présenter? Les mots « thé » et « café » sont universellement utilisés comme codes secrets pour signifier un pot-de-vin afin de dissimuler la véritable nature d’une transaction. Qu’un acte de corruption ait lieu à bord ou à quai, il s’agit fondamentalement d’un abus de pouvoir. En outre, les demandes de pots-de-vin sont souvent formulées de manière codée et prennent la forme de remerciements, de cadeaux, de marques de respect ou de services rendus à un ami. Le secteur du transport maritime ne fait pas exception et les demandes de pots-de-vin de faible valeur sont monnaie courante.
+
+</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Voici quelques exemples de dissimulation de pots-de-vin:  •  Kenya : Lors des élections au Kenya en 2009, il s’est avéré que certains employés utilisaient le mot « poulet » pour faire référence à des pots-de-vin dans leurs e-mails. Cette affaire est connue sous le nom du scandale du « Chickengate ». •  En Hongrie, le terme « Boîte Nokia » est devenu un symbole de corruption en 2010 après que le directeur de la société de transports en commun de Budapest ait été surpris en train de remettre de l’argent en espèces au maire adjoint de la ville dans une boîte Nokia.</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>第 1 节： 简介  •  腐败有哪些形式？</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p8.png</pic>
+      <pic x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" w="600" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">腐败有哪些形式？</txt>
+      <txt swp="X" c="X" s="1" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">用“茶”和“咖啡”作为行贿的暗号</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" fontsize="16" align="left">用“茶”和“咖啡”作为行贿的暗号，以掩盖腐败交易的真实性质，这是一种普遍流行的现象。无论是发生在船上，还是在董事会会议室，腐败都源于滥用权力。此外，腐败通常以感激、礼物、表达敬意或感谢朋友为掩护。航运业也不例外，小额腐败十分常见。
+
+</txt>
+      <txt txtFade="X" c="X" s="1" x="478" y="149" fontsize="18" align="left" rpo="2" fontcolor="c3000a">掩盖贿赂的示例：</txt>
+      <txt swp="X" c="X" s="1" delay="0" fontsize="16" align="left" fontcolor="0c0254">•  肯尼亚：</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left">在 2009 年肯尼亚大选期间，有人透露，员工在电子邮件中用“小鸡”一词来指贿赂。这一事件称为“小鸡门丑闻”</txt>
+      <txt swp="X" c="X" s="1" delay="0" fontsize="16" align="left" fontcolor="0c0254">•  匈牙利，
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left">匈牙利布达佩斯公共交通公司负责人被曝光用诺基亚手机盒装现金向布达佩斯副市长行贿，使得“诺基亚手机盒”一词成为腐败的代名词。</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>腐败有哪些形式？用“茶”和“咖啡”作为行贿的暗号，以掩盖腐败交易的真实性质，这是一种普遍流行的现象。无论是发生在船上，还是在董事会会议室，腐败都源于滥用权力。此外，腐败通常以感激、礼物、表达敬意或感谢朋友为掩护。航运业也不例外，小额腐败十分常见。
+
+</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>用“茶”和“咖啡”作为行贿的暗号，以掩盖腐败交易的真实性质，这是一种普遍流行的现象。无论是发生在船上，还是在董事会会议室，腐败都源于滥用权力。此外，腐败通常以感激、礼物、表达敬意或感谢朋友为掩护。航运业也不例外，小额腐败十分常见。掩盖贿赂的示例：肯尼亚：在 2009 年肯尼亚大选期间，有人透露，员工在电子邮件中用“小鸡”一词来指贿赂。这一事件称为“小鸡门丑闻” 2010 年，匈牙利布达佩斯公共交通公司负责人被曝光用诺基亚手机盒装现金向布达佩斯副市长行贿，使得“诺基亚手机盒”一词成为腐败的代名词。</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Sección 1: Introducción  •  ¿De qué maneras se presenta la corrupción?</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p8.png</pic>
+      <pic x="478" y="150">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="478" y="150">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" w="600" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">¿De qué maneras se presenta la corrupción?</txt>
+      <txt swp="X" c="X" s="2" y="175" delay="0" fontsize="16" align="left" fontcolor="c3000a">Existe la convención universal de referirse a "té" y "café"</txt>
+      <txt swp="X" c="X" s="2" w="470" delay="0" align="left">como palabras clave para el soborno con el fin de ocultar la verdadera naturaleza de una transacción corrupta. Ya sea que ocurra en el barco o en la sala de juntas, la corrupción consiste en un abuso de poder. Además, las peticiones corruptas suelen tomar la forma de una muestra de aprecio, un regalo, una señal de respeto o un favor para un amigo. No hay ninguna excepción en el transporte marítimo, donde son comunes las peticiones de corrupción menores.</txt>
+      <txt txtFade="X" c="X" s="2" x="478" y="175" fontsize="16" align="left" rpo="2" fontcolor="c3000a">Ejemplos de cómo se enmascara el soborno:
+</txt>
+      <txt swp="X" c="X" s="1" delay="0" align="left" fontcolor="0c0254">•  Kenia:</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">durante las elecciones de Kenia en 2009, se descubrió que los empleados usaban la palabra "chicken" (pollo) para referirse a los sobornos en sus correos electrónicos. El caso es conocido como el "Escándalo de Chickengate".</txt>
+      <txt swp="X" c="X" s="1" delay="0" align="left" fontcolor="0c0254">• En Hungría,
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">el término "caja de Nokia" se convirtió en un símbolo de corrupción en 2010 después de que el jefe de la compañía de Transporte Público de Budapest fuera sorprendido entregando dinero en efectivo al teniente de alcalde de Budapest en una caja de Nokia.</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>¿De qué maneras se presenta la corrupción?. Existe la convención universal de referirse a "té" y "café" como palabras clave para el soborno con el fin de ocultar la verdadera naturaleza de una transacción corrupta. Ya sea que ocurra en el barco o en la sala de juntas, la corrupción consiste en un abuso de poder. Además, las peticiones corruptas suelen tomar la forma de una muestra de aprecio, un regalo, una señal de respeto o un favor para un amigo. No hay ninguna excepción en el transporte marítimo, donde son comunes las peticiones de corrupción menores</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Ejemplos de cómo se enmascara el soborno:
+
+Kenia: durante las elecciones de Kenia en 2009, se descubrió que los empleados usaban la palabra "chicken" (pollo) para referirse a los sobornos en sus correos electrónicos. El caso es conocido como el "Escándalo de Chickengate".
+En Hungría, el término "caja de Nokia" se convirtió en un símbolo de corrupción en 2010 después de que el jefe de la compañía de Transporte Público de Budapest fuera sorprendido entregando dinero en efectivo al teniente de alcalde de Budapest en una caja de Nokia.</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Раздел 1: Введение  •  Какие формы может принимать коррупция?</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p8.png</pic>
+      <pic x="478" y="150">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="478" y="150">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" w="550" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Какие формы может принимать
+коррупция?</txt>
+      <txt swp="X" c="X" s="2" y="175" delay="0" fontsize="16" align="left" fontcolor="c3000a">Чтобы скрыть истинную суть коррупционной сделки,</txt>
+      <txt swp="X" c="X" s="2" w="470" delay="0" align="left">в разных странах принято использовать маскирующие подкуп кодовые слова, такие как «чай» и «кофе». Происходит ли это на судне или в зале заседаний, в основе коррупции лежит злоупотребление властью. Кроме того, вымогательство часто скрывается за знаком признательности, подарком, жестом благодарности или дружеской услугой. Сфера судовых перевозок не исключение: здесь широко распространена мелкая коррупция.</txt>
+      <txt txtFade="X" c="X" s="2" x="478" y="175" fontsize="16" align="left" rpo="2" fontcolor="c3000a">Примеры того, как может быть замаскировано взяточничество:</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" fontcolor="0c0254">•  Кения:</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">Во время выборов в Кении в 2009 году выяснилось, что для обозначения взятки в электронной переписке использовалось слово «курица». Этот случай стал известен как «Куриный скандал».</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" fontcolor="0c0254">•  В Венгрии в 2010 году,</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">после того как руководитель предприятия общественного транспорта Будапешта был пойман на передаче наличных заместителю мэра Будапешта в коробке из-под телефона Nokia, словосочетание «коробка из-под Нокиа» стало символом коррупции.</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Какие формы может принимать коррупция? Чтобы скрыть истинную суть коррупционной сделки, в разных странах принято использовать маскирующие подкуп кодовые слова, такие как «чай» и «кофе». Происходит ли это на судне или в зале заседаний, в основе коррупции лежит злоупотребление властью. Кроме того, вымогательство часто скрывается за знаком признательности, подарком, жестом благодарности или дружеской услугой. Сфера судовых перевозок не исключение: здесь широко распространена мелкая коррупция.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Примеры того, как может быть замаскировано взяточничество: ения: Во время выборов в Кении в 2009 году выяснилось, что для обозначения взятки в электронной переписке использовалось слово «курица». Этот случай стал известен как «Куриный скандал».
+В Венгрии в 2010 году, после того как руководитель предприятия общественного транспорта Будапешта был пойман на передаче наличных заместителю мэра Будапешта в коробке из-под телефона Nokia, словосочетание «коробка из-под Нокиа» стало символом коррупции.</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>القسم 1  •  كيف يمكن أن يبدو الفساد؟</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p8.png</pic>
+      <pic x="850" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="850" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p8_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" w="470" x="478" y="74" delay="0" fontsize="30" align="left" fontcolor="0c0254"> كيف يمكن أن يبدو الفساد؟</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left" fontcolor="c3000a" />
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" fontsize="16" align="left">هناك شعبية عالمية لاستخدام كلمتي «الشاي» و «القهوة» كلمات رمزية للرشوة لإخفاء الطبيعة الحقيقية للصفقة الفاسدة. سواء حدث ذلك على متن السفينة أو في غرف اجتماعات مجلس الإدارة، فإن الفساد يعتمد على إساءة استخدام السلطة. علاوة على ذلك، غالبًا ما يتم وصف المطالب الفاسدة بانها رمز لتقدير أو هدية أو علامة احترام أو خدمة لصديق. لا يوجد استثناء في الشحن حيث تكون طلبات الفساد الصغيرة شائعة.
+
+</txt>
+      <txt txtFade="X" c="X" s="2" x="478" y="149" fontsize="18" align="left" rpo="2">أمثلة عن كيفية إخفاء الرشوة:</txt>
+      <txt swp="X" c="X" s="1" delay="0" fontsize="16" align="left" fontcolor="0c0254">• كينيا:</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left">خلال الانتخابات الكينية في عام 2009، تم الكشف عن أن الموظفين استخدموا فيما بينهم كلمة «دجاجة» للإشارة إلى الرشاوى في رسائل البريد الإلكتروني الخاصة بهم. تُعرف الحالة باسم «فضيحة الدجاج»</txt>
+      <txt swp="X" c="X" s="1" delay="0" fontsize="16" align="left" fontcolor="0c0254">• في المجر،</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left">أصبح مصطلح «صندوق نوكيا» رمزا للفساد في عام 2010 بعد ضبط رئيس شركة النقل العام في بودابست وهو يسلم أموالا إلى نائب رئيس بلدية بودابست في صندوق هاتف نوكيا.</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

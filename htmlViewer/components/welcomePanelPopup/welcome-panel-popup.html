@@ -1,0 +1,44 @@
+    <div id="welcomePopup" class="welcome-popup">
+        <section id="welcomePanel" class="row-12 full-width " ng-style="$root.welcomeBackground()">
+            <div class="col-xs-6 row" style="height: calc(100% + 42px); top: 18px;">
+                <div ng-style="copyrightStyle" class="middle row-4 infoText__full-bordered">
+                    <div  class="text-left">
+                        <div ng-if="!mainData.customWelcome" ng-style="copyrightStyle" class="copyrights "
+                        >{{translation.WELCOME_PANEL_COPYRIGHTS}}<br><br> Seagull AS<br>P.O. Box 1062<br>N-3194 Horten, Norway</div>
+                        <div ng-if="mainData.customWelcome" ng-style="copyrightStyle" class="custom-copyrights "
+                        >{{mainData.customWelcome.copyrights}}
+                        </div>
+                        <div class="full-width" ng-style="copyrightStyle" ><span ng-style="copyrightStyle" ng-if="!mainData.customWelcome || mainData.customWelcome.showPlayerVersion">Ocean E-learning Player v<span app-version></span> HTML<br></span>
+                        <span ng-if="!mainData.customWelcome || mainData.customWelcome.showModuleId">{{translation.WELCOME_PANEL_MODULE_ID}} {{$root.mainData.moduleId}}<br></span>
+                        <span ng-if="!mainData.customWelcome || mainData.customWelcome.showModuleVersion">{{translation.WELCOME_PANEL_MODULE_VERSION}} {{$root.mainData.version}} ({{$root.mainData.build}})</span></div>
+                    </div>
+                    
+                </div>
+                <div class="infoText scrollable row-5"
+                 ng-class="{'increased-padding':mainData.customWelcome ,'opacity-hidden':mainData.customWelcome && !mainData.customWelcome.showDisclaimer}"
+                 ng-style="disclaimerStyle">{{translation.DISCLAIMER}}<span
+                 
+                 ng-style="{top:'calc(33% + 19px)'}"
+                 class="infoText-label"
+                   >{{translation.WELCOME_PANEL_DISCLAIMER_LABEL}}</span></div>
+           
+            </div>
+            <div class="col-xs-6 row" style="height: calc(100% - 33px);">
+        
+                <div ng-class="{'increased-padding':mainData.customWelcome ,'opacity-hidden':mainData.customWelcome && !mainData.customWelcome.showCredits}" id="creditsInfo" class="infoText scrollable row-11" ng-style="creditsStyle">{{translation.CREDITS}}
+                    <span style="top: 8px;" ng-style="{top: $root.creditsTop}" class="infoText-label">{{translation.WELCOME_PANEL_CREDITS_LABEL}}</span>
+                </div>
+            </div>
+        </section>
+        
+        <!-- <div class=" glyphicon glyphicon-remove" hm-tap="closePopup()"></div> -->
+        <div class="close-popup" 
+        ng-class="{'close-svg':!$root.mobile, 'close-popup__mobile':$root.mobile,'close-svg__mobile':$root.mobile}"
+        hm-tap="closePopup()">
+            <svg fill="white" id="glyphicons-basic"
+                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                    <path id="menu-close" fill="white" d="M25.83881,23.01038a.5.5,0,0,1,0,.70715l-2.12128,2.12134a.50011.50011,0,0,1-.70709,0L16,18.82837l-7.01044,7.0105a.50011.50011,0,0,1-.70709,0L6.16119,23.71753a.5.5,0,0,1,0-.70715L13.17163,16,6.16119,8.9895a.49982.49982,0,0,1,0-.707L8.28247,6.16113a.5.5,0,0,1,.70709,0L16,13.17163l7.01044-7.0105a.5.5,0,0,1,.70709,0l2.12128,2.12134a.49982.49982,0,0,1,0,.707L18.82843,16Z"/>
+            </svg>
+
+        </div>
+    </div>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="46a7fb2b-68e0-4c91-836d-ea2633905786" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 3: Case Study – Minor Things can have Big Consequences  •  Out of Hand</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p4a.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Out of Hand
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="18" align="left" fontcolor="c3000a" />
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" align="left">The situation is becoming worse, and the Customs official is acting even more impatiently now that the Captain had to step aside to call the operator. He is continuing to act aggressively, and the Captain feels physically threatened. 
+
+Because his safety was threatened, the Captain makes the decision to pay him. After the payment is made, the officials leave the vessel.
+
+The Captain calls his operator to inform of the outcome of the situation. The operator supports his decision and is relieved that the official has now left and that the Captain is safe.
+
+The Captain reports the payment and the situation was escalated through the company’s existing channels.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Out of Hand. The situation is becoming worse, and the Customs official is acting even more impatiently now that the Captain had to step aside to call the operator. He is continuing to act aggressively, and the Captain feels physically threatened. Because his safety was threatened, the Captain makes the decision to pay him. After the payment is made, the officials leave the vessel. The Captain calls his operator to inform of the outcome of the situation. The operator supports his decision and is relieved that the official has now left and that the Captain is safe. The Captain reports the payment and the situation was escalated through the company’s existing channels.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 3: Étude de cas — les petites choses peuvent avoir de grandes conséquences  •  La situation dégénère</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p4a.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">La situation dégénère</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">La situation s’aggrave</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">et l’agent des douanes agit désormais avec encore plus d’impatience du fait que le capitaine s’est mis à l’écart pour appeler l’exploitant. Il continue d’agir de manière agressive et le capitaine se sent menacé physiquement.
+
+Puisque sa sécurité a été menacée, le capitaine décide d’effectuer le paiement. Une fois le paiement effectué, les autorités quittent le navire.
+
+Le capitaine appelle son exploitant pour l’informer du dénouement de la situation. Elle soutient sa décision et est soulagée que le fonctionnaire soit désormais parti et que le capitaine soit en sécurité.
+
+Le capitaine signale le paiement et l’incident est remonté par le biais des canaux de communication de la société.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>La situation dégénère. La situation s’aggrave et l’agent des douanes agit désormais avec encore plus d’impatience du fait que le capitaine s’est mis à l’écart pour appeler l’exploitant. Il continue d’agir de manière agressive et le capitaine se sent menacé physiquement. Puisque sa sécurité a été menacée, le capitaine décide d’effectuer le paiement. Une fois le paiement effectué, les autorités quittent le navire. Le capitaine appelle son exploitant pour l’informer du dénouement de la situation. Elle soutient sa décision et est soulagée que le fonctionnaire soit désormais parti et que le capitaine soit en sécurité. Le capitaine signale le paiement et l’incident est remonté par le biais des canaux de communication de la société.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>第 3 节： 案例研究 - 小事可能产生重大后果  •  失控</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p4a.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">失控</txt>
+      <txt swp="X" c="X" s="1" y="149" delay="0" fontsize="20" align="left" fontcolor="c3000a">情况越来越糟了，</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" fontsize="16" align="left">海关官员越来越不耐烦了，船长不得不出去联系运营方。官员的行为仍旧蛮横，船长感觉他的人身受到威胁。
+
+由于自己的安全受到威胁，船长决定付钱给他。付完钱后，官员就下船了。
+
+船长联系了他的运营方，向她通告了事情的结果。她支持船长的决定，得知官员已经离开并且船长安全无碍后，也感觉如释负重。
+
+船长报告了付钱的情况，这一情形通过公司现有的渠道上报。</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>失控。情况越来越糟了，海关官员越来越不耐烦了，船长不得不出去联系运营方。官员的行为仍旧蛮横，船长感觉他的人身受到威胁。由于自己的安全受到威胁，船长决定付钱给他。付完钱后，官员就下船了。船长联系了他的运营方，向她通告了事情的结果。她支持船长的决定，得知官员已经离开并且船长安全无碍后，也感觉如释负重。船长报告了付钱的情况，这一情形通过公司现有的渠道上报。
+
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Sección 3: Caso práctico - Los detalles pequeños pueden tener grandes consecuencias  •  Fuera de control</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p4a.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Fuera de control</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">La situación está empeorando</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">y el funcionario de aduanas actúa con más impaciencia ahora que el capitán tuvo que apartarse para llamar al operador. Sigue actuando agresivamente y el capitán se siente amenazado físicamente.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">Como su seguridad se vio amenazada, el capitán toma la decisión de pagarle. Una vez que se hace el pago, los funcionarios abandonan el barco.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">El capitán llama a su operadora para informarle del resultado de la situación. y ella apoya su decisión y se siente aliviada de que el funcionario se haya ido y que el capitán esté a salvo.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">El capitán notifica el pago y la situación se derivó a través de los canales existentes de la compañía.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Fuera de control. La situación está empeorando y el funcionario de aduanas actúa con más impaciencia ahora que el capitán tuvo que apartarse para llamar al operador. Sigue actuando agresivamente y el capitán se siente amenazado físicamente. Como su seguridad se vio amenazada, el capitán toma la decisión de pagarle. Una vez que se hace el pago, los funcionarios abandonan el barco. El capitán llama a su operadora para informarle del resultado de la situación. y ella apoya su decisión y se siente aliviada de que el funcionario se haya ido y que el capitán esté a salvo. El capitán notifica el pago y la situación se derivó a través de los canales existentes de la compañía.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Раздел 3: Изучение конкретной ситуации — Мелочи могут привести к серьезным последствиям  •  Ситуация выходит из-под контроля</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p4a.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="150">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Ситуация выходит из-под контроля</txt>
+      <txt swp="X" c="X" s="2" y="175" delay="0" fontsize="18" align="left" fontcolor="c3000a">Ситуация накаляется.</txt>
+      <txt swp="X" c="X" s="2" w="470" delay="0" align="left">После того как капитану пришлось отойти, чтобы позвонить оператору, таможенный инспектор стал еще более нетерпелив. Он продолжает вести себя агрессивно, и капитан чувствует угрозу физической расправы.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">Под влиянием угрозы капитан решает заплатить деньги. Получив вознаграждение, инспекторы покидают судно.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">Капитан звонит своему оператору и сообщает, чем закончился инцидент. Оператор одобряет решение капитана. Она рада, что инспекторы покинули судно и что капитан в безопасности.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">Капитан сообщает о передаче денег, и информацию об инциденте доводят до руководства ведомства по имеющимся каналам компании.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Ситуация выходит из-под контроля. Ситуация накаляется. После того как капитану пришлось отойти, чтобы позвонить оператору, таможенный инспектор стал еще более нетерпелив. Он продолжает вести себя агрессивно, и капитан чувствует угрозу физической расправы.
+
+Под влиянием угрозы капитан решает заплатить деньги. Получив вознаграждение, инспекторы покидают судно.
+
+Капитан звонит своему оператору и сообщает, чем закончился инцидент. Оператор одобряет решение капитана. Она рада, что инспекторы покинули судно и что капитан в безопасности.
+
+Капитан сообщает о передаче денег, и информацию об инциденте доводят до руководства ведомства по имеющимся каналам компании.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>القسم 3: دراسة حالة - قد تحمل الأفعال البسيطة عواقب وخيمة  •  خروج الأمر عن السيطرة</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p4a.png</pic>
+      <pic preload="X" noFade="X" x="850" y="125">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="30" align="left" fontcolor="0c0254"> خروج الأمر عن السيطرة</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" fontsize="16" crct="82" align="left">يزداد الموقف سوءًا، ونفذ صبر مسؤول الجمارك بعد أن اضطر القبطان إلى التنحي جانباً للاتصال بالمشغّل. إنه يواصل التصرف بعدوانية، ويشعر القبطان بالتهديد الجسدي.
+
+يتخذ القبطان قرارًا بالدفع للمسؤول نتيجة تهديد سلامته. بعد الدفع، يغادر المسؤولون السفينة.
+
+يتصل القبطان بالمشغل لإبلاغها بنتيجة الموقف، وتؤيد بدورها قرار القبطان وتشعر بالارتياح لأن المسؤول قد غادر الآن وأن القبطان في أمان.
+
+أبلغ القبطان عن الدفع وتم تصعيد الموقف من خلال وسائل الإبلاغ الحالية للشركة.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

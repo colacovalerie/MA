@@ -1,0 +1,233 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="9f17d247-853e-4d37-bf9d-9ab75927541b">
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 4: Case Study – Time is Money  •  The Officials are About to Board]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p4a.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="26" s="2" align="left" delay="0" y="74" x="478"><![CDATA[The Officials are About to Board]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[All of the options are mitigating factors the Captain should consider in preparation for officials boarding the ship.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[First, it is vital that we know who boards the ship. Second, many cultures respect seniority and authority, so have a senior crew member greet them and the Captain should put on his/her uniform.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[Finally, never let the officials walk around the ship without a crew member with them. Every official should be accompanied by at least one crew member.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>The Officials are About to Board. All of the options are mitigating factors the Captain should consider in preparation for officials boarding the ship. First, it is vital that we know who boards the ship. Second, many cultures respect seniority and authority, so have a senior crew member greet them and the Captain should put on his/her uniform. Finally, never let the officials walk around the ship without a crew member with them. Every official should be accompanied by at least one crew member.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 4: Étude de cas — Le temps, c’est de l’argent.  •  Les autorités s’apprêtent à monter à bord]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p4a.png</pic>
+      <pic>
+      </pic>
+      <pic preload="X" y="155" x="478">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Les autorités s’apprêtent à monter à bord
+]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="175"><![CDATA[Toutes les options]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0"><![CDATA[sont des circonstances atténuantes que le capitaine doit envisager en préparation à la montée à bord des autorités.
+
+Tout d’abord, il est indispensable que nous sachions qui monte à bord du navire. Ensuite, de nombreuses cultures respectent l’ancienneté et l’autorité. Faites en sorte qu’un membre d’équipage expérimenté les accueille et que le capitaine porte son uniforme.
+
+Enfin, ne laissez jamais les autorités se déplacer sur le navire sans être accompagnées d’un membre de l’équipage. Chaque fonctionnaire doit être accompagné par au moins un membre de l’équipage]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Les autorités s’apprêtent à monter à bord. Toutes les options sont des circonstances atténuantes que le capitaine doit envisager en préparation à la montée à bord des autorités.
+
+Tout d’abord, il est indispensable que nous sachions qui monte à bord du navire. Ensuite, de nombreuses cultures respectent l’ancienneté et l’autorité. Faites en sorte qu’un membre d’équipage expérimenté les accueille et que le capitaine porte son uniforme.
+
+Enfin, ne laissez jamais les autorités se déplacer sur le navire sans être accompagnées d’un membre de l’équipage. Chaque fonctionnaire doit être accompagné par au moins un membre de l’équipage</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 4 节： 案例研究 - 时间就是金钱  •  官员即将上船]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p4a.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[官员即将上船]]></txt>
+      <txt c="X" swp="X" fontsize="18" s="2" w="470" align="left" delay="0" y="155"><![CDATA[以上选项均是船长针对官员上船应考虑的应对措施。
+
+首先，务必知道登船人员的姓名。其次，许多文化都尊重资历和权威，所以要有一位高级船员迎接他们，船长应该穿上制服。]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[最后，官员在船上巡视时，必须有船员陪同。每位官员至少由一位船员陪同。]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>官员即将上船。以上选项均是船长针对官员上船应考虑的应对措施。
+
+首先，务必知道登船人员的姓名。其次，许多文化都尊重资历和权威，所以要有一位高级船员迎接他们，船长应该穿上制服。
+
+最后，官员在船上巡视时，必须有船员陪同。每位官员至少由一位船员陪同。</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 4: Caso práctico - El tiempo es oro  •  Los funcionarios están a punto de embarcar]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p4a.png</pic>
+      <pic>
+      </pic>
+      <pic preload="X" y="150" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Los funcionarios están a punto de embarcar]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="175"><![CDATA[Todas las opciones]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0"><![CDATA[son factores atenuantes que el capitán debe considerar para prepararse antes de que los funcionarios suban al barco.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[Primero, es fundamental que sepamos quién sube al barco. Segundo, muchas culturas respetan la antigüedad y la autoridad, por lo que un miembro de la tripulación de alto rango debe recibirlos y el capitán debe llevar su uniforme.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[Por último, nunca permita que los funcionarios vayan por el barco sin que los acompañe un miembro de la tripulación. Cada funcionario debe estar acompañado por un miembro de la tripulación, como mínimo.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Los funcionarios están a punto de embarcar. Todas las opciones son factores atenuantes que el capitán debe considerar para prepararse antes de que los funcionarios suban al barco.
+
+Primero, es fundamental que sepamos quién sube al barco. Segundo, muchas culturas respetan la antigüedad y la autoridad, por lo que un miembro de la tripulación de alto rango debe recibirlos y el capitán debe llevar su uniforme.
+
+Por último, nunca permita que los funcionarios vayan por el barco sin que los acompañe un miembro de la tripulación. Cada funcionario debe estar acompañado por un miembro de la tripulación, como mínimo.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 4: Изучение конкретной ситуации — Время — деньги  •  Инспекторы скоро поднимутся на борт]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p4a.png</pic>
+      <pic>
+      </pic>
+      <pic preload="X" y="150" x="478">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="500" align="left" delay="0" y="74" x="478"><![CDATA[Инспекторы скоро поднимутся на борт]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="175"><![CDATA[При подготовке]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0"><![CDATA[к визиту чиновников капитану следует принять во внимание все предложенные варианты действий в качестве мер по уменьшению рисков.
+
+Во-первых, очень важно знать, кто посетит судно. Во-вторых, во многих культурах уважают старшинство и авторитет, поэтому инспекторов должен приветствовать старший по рангу член экипажа, а капитан должен надеть форму.
+
+Наконец, не позволяйте инспекторам перемещаться по судну без сопровождения члена экипажа. Каждого инспектора должен сопровождать по крайней мере один член экипажа.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Инспекторы скоро поднимутся на борт. При подготовке к визиту чиновников капитану следует принять во внимание все предложенные варианты действий в качестве мер по уменьшению рисков.
+
+Во-первых, очень важно знать, кто посетит судно. Во-вторых, во многих культурах уважают старшинство и авторитет, поэтому инспекторов должен приветствовать старший по рангу член экипажа, а капитан должен надеть форму.
+
+Наконец, не позволяйте инспекторам перемещаться по судну без сопровождения члена экипажа. Каждого инспектора должен сопровождать по крайней мере один член экипажа.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 4: دراسة حالة - الوقت من ذهب  •  قرب موعد صعود المسؤولين إلى متن السفينة]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p4a.png</pic>
+      <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p4.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="26" s="2" w="500" align="left" delay="0" y="74" x="450"><![CDATA[ قرب موعد صعود المسؤولين إلى متن السفينة]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="470" align="left" delay="0" y="149" x="478"><![CDATA[جميع الخيارات هي عوامل تخفيفية ينبغي على القبطان مراعاتها استعدادًا لصعود المسؤولين إلى متن السفينة.]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[أولاً، من الضروري معرفة من سيصعد إلى متن السفينة. ثانياً، تولي العديد من الثقافات الاحترام للأقدمية وللسلطات، لذا يجب على أحد كبار أفراد الطاقم استقبالهم، وينبغي على القبطان ارتداء الزي الرسمي له/لها.]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[وأخيرًا، لا تسمح للمسؤولين بالتجول في أنحاء السفينة دون مصاحبة أحد أفراد الطاقم لهم؛ يجب أن يصاحب كل مسؤول فردًا واحدًا من أفراد الطاقم على الأقل.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

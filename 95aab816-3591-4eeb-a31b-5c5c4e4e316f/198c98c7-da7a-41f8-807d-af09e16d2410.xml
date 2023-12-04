@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="198c98c7-da7a-41f8-807d-af09e16d2410" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc4_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">04</txt>
+      <txt swp="X" c="X" s="1" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">CASE STUDY</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">TIME IS MONEY</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Section 4. Case study. Time is money.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc4_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">04</txt>
+      <txt swp="X" c="X" s="2" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">ÉTUDE DE CAS
+</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">LE TEMPS, C’EST DE L’ARGENT.
+</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>4. ÉTUDE DE CAS. LE TEMPS, C’EST DE L’ARGENT.
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc4_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">04</txt>
+      <txt swp="X" c="X" s="1" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">案例研究</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">时间就是金钱</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>4. 案例研究。时间就是金钱</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc4_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">04</txt>
+      <txt swp="X" c="X" s="2" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">CASO PRÁCTICO</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">EL TIEMPO ES ORO</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>04 CASO PRÁCTICO. EL TIEMPO ES ORO</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc4_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">04</txt>
+      <txt swp="X" c="X" s="2" w="800" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">ИЗУЧЕНИЕ КОНКРЕТНОЙ СИТУАЦИИ</txt>
+      <txt swp="X" c="X" s="1" y="445" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="470" delay="0" fontsize="22" align="left" fontcolor="ffffff">ВРЕМЯ — ДЕНЬГИ</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>04 ИЗУЧЕНИЕ КОНКРЕТНОЙ СИТУАЦИИ. ВРЕМЯ — ДЕНЬГИ</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+      <snd preload="X" wfs="T">sc4_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">04</txt>
+      <txt swp="X" c="X" s="1" x="478" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">دراسة حالة </txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">الوقت من ذهب</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

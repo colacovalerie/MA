@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="dc480a16-9c9b-4e78-a6ac-cb3902428b0e" chapterId="bc97ea5d-90a0-4dc1-a7e3-df559b865612" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">If you promise certain benefits to the foreign government official, in type or cash, in order to gain business advantages to which you would not otherwise be entitled.
+
+How would that be considered?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="98" align="left">A facilitation payment</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="55" align="left">Business as usual, not a criminal offence</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="59" align="left">A bribe</txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Vous promettez certains avantages au fonctionnaire d’un gouvernement étranger, en nature ou en espèces, afin d’obtenir des avantages commerciaux auxquels vous n’auriez pas droit autrement.
+
+Comment cela serait-il considéré?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="46" align="left">Un paiement de facilitation</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="11" align="left">Une affaire courante, pas un délit</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="3" align="left">Un pot-de-vin</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">如果您对外国官员许诺某些实物或现金形式的利益，以期获得原本无权获得的商业利益。
+
+这会被视为何种行为？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="18" align="left">便利费</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="15" align="left">正常商业往来，不是刑事犯罪</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="23" align="left">贿赂</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Si usted promete ciertos beneficios al funcionario gubernamental extranjero, en especie o en efectivo, con el fin de obtener ventajas comerciales a las que de otro modo usted no tendría derecho.
+
+¿Qué se consideraría eso?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="74" align="left">Pago para la simplificación de trámites</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="67" align="left">El desarrollo normal de la actividad, no es un delito penal</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="81" align="left">Soborno</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Если вы обещаете должностному лицу иностранного государства какие-либо блага, в натуральном или денежном выражении, с целью достижения коммерческих преимуществ, на которые в противном случае вы не имеете права.
+
+Это рассматривается как…</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="66" align="left">Вознаграждение за оказание содействия</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="15" align="left">Обычная практика в бизнесе, ничего противозаконного</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="67" align="left">Взятка</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">إذا وعدت مسؤول حكومي أجنبي بمزايا محددة سواء كانت عينية أو نقدية بغرض الحصول على مزايا تجارية لا يحق لك الحصول عليها بخلاف ذلك.
+
+ما المصطلح الذي يصف هذه الجملة؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="38" align="left">مدفوعات التسهيل</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="71" align="left">أسلوب العمل المعتاد وليس جريمة جنائية</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="21" align="left">الرشوة</txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

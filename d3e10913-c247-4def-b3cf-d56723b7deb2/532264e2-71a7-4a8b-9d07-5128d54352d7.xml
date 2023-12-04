@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="532264e2-71a7-4a8b-9d07-5128d54352d7" chapterId="6a82788d-cd38-4f6f-b039-e7049ee2de1f" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">The Captain and his/her crew have been threatened with physical harm by the health official for refusing to make a payment. This is a threat to their health and safety, which means that the situation is legally considered as duress.
+
+What does this mean in practice?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="79" align="left">They are allowed to make the payment; however, you have to report it to the company</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="61" align="left">Duress doesn't change anything</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="28" align="left">They are allowed to make the payment, no need to report it</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Le fonctionnaire de la santé a menacé le capitaine et son équipage de violences physiques pour avoir refusé de le payer. Il s’agit ici d’une menace à leur santé et à leur sécurité, ce qui signifie que la situation est considérée légalement comme un acte de coercition.
+
+Qu’est-ce que cela signifie dans la pratique?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="97" align="left">Ils sont autorisés à effectuer le paiement. Toutefois, celui-ci doit être signalé à la société.</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="9" align="left">La coercition ne change rien.</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="60" align="left">Ils sont autorisés à effectuer un paiement sans devoir le signaler.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">因为拒绝给好处费，船长和其船员受到卫生官的人身伤害威胁。这是对他们健康和安全的威胁，从法律角度讲，这属于胁迫。
+
+在实际中有什么含义？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="15" align="left">他们可以付钱，但必须向公司报告此事。</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="9" align="left">胁迫什么都改变不了</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="98" align="left">他们可以付钱，也不需要报告此事</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">El funcionario del sector de la salud ha amenazado al capitán y su tripulación con daños físicos por negarse a hacer un pago. Esto es una amenaza para su salud y seguridad, es decir, que la situación se considera legalmente una coacción.
+
+¿Qué significa esto en la práctica?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="5" align="left">Se les permite hacer el pago; pero usted tiene que notificarlo a la compañía.</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="95" align="left">La coacción no cambia nada.</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="86" align="left">Se les permite hacer el pago, no hay necesidad de notificarlo.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Инспектор санитарно-эпидемиологической службы угрожает капитану и экипажу физической расправой за отказ платить. Речь идет об угрозе для здоровья и безопасности, а значит с юридической точки зрения данная ситуация является физическим принуждением.
+
+Что это означает на практике?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="55" align="left">Они имеют право заплатить; однако об этом необходимо сообщить в компанию</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="61" align="left">Факт физического принуждения ничего не меняет</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="10" align="left">Они имеют право заплатить, сообщать об этом не обязательно</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">قام مسؤول بمجال الصحة بتهديد القبطان والطاقم العامل معه/معها بإلحاق الأذى الجسدى لرفضهم دفع مبلغ؛ وهذا تهديد لصحتهم وسلامتهم، بما يعني أن هذا الموقف يُعد إكراهًا من الناحية القانونية.
+
+ما معنى ذلك من الناحية العملية؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="85" align="left">يمكنهم تقديم الرشوة، ومع ذلك، يجب إبلاغ الشركة عن هذا الموقف</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="35" align="left">إن تصرف الإكراه لا يغير شيئًا</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="52" align="left">يمكنهم تقديم الرشوة دون الإبلاغ عن الموقف</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

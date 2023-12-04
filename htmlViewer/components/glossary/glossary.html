@@ -1,0 +1,50 @@
+<section id="glossary-container" class="mouseActive">
+    <div id="glossary" class="mouseActive">
+        <div class="row">
+            <div class="col-xs-3"><h2>{{translation.GLOSSARY}}</h2></div>
+            <div class="col-xs-9 row  glossary-search">
+                <div class="col-xs-5">
+                    <input ng-model="searchText" class=" form-control"
+                           placeholder="{{translation.SEARCH}}" ng-change="updateEntries()" >
+                </div>
+
+                <div class="btn btn-default col-xs-2" hm-tap="clearSearch()" ng-class="{'disabled':!searchText}">{{translation.CLEAR}}
+                </div>
+            </div>
+
+        </div>
+        <div class="content row">
+            <div class="col-xs-3 entries">
+                <select ng-model="selectedLetter" class="form-control">
+                    <option value="" selected>{{translation.ALL_LETTERS}}</option>
+                    <option ng-repeat="(letter, entries) in $root.mainData.glossaryLetters" value="{{letter}}">{{letter}}</option>
+                </select>
+                <div class="content-column">
+                    <div ng-repeat="(letter, entries) in $root.mainData.glossaryLetters">
+                        <div ng-if="!selectedLetter || letter == selectedLetter" class="item item-divider">
+                            {{letter}}
+                        </div>
+                        <div ng-if="!selectedLetter || letter == selectedLetter" ng-repeat="entry in entries">
+                            <div class="term btn btn-link btn-block" hm-tap="termSelected(entry.term)"
+                                 ng-class="{'highlighted':isSelected(entry.term)}">{{entry.term}}
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="col-xs-9 content-column definitions">
+                <div class="entry" ng-repeat="entry in filteredEntries">
+                    <div class="term ">{{entry.term}}</div>
+                    <div class="definition">{{entry.definition}}</div>
+                </div>
+            </div>
+
+        </div>
+        <div class="close-btn glyphicon glyphicon-remove" hm-tap="closeGlossary()"></div>
+
+    </div>
+
+</section>

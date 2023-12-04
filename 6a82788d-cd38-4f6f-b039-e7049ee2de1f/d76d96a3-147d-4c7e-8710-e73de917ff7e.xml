@@ -1,0 +1,619 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="d76d96a3-147d-4c7e-8710-e73de917ff7e">
+  <page level="EN">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 3: Case Study – Minor Things can have Big Consequences  •  Lessons Learnt]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic y="285" x="478">sc3_p9_r1_fr.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1a.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="470" align="left" delay="0" y="74" x="478"><![CDATA[Lessons Learnt]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" w="450" align="left" delay="0" y="149"><![CDATA[1. Safety comes first]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0" y="180"><![CDATA[Making a payment is permissible in situations of duress where there is a real threat to the physical safety of the Captain or their crew.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0" y="250"><![CDATA[2. Try to avoid giving officials more bargaining power than they already have]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0" y="295"><![CDATA[Incorrect manifests will always leave you vulnerable to demands from officials. Ask the crew to be as thorough as possible when filling out these forms, as even small mistakes can be used to justify a demand for a bribe. It is also possible to spot potential risks in advance, e.g. a request for an extensive medicine list before arriving at the port will be a red flag in some instances.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="3,4,5,6" delay="0" y="149"><![CDATA[3. Be prepared and know what to expect]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0" y="180"><![CDATA[It is important to have local knowledge on what are typical requests in a specific port and engage the agent early. Be prepared and know what the local situation may look like, e.g. do authorities tend to be aggressive? Do they have a history of making up deficiencies or discrepancies to request payments? How have other Captains managed to avoid making payments?]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0"><![CDATA[4. Use the internal escalation channels for support]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[Get support from your operations team or legal team on how to handle the situation. They can also support with escalating issues locally through the agent or directly to the head of the relevant department.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="7,8,9,10" delay="0" y="149"><![CDATA[5. Report the incident (through your company's reporting channels)]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="450" align="left" delay="0"><![CDATA[Cases of potential duress must be investigated by the company and properly documented as duress can be difficult to prove. Recording the incident is not a stamp of approval for payments. It is a recognition of the reality in many places.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="450" align="left" delay="0" y="295" x="520"><![CDATA[The company may decide to share details of the case with others. Evidence of real cases may be used to demonstrate to governments and others that there are systemic issues and support them to mitigate risks. The data does not show individual names or companies unless specifically agreed with the company who reports.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Lessons Learnt. 1. Safety comes first. Making a payment is permissible in situations of duress where there is a real threat to the physical safety of the Captain or their crew. 2. Try to avoid giving officials more bargaining power than they already have. Incorrect manifests will always leave you vulnerable to demands from officials. Ask the crew to be as thorough as possible when filling out these forms, as even small mistakes can be used to justify a demand for a bribe. It is also possible to spot potential risks in advance, e.g. a request for an extensive medicine list before arriving at the port will be a red flag in some instances.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3. Be prepared and know what to expect. It is important to have local knowledge on what are typical requests in a specific port and engage the agent early. Be prepared and know what the local situation may look like, e.g. do authorities tend to be aggressive? Do they have a history of making up deficiencies or discrepancies to request payments? How have other Captains managed to avoid making payments? 4. Use the internal escalation channels for support. Get support from your operations team or legal team on how to handle the situation. They can also support with escalating issues locally through the agent or directly to the head of the relevant department.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>5. Report the incident (through your company's reporting channels). Cases of potential duress must be investigated by the company and properly documented as duress can be difficult to prove. Recording the incident is not a stamp of approval for payments. It is a recognition of the reality in many places. The company may decide to share details of the case with others. Evidence of real cases may be used to demonstrate to governments and others that there are systemic issues and support them to mitigate risks. The data does not show individual names or companies unless specifically agreed with the company who reports.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 3: Étude de cas — les petites choses peuvent avoir de grandes conséquences  •  Enseignements tirés]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic y="298" x="478">sc3_p9_r1_fr.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1a.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="470" align="left" delay="0" y="74" x="478"><![CDATA[Enseignements tirés]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="15" s="2" w="450" align="left" delay="0" y="149"><![CDATA[1. La sécurité avant tout]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="13" s="2" w="450" align="left" delay="0" y="180"><![CDATA[Le paiement est autorisé dans les situations de coercition, où il existe une menace réelle pour la sécurité physique du capitaine ou de son équipage.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="15" s="2" align="left" delay="0" y="250"><![CDATA[2. Essayez d’éviter de donner aux autorités plus de pouvoir de négociation qu’elles n’en ont déjà.]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="13" s="2" w="450" align="left" delay="0" y="295"><![CDATA[Les déclarations en douane qui comportent des erreurs vous rendront toujours vulnérables aux exigences des fonctionnaires. Demandez aux membres de l’équipage d’être aussi complets que possible lorsqu’ils remplissent ces formulaires. Des erreurs insignifiantes peuvent être utilisées pour justifier une demande de pot-de-vin. Il est également aussi possible de repérer des risques à l’avance. Par exemple, une requête pour obtenir la liste complète des médicaments à bord avant l’arrivée au port pourrait représenter un signal d’alarme dans certains cas.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="15" s="2" w="470" align="left" rpo="3,4,5,6" delay="0" y="149"><![CDATA[3. Soyez préparé et sachez ce à quoi vous attendre]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="13" s="2" align="left" delay="0" y="180"><![CDATA[Il est important de connaître les informations typiquement demandées par les autorités dans un port donné et d’engager rapidement l’assistance de l’agent portuaire. Soyez préparé et renseignez-vous sur la situation locale, par ex., les autorités ont-elles tendance à être agressives ? Ont-elles l’habitude de créer de toutes pièces des insuffisances ou des écarts pour exiger des paiements ? Comment d’autres capitaines sont-ils parvenus à ne pas effectuer de paiements ?]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="15" s="2" align="left" delay="0"><![CDATA[4. Utilisez les procédures internes de remontée des incidents pour obtenir de l’aide
+]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="13" s="2" align="left" delay="0"><![CDATA[Demandez conseil à l’équipe de la direction des opérations ou au service juridique sur la façon de gérer la situation. Ils peuvent également vous soutenir en faisant remonter les problèmes localement par l’intermédiaire de l’agent portuaire ou directement auprès de la direction du service concerné.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="15" s="2" align="left" rpo="7,8,9,10" delay="0" y="149"><![CDATA[5. Signalez l’incident (par le biais des canaux de communication de votre entreprise)]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="13" s="2" w="470" align="left" delay="0"><![CDATA[Les cas de coercition potentielle doivent faire l’objet d’une enquête par la société et être dûment documentés, car la coercition peut être difficile à prouver. L’enregistrement de l’incident ne constitue pas un cachet d’approbation de ces paiements. C’est une reconnaissance de la réalité dans de nombreux endroits.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="13" s="2" w="450" align="left" delay="0" x="525"><![CDATA[La société peut décider de partager des détails de la situation avec d’autres personnes. Des cas réels peuvent être utilisés pour démontrer aux entités gouvernementales l’existence de problèmes systémiques et pour les soutenir dans l’atténuation de ces risques. Les données ne contiennent pas les noms de personnes ou de sociétés à moins que cela n’en ait été convenu au préalable avec la société qui effectue le signalement de l’incident.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Enseignements tirés. 1. La sécurité avant tout. Le paiement est autorisé dans les situations de coercition, où il existe une menace réelle pour la sécurité physique du capitaine ou de son équipage. 2. Essayez d’éviter de donner aux autorités plus de pouvoir de négociation qu’elles n’en ont déjà.Les déclarations en douane qui comportent des erreurs vous rendront toujours vulnérables aux exigences des fonctionnaires. Demandez aux membres de l’équipage d’être aussi complets que possible lorsqu’ils remplissent ces formulaires. Des erreurs insignifiantes peuvent être utilisées pour justifier une demande de pot-de-vin. Il est également aussi possible de repérer des risques à l’avance. Par exemple, une requête pour obtenir la liste complète des médicaments à bord avant l’arrivée au port pourrait représenter un signal d’alarme dans certains cas.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3. Soyez préparé et sachez ce à quoi vous attendre. Il est important de connaître les informations typiquement demandées par les autorités dans un port donné et d’engager rapidement l’assistance de l’agent portuaire. Soyez préparé et renseignez-vous sur la situation locale, par ex., les autorités ont-elles tendance à être agressives ? Ont-elles l’habitude de créer de toutes pièces des insuffisances ou des écarts pour exiger des paiements ? Comment d’autres capitaines sont-ils parvenus à ne pas effectuer de paiements ? 4. Utilisez les procédures internes de remontée des incidents pour obtenir de l’aide. Demandez conseil à l’équipe de la direction des opérations ou au service juridique sur la façon de gérer la situation. Ils peuvent également vous soutenir en faisant remonter les problèmes localement par l’intermédiaire de l’agent portuaire ou directement auprès de la direction du service concerné.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>5. Signalez l’incident (par le biais des canaux de communication de votre entreprise). Les cas de coercition potentielle doivent faire l’objet d’une enquête par la société et être dûment documentés, car la coercition peut être difficile à prouver. L’enregistrement de l’incident ne constitue pas un cachet d’approbation de ces paiements. C’est une reconnaissance de la réalité dans de nombreux endroits. La société peut décider de partager des détails de la situation avec d’autres personnes. Des cas réels peuvent être utilisés pour démontrer aux entités gouvernementales l’existence de problèmes systémiques et pour les soutenir dans l’atténuation de ces risques. Les données ne contiennent pas les noms de personnes ou de sociétés à moins que cela n’en ait été convenu au préalable avec la société qui effectue le signalement de l’incident.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 3 节： 案例研究 - 小事可能产生重大后果  •  学到的经验]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic y="285" x="478">sc3_p9_r1_fr.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1a.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" w="470" align="left" delay="0" y="74" x="478"><![CDATA[学到的经验]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" w="450" align="left" delay="0" y="149"><![CDATA[1. 安全为重]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="180"><![CDATA[在受到胁迫并且对船长或其船员的人身安全存在真实的威胁的情况下，付钱是允许的。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0" y="250"><![CDATA[2. 尽量不要给官员更多的谈判能力。]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="295"><![CDATA[如果舱单出错，会让官员有很好的借口来索贿。让船员在填写这些表格时尽可能仔细，因为即使是微小的错误也可能被用来当成索贿的理由。还应提前发现潜在风险，例如，在抵达港口前要求提供一份广泛的药品清单在某些情况下将是一个危险信号。]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="18" s="2" align="left" rpo="3,4,5,6" delay="0" y="149"><![CDATA[3. 做好准备并预测会出现的情况]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0" y="180"><![CDATA[务必了解在具体的港口当地有哪些常见的惯例并尽早与代理沟通。做好准备并了解会出现怎样的当地的情形，例如，官方机构的人员是不是态度蛮横？他们有没有凭空捏造假象索贿的历史？其他船长用什么办法避免付钱？
+
+]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0"><![CDATA[4. 通过内部上报渠道给予支持
+]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[向您的运营团队或法律团队了解如何处理情况。他们还可以帮助通过代理或直接在当地向相关部门的主管上报问题。]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="18" s="2" align="left" rpo="7,8,9,10" delay="0" y="149"><![CDATA[5. 报告事件（通过公司的报告渠道）]]></txt>
+      <txt c="X" bull="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0" y="180"><![CDATA[由于胁迫很难取证，所以公司必须对可能的胁迫案例进行调查并适当记录。记录事件不等于同意付钱。而是承认在许多地方会出现的实际情况。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0" y="295" x="520"><![CDATA[公司可决定与他人分享案例的细节。使用真实案例的证据向政府和他人表明这是系统性问题，并支持他们减少风险。除非得到报告公司的同意，否则数据不会显示个人或公司的名称。]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>学到的经验。1. 安全为重。在受到胁迫并且对船长或其船员的人身安全存在真实的威胁的情况下，付钱是允许的。2. 尽量不要给官员更多的谈判能力。如果舱单出错，会让官员有很好的借口来索贿。让船员在填写这些表格时尽可能仔细，因为即使是微小的错误也可能被用来当成索贿的理由。还应提前发现潜在风险，例如，在抵达港口前要求提供一份广泛的药品清单在某些情况下将是一个危险信号。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3. 做好准备并预测会出现的情况。 务必了解在具体的港口当地有哪些常见的惯例并尽早与代理沟通。做好准备并了解会出现怎样的当地的情形，例如，官方机构的人员是不是态度蛮横？他们有没有凭空捏造假象索贿的历史？其他船长用什么办法避免付钱？4. 通过内部上报渠道给予支持。向您的运营团队或法律团队了解如何处理情况。他们还可以帮助通过代理或直接在当地向相关部门的主管上报问题。
+
+</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>5. 报告事件（通过公司的报告渠道）。由于胁迫很难取证，所以公司必须对可能的胁迫案例进行调查并适当记录。记录事件不等于同意付钱。而是承认在许多地方会出现的实际情况。公司可决定与他人分享案例的细节。使用真实案例的证据向政府和他人表明这是系统性问题，并支持他们减少风险。除非得到报告公司的同意，否则数据不会显示个人或公司的名称。
+</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 3: Caso práctico - Los detalles pequeños pueden tener grandes consecuencias  •  Qué hemos aprendido]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic y="295" x="478">sc3_p9_r2_sp.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1a.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="470" align="left" delay="0" y="74" x="478"><![CDATA[Qué hemos aprendido]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" w="450" align="left" delay="0" y="149"><![CDATA[1. La seguridad es lo primero.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0" y="180"><![CDATA[Está permitido hacer un pago en situaciones de coacción en las que hay una amenaza real para la seguridad física del capitán o de su tripulación.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0" y="250"><![CDATA[2. Intente no otorgar a los funcionarios más poder de negociación del que ya tienen.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0" y="295"><![CDATA[Los manifiestos incorrectos siempre lo expondrán a las peticiones de los funcionarios. Pida a la tripulación que sea lo más minuciosa posible al contestar estos formularios, ya que incluso los pequeños errores se pueden usar para justificar una petición de soborno. También se pueden detectar los posibles riesgos con antelación, p. e., en algunos casos, recibir una solicitud de una amplia lista de medicamentos antes de llegar al puerto será una señal de que puede haber una situación corrupta.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="3,4,5,6" delay="0" y="149"><![CDATA[3. Prepárese y sepa qué esperar.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0" y="180"><![CDATA[Es importante conocer cuáles son las peticiones que suelen hacerse en cada lugar en los puertos específicos y comunicarse con el agente previamente. Esté preparado y sepa cómo puede ser la situación local; por ejemplo, ¿tienden las autoridades a ser agresivas? ¿Tiene experiencia previa compensando deficiencias o discrepancias para solicitar pagos? ¿Cómo han logrado evitar los pagos otros capitanes?]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0"><![CDATA[4. Use los canales internos de derivación para pedir ayuda]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[Pida apoyo a su equipo de operaciones o al equipo legal sobre cómo lidiar con la situación. Ellos también pueden ayudarle a derivar los problemas localmente a través del agente o directamente al jefe del departamento correspondiente.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="7,8,9,10" delay="0" y="149"><![CDATA[5. Notifique el incidente (a través de los canales de notificación de su compañía)]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="470" align="left" delay="0"><![CDATA[La compañía debe investigar los casos de posible coacción y documentarlos adecuadamente, ya que puede ser difícil demostrar la coacción. El registro del incidente no es un sello de aprobación de los pagos, pero sí una constatación de la realidad en muchos lugares.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="450" align="left" delay="0" y="315" x="520"><![CDATA[Es posible que la compañía decida compartir los detalles del caso con terceros. Las pruebas de casos reales pueden utilizarse para demostrar a los gobiernos y a terceros que existen problemas sistémicos y ayudarles a mitigar los riesgos. Los datos no revelan nombres individuales ni de compañías a menos que se acuerde específicamente con la compañía que lo notifica.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Qué hemos aprendido. 1. La seguridad es lo primero. Está permitido hacer un pago en situaciones de coacción en las que hay una amenaza real para la seguridad física del capitán o de su tripulación. 2. Intente no otorgar a los funcionarios más poder de negociación del que ya tienen.Los manifiestos incorrectos siempre lo expondrán a las peticiones de los funcionarios. Pida a la tripulación que sea lo más minuciosa posible al contestar estos formularios, ya que incluso los pequeños errores se pueden usar para justificar una petición de soborno. También se pueden detectar los posibles riesgos con antelación, p. e., en algunos casos, recibir una solicitud de una amplia lista de medicamentos antes de llegar al puerto será una señal de que puede haber una situación corrupta.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3. Prepárese y sepa qué esperar. Es importante conocer cuáles son las peticiones que suelen hacerse en cada lugar en los puertos específicos y comunicarse con el agente previamente. Esté preparado y sepa cómo puede ser la situación local; por ejemplo, ¿tienden las autoridades a ser agresivas? ¿Tiene experiencia previa compensando deficiencias o discrepancias para solicitar pagos? ¿Cómo han logrado evitar los pagos otros capitanes? 4. Use los canales internos de derivación para pedir ayuda. Pida apoyo a su equipo de operaciones o al equipo legal sobre cómo lidiar con la situación. Ellos también pueden ayudarle a derivar los problemas localmente a través del agente o directamente al jefe del departamento correspondiente.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>5. Notifique el incidente (a través de los canales de notificación de su compañía). La compañía debe investigar los casos de posible coacción y documentarlos adecuadamente, ya que puede ser difícil demostrar la coacción. El registro del incidente no es un sello de aprobación de los pagos, pero sí una constatación de la realidad en muchos lugares. Es posible que la compañía decida compartir los detalles del caso con terceros. Las pruebas de casos reales pueden utilizarse para demostrar a los gobiernos y a terceros que existen problemas sistémicos y ayudarles a mitigar los riesgos. Los datos no revelan nombres individuales ni de compañías a menos que se acuerde específicamente con la compañía que lo notifica.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 3: Изучение конкретной ситуации — Мелочи могут привести к серьезным последствиям  •  Выводы]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic y="331" x="478">sc3_p9_r1_fr.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1a.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="470" align="left" delay="0" y="74" x="478"><![CDATA[Выводы]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" w="450" align="left" delay="0" y="149"><![CDATA[1. Безопасность превыше всего]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0" y="180"><![CDATA[В ситуации физического принуждения, когда существует реальная угроза безопасности капитана или экипажа, выплата вознаграждения допустима.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" w="470" align="left" delay="0" y="250"><![CDATA[2. Старайтесь не давать чиновникам шанса укрепить свою переговорную силу.]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0" y="295"><![CDATA[Ошибки в декларациях всегда делают капитана и вас уязвимыми перед вымогательством чиновников. Попросите членов экипажа как можно тщательнее заполнять формы, так как даже малейшая ошибка может обернуться требованием взятки. Кроме того, потенциальные риски можно выявить заранее. Например, в некоторых случаях поводом насторожиться может стать запрос на предоставление исчерпывающего списка лекарств до захода в порт.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="3,4,5,6" delay="0" y="149"><![CDATA[3. Подготовьтесь и заранее выясните, чего ожидать]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0" y="180"><![CDATA[Очень важно знать, какие формы вымогательства распространены в конкретном порту. Кроме того, необходимо заранее связаться с агентом. Подготовьтесь и заранее выясните положение дел на месте, например: склонны ли чиновники к проявлению агрессии? Замечены ли они в намеренном выявлении неточностей и несоответствий с целью вымогательства? Как другим капитанам удавалось избежать дачи взятки?]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0"><![CDATA[4. Обращайтесь за помощью, используя внутренние каналы для доведения инцидентов до руководства ведомств]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" align="left" delay="0"><![CDATA[Если вы не знаете, как справиться с ситуацией, обратитесь за советом в операционный или юридический отдел своей компании. Их помощь также может заключаться в доведении информации до руководителя соответствующего ведомства — по внутренним каналам через агента или напрямую.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="7,8,9,10" delay="0" y="149"><![CDATA[5. Сообщите об инциденте (по каналам предоставления отчетности своей компании)]]></txt>
+      <txt c="X" bull="X" swp="X" s="2" w="450" align="left" delay="0"><![CDATA[Потенциальные случаи физического принуждения должны быть расследованы компанией и надлежащим образом задокументированы, так как физическое принуждение бывает трудно доказать. Отчеты об инцидентах не подразумевают одобрения взятки. Это признание реальности, которая существует в различных портах.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="337" x="520"><![CDATA[Компания может предоставить доступ к информации об инциденте третьим лицам. Свидетельства реальных событий могут быть использованы для того, чтобы указать органам власти на наличие системных проблем и помочь им минимизировать риски. Данные не содержат конкретных имен и названий, кроме случаев, когда это согласовано с компанией, предоставившей информацию.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Выводы. 1. Безопасность превыше всегоВ ситуации физического принуждения, когда существует реальная угроза безопасности капитана или экипажа, выплата вознаграждения допустима.2. Старайтесь не давать чиновникам шанса укрепить свою переговорную силу.Ошибки в декларациях всегда делают капитана и вас уязвимыми перед вымогательством чиновников. Попросите членов экипажа как можно тщательнее заполнять формы, так как даже малейшая ошибка может обернуться требованием взятки. Кроме того, потенциальные риски можно выявить заранее. Например, в некоторых случаях поводом насторожиться может стать запрос на предоставление исчерпывающего списка лекарств до захода в порт.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3. Подготовьтесь и заранее выясните, чего ожидатьОчень важно знать, какие формы вымогательства распространены в конкретном порту. Кроме того, необходимо заранее связаться с агентом. Подготовьтесь и заранее выясните положение дел на месте, например: склонны ли чиновники к проявлению агрессии? Замечены ли они в намеренном выявлении неточностей и несоответствий с целью вымогательства? Как другим капитанам удавалось избежать дачи взятки? 4. Обращайтесь за помощью, используя внутренние каналы для доведения инцидентов до руководства ведомств Если вы не знаете, как справиться с ситуацией, обратитесь за советом в операционный или юридический отдел своей компании. Их помощь также может заключаться в доведении информации до руководителя соответствующего ведомства — по внутренним каналам через агента или напрямую.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>5. Сообщите об инциденте (по каналам предоставления отчетности своей компании)Потенциальные случаи физического принуждения должны быть расследованы компанией и надлежащим образом задокументированы, так как физическое принуждение бывает трудно доказать. Отчеты об инцидентах не подразумевают одобрения взятки. Это признание реальности, которая существует в различных портах.Компания может предоставить доступ к информации об инциденте третьим лицам. Свидетельства реальных событий могут быть использованы для того, чтобы указать органам власти на наличие системных проблем и помочь им минимизировать риски. Данные не содержат конкретных имен и названий, кроме случаев, когда это согласовано с компанией, предоставившей информацию.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 3: دراسة حالة - قد تحمل الأفعال البسيطة عواقب وخيمة  •  الدروس المستفادة]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic y="265" x="448">sc3_p9_r1_fr.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i1a.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p8_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" w="470" align="left" delay="0" y="74" x="478"><![CDATA[ الدروس المستفادة]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" w="450" align="left" delay="0" y="149"><![CDATA[1. السلامة تأتي أولاً.]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="180"><![CDATA[يجوز الدفع في حالات الإكراه حيث يوجد تهديد حقيقي للسلامة الجسدية للقبطان أو طاقمه.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0"><![CDATA[2. حاول تجنب منح المسؤولين قدرة تفاوضية أكبر مما لديهم بالفعل]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[ستجعلك البيانات غير الصحيحة دائمًا عرضة لمطالب المسؤولين. اطلب من الطاقم أن يكون دقيقًا قدر الإمكان عند ملء هذه النماذج حيث يتم استغلال الأخطاء الصغيرة لتبرير طلب رشوة. من الممكن أيضًا تحديد المخاطر المحتملة مسبقًا، على سبيل المثال سيكون طلب قائمة العقاقير الشاملة قبل الوصول إلى الميناء بمثابة إنذار أحمر في بعض الحالات.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="3,4,5,6" delay="0" y="149"><![CDATA[3. الاستعداد لأي أمر وتوقع ما يمكن حدوثه]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="180"><![CDATA[من المهم أن يكون لديك معرفة محلية بالطلبات النموذجية في ميناء معين وإشراك الوكيل مبكرًا. كن دائمًا على استعداد لأي موقف ومعرفة ما قد يبدو عليه الوضع المحلي، على سبيل المثال: هل يُعرف عن السلطات أنها عدوانية؟ هل لديهم تاريخ في تعويض أوجه القصور أو التناقضات لطلب المدفوعات؟ كيف نجح القباطنة الآخرون في تجنب الدفع؟]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0"><![CDATA[4. استخدام وسائل التصعيد الداخلية للحصول على الدعم]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[يمكنك الحصول على الدعم من فريق الشؤون القانونية حول كيفية التعامل مع الموقف. كما يمكن أيضًا الدعم بشأن المشكلات المتصاعدة على المستوى المحلي من خلال التواصل مع الوكيل أو رئيس الإدارة المختصة مباشرةً.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="16" s="2" align="left" rpo="7,8,9,10" delay="0" y="149"><![CDATA[5. الإبلاغ عن الحادث (من خلال وسائل الإبلاغ في شركتك)]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0"><![CDATA[يجب أن تحقق الشركة في حالات الإكراه المحتمل ويجب توثيقه بشكل صحيح حيث يصعب إثبات الإكراه. لا يُعد تسجيل الحادث ختم موافقة على تقديم الرشاوى. وهو ما يشكل اعترافًا بالحقائق الواقعة في الكثير من الأماكن.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" w="430" align="left" delay="0" y="285" x="520"><![CDATA[يجوز للشركة مشاركة تفاصيل الحالة مع الآخرين. يجوز استخدام الأدلة على حالات حقيقية لتقديم إثبات للحكومات والآخرين بوجود مشكلات في النظام وتقديم الدعم لهذه المشكلات لتخفيف المخاطر. لا تعرض البيانات أسماء الأفراد أو الشركات ما لم يتم الاتفاق علي ذلك على وجه التحديد مع الشركة القائمة بالإبلاغ.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="5fec9eb0-6bdc-4056-a413-66d658decb7c" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Section 3: Case Study – Minor Things can have Big Consequences  •  Duress?</title>
+    <pics>
+      <pic x="0" y="0">sc3_p4_i1.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc3_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="100" delay="0" pt="1" e="-3" align="left">Captain
+
+"The official is not backing down. He has acted aggressively both verbally and physically. I personally feel that my health and physical safety are in danger." 
+
+
+This is a case of duress. What does this mean in practice?
+</txt>
+      <txt c="X" s="2" x="520" y="260" delay="0" crct="75" align="left">When under duress, you are legally allowed to make the payment to the official.</txt>
+      <txt c="X" s="2" x="520" y="320" delay="0" crct="81" align="left" wrngtext="Incorrect, try again.&#xD;You did not select the correct response. When the safety of the Captain or his crew is under threat, the Captain is under duress.&#xD;&#xD;There is a legal provision making it permissible to pay in those circumstances, but it needs to be reported and investigated by the Company.">Duress does not change anything. You should continue to resist.</txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt>Duress. Captain
+"The official is not backing down. He has acted aggressively both verbally and physically. I personally feel that my health and physical safety are in danger." 
+
+This is a case of duress. What does this mean in practice?
+When under duress, you are legally allowed to make the payment to the official.
+Duress does not change anything. You should continue to resist.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Section 3: Étude de cas — les petites choses peuvent avoir de grandes conséquences  •  S’agit-il d’une coercition?</title>
+    <pics>
+      <pic x="0" y="0">sc3_p4_i1.png</pic>
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc3_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="100" delay="0" pt="1" e="-3" align="left">Capitaine
+
+«Le fonctionnaire s’obstine. Il a agi de manière agressive, aussi bien verbalement que physiquement. J’estime que ma santé et ma sécurité physique sont en danger.» 
+
+
+Il s’agit ici d’un cas de coercition. Qu’est-ce que cela signifie dans la pratique ?</txt>
+      <txt c="X" s="2" x="520" y="260" delay="0" crct="29" align="left">En cas de coercition, vous êtes légalement en droit d’effectuer un paiement au fonctionnaire.</txt>
+      <txt c="X" s="2" x="520" y="320" delay="0" crct="81" align="left" wrngtext="Mauvaise réponse, veuillez réessayer.&#xD;Vous n’avez pas sélectionné la bonne réponse.&#xD;Lorsque la sécurité du capitaine ou de son équipage est menacée, il s’agit alors d’une situation de coercition.&#xD;&#xD;Il existe une disposition légale qui permet d’effectuer un paiement dans ces circonstances, mais l’incident doit être signalé et faire l’objet d’une enquête par la société.">La coercition ne change rien. Vous devriez continuer de résister.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>S’agit-il d’une coercition? «Le fonctionnaire s’obstine. Il a agi de manière agressive, aussi bien verbalement que physiquement. J’estime que ma santé et ma sécurité physique sont en danger.» (Capitaine). Il s’agit ici d’un cas de coercition. Qu’est-ce que cela signifie dans la pratique? En cas de coercition, vous êtes légalement en droit d’effectuer un paiement au fonctionnaire. La coercition ne change rien. Vous devriez continuer de résister.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>第 3 节： 案例研究 - 小事可能产生重大后果  •  胁迫？</title>
+    <pics>
+      <pic x="0" y="0">sc3_p4_i1.png</pic>
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc3_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="100" delay="0" pt="1" e="-3" align="left">船长
+
+"官员不让步。他的语言和行为都很蛮横。我感觉自己的健康和人身安全面临危险。" .
+
+
+
+这是一个胁迫的例子。在实际中有什么含义？
+</txt>
+      <txt c="X" s="2" x="520" y="250" delay="0" crct="31" align="left">受到胁迫时，法律允许您给官员付钱。</txt>
+      <txt c="X" s="2" x="520" y="310" delay="0" crct="11" align="left" wrngtext="错误，重试。&#xD;您没有选择正确的答案。&#xD;如果船长或他的船员的安全受到威胁，则船长属于受到胁迫。&#xD;&#xD;有法律条文允许在这种情形中付钱，但需要由公司报告并调查。">胁迫什么都改变不了。您应该继续持反对这种做法。</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>胁迫。 "官员不让步。他的语言和行为都很蛮横。我感觉自己的健康和人身安全面临危险。" (船长). 这是一个胁迫的例子。在实际中有什么含义？受到胁迫时，法律允许您给官员付钱。胁迫什么都改变不了。您应该继续持反对这种做法。
+
+</sndTxt>
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Sección 3: Caso práctico - Los detalles pequeños pueden tener grandes consecuencias  •  ¿Coacción?</title>
+    <pics>
+      <pic x="0" y="0">sc3_p4_i1.png</pic>
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc3_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="100" delay="0" pt="1" e="-3" align="left">Capitán
+
+"El funcionario no se retracta. Ha actuado de forma agresiva, tanto verbal como físicamente. Personalmente siento que mi salud y seguridad física están en peligro. " 
+
+
+Este es un caso de coacción. ¿Qué significa esto en la práctica?</txt>
+      <txt c="X" s="2" w="450" x="520" y="260" delay="0" crct="21" align="left">Cuando se está bajo coacción, a usted se le permite legalmente hacer el pago al funcionario.</txt>
+      <txt c="X" s="2" x="520" y="320" delay="0" crct="7" align="left" wrngtext="Incorrecto, vuelva a intentarlo.&#xD;No ha seleccionado la respuesta correcta.&#xD;Si la seguridad del capitán o de su tripulación se ve amenazada, el capitán está bajo coacción.&#xD;&#xD;Existe una disposición legal que permite pagar en esas circunstancias, pero es necesario que la compañía lo notifique y lo investigue.">La coacción no cambia nada. Usted debe seguir resistiendo.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>¿Coacción? "El funcionario no se retracta. Ha actuado de forma agresiva, tanto verbal como físicamente. Personalmente siento que mi salud y seguridad física están en peligro. " (Capitán).
+
+Este es un caso de coacción. ¿Qué significa esto en la práctica? Cuando se está bajo coacción, a usted se le permite legalmente hacer el pago al funcionario. La coacción no cambia nada. Usted debe seguir resistiendo.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Раздел 3: Изучение конкретной ситуации — Мелочи могут привести к серьезным последствиям  •  Физическое принуждение?</title>
+    <pics>
+      <pic x="0" y="0">sc3_p4_i1.png</pic>
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc3_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="100" delay="0" pt="1" e="-3" align="left">Капитан
+
+"«Инспектор не отступается. Он проявляет физическую агрессию и угрожает. Я чувствую опасность для своей жизни и здоровья.» " 
+
+
+Это физическое принуждение. Что это означает на практике?
+</txt>
+      <txt c="X" s="2" x="520" y="260" delay="0" crct="11" align="left">В ситуации физического принуждения вы имеете законное право дать вознаграждение инспектору.</txt>
+      <txt c="X" s="2" x="520" y="320" delay="0" wrngx="20" wrngy="386" crct="3" align="left" wrngtext="Неправильно, попробуйте еще раз.&#xD;Вы выбрали неправильный ответ.&#xD;Когда безопасность капитана или экипажа находится под угрозой, капитан оказывается в ситуации физического принуждения.&#xD;&#xD;Существует правовая норма, разрешающая давать вознаграждение в подобных обстоятельствах. При этом об инциденте необходимо сообщить в компанию для проведения расследования.">Факт физического принуждения ничего не меняет. Вы должны продолжать стоять на своем.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>"«Инспектор не отступается. Он проявляет физическую агрессию и угрожает. Я чувствую опасность для своей жизни и здоровья.» " (Капитан).
+
+Это физическое принуждение. Что это означает на практике?
+
+В ситуации физического принуждения вы имеете законное право дать вознаграждение инспектору.
+Факт физического принуждения ничего не меняет. Вы должны продолжать стоять на своем.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>القسم 3: دراسة حالة - قد تحمل الأفعال البسيطة عواقب وخيمة  •  الإكراه؟</title>
+    <pics>
+      <pic x="0" y="0">sc3_p4_i1.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc3_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="120" delay="0" pt="1" e="-3" align="left"> "المسؤول لا يتراجع عن موقفه. لقد تصرف بتهديد لفظي وجسدي. يراودني شعور شخصي بأن صحتي وسلامتي الجسدية في خطر".(القبطان.)
+
+يندرج ذلك ضمن حالات الإكراه. ما معنى ذلك من الناحية العملية؟</txt>
+      <txt c="X" s="2" x="520" y="210" delay="0" crct="63" align="left">عندما تكون تحت الإكراه، يجيز لك القانون الدفع إلى المسؤول.</txt>
+      <txt c="X" s="2" x="520" y="250" delay="0" crct="101" align="left" wrngtext="إجابة خاطئة، حاول مرة أخرى.&#xD;لم تختر الإجابة الصحيحة.&#xD;عندما تتعرض سلامة القبطان أو طاقمه للخطر، يتعرض القبطان للإكراه.&#xD;يوجد بند قانوني يسمح بالدفع في تلك الظروف، ولكن يجب الإبلاغ عن ذلك والتحقيق فيه من قبل الشركة.&#xD;">ن تصرف الإكراه لا يغير شيئًا. يتعين عليك الاستمرار بالمقاومة.</txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

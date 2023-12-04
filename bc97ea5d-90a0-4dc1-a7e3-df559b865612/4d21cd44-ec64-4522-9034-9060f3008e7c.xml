@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="4d21cd44-ec64-4522-9034-9060f3008e7c" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Section 1: Introduction  •  Stand Your Ground</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p13.png</pic>
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Stand Your Ground
+
+</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" align="left" fontcolor="0c0254">1. Use the lessons learned and be consistent in the rejection of corrupt demands.
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" fontcolor="0c0254">2. If one vessel successfully reduced or eliminated demands, share the experience so sister ships can follow. If you are successful once, it is likely that the success can continue.
+</txt>
+      <txt c="X" s="2" w="470" y="149" delay="0" align="left" rpo="2" fontcolor="0c0254">3. Share information on how the mitigation of corrupt demands is progressing – among ships, in the office, and among offices in the same geographical region.
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" rpo="3" fontcolor="0c0254">4. Prepare new colleagues on what to expect before the first government official interaction in a specific location.
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" fontcolor="0c0254">5. Use local experience and input to design specific elimination plans:
+</txt>
+      <txt bull="X" swp="X" c="X" s="2" w="450" x="500" delay="0" align="left">e.g. seek input from agents on the best way to eliminate corrupt demands or facilitate a dialogue with local third parties on how to combat corrupt demands together.
+</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Stand Your Ground. 1. Use the lessons learned and be consistent in the rejection of corrupt demands. 2. If one vessel successfully reduced or eliminated demands, share the experience so sister ships can follow. If you are successful once, it is likely that the success can continue.
+
+
+</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>3. Share information on how the mitigation of corrupt demands is progressing – among ships, in the office, and among offices in the same geographical region. 4. Prepare new colleagues on what to expect before the first government official interaction in a specific location. 5. Use local experience and input to design specific elimination plans:
+•  e.g. seek input from agents on the best way to eliminate corrupt demands or facilitate a dialogue with local third parties on how to combat corrupt demands together.
+
+</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Section 1: Introduction  •  Rester sur ses positions</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p13.png</pic>
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Rester sur ses positions</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" fontsize="16" align="left" fontcolor="0c0254">1. Tirez parti de votre expérience et soyez cohérent dans votre rejet de demandes de pots-de-vin.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left" fontcolor="0c0254">2. Si un navire a réussi à réduire ou à éliminer ces demandes, partagez cette expérience pour que les navires-jumeaux puissent faire de même. Si vous avez réussi une fois, il est probable que cette réussite puisse se reproduire.</txt>
+      <txt c="X" s="2" w="470" y="149" delay="0" fontsize="16" align="left" rpo="2" fontcolor="0c0254">3. Partagez vos informations sur les progrès concernant la réduction des demandes de pots-de-vin, entre navires, au bureau et entre les bureaux d’une même région géographique.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left" rpo="3" fontcolor="0c0254">4. Préparez vos nouveaux collègues à ce à quoi ils peuvent s’attendre avant la première interaction avec des autorités gouvernementales d’un lieu donné.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left" fontcolor="0c0254">5. Profitez de l’expérience et des connaissances locales pour concevoir des plans d’élimination spécifiques:</txt>
+      <txt bull="X" swp="X" c="X" s="2" w="450" x="500" delay="0" align="left">par ex., demandez conseil aux agents portuaires sur la meilleure façon d’éliminer ces demandes de pots-de-vin ou amorcez le dialogue avec de tiers locaux sur la façon de combattre ensemble ces demandes de pots-de-vin.</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt />
+      <sndTxt>Rester sur ses positions. 1. Tirez parti de votre expérience et soyez cohérent dans votre rejet de demandes de pots-de-vin. 2.Si un navire a réussi à réduire ou à éliminer ces demandes, partagez cette expérience pour que les navires-jumeaux puissent faire de même. Si vous avez réussi une fois, il est probable que cette réussite puisse se reproduire.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>3. Partagez vos informations sur les progrès concernant la réduction des demandes de pots-de-vin, entre navires, au bureau et entre les bureaux d’une même région géographique. 4. Préparez vos nouveaux collègues à ce à quoi ils peuvent s’attendre avant la première interaction avec des autorités gouvernementales d’un lieu donné. 5. Profitez de l’expérience et des connaissances locales pour concevoir des plans d’élimination spécifiques :•  par ex., demandez conseil aux agents portuaires sur la meilleure façon d’éliminer ces demandes de pots-de-vin ou amorcez le dialogue avec de tiers locaux sur la façon de combattre ensemble ces demandes de pots-de-vin.</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>第 1 节： 简介  •  坚持立场</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p13.png</pic>
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">坚持立场
+</txt>
+      <txt swp="X" c="X" s="1" w="470" y="149" delay="0" fontsize="16" align="left" fontcolor="0c0254">1. 运用学到的经验教训，坚持拒绝索贿要求。
+</txt>
+      <txt swp="X" c="X" s="1" delay="0" fontsize="16" align="left" fontcolor="0c0254">2. 如果一艘船成功减少或消除了这类要求，应分享相关经验，供其他船借鉴。有了一次成功，就可能有后续的成功。
+</txt>
+      <txt c="X" s="1" w="470" y="149" delay="0" fontsize="16" align="left" rpo="2" fontcolor="0c0254">3. 在船舶之间、办事场所内以及同一地理区域内的办事场所之间，分享有关减轻腐败要求进展情况的信息。</txt>
+      <txt swp="X" c="X" s="1" delay="0" fontsize="16" align="left" rpo="3" fontcolor="0c0254">4. 在特定地点与政府官员首次打交道前对新同事进行相关培训。</txt>
+      <txt swp="X" c="X" s="1" delay="0" fontsize="16" align="left" fontcolor="0c0254">5. 运用当地的经验和建议设计具体的消除计划：</txt>
+      <txt bull="X" swp="X" c="X" s="2" w="450" x="500" delay="0" align="left">例如，向代理咨询如何最有效地消除索贿要求，或安排与当地第三方会谈来了解如何共同抗击腐败。</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt />
+      <sndTxt>坚持立场。 1. 运用学到的经验教训，坚持拒绝索贿要求。2. 如果一艘船成功减少或消除了这类要求，应分享相关经验，供其他船借鉴。有了一次成功，就可能有后续的成功。
+
+</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>3. 在船舶之间、办事场所内以及同一地理区域内的办事场所之间，分享有关减轻腐败要求进展情况的信息。4. 在特定地点与政府官员首次打交道前对新同事进行相关培训。5. 运用当地的经验和建议设计具体的消除计划：•   例如，向代理咨询如何最有效地消除索贿要求，或安排与当地第三方会谈来了解如何共同抗击腐败。
+</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Sección 1: Introducción  •  Manténgase firme</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p13.png</pic>
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Manténgase firme</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" fontsize="16" align="left" fontcolor="0c0254">1. Recurra a lo que ha aprendido y sea siempre consecuente al rechazar las demandas corruptas.
+</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left" fontcolor="0c0254">2. Si un barco logró con éxito reducir o eliminar las peticiones, comparta la experiencia para que los barcos hermanos puedan hacer lo mismo. Si tiene éxito una vez, es probable que lo siga teniendo más adelante.</txt>
+      <txt c="X" s="2" w="470" y="149" delay="0" fontsize="16" align="left" rpo="2" fontcolor="0c0254">3. Comparta información sobre cómo está progresando la mitigación de las peticiones corruptas: entre los barcos, en la oficina y entre oficinas de la misma región geográfica.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left" rpo="3" fontcolor="0c0254">4. Prepare a los nuevos colegas y cuénteles qué esperar antes de la primera interacción con un funcionario gubernamental en un lugar específico.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left" fontcolor="0c0254">5. Utilice la experiencia y los aportes locales para diseñar planes de eliminación específicos:</txt>
+      <txt bull="X" swp="X" c="X" s="2" w="450" x="500" delay="0" align="left">Por ejemplo, pida opinión a los agentes sobre la mejor manera de eliminar las peticiones corruptas o facilitar un diálogo con terceros locales sobre cómo combatir juntos las peticiones corruptas.</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt />
+      <sndTxt>Manténgase firme. Recurra a lo que ha aprendido y sea siempre consecuente al rechazar las demandas corruptas.
+Si un barco logró con éxito reducir o eliminar las peticiones, comparta la experiencia para que los barcos hermanos puedan hacer lo mismo. Si tiene éxito una vez, es probable que lo siga teniendo más adelante.
+</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Comparta información sobre cómo está progresando la mitigación de las peticiones corruptas: entre los barcos, en la oficina y entre oficinas de la misma región geográfica.
+Prepare a los nuevos colegas y cuénteles qué esperar antes de la primera interacción con un funcionario gubernamental en un lugar específico.
+Utilice la experiencia y los aportes locales para diseñar planes de eliminación específicos:
+Por ejemplo, pida opinión a los agentes sobre la mejor manera de eliminar las peticiones corruptas o facilitar un diálogo con terceros locales sobre cómo combatir juntos las peticiones corruptas</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Раздел 1: Введение  •  Стойте на своем</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p13.png</pic>
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Стойте на своем</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" fontsize="16" align="left" fontcolor="0c0254">Используйте практические советы и будьте последовательны в вопросах противодействия вымогательству.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left" fontcolor="0c0254">Если вам удалось сократить или пресечь вымогательства в отношении своего судна, поделитесь опытом с другими судами вашей компании. Если получилось один раз, скорее всего, получится и в будущем.</txt>
+      <txt c="X" s="2" w="470" y="149" delay="0" fontsize="16" align="left" rpo="2" fontcolor="0c0254">Делитесь информацией об эффективности мер по противодействию вымогательству с другими судами, офисом и региональными филиалами.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left" rpo="3" fontcolor="0c0254">Инструктируйте новых коллег о том, что их ожидает на первой встрече с представителями органов власти в конкретном порту.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left" fontcolor="0c0254">Используйте информацию от местных источников, чтобы составить план действий по предотвращению коррупционных рисков.</txt>
+      <txt bull="X" swp="X" c="X" s="2" w="450" x="500" delay="0" align="left">Например, узнайте у агентов наиболее эффективные способы пресечения вымогательства или обсудите возможность совместного противостояния вымогательству с местными заинтересованными лицами.</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt />
+      <sndTxt>Стойте на своем. Используйте практические советы и будьте последовательны в вопросах противодействия вымогательству.
+Если вам удалось сократить или пресечь вымогательства в отношении своего судна, поделитесь опытом с другими судами вашей компании. Если получилось один раз, скорее всего, получится и в будущем.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Делитесь информацией об эффективности мер по противодействию вымогательству с другими судами, офисом и региональными филиалами.
+Инструктируйте новых коллег о том, что их ожидает на первой встрече с представителями органов власти в конкретном порту.
+Используйте информацию от местных источников, чтобы составить план действий по предотвращению коррупционных рисков.
+Например, узнайте у агентов наиболее эффективные способы пресечения вымогательства или обсудите возможность совместного противостояния вымогательству с местными заинтересованными лицами.</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>القسم 1  •  اثبت على موقفك</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc1_p13.png</pic>
+      <pic preload="X" x="850" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic noDelay="X" x="850" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc1_p13_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="30" align="left" fontcolor="0c0254"> اثبت على موقفك
+
+</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" fontsize="18" align="left" fontcolor="0c0254">• تعلم من الدروس المستفادة وكن ثابتا في رفض المطالب الفاسدة.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="18" align="left" fontcolor="0c0254">• إذا نجحت إحدى السفن في تقليل الطلبات أو إلغائها، قم بمشاركة التجربة حتى تتمكن السفن الشقيقة من اتباع الطريقة. وإذا نجحت في ذلك مرة واحدة، فمن المرجح أن يستمر النجاح.</txt>
+      <txt c="X" s="2" w="470" y="149" delay="0" fontsize="18" align="left" rpo="2" fontcolor="0c0254">• تبادل المعلومات حول كيفية تطور طريقة التخفيف من المطالب الفاسدة - بين السفن، في المكاتب، وبين المكاتب في المنطقة الجغرافية الواحدة.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="18" align="left" rpo="3" fontcolor="0c0254">• تبادل المعلومات حول كيفية تطور طريقة التخفيف من المطالب الفاسدة - بين السفن، في المكاتب، وبين المكاتب في المنطقة الجغرافية الواحدة.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="18" align="left" fontcolor="0c0254">• الاستفادة من الخبرات والمعلومات المحلية لتصميم خطط استبعاد محددة:</txt>
+      <txt swp="X" c="X" s="2" w="450" x="500" delay="0" fontsize="16" align="left">• على سبيل المثال: السعي للحصول على معلومات من الوكلاء بشأن أفضل طريقة للقضاء على المطالب الفاسدة أو تسهيل الحوار مع أطراف أخرى محلية حول كيفية مكافحة المطالب الفاسدة معًا.</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

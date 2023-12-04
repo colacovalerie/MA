@@ -1,0 +1,54 @@
+<section id="player"
+         ng-if="mainData"
+         ng-style="playerStyle(mainData)"
+         ng-mousemove="mousePlayerMove($event)"
+         ng-mouseleave="toggleControls(true,1000)"
+
+         hm-press="mobileContextMenuFunc($event)" hm-recognizer-options='[{"type":"press", time:500, pointers:2}]'
+         ui-event="{ contextmenu : 'contextMenuFunc($event)', touchend : 'playerTouchEndHandler()' }">
+    <div class="templateInactivePart fullSizeTransparent"
+         ui-event="{ touchstart : 'clearRollover()'}"
+         hm-tap="showMobileControls()"
+         hm-swipe="playerSwipe($event)" hm-recognizer-options='[{"type":"swipe","threshold":150, "directions":"DIRECTION_HORIZONTAL"}]'></div>
+    <!-- DEV-START -->
+    <!--<objectives-panel ng-if="page.template == TEMPLATES.OBJECTIVES"></objectives-panel>-->
+    <menu-panel ng-if="page.template == TEMPLATES.MENU"></menu-panel>
+
+    <!-- DEV-END -->
+    <welcome-panel ng-if="page.template == TEMPLATES.WELCOME"></welcome-panel>
+    <div class="row-12" ng-if="chapterID">
+        <chapter-finish ng-if="page.template == TEMPLATES.CHAPTER_END"></chapter-finish>
+        <assessment-intro ng-if="page.template == TEMPLATES.ASSESSMENT_INTRO"></assessment-intro>
+        <self-assessment-intro ng-if="page.template == TEMPLATES.SELF_ASSESSMENT_INTRO"></self-assessment-intro>
+        <assessment-result ng-if="page.template == TEMPLATES.ASSESSMENT_RESULT"></assessment-result>
+        <tmp01-template ng-if="page.template == TEMPLATES.TMP_01" ng-hide="subPageData.cover" template-role="mainPage"></tmp01-template>
+        <vid-template ng-if="page.template == TEMPLATES.VID" template-role="mainPage"></vid-template>
+        <q1-template ng-if="page.template == TEMPLATES.Q1" template-role="mainPage"></q1-template>
+        <q2-template ng-if="page.template == TEMPLATES.Q2" template-role="mainPage"></q2-template>
+        <doc-template ng-if="page.template == TEMPLATES.DOC" template-role="mainPage"></doc-template>
+        <!--<html-template ng-if="page.template == TEMPLATES.HTML"></html-template>-->
+        <ppt-template ng-if="page.template == TEMPLATES.PPT" template-role="mainPage"></ppt-template>
+        <adaptive-template ng-if="page.template == TEMPLATES.ADAPTIVE" template-role="mainPage"></adaptive-template>
+
+        <sub-page ng-if="subPageData"></sub-page>
+
+    </div>
+    <div ng-if="$root.chapter.glass" class="constant-glass">
+        <img ng-src="{{$root.chapter.glass}}"/>
+    </div>
+    <glass-layer ng-if="glassData && page.template != TEMPLATES.WELCOME"></glass-layer>
+    <sub-glass ng-if="subGlassData"></sub-glass>
+    <glossary ng-if="glossaryVisible"></glossary>
+    <welcome-panel-popup ng-if="isWelcomePopupShown"></welcome-panel-popup>
+    <div class="position-absolute" style="z-index: 9999999">
+        <player-controls></player-controls>
+        <!-- DEV-START -->
+        <dev-panel></dev-panel>
+        <!-- DEV-END -->
+    </div>
+
+    <sg-preloader></sg-preloader>
+    <context-menu></context-menu>
+    <sg-alert></sg-alert>
+    <status-info></status-info>
+</section>

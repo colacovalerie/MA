@@ -1,0 +1,1233 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="07b86e8f-a228-4e29-9c7a-145bd302a65b">
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  • What is Corruption?]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="1" hot="S" preload="X" y="130" x="40">sc1_p7_1.png</pic>
+      <pic hotid="2" hot="S" y="130" x="500">sc1_p7_2.png</pic>
+      <pic hotid="3" hot="S" y="325" x="40">sc1_p7_3.png</pic>
+      <pic hotid="4" hot="S" y="325" x="500">sc1_p7_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="195"><![CDATA[What is Corruption?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="90" x="500"><![CDATA[Click on the boxes to view key elements of corruption.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" w="470" align="left" delay="0" y="275" x="80"><![CDATA[Bribery]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="275" x="540"><![CDATA[Facilitation Payments]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="470" x="80"><![CDATA[Third-Party Risks]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="470" x="540"><![CDATA[Extortion and Duress]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>What is Corruption? Click on the boxes to view key elements of corruption.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Qu’est-ce que la corruption?]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="5" hot="S" preload="X" y="130" x="40">sc1_p7_1.png</pic>
+      <pic hotid="6" hot="S" y="130" x="500">sc1_p7_2.png</pic>
+      <pic hotid="7" hot="S" y="325" x="40">sc1_p7_3.png</pic>
+      <pic hotid="8" hot="S" y="325" x="500">sc1_p7_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="40"><![CDATA[Qu’est-ce que la corruption?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="74" x="500"><![CDATA[Cliquez sur les encadrés pour afficher les principaux éléments qui constituent la corruption.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="275" x="80"><![CDATA[Le pot-de-vin]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="275" x="540"><![CDATA[Paiements de facilitation]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="470" x="80"><![CDATA[Responsabilités des tiers]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="470" x="540"><![CDATA[Extortion et coercition
+
+]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Qu’est-ce que la corruption? Cliquez sur les encadrés pour afficher les principaux éléments qui constituent la corruption.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 1 节： 简介  •  什么是贿赂？]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="9" hot="S" preload="X" y="130" x="40">sc1_p7_1.png</pic>
+      <pic hotid="10" hot="S" y="130" x="500">sc1_p7_2.png</pic>
+      <pic hotid="11" hot="S" y="325" x="40">sc1_p7_3.png</pic>
+      <pic hotid="12" hot="S" y="325" x="500">sc1_p7_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="195"><![CDATA[什么是贿赂？]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="90" x="500"><![CDATA[单击复选框查看腐败的主要元素。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="15" s="1" w="470" align="left" delay="0" y="275" x="80"><![CDATA[贿赂]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="275" x="540"><![CDATA[便利费]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="470" x="80"><![CDATA[第三方责任]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="470" x="540"><![CDATA[可能出现敲诈勒索的情况]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>什么是贿赂？单击复选框查看腐败的主要元素。</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 1: Introducción  •  ¿Qué es la corrupción?]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="17" hot="S" preload="X" y="130" x="40">sc1_p7_1.png</pic>
+      <pic hotid="18" hot="S" y="130" x="500">sc1_p7_2.png</pic>
+      <pic hotid="19" hot="S" y="325" x="40">sc1_p7_3.png</pic>
+      <pic hotid="20" hot="S" y="325" x="500">sc1_p7_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="195"><![CDATA[¿Qué es la corrupción?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="80" x="540"><![CDATA[Haga clic en los cuadros para ver los elementos clave de la corrupción.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="275" x="80"><![CDATA[Soborno]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="275" x="540"><![CDATA[Pagos para la simplificación de trámites]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="470" x="80"><![CDATA[Riesgos de terceros]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="470" x="540"><![CDATA[Extorsión y coacción]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>¿Qué es la corrupción? Haga clic en los cuadros para ver los elementos clave de la corrupción.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 1: Введение  •  Что такое коррупция?]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="25" hot="S" preload="X" y="130" x="40">sc1_p7_1.png</pic>
+      <pic hotid="26" hot="S" y="130" x="500">sc1_p7_2.png</pic>
+      <pic hotid="27" hot="S" y="325" x="40">sc1_p7_3.png</pic>
+      <pic hotid="28" hot="S" y="325" x="500">sc1_p7_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="40"><![CDATA[Что такое коррупция?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="80" x="500"><![CDATA[Нажимайте на рисунки, чтобы познакомиться с основными элементами коррупции.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="275" x="80"><![CDATA[Взяточничество]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="275" x="540"><![CDATA[Вознаграждения за оказание содействия]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="470" x="80"><![CDATA[Pиски третьих лиц]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="470" x="540"><![CDATA[вымогательство и физическое  принуждение]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Что такое коррупция? Нажимайте на рисунки, чтобы познакомиться с основными элементами коррупции.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 1  •  ما هو الفساد؟]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic hotid="29" hot="S" preload="X" y="130" x="40">sc1_p7_1.png</pic>
+      <pic hotid="30" hot="S" y="130" x="500">sc1_p7_2.png</pic>
+      <pic hotid="31" hot="S" y="325" x="40">sc1_p7_3.png</pic>
+      <pic hotid="32" hot="S" y="325" x="500">sc1_p7_4.png</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="35" s="2" align="left" delay="0" y="74" x="460"><![CDATA[ما هو الفساد؟]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="430" align="left" delay="0" y="90" x="20"><![CDATA[انقر فوق المربعات لعرض العناصر الرئيسية لموضوع الفساد.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="17" s="1" w="150" align="left" delay="0" y="275" x="270"><![CDATA[الرشوة ]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="17" s="1" w="150" align="right" delay="0" y="275" x="750"><![CDATA[مدفوعات التسهيل]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="17" s="1" w="150" align="left" delay="0" y="470" x="270"><![CDATA[مسؤوليات الطرف الثالث]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="17" s="1" w="200" align="left" delay="0" y="470" x="700"><![CDATA[من الممكن حدوث حالات ابتزاز]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages>
+    <page id="1">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Key Elements of Corruption]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_1s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic y="450" x="478">sc1_p7_ramka.png</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s1.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Bribery]]></txt>
+        <txt c="X" swp="X" fontsize="13" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Bribery is the acceptance, offering, solicitation or promise of benefits, in kind or in cash, in the hope of gaining advantages to which you would not otherwise be entitled. For example, paying to come to the front of the line during a canal transit is a bribe. It includes payments to commercial organisations, as well as public officials.
+
+Bribery is illegal worldwide, and MACN members are committed to comply with relevant laws prohibiting bribery. Bribery can either be:]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0"><![CDATA[•  Passive bribery:]]></txt>
+        <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[A person asking for, accepting or receiving a bribe commits passive bribery.]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0"><![CDATA[•  Active bribery:]]></txt>
+        <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[A person offering, promising or paying a bribe commits active bribery.]]></txt>
+        <txt c="X" swp="X" fontcolor="c3000a" s="1" align="left" delay="0" y="455" x="520"><![CDATA[Both passive and active bribery is illegal in most countries.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Bribery. Bribery is the acceptance, offering, solicitation or promise of benefits, in kind or in cash, in the hope of gaining advantages to which you would not otherwise be entitled. For example, paying to come to the front of the line during a canal transit is a bribe. It includes payments to commercial organisations, as well as public officials. Bribery is illegal worldwide, and MACN members are committed to comply with relevant laws prohibiting bribery. Bribery can either be:     • • Passive bribery:A person asking for, accepting or receiving a bribe commits passive bribery. •  Active bribery: A person offering, promising or paying a bribe commits active bribery. Both passive and active bribery is illegal in most countries.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="2">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Key Elements of Corruption]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_2s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Facilitation Payments]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Facilitation payments are small payments, in cash or in kind, made to low-level government officials to perform a part of their routine duties. For example, giving a few packs of cigarettes to get an official stamp on a document even though you are legally entitled to it.
+
+Despite being illegal in most countries, facilitation payments remain customary globally and therefore represent a challenge for the shipping industry.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Facilitation Payments. Facilitation payments are small payments, in cash or in kind, made to low-level government officials to perform a part of their routine duties. For example, giving a few packs of cigarettes to get an official stamp on a document even though you are legally entitled to it.
+
+Despite being illegal in most countries, facilitation payments remain customary globally and therefore represent a challenge for the shipping industry.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="3">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Key Elements of Corruption]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_3s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="26" s="2" w="480" align="left" delay="0" y="74" x="478"><![CDATA[Responsibilities for Third Parties]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[In the shipping industry, the most common third parties are port agents.For example: if a port agent acting on your behalf makes a bribe or a facilitation payment for the benefit of the company, the company is legally responsible for that payment.If an agent makes an illegal payment to a government official in a foreign country, prosecution charges can be pressed against the company and its employees in that foreign country, the company’s or employees’ home country and potentially other countries (such as the UK and US, whose laws have global jurisdiction).]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Responsibilities for Third Parties. In the shipping industry, the most common third parties are port agents.For example: if a port agent acting on your behalf makes a bribe or a facilitation payment for the benefit of the company, the company is legally responsible for that payment.If an agent makes an illegal payment to a government official in a foreign country, prosecution charges can be pressed against the company and its employees in that foreign country, the company’s or employees’ home country and potentially other countries (such as the UK and US, whose laws have global jurisdiction).</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="4">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Key Elements of Corruption]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_4s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+        <pic y="390" x="478">sc1_p7_ramka2.png</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s4.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="26" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Situations of Extortion can Occur]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Some public officials can act aggressively when making demands for a payment whether it is in cash or in kind, which is a form of extortion. They can become threatening and physically and/or verbally abusive. This behaviour can be so intense that the operator or crew can feel that their personal health and/or safety is in danger.
+
+This type of situation is legally defined as duress. If you feel that you are physically threatened, you may take necessary action as deemed reasonable to ensure personal safety and safety for others. But keep in mind duress only applies to physical threats. It does not include economic threats, such as delays or threats of delays (e.g. being refused permission to berth).]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="1" w="450" align="left" delay="0" y="405" x="520"><![CDATA[It is important that you report such incidents to your company as these must be recorded and investigated.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Situations of Extortion can Occur. Some public officials can act aggressively when making demands for a payment whether it is in cash or in kind, which is a form of extortion. They can become threatening and physically and/or verbally abusive. This behaviour can be so intense that the operator or crew can feel that their personal health and/or safety is in danger.
+
+This type of situation is legally defined as duress. If you feel that you are physically threatened, you may take necessary action as deemed reasonable to ensure personal safety and safety for others. But keep in mind duress only applies to physical threats. It does not include economic threats, such as delays or threats of delays (e.g. being refused permission to berth). It is important that you report such incidents to your company as these must be recorded and investigated.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="5">
+      <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Qu’est-ce que la corruption?]]></title>
+      <pics>
+        <pic noFade="X" y="70" x="0">sc1_p7_1s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+        <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic y="370" x="478">sc2_p1_ramka2.png</pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s1_i1.mp3</snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s1_i2.mp3</snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Le pot-de-vin]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Un pot-de-vin est l’acceptation, l’offre, la sollicitation ou la promesse d’avantages, en nature ou en espèces, dans l’espoir d’obtenir des avantages auxquels vous n’auriez pas droit autrement. Par exemple, payer pour passer devant les autres navires au passage d’un canal constitue un pot-de-vin. Ce type de corruption inclut les paiements effectués aussi bien auprès d’entreprises commerciales que de fonctionnaires.
+
+]]></txt>
+        <txt c="X" s="2" w="470" align="left" rpo="2" delay="0" y="149"><![CDATA[Les pots-de-vin sont illégaux partout dans le monde et les membres du MACN s’engagent à respecter les lois en vigueur interdisant les pots-de-vin. Les pots-de-vin peuvent constituer:]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0"><![CDATA[•  Une corruption passive :]]></txt>
+        <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[Une personne qui demande, qui accepte ou qui reçoit un pot-de-vin commet un acte de corruption passive.]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0"><![CDATA[•  Une corruption active:]]></txt>
+        <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[Une personne qui offre, qui promet ou qui paie un pot-de-vin commet un acte de corruption active.]]></txt>
+        <txt c="X" swp="X" fontcolor="c3000a" s="2" w="450" align="left" delay="0" y="385" x="520"><![CDATA[La corruption passive et la corruption active sont illégales dans la plupart des pays.]]></txt>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Le pot-de-vin. Un pot-de-vin est l’acceptation, l’offre, la sollicitation ou la promesse d’avantages, en nature ou en espèces, dans l’espoir d’obtenir des avantages auxquels vous n’auriez pas droit autrement. Par exemple, payer pour passer devant les autres navires au passage d’un canal constitue un pot-de-vin. Ce type de corruption inclut les paiements effectués aussi bien auprès d’entreprises commerciales que de fonctionnaires.
+
+</sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Les pots-de-vin sont illégaux partout dans le monde et les membres du MACN s’engagent à respecter les lois en vigueur interdisant les pots-de-vin. Les pots-de-vin peuvent constituer. Une corruption passive : •  Une personne qui demande, qui accepte ou qui reçoit un pot-de-vin commet un acte de corruption passive. •  Une corruption active: Une personne qui offre, qui promet ou qui paie un pot-de-vin commet un acte de corruption active. La corruption passive et la corruption active sont illégales dans la plupart des pays.
+
+</sndTxt>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="6">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Qu’est-ce que la corruption?]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_2s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Paiements de facilitation]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Les paiements de facilitations sont des paiements de faible valeur, en espèces ou en nature, versés à des fonctionnaires subalternes pour réaliser des actes routiniers dans le cadre de leurs fonctions. Par exemple, donner quelques paquets de cigarettes pour obtenir un cachet officiel sur un document même si vous y avez légalement droit. 
+
+Malgré leur caractère illégal dans la plupart des pays, les paiements de facilitation n’en sont pas moins coutumiers dans le monde et présentent donc une difficulté pour le secteur du transport maritime.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Paiements de facilitation. Les paiements de facilitations sont des paiements de faible valeur, en espèces ou en nature, versés à des fonctionnaires subalternes pour réaliser des actes routiniers dans le cadre de leurs fonctions. Par exemple, donner quelques paquets de cigarettes pour obtenir un cachet officiel sur un document même si vous y avez légalement droit. Malgré leur caractère illégal dans la plupart des pays, les paiements de facilitation n’en sont pas moins coutumiers dans le monde et présentent donc une difficulté pour le secteur du transport maritime.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="7">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Qu’est-ce que la corruption?]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_3s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="600" align="left" delay="0" y="74" x="478"><![CDATA[Responsabilités des tiers]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Dans le secteur du transport maritime, les tiers les plus souvent rencontrés sont les agents portuaires.
+
+Par exemple, si un agent portuaire, agissant en votre nom, offre un pot-de-vin ou un paiement de facilitation au profit de la société, celle-ci est responsable légalement de ce paiement.
+
+Si un agent portuaire effectue un paiement illégal à un fonctionnaire dans un pays étranger, des poursuites peuvent être engagées contre l’entreprise et ses employés dans ce pays étranger, dans le pays d’origine de l’entreprise ou de ses employés et éventuellement dans d’autres pays (tels que le Royaume-Uni et les États-Unis d’Amérique dont les lois ont une compétence globale).]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Responsabilités des tiers. Dans le secteur du transport maritime, les tiers les plus souvent rencontrés sont les agents portuaires.
+
+
+
+Par exemple, si un agent portuaire, agissant en votre nom, offre un pot-de-vin ou un paiement de facilitation au profit de la société, celle-ci est responsable légalement de ce paiement.
+
+
+
+Si un agent portuaire effectue un paiement illégal à un fonctionnaire dans un pays étranger, des poursuites peuvent être engagées contre l’entreprise et ses employés dans ce pays étranger, dans le pays d’origine de l’entreprise ou de ses employés et éventuellement dans d’autres pays (tels que le Royaume-Uni et les États-Unis d’Amérique dont les lois ont une compétence globale).</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="8">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Section 1: Introduction  •  Qu’est-ce que la corruption?]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_4s.png</pic>
+        <pic preload="X" y="155" x="478">kreska-cz.jpg</pic>
+        <pic y="418" x="478">sc1_p7_ramka2.png</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s4.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Des situations d’extorsion peuvent avoir lieu]]></txt>
+        <txt c="X" swp="X" fontsize="13" s="2" w="470" align="left" delay="0" y="175"><![CDATA[Certains fonctionnaires peuvent agir de manière agressive lorsqu’ils exigent d’être payés, que ce soit en espèces ou en nature, ce qui constitue une forme d’extorsion. Ils peuvent devenir menaçants et violents physiquement ou verbalement. L’intensité de ce comportement peut être telle que l’exploitant ou l’équipage peut sentir que sa santé ou sa sécurité personnelle est en danger.
+
+Ce type de situation est défini légalement comme une coercition. Si vous vous sentez menacé physiquement, vous pouvez prendre des mesures nécessaires que vous jugez raisonnables pour garantir votre sécurité personnelle et celle des autres. Mais souvenez-vous que la coercition ne s’applique qu’aux menaces physiques. Elle ne comprend pas les menaces d’ordre économique telles que les retards ou les menaces de retards (par ex., se voir refuser le droit d’accoster).]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="13" s="2" w="450" align="left" delay="0" y="428" x="520"><![CDATA[Il est important que vous signaliez de tels incidents à votre société pour qu’ils puissent être enregistrés et faire l’objet d’une enquête.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Des situations d’extorsion peuvent avoir lieu. Certains fonctionnaires peuvent agir de manière agressive lorsqu’ils exigent d’être payés, que ce soit en espèces ou en nature, ce qui constitue une forme d’extorsion. Ils peuvent devenir menaçants et violents physiquement ou verbalement. L’intensité de ce comportement peut être telle que l’exploitant ou l’équipage peut sentir que sa santé ou sa sécurité personnelle est en danger. Ce type de situation est défini légalement comme une coercition. Si vous vous sentez menacé physiquement, vous pouvez prendre des mesures nécessaires que vous jugez raisonnables pour garantir votre sécurité personnelle et celle des autres. Mais souvenez-vous que la coercition ne s’applique qu’aux menaces physiques. Elle ne comprend pas les menaces d’ordre économique telles que les retards ou les menaces de retards (par ex., se voir refuser le droit d’accoster). Il est important que vous signaliez de tels incidents à votre société pour qu’ils puissent être enregistrés et faire l’objet d’une enquête.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="9">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[第 1 节： 简介  •  什么是贿赂？]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_1s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic y="410" x="478">sc1_p7_ramka.png</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s1.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[贿赂]]></txt>
+        <txt c="X" swp="X" fontsize="15" s="2" w="470" align="left" delay="0" y="149"><![CDATA[贿赂是指以实物或现金形式接受、提供、索取或许诺利益，以期获得原本无权获得的利益。例如，在通过运河时付钱插队就是一种贿赂。向商业组织和政府官员行贿皆在此列。贿赂在全球都是违法的，MACN 成员承诺将遵守反贿赂相关法律。贿赂可以是：]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="15" s="1" align="left" delay="0"><![CDATA[•  被动受贿：]]></txt>
+        <txt c="X" swp="X" fontsize="15" s="2" align="left" delay="0"><![CDATA[索要、接受或接收贿赂的人构成被动受贿。]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="15" s="1" align="left" delay="0"><![CDATA[•  主动行贿：]]></txt>
+        <txt c="X" swp="X" fontsize="15" s="2" align="left" delay="0"><![CDATA[提供、许诺或支付贿赂的人构成主动行贿。]]></txt>
+        <txt c="X" swp="X" fontcolor="c3000a" fontsize="15" s="1" align="left" delay="0" y="415" x="520"><![CDATA[在大部分国家被动受贿和主动行贿都是违法的。]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>贿赂。贿赂是指以实物或现金形式接受、提供、索取或许诺利益，以期获得原本无权获得的利益。例如，在通过运河时付钱插队就是一种贿赂。向商业组织和政府官员行贿皆在此列。贿赂在全球都是违法的，MACN 成员承诺将遵守反贿赂相关法律。贿赂可以是：被动受贿：索要、接受或接收贿赂的人构成被动受贿。主动行贿：提供、许诺或支付贿赂的人构成主动行贿。在大部分国家被动受贿和主动行贿都是违法的。</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="10">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[第 1 节： 简介  •  什么是贿赂？]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_2s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[便利费
+
+
+
+
+
+]]></txt>
+        <txt c="X" swp="X" fontsize="15" s="2" w="470" align="left" delay="0" y="149"><![CDATA[便利费是指向低级别政府官员支付的小额现金或实物，以便其能在职责范围内给予方便。例如，即便您的手续齐全，也要给几包烟官方才能在材料上盖章。
+
+
+
+尽管便利费在大多数国家都是非法的，但在全球范围内仍然是惯例，因此对航运业来说是一个挑战。]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>便利费。便利费是指向低级别政府官员支付的小额现金或实物，以便其能在职责范围内给予方便。例如，即便您的手续齐全，也要给几包烟官方才能在材料上盖章。尽管便利费在大多数国家都是非法的，但在全球范围内仍然是惯例，因此对航运业来说是一个挑战。</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="11">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[第 1 节： 简介  •  什么是贿赂？]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_3s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="600" align="left" delay="0" y="74" x="478"><![CDATA[第三方责任
+
+]]></txt>
+        <txt c="X" swp="X" fontsize="15" s="2" w="470" align="left" delay="0" y="149"><![CDATA[在航运业，最常见的第三方是港口代理。
+
+
+
+例如，如果港口代理代表您行贿或支付便利费来为公司谋利，公司将从法律上对此负责。
+
+
+
+如果代理向外国的政府官员支付非法款项，则可能在该国、公司及其员工的祖国和其他国家（例如英国和美国的法律具备全球管辖权）起诉公司和其员工。]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>第三方责任。在航运业，最常见的第三方是港口代理。
+
+
+
+例如，如果港口代理代表您行贿或支付便利费来为公司谋利，公司将从法律上对此负责。
+
+
+
+如果代理向外国的政府官员支付非法款项，则可能在该国、公司及其员工的祖国和其他国家（例如英国和美国的法律具备全球管辖权）起诉公司和其员工。
+
+</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="12">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[第 1 节： 简介  •  什么是贿赂？]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_4s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+        <pic y="320" x="478">sc1_p7_ramka2.png</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s4.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[可能出现敲诈勒索的情况]]></txt>
+        <txt c="X" swp="X" fontsize="15" s="2" w="470" align="left" delay="0" y="149"><![CDATA[有些公职人员可能蛮横索要现金或实物，这就构成敲诈勒索。他们可能进行人身恫吓和/或恶语相加。这种行为可能非常激烈，让运营方或船员感觉人身健康和/或安全面临危险。
+
+
+
+这类行为在法律上被定义为胁迫。如果您感觉自己的人身受到威胁，可以采取必要、合理的措施确保自己和他人的安全。但记住胁迫仅适用人身威胁。不包括经济威胁，如延误或延误威胁（例如拒绝停泊）。]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="15" s="2" w="450" align="left" delay="0" y="335" x="520"><![CDATA[务必向您的公司报告此类事件，因为必须对此进行记录和调查，这很重要。]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>可能出现敲诈勒索的情况。有些公职人员可能蛮横索要现金或实物，这就构成敲诈勒索。他们可能进行人身恫吓和/或恶语相加。这种行为可能非常激烈，让运营方或船员感觉人身健康和/或安全面临危险。
+
+
+
+这类行为在法律上被定义为胁迫。如果您感觉自己的人身受到威胁，可以采取必要、合理的措施确保自己和他人的安全。但记住胁迫仅适用人身威胁。不包括经济威胁，如延误或延误威胁（例如拒绝停泊）。
+
+
+
+务必向您的公司报告此类事件，因为必须对此进行记录和调查，这很重要。</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="17">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Sección 1: Introducción  •  ¿Qué es la corrupción?]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_1s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic y="440" x="478">sc2_p1_ramka2.png</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s1.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Soborno]]></txt>
+        <txt c="X" swp="X" fontsize="13" s="2" w="470" align="left" delay="0" y="149"><![CDATA[El soborno es la aceptación, el ofrecimiento, la solicitud o la promesa de beneficios, en especie o en efectivo, con la esperanza de obtener ventajas a las que de otro modo usted no tendría derecho. Por ejemplo, pagar para estar primero en la fila durante un tránsito por el canal sería un soborno. Esto incluye pagos a organizaciones comerciales, así como a funcionarios públicos.El soborno es ilegal en todo el mundo, y los miembros de la MACN se comprometen a cumplir las leyes pertinentes que lo prohíben. El soborno puede ser de dos tipos:]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0"><![CDATA[•  Soborno pasivo:]]></txt>
+        <txt c="X" swp="X" fontsize="13" s="2" align="left" delay="0" y="327"><![CDATA[Cuando una persona pide, acepta o recibe un soborno, comete soborno pasivo.]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0"><![CDATA[•  Soborno activo:]]></txt>
+        <txt c="X" swp="X" fontsize="13" s="2" align="left" delay="0" y="395"><![CDATA[Cuando una persona ofrece, promete o paga un soborno, comete soborno activo.]]></txt>
+        <txt c="X" swp="X" fontcolor="c3000a" s="2" w="400" align="left" delay="0" y="455" x="520"><![CDATA[El soborno tanto pasivo como activo es ilegal en la mayoría de los países.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Soborno. El soborno es la aceptación, el ofrecimiento, la solicitud o la promesa de beneficios, en especie o en efectivo, con la esperanza de obtener ventajas a las que de otro modo usted no tendría derecho. Por ejemplo, pagar para estar primero en la fila durante un tránsito por el canal sería un soborno. Esto incluye pagos a organizaciones comerciales, así como a funcionarios públicos.
+
+
+
+El soborno es ilegal en todo el mundo, y los miembros de la MACN se comprometen a cumplir las leyes pertinentes que lo prohíben. El soborno puede ser de dos tipos:
+
+
+
+Soborno pasivo:
+
+Cuando una persona pide, acepta o recibe un soborno, comete soborno pasivo.
+
+Soborno activo:
+
+Cuando una persona ofrece, promete o paga un soborno, comete soborno activo.
+
+El soborno tanto pasivo como activo es ilegal en la mayoría de los países..</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="18">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Sección 1: Introducción  •  ¿Qué es la corrupción?]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_2s.png</pic>
+        <pic preload="X" y="160" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Pagos para la simplificación de trámites]]></txt>
+        <txt c="X" swp="X" fontsize="13" s="2" w="470" align="left" delay="0" y="185"><![CDATA[Los pagos para la simplificación de trámites son pagos de importes pequeños, en efectivo o en especie, que se hacen a funcionarios gubernamentales de categorías menores para que realicen una parte de sus tareas rutinarias. Por ejemplo, dar unos cuantos paquetes de cigarrillos para obtener un sello oficial en un documento aunque legalmente usted tenga derecho a ello.A pesar de ser ilegales en la mayoría de los países, los pagos para la simplificación de trámites siguen siendo habituales en todo el mundo y, por lo tanto, representan un desafío para el sector del transporte marítimo.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Pagos para la simplificación de trámitesLos pagos para la simplificación de trámites son pagos de importes pequeños, en efectivo o en especie, que se hacen a funcionarios gubernamentales de categorías menores para que realicen una parte de sus tareas rutinarias. Por ejemplo, dar unos cuantos paquetes de cigarrillos para obtener un sello oficial en un documento aunque legalmente usted tenga derecho a ello.A pesar de ser ilegales en la mayoría de los países, los pagos para la simplificación de trámites siguen siendo habituales en todo el mundo y, por lo tanto, representan un desafío para el sector del transporte marítimo.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="19">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Sección 1: Introducción  •  ¿Qué es la corrupción?]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_3s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="600" align="left" delay="0" y="74" x="478"><![CDATA[Responsabilidades de terceros]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[En la industria naviera, los terceros más comunes son los agentes portuarios.Por ejemplo: si un agente portuario que actúa en su nombre soborna o emite un pago para la simplificación de trámites en beneficio de la compañía, la compañía será legalmente responsable de ese pago.Si un agente hace un pago ilegal a un funcionario gubernamental en un país extranjero, se pueden presentar cargos de acusación contra la compañía y sus empleados en ese país extranjero, en el país de origen de la compañía o de los empleados y potencialmente en otros países (como el Reino Unido y los Estados Unidos, cuyas leyes tienen jurisdicción internacional)]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Responsabilidades de terceros.En la industria naviera, los terceros más comunes son los agentes portuarios.Por ejemplo: si un agente portuario que actúa en su nombre soborna o emite un pago para la simplificación de trámites en beneficio de la compañía, la compañía será legalmente responsable de ese pago.Si un agente hace un pago ilegal a un funcionario gubernamental en un país extranjero, se pueden presentar cargos de acusación contra la compañía y sus empleados en ese país extranjero, en el país de origen de la compañía o de los empleados y potencialmente en otros países (como el Reino Unido y los Estados Unidos, cuyas leyes tienen jurisdicción internacional).</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="20">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Sección 1: Introducción  •  ¿Qué es la corrupción?]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_4s.png</pic>
+        <pic preload="X" y="160" x="478">kreska-cz.jpg</pic>
+        <pic y="425" x="478">sc1_p7_ramka2.png</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s4.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Pueden producirse situaciones de extorsión.]]></txt>
+        <txt c="X" swp="X" fontsize="13" s="2" w="470" align="left" delay="0" y="185"><![CDATA[Algunos funcionarios públicos pueden actuar agresivamente al exigir un pago, ya sea en efectivo o en especie, lo que constituye una forma de extorsión. Pueden volverse amenazadores y abusivos física y/o verbalmente. Este comportamiento puede ser tan intenso que el operador o la tripulación quizá sientan que su salud y/o seguridad personal está en peligro.Este tipo de situación se define legalmente como coacción. Si se siente físicamente amenazado, puede tomar las medidas necesarias que se consideren razonables para garantizar la seguridad personal y la seguridad de los demás. Sin embargo, tenga en cuenta que la coacción solo implica amenazas físicas. No incluye las amenazas económicas, como las demoras o las amenazas de demora (p. ej., la denegación del permiso de atraque).]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="2" w="450" align="left" delay="0" y="440" x="520"><![CDATA[Es importante que informe de estos incidentes a su compañía, ya que deben registrarse e investigarse.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Pueden producirse situaciones de extorsión.Algunos funcionarios públicos pueden actuar agresivamente al exigir un pago, ya sea en efectivo o en especie, lo que constituye una forma de extorsión. Pueden volverse amenazadores y abusivos física y/o verbalmente. Este comportamiento puede ser tan intenso que el operador o la tripulación quizá sientan que su salud y/o seguridad personal está en peligro.Este tipo de situación se define legalmente como coacción. Si se siente físicamente amenazado, puede tomar las medidas necesarias que se consideren razonables para garantizar la seguridad personal y la seguridad de los demás. Sin embargo, tenga en cuenta que la coacción solo implica amenazas físicas. No incluye las amenazas económicas, como las demoras o las amenazas de demora (p. ej., la denegación del permiso de atraque).Es importante que informe de estos incidentes a su compañía, ya que deben registrarse e investigarse.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="25">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Раздел 1: Введение  •  Что такое коррупция?]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_1s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic y="400" x="478">sc1_p7_ramka_russ.png</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s1.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Взяточничество]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Взяточничество — получение, предложение, требование или обещание благ, в натуральном или денежном выражении, с целью получения преимуществ, на которые в противном случае вы не имеете права. Например, плата за то, чтобы оказаться впереди очереди при пересечении канала, является взяткой. Взятки включают выплаты как должностным лицам, так и коммерческим организациям.]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[•  Пассивное взяточничество: 
+]]></txt>
+        <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[Вымогательство, принятие или получение лицом взятки.]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[•  Активное взяточничество:]]></txt>
+        <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[Предложение, обещание или дача лицом взятки.]]></txt>
+        <txt c="X" swp="X" fontcolor="c3000a" s="2" w="413" align="left" delay="0" y="410" x="520"><![CDATA[В большинстве стран и пассивное, и активное взяточничество противозаконны.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Взяточничество.
+
+Взяточничество — получение, предложение, требование или обещание благ, в натуральном или денежном выражении, с целью получения преимуществ, на которые в противном случае вы не имеете права. Например, плата за то, чтобы оказаться впереди очереди при пересечении канала, является взяткой. Взятки включают выплаты как должностным лицам, так и коммерческим организациям.
+
+
+
+Взяточничество запрещено по всему миру, и члены MACN обязуются соблюдать применимое антикоррупционное законодательство. Виды взяточничества:
+
+
+
+Пассивное взяточничество: 
+
+Вымогательство, принятие или получение лицом взятки.
+
+Активное взяточничество:
+
+Предложение, обещание или дача лицом взятки.
+
+В большинстве стран и пассивное, и активное взяточничество противозаконны.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="26">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Раздел 1: Введение  •  Что такое коррупция?]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_2s.png</pic>
+        <pic preload="X" y="150" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Вознаграждения за оказание содействия]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="175"><![CDATA[Вознаграждение за оказание содействия — небольшое вознаграждение, в денежном или натуральном выражении, выплачиваемое мелким государственным чиновникам за выполнение их штатных обязанностей. Пример: передача нескольких пачек сигарет за заверение документа официальной печатью, хотя вам и так обязаны это сделать по закону.
+
+Хотя вознаграждения за оказание содействия запрещены в большинстве стран, они повсеместно распространены и представляют серьезную проблему для судоходной отрасли.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Вознаграждения за оказание содействия. Вознаграждение за оказание содействия — небольшое вознаграждение, в денежном или натуральном выражении, выплачиваемое мелким государственным чиновникам за выполнение их штатных обязанностей. Пример: передача нескольких пачек сигарет за заверение документа официальной печатью, хотя вам и так обязаны это сделать по закону.
+
+
+
+Хотя вознаграждения за оказание содействия запрещены в большинстве стран, они повсеместно распространены и представляют серьезную проблему для судоходной отрасли.</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="27">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Раздел 1: Введение  •  Что такое коррупция?]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_3s.png</pic>
+        <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="600" align="left" delay="0" y="74" x="478"><![CDATA[Ответственность за третьих лиц]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[В судоходной отрасли третьими лицами чаще всего являются судовые агенты.
+
+Пример: если судовой агент, действующий от вашего имени, дает взятку или выплачивает вознаграждение за оказание содействия в интересах компании, то юридическую ответственность за это несет компания.
+
+Если агент выплачивает незаконное вознаграждение чиновнику за рубежом, обвинения против компании и ее сотрудников могут быть выдвинуты в той зарубежной стране, в которой совершена взятка, в собственной стране и, возможно, в других странах (например, в Великобритании и США, законы которых имеют экстерриториальное действие).]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Ответственность за третьих лиц. В судоходной отрасли третьими лицами чаще всего являются судовые агенты.
+
+
+
+Пример: если судовой агент, действующий от вашего имени, дает взятку или выплачивает вознаграждение за оказание содействия в интересах компании, то юридическую ответственность за это несет компания.
+
+
+
+Если агент выплачивает незаконное вознаграждение чиновнику за рубежом, обвинения против компании и ее сотрудников могут быть выдвинуты в той зарубежной стране, в которой совершена взятка, в собственной стране и, возможно, в других странах (например, в Великобритании и США, законы которых имеют экстерриториальное действие).</sndTxt>
+      </soundTexts>
+    </page>
+    <page id="28">
+      <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[Раздел 1: Введение  •  Что такое коррупция?]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_4s.png</pic>
+        <pic y="150" x="478">kreska-cz.jpg</pic>
+        <pic>
+        </pic>
+        <pic noDelay="X">
+        </pic>
+        <pic y="380" x="480">sc1_p7_ramka2.png</pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s4_a.mp3</snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s5..mp3</snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Чиновники могут прибегнуть к вымогательству]]></txt>
+        <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="175"><![CDATA[Примерами вымогательства являются ситуации, когда чиновники в агрессивной манере требуют вознаграждения, в денежном или натуральном выражении. Они начинают угрожать, оскорблять и оказывать физическое воздействие. Поведение чиновников может стать настолько агрессивным, что оператор или экипаж почувствуют угрозу своему здоровью и безопасности.]]></txt>
+        <txt c="X" s="2" w="470" align="left" rpo="3" y="175"><![CDATA[С юридической точки зрения описанная ситуация квалифицируется как физическое принуждение. Если вы чувствуете, что вам грозит физическая расправа, вы можете предпринять необходимые меры, которые посчитаете разумными, для обеспечения личной безопасности и безопасности других людей. При этом имейте в виду, что термин «физическое принуждение» применим только к случаям угрозы физической расправы. Он не распространяется на экономические риски, такие как задержка или угроза задержки (например, отказ в разрешении на постановку к причалу).]]></txt>
+        <txt c="X" swp="X" s="2" align="left" rpo="0" y="390" x="520"><![CDATA[Все подобные инциденты должны быть тщательно зафиксированы и расследованы, поэтому о них необходимо сообщать в свою компанию.]]></txt>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Чиновники могут прибегнуть к вымогательству. Примерами вымогательства являются ситуации, когда чиновники в агрессивной манере требуют вознаграждения, в денежном или натуральном выражении. Они начинают угрожать, оскорблять и оказывать физическое воздействие. Поведение чиновников может стать настолько агрессивным, что оператор или экипаж почувствуют угрозу своему здоровью и безопасности.</sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>С юридической точки зрения описанная ситуация квалифицируется как физическое принуждение. Если вы чувствуете, что вам грозит физическая расправа, вы можете предпринять необходимые меры, которые посчитаете разумными, для обеспечения личной безопасности и безопасности других людей. При этом имейте в виду, что термин «физическое принуждение» применим только к случаям угрозы физической расправы. Он не распространяется на экономические риски, такие как задержка или угроза задержки (например, отказ в разрешении на постановку к причалу). Все подобные инциденты должны быть тщательно зафиксированы и расследованы, поэтому о них необходимо сообщать в свою компанию.</sndTxt>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="29">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[القسم 1  •  ما هو الفساد؟]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_1s.png</pic>
+        <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic y="460" x="478">sc1_p7_ramka.png</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s1.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="478"><![CDATA[الرشوة]]></txt>
+        <txt c="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0" y="149"><![CDATA[الرشوة هي قبول حوافز أو عرضها أو التماسها أو الوعد بها، عينية كانت أو نقدية، على أمل الحصول على مزايا أو أفضلية لا يحق لك الحصول عليها. على سبيل المثال، الدفع مقابل التجاوز إلى مقدمة طابور اصطفاف السفن أثناء عبور القناة يعتبر رشوة. ويشمل الفساد المدفوعات للمنظمات التجارية، وكذلك الموظفين العموميين.الرشوة غير قانونية في جميع أنحاء العالم، ويلتزم أعضاء شبكة مكافحة الفساد في البحار (MACN) بالامتثال للقوانين ذات الصلة التي تحظر الرشوة. يمكن أن تكون الرشوة إما:]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="1" align="left" delay="0"><![CDATA[• رشوة غير فعلية:]]></txt>
+        <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[يرتكب الشخص الذي يطلب رشوة أو يقبلها أو يتسلمها رشوة فعلية.]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="1" align="left" delay="0"><![CDATA[• رشوة فعلية:]]></txt>
+        <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0"><![CDATA[يرتكب الشخص الذي يعرض رشوة أو يعد بدفعها أو يدفعها رشوة فعلية.]]></txt>
+        <txt c="X" swp="X" fontcolor="c3000a" fontsize="12" s="1" w="400" align="left" delay="0" y="465" x="540"><![CDATA[تعتبر الرشوة الفعلية والرشوة غير الفعلية على حد سواء غير قانونية في معظم البلدان.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="30">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[القسم 1  •  ما هو الفساد؟]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_2s.png</pic>
+        <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s2.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="478"><![CDATA[مدفوعات التسهيل]]></txt>
+        <txt c="X" swp="X" fontsize="16" s="2" w="470" align="left" delay="0" y="149"><![CDATA[مدفوعات التسهيل هي مدفوعات صغيرة، نقدية أو عينية، تُدفع لمسؤولين حكوميين من المستوى المنخفض لأداء جزء من واجباتهم الروتينية، مثل منح بضع من علب السجائر للحصول على ختم رسمي على مستند ما حتى لو كان يحق لك الحصول عليه قانونًا.
+
+وعلى الرغم من كون تلك المدفوعات غير قانونية في معظم البلدان، إلا أنها تظل مألوفة على مستوى العالم وبالتالي تمثل تحديًا لصناعة الشحن.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="31">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[القسم 1  •  ما هو الفساد؟]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_3s.png</pic>
+        <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s3.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" w="460" align="left" delay="0" y="74" x="478"><![CDATA[مسؤوليات الطرف الثالث]]></txt>
+        <txt c="X" swp="X" fontsize="16" s="2" w="470" align="left" delay="0" y="149"><![CDATA[في صناعة الشحن، الأطراف الثالثة الأكثر شيوعًا هي وكلاء الموانئ.
+
+فعلى سبيل المثال: إذا قام وكيل الميناء الذي يتصرف نيابة عنك بتقديم رشوة أو دفعة تسهيل لصالح الشركة، فإن الشركة تكون مسؤولة قانونًا عن ذلك.
+
+في حال قام أحد الوكلاء بدفع مبلغ غير قانوني لمسؤول حكومي في بلد أجنبي، يمكن توجيه تهم الملاحقة القضائية ضد الشركة وموظفيها في ذلك البلد الأجنبي، أو البلد الأصلي للشركة أو الموظفين، وربما في دول أخرى (مثل المملكة المتحدة والولايات المتحدة)، التي تتمتع قوانينها بسلطة قضائية عالمية).]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="32">
+      <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+      <title><![CDATA[القسم 1  •  ما هو الفساد؟]]></title>
+      <pics>
+        <pic y="70" x="0">sc1_p7_4s.png</pic>
+        <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+        <pic y="390" x="478">sc1_p7_ramka2.png</pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">sc1_p7_s4.mp3</snd>
+      </sounds>
+      <texts>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[من الممكن حدوث حالات ابتزاز]]></txt>
+        <txt c="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0" y="149"><![CDATA[يمكن لبعض المسؤولين الحكوميين التصرف بشكل عدواني عند طلب مدفوعات سواء كانت نقدية أم عينية، وهو شكل من أشكال الابتزاز، كما يمكن أن يمثل بعض المسؤولين تهديدًا ويعتدون جسديًا و / أو لفظيًا. يمكن أن يكون هذا التصرف شديدًا لدرجة أنه يمكن أن يسبب للمشغل أو الطاقم الشعور بالخطر على صحتهم و / أو سلامتهم الشخصية.
+
+ويُعرف هذا النوع من المواقف من الناحية القانونية بالإكراه. إذا شعرت أنك مهدد جسديًا، يمكنك اتخاذ الإجراءات اللازمة على النحو المعقول لضمان سلامتك الشخصية وسلامة الآخرين. لكن ضع في اعتبارك أن الإكراه لا ينطبق إلا على التهديدات الجسدية. لا يشمل التهديدات الاقتصادية، مثل التأخير أو التهديد بالتأخير (على سبيل المثال، رفض الإذن بالرسو).
+]]></txt>
+        <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="1" w="400" align="left" delay="0" y="405" x="540"><![CDATA[من المهم أن تقوم بإبلاغ شركتك عن مثل هذا النوع من الحوادث حيث يجب تسجيلها والتحقيق فيها.]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+  </subpages>
+</pages>

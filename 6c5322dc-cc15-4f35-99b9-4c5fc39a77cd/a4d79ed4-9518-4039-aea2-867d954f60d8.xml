@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="a4d79ed4-9518-4039-aea2-867d954f60d8" sgxmlv="1.2" qq="off">
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 2: Étude de cas — n’ouvrez pas les vannes  •  Aucun pouvoir de négociation</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p13.png</pic>
+      <pic noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p13.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="27" align="left" fontcolor="0c0254">Aucun pouvoir de négociation</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="470" x="478" y="149" delay="0" align="left">La présence de personnes non autorisées à bord du navire peut entraîner de lourdes amendes et une incarcération potentielle du capitaine. Toutefois, le fonctionnaire explique pouvoir garantir que cela ne se produira pas si on lui donne des paquets de cigarettes.
+
+Le capitaine prend vraiment peur. Il ne veut pas être forcé à quitter le navire pour un interrogatoire. Le capitaine estime que la situation devient grave, mais il persiste à refuser la demande. Il finit par appeler également le représentant de sa société pour le soutenir. L’exploitant indique que la société fera remonter immédiatement la situation auprès de la direction de l’immigration responsable de ce port.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Aucun pouvoir de négociation. La présence de personnes non autorisées à bord du navire peut entraîner de lourdes amendes et une incarcération potentielle du capitaine. Toutefois, le fonctionnaire explique pouvoir garantir que cela ne se produira pas si on lui donne des paquets de cigarettes. Le capitaine prend vraiment peur. Il ne veut pas être forcé à quitter le navire pour un interrogatoire. Le capitaine estime que la situation devient grave, mais il persiste à refuser la demande. Il finit par appeler également le représentant de sa société pour le soutenir. L’exploitant indique que la société fera remonter immédiatement la situation auprès de la direction de l’immigration responsable de ce port.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 2: Case Study – Don’t Open the Floodgates  •  No Bargaining Power</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p13.png</pic>
+      <pic noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p13.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="27" align="left" fontcolor="0c0254">No Bargaining Power</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="470" x="478" y="149" delay="0" align="left">Having unauthorised persons on the ship can lead to severe fees and potential imprisonment for the Captain. However, the official says he can make sure that does not happen if he gets some packages of cigarettes.
+
+The Captain gets really frightened; he does not want to be taken off the ship for questioning. The Captain assesses that the situation is becoming severe, but he continues to push and reject. Eventually he also calls his company representative as he needs support. The operator advises that the company will escalate immediately to the Head of Immigration responsible for this port.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>No Bargaining Power. Having unauthorised persons on the ship can lead to severe fees and potential imprisonment for the Captain. However, the official says he can make sure that does not happen if he gets some packages of cigarettes. The Captain gets really frightened; he does not want to be taken off the ship for questioning. The Captain assesses that the situation is becoming severe, but he continues to push and reject. Eventually he also calls his company representative as he needs support. The operator advises that the company will escalate immediately to the Head of Immigration responsible for this port.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>第 2 节： 案例研究 - 不要开先例  •  没有谈判能力</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p13.png</pic>
+      <pic noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p13.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">没有谈判能力</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="470" x="478" y="149" delay="0" fontsize="16" align="left">船上有未经授权的人员可能会导致巨额罚款，船长有入狱的可能性。但是，官员说如果能送他几包烟，他就能保证不会出现这种情况。
+
+船长真的很害怕，他不想被带下船接受审问。船长估计形势会越来越糟，但他坚持拒绝官员的要求。最后他还联系了公司的代表请求帮助。运营方建议公司立即将情况上报给负责此港口的移民主管。</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>没有谈判能力。船上有未经授权的人员可能会导致巨额罚款，船长有入狱的可能性。但是，官员说如果能送他几包烟，他就能保证不会出现这种情况。
+
+船长真的很害怕，他不想被带下船接受审问。船长估计形势会越来越糟，但他坚持拒绝官员的要求。最后他还联系了公司的代表请求帮助。运营方建议公司立即将情况上报给负责此港口的移民主管。</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Sección 2: Caso práctico - No abra las compuertas  •  Sin poder de negociación</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p13.png</pic>
+      <pic noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p13.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="27" align="left" fontcolor="0c0254">Sin poder de negociación</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="470" x="478" y="149" delay="0" align="left">El hecho de tener personas no autorizadas en el barco puede generar multas de importes altos y posible prisión para el capitán. Sin embargo, el funcionario dice que él puede asegurarse de que eso no ocurra si le dan unos paquetes de cigarrillos.
+
+El capitán se asusta mucho; no quiere que lo saquen del barco para interrogarlo. El capitán deduce que la situación se está volviendo grave, pero continúa presionando y rechazando. Termina llamando también al representante de su compañía, ya que necesita apoyo. El operador advierte que la compañía derivará esto inmediatamente al Jefe de Inmigración responsable de este puerto.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Sin poder de negociación. El hecho de tener personas no autorizadas en el barco puede generar multas de importes altos y posible prisión para el capitán. Sin embargo, el funcionario dice que él puede asegurarse de que eso no ocurra si le dan unos paquetes de cigarrillos.
+
+El capitán se asusta mucho; no quiere que lo saquen del barco para interrogarlo. El capitán deduce que la situación se está volviendo grave, pero continúa presionando y rechazando. Termina llamando también al representante de su compañía, ya que necesita apoyo. El operador advierte que la compañía derivará esto inmediatamente al Jefe de Inmigración responsable de este puerto.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Раздел 2: Изучение конкретной ситуации — Не выпускайте джинна из бутылки  •  Отсутствие переговорной силы</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p13.png</pic>
+      <pic noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p13.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="25" align="left" fontcolor="0c0254">Отсутствие переговорной силы</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="470" x="478" y="149" delay="0" align="left">Наличие на борту посторонних лиц может привести к серьезным последствиям для капитана, в том числе к штрафу и тюремному заключению. А инспектор говорит, что если он получит несколько пачек сигарет, то проблем не будет.
+
+Капитан испуган; он опасается, что его могут увезти с судна на допрос. Капитан видит, что ситуация обостряется, но продолжает стоять на своем и не уступает. В конце концов, он звонит представителю своей компании и просит помощи. Оператор объясняет, что компания должна немедленно довести информацию об инциденте до руководителя иммиграционной службы в данном порту.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Отсутствие переговорной силы. Наличие на борту посторонних лиц может привести к серьезным последствиям для капитана, в том числе к штрафу и тюремному заключению. А инспектор говорит, что если он получит несколько пачек сигарет, то проблем не будет.
+
+Капитан испуган; он опасается, что его могут увезти с судна на допрос. Капитан видит, что ситуация обостряется, но продолжает стоять на своем и не уступает. В конце концов, он звонит представителю своей компании и просит помощи. Оператор объясняет, что компания должна немедленно довести информацию об инциденте до руководителя иммиграционной службы в данном порту.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>القسم 2: دراسة حالة - لا تفتح الباب على مصراعيه  •  عدم القدرة على التفاوض</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p13.png</pic>
+      <pic noFade="X" x="850" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p13.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="30" align="left" fontcolor="0c0254"> عدم القدرة على التفاوض</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left" />
+      <txt swp="X" c="X" s="2" w="450" x="478" y="149" delay="0" fontsize="17" align="left">يمكن أن يؤدي وجود أشخاص غير مصرح لهم على متن السفينة إلى فرض رسوم باهظة واحتمالية تعرض القبطان للسجن. ومع ذلك، يذكر المسؤول أنه يستطيع التأكد من عدم حدوث ذلك في حال تلقيه بعض علب السجائر.
+
+يخشى القبطان كثيرًا من الأمر، فهو لا يريد الانتقال من السفينة للاستجواب، ويقدّر أن الموقف أصبح شديد الخطورة ولكنه يواصل الضغط والرفض. في النهاية، اتصل القبطان أيضًا بممثل شركته لأنه يحتاج إلى الدعم. ينصح المشغل الشركة بضرورة تصعيد الأمر فورًا إلى رئيس مكتب الهجرة المسؤول عن هذا الميناء.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages>
+    <page id="2">
+      <template alignTxt="left" pm="standard" mode="autoback">vid.swf</template>
+      <title> </title>
+      <pics>
+        <pic exactfit="X" h="557" w="990" fps="25" nv="sc2__p10.mp4" />
+        <pic />
+        <pic />
+        <pic />
+        <pic />
+        <pic />
+        <pic />
+        <pic />
+        <pic />
+      </pics>
+      <sounds>
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+        <snd preload="X" wfs="T" />
+      </sounds>
+      <texts>
+        <txt c="X" s="2" delay="0" align="left" />
+        <txt c="X" s="2" cue="0" delay="0" align="left" />
+        <txt c="X" s="2" cue="14840" delay="0" align="left" />
+        <txt c="X" s="2" cue="22160" delay="0" align="left" />
+        <txt c="X" s="2" cue="29240" delay="0" align="left" />
+        <txt c="X" s="2" cue="34560" delay="0" align="left" />
+        <txt c="X" s="2" cue="44440" delay="0" align="left" />
+        <txt c="X" s="2" cue="53040" delay="0" align="left" />
+        <txt c="X" s="2" cue="65520" delay="0" align="left" />
+      </texts>
+      <soundTexts>
+        <sndTxt />
+        <sndTxt>How Could this Situation be Prevented? 1. Double check all documentation in advance. 2. Submit documentation electronically when possible, e.g. pre-arrival documents.
+
+
+</sndTxt>
+        <sndTxt>3. Have all relevant documentation in order and have it ready when meeting with the government officials.
+</sndTxt>
+        <sndTxt>4. Include as much lead time as possible when planning actions that require government interaction.
+</sndTxt>
+        <sndTxt>5. It is also important to be prepared operationally in advance:</sndTxt>
+        <sndTxt>Get detailed information from the agent on how official payments (fees, fines) are paid before speaking with government officials. </sndTxt>
+        <sndTxt>This will help you to avoid cash transactions. You also show that you are aware of local requirements.
+</sndTxt>
+        <sndTxt>Inform the agent in advance of your company’s anti-corruption policy, and of the fact that third parties acting on your company’s behalf must enforce the same rules.
+</sndTxt>
+        <sndTxt>Have anti-corruption signs clearly visible for visitors, e.g. at the gangway.
+</sndTxt>
+      </soundTexts>
+    </page>
+  </subpages>
+</pages>

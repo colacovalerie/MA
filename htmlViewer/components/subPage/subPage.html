@@ -1,0 +1,15 @@
+<section id="subPage">
+    <sub-tmp01-template ng-if="subPageData.template == TEMPLATES.TMP_01"  template-role="subPage"></sub-tmp01-template>
+    <vid-template ng-if="$root.subPageData.template == TEMPLATES.VID" template-role="subPage"></vid-template>
+    <q1-template ng-if="subPageData.template == TEMPLATES.Q1" template-role="subPage"></q1-template>
+    <q2-template ng-if="$root.subPageData.template == TEMPLATES.Q2" template-role="subPage"></q2-template>
+    <doc-template ng-if="$root.subPageData.template == TEMPLATES.DOC" template-role="subPage"></doc-template>
+    <adaptive-template ng-if="$root.subPageData.template == TEMPLATES.ADAPTIVE" template-role="subPage"></adaptive-template>
+    <!--<html-template ng-if="$root.subPageData.template == TEMPLATES.HTML"></html-template>-->
+    <!--<preloader-template ng-if="subCtrl.page" page="subCtrl.page"></preloader-template>-->
+</section>
+
+
+
+
+

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="10e8e729-c893-4057-a133-76b5d7299006" chapterId="6c5322dc-cc15-4f35-99b9-4c5fc39a77cd" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Some of the ship’s paperwork was not in order, and the Captain agreed to give the health officials the requested amount of bottles of alcohol to ensure that the process ran smoothly.
+
+How would the bottles of alcohol be considered?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="77" align="left">A bribe</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="89" align="left">A facilitation payment</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Certains des documents du navire n’étaient pas en règle et le capitaine a accepté de donner aux agents des autorités sanitaires les bouteilles d’alcool demandées pour s’assurer que le processus se fasse sans encombre.
+
+Comment les bouteilles d’alcool seraient-elles considérées?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="7" align="left">Un pot-de-vin</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="71" align="left">Un paiement de facilitation</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">船上的一些手续不全，船长同意按卫生官的要求送他们一些酒，保证船能顺利通过检查。
+
+这些酒属于哪种分类？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="31" align="left">贿赂</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="15" align="left">便利费</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Parte de la documentación del barco no estaba en orden y el capitán accedió a dar a los funcionarios del sector de la salud la cantidad de botellas de alcohol solicitada para asegurarse de que el proceso se desarrollara sin problemas.
+
+¿Cómo se considerarán las botellas de alcohol?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="65" align="left">Soborno</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="7" align="left">Pago para la simplificación de trámites</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">С документацией судна было не все в порядке, и чтобы избежать проблем, капитан согласился дать инспекторам санитарно-эпидемиологической службы столько бутылок спиртного, сколько они попросили.
+
+Это рассматривается как…</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="95" align="left">Взятка</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="35" align="left">Вознаграждение за оказание содействия</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">بعض الأوراق الخاصة بالسفينة لم تكن سليمة، ووافق القبطان على إعطاء مسؤولي الصحة الكمية التي طلبوها من زجاجات المشروبات الكحولي لضمان سير العملية بسلاسة.
+
+في سياق الموقف أعلاه، تحت أي مصطلح يجب أن تندرج زجاجات المشروبات الكحولية؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="77" align="left">الرشوة</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="89" align="left">مدفوعات التسهيل</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

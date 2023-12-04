@@ -1,0 +1,523 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="ea450577-f524-4799-94d4-36e0110e2a83">
+  <page level="EN">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Corruption is Regulated Globally]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p6.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic y="400" x="478">sc1_p6_ramka.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Corruption is Regulated Globally]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" w="470" align="left" delay="0" y="149"><![CDATA[An example of the complexity of global jurisdiction:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="450" align="justify" delay="0" y="200"><![CDATA["A Danish flagged vessel sails through the Suez Canal with UK based Captain and crew. The ship is chartered by a company operating from Switzerland. The Captain pays a bribe to jump the line as he is running short on time. The Captain is employed by a ship management company based in India."]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="18" s="2" align="left" rpo="2,3" delay="0" y="149" x="478"><![CDATA[Which country’s law may apply?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Denmark – as it is a Danish flagged vessel?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Egypt – as the ship is sailing through Egyptian waters?
+]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  UK – as the crewmembers are from the UK?
+]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  India – as the ship management agency that the crew is employed by is based in India?
+]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Switzerland – as the charterer is responsible for actions made on behalf of the company?
+]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="410" x="520"><![CDATA[In fact all of these jurisdictions may apply!
+]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>An example of the complexity of global jurisdiction:"A Danish flagged vessel sails through the Suez Canal with UK based Captain and crew. The ship is chartered by a company operating from Switzerland. The Captain pays a bribe to jump the line as he is running short on time. The Captain is employed by a ship management company based in India."</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Which country’s law may apply?
+•  Denmark – as it is a Danish flagged vessel?
+•  Egypt – as the ship is sailing through Egyptian waters?
+•  UK – as the crewmembers are from the UK?
+•  India – as the ship management agency that the crew is employed by is based in India?
+•  Switzerland – as the charterer is responsible for actions made on behalf of the company?
+In fact all of these jurisdictions may apply!</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  La corruption est réglementée à l’échelle du globe]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p6.png</pic>
+      <pic y="155" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="155" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic y="438" x="478">sc1_p6_ramka.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[La corruption est réglementée à l’échelle du globe
+]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="17" s="2" align="left" delay="0" y="175"><![CDATA[Voici un exemple de la complexité de la compétence juridictionnelle à l’échelle mondiale:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="450" align="justify" delay="0"><![CDATA["Un navire sous pavillon danois passe le canal de Suez avec un capitaine et un équipage basés au Royaume-Uni. Ce navire est affrété par une société opérant depuis la Suisse. Le capitaine verse un pot-de-vin pour passer devant les autres navires parce qu’il est à court de temps. Le capitaine est employé par une société de gestion de navires basée en Inde."
+
+]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="18" s="2" align="left" rpo="2,3" delay="0" y="175" x="478"><![CDATA[Quelles lois est susceptible de s’appliquer?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Lois du Danemark – puisqu’il s’agit d’un navire sous pavillon danois]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Lois d’Égypte – puisque le navire navigue dans les eaux égyptiennes]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Lois du Royaume-Uni – puisque les membres d’équipage en sont originaires]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Lois d’Inde – puisque la société de gestion de navires qui emploie l’équipage est basée en Inde]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Lois de la Suisse – puisque l’affréteur est responsable des actions entreprises au nom de la société]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="448" x="520"><![CDATA[En réalité, toutes ces compétences peuvent s’appliquer !]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>La corruption est réglementée à l’échelle du globe. Voici un exemple de la complexité de la compétence juridictionnelle à l’échelle mondiale: "Un navire sous pavillon danois passe le canal de Suez avec un capitaine et un équipage basés au Royaume-Uni. Ce navire est affrété par une société opérant depuis la Suisse. Le capitaine verse un pot-de-vin pour passer devant les autres navires parce qu’il est à court de temps. Le capitaine est employé par une société de gestion de navires basée en Inde."
+
+</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Quelles lois est susceptible de s’appliquer? •  Lois du Danemark – puisqu’il s’agit d’un navire sous pavillon danois. •  Lois d’Égypte – puisque le navire navigue dans les eaux égyptiennes. •  Lois du Royaume-Uni – puisque les membres. •  d’équipage en sont originaires. •  Lois d’Inde – puisque la société de gestion de navires qui emploie l’équipage est basée en Inde. •  Lois de la Suisse – puisque l’affréteur est responsable des actions entreprises au nom de la société. En réalité, toutes ces compétences peuvent s’appliquer !</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 1 节： 简介  •  全球都对腐败制定了法规]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p6.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic y="370" x="478">sc1_p6_ramka.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[全球都对腐败制定了法规]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="1" align="left" delay="0" y="149"><![CDATA[全球管辖权复杂特性的示例：]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" w="450" align="justify" delay="0" y="180"><![CDATA[一艘由英国籍船长和船员操作且悬挂丹麦国旗的船只驶过苏伊士运河。这艘船是由一家在瑞士经营的公司租用的。由于船长要赶时间，所以通过贿赂来插队。船长受雇于印度一家船舶管理公司。]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="18" s="1" align="left" rpo="2,3" delay="0" y="149" x="478"><![CDATA[在此场景中适用哪个国家的法律？]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[•  丹麦 – 因为船上挂的是丹麦的国旗？
+]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[•  埃及 – 因为船只通过埃及的水域？
+]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[•  英国 – 因为船员是来自英国的？]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[•  印度 – 因为是印度的一家船舶管理公司雇用的船员？]]></txt>
+      <txt c="X" swp="X" fontsize="15" s="2" align="left" delay="0"><![CDATA[•  瑞士 – 因为租船方对代表公司的行为负责？]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" delay="0" y="375" x="520"><![CDATA[实际上所有这些管辖权均适用！
+]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+全球管辖权复杂特性的示例：一艘由英国籍船长和船员操作且悬挂丹麦国旗的船只驶过苏伊士运河。这艘船是由一家在瑞士经营的公司租用的。由于船长要赶时间，所以通过贿赂来插队。船长受雇于印度一家船舶管理公司。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>在此场景中适用哪个国家的法律？•  丹麦 – 因为船上挂的是丹麦的国旗？•  埃及 – 因为船只通过埃及的水域？•  英国 – 因为船员是来自英国的？•  印度 – 因为是印度的一家船舶管理公司雇用的船员？•  瑞士 – 因为租船方对代表公司的行为负责？实际上所有这些管辖权均适用！</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 1: Introducción  •  La corrupción está regulada a nivel internacional]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p6.png</pic>
+      <pic y="155" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="155" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic y="400" x="478">sc1_p6_ramka.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" w="600" align="left" delay="0" y="74" x="478"><![CDATA[La corrupción está regulada a nivel internacional]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" w="470" align="left" delay="0" y="175"><![CDATA[A continuación se cita un ejemplo de la complejidad de la jurisdicción internacional:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="450" align="justify" delay="0"><![CDATA["Un barco con bandera danesa navega por el Canal de Suez con capitán y tripulación del Reino Unido. El barco está fletado por una compañía que opera desde Suiza. El capitán paga un soborno para saltarse la fila, porque va con retraso. El capitán está contratado por una compañía de gestión de barcos con sede en la India."]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="18" s="2" align="left" rpo="2,3" delay="0" y="175" x="478"><![CDATA[¿La ley de qué país podrá aplicarse?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Dinamarca, ya que es un barco con bandera danesa.
+]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Egipto, ya que el barco navega por aguas egipcias.
+]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Reino Unido, ya que los miembros de la tripulación son del Reino Unido.
+]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  India, ya que la agencia de gestión de buques que contrató a la tripulación tiene sede en la India.
+]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Suiza, ya que el fletador es responsable de las acciones realizadas en nombre de la compañía.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="1" align="left" delay="0" y="410" x="520"><![CDATA[En realidad, es posible que todas estas jurisdicciones apliquen.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>La corrupción está regulada a nivel internacional. A continuación se cita un ejemplo de la complejidad de la jurisdicción internacional:
+
+"Un barco con bandera danesa navega por el Canal de Suez con capitán y tripulación del Reino Unido. El barco está fletado por una compañía que opera desde Suiza. El capitán paga un soborno para saltarse la fila, porque va con retraso. El capitán está contratado por una compañía de gestión de barcos con sede en la India."</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>¿La ley de qué país podrá aplicarse?
+Dinamarca, ya que es un barco con bandera danesa.
+Egipto, ya que el barco navega por aguas egipcias.
+Reino Unido, ya que los miembros de la tripulación son del Reino Unido.
+India, ya que la agencia de gestión de buques que contrató a la tripulación tiene sede en la India.
+Suiza, ya que el fletador es responsable de las acciones realizadas en nombre de la compañía.
+En realidad, es posible que todas estas jurisdicciones apliquen.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 1: Введение  •  Международное антикоррупционное законодательство]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p6.png</pic>
+      <pic preload="X" y="180" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="180" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" preload="X" y="180" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic y="300" x="478">sc1_p6_ramka_russ.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i2_a.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i2_b.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Международное антикоррупционное законодательство]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="205"><![CDATA[Пример сложности определения международной юрисдикции:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="450" align="justify" delay="0"><![CDATA["Судно под датским флагом совершает переход через Суэцкий канал с капитаном и командой из Великобритании. Судно зафрахтовано компанией, осуществляющей деятельность из Швейцарии. Капитан отстает от графика, и он дает взятку, чтобы судно прошло без очереди. Капитана наняла судовая управляющая компания из Индии."]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="18" s="2" align="left" rpo="2,3" delay="0" y="195" x="478"><![CDATA[Законодательство какой страны применимо?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Дании – так как судно ходит под датским флагом?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Египта – так как судно совершает переход через территориальные воды Египта?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Великобритании – так как на судне команда из Великобритании?
+]]></txt>
+      <txt c="X" s="2" align="left" rpo="4,5,6,7" delay="0" y="195"><![CDATA[•  Индии – так как управляющая компания, которая наняла экипаж, находится в Индии?]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[•  Швейцарии – так как ответственность за действия, предпринятые от имени компании, несет фрахтователь?
+]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" y="310" x="520"><![CDATA[На самом деле, могут быть применимы все эти юрисдикции!]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Международное антикоррупционное законодательство. Пример сложности определения международной юрисдикции: "Судно под датским флагом совершает переход через Суэцкий канал с капитаном и командой из Великобритании. Судно зафрахтовано компанией, осуществляющей деятельность из Швейцарии. Капитан отстает от графика, и он дает взятку, чтобы судно прошло без очереди. Капитана наняла судовая управляющая компания из Индии."</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Законодательство какой страны применимо? •  Дании – так как судно ходит под датским флагом? •  Египта – так как судно совершает переход через территориальные воды Египта? •  Великобритании – так как на судне команда из Великобритании?</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>•  Индии – так как управляющая компания, которая наняла экипаж, находится в Индии? •  Швейцарии – так как ответственность за действия, предпринятые от имени компании, несет фрахтователь? На самом деле, могут быть применимы все эти юрисдикции!
+</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 1  •  يخضع الفساد للرقابة على مستوى العالم]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc1_p6.png</pic>
+      <pic y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic y="360" x="478">sc1_p6_ramka.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p6_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="26" s="2" align="left" delay="0" y="74" x="478"><![CDATA[يخضع الفساد للرقابة على مستوى العالم]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="2" align="left" delay="0" y="149"><![CDATA[مثال على مدى تعقيد الاختصاص القضائي العالمي:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" w="450" align="justify" delay="0" y="180"><![CDATA["سفينة ترفع علم الدنمارك تبحر عبر قناة السويس بها قبطان وطاقم من المملكة المتحدة. السفينة مستأجرة من قبل شركة تعمل من سويسرا. يدفع القبطان رشوة لتجاوز الدور لأن الوقت ينفد. يعمل القبطان في شركة إدارة سفن مقرها الهند."]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="20" s="2" align="left" rpo="2,3" delay="0" y="149" x="478"><![CDATA[أي بلد قد يسري قانونه في هذه الحالة؟]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[• الدنمارك - لأنها سفينة ترفع العلم الدنماركي؟]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[• مصر - لأن السفينة تبحر عبر المياه المصرية؟]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[• المملكة المتحدة - لأن أفراد الطاقم من المملكة المتحدة؟
+]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[• الهند - لأن مقر وكالة إدارة السفن التي يعمل بها الطاقم في الهند؟
+]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[• سويسرا - لأن المستأجر هو المسؤول عن الإجراءات المتخذة نيابة عن الشركة؟
+]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="1" align="left" delay="0" y="370" x="478"><![CDATA[في الواقع، قد تسري كل هذه الاختصاصات القضائية!
+]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

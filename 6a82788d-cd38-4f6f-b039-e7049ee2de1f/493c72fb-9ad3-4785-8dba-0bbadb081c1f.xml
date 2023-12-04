@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="493c72fb-9ad3-4785-8dba-0bbadb081c1f" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 3: Case Study – Minor Things can have Big Consequences  •  The Devil is in the Details</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p1a.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p1.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">The Devil is in the Details</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">Preparing the Customs manifest
+</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">Before arriving at a port, the Captain receives a long request list from the authorities, including demands for detailed information on how much medication, money, etc. is on board.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">The Captain spends a long time preparing the list to the best of his abilities and sends it to the authorities before arriving at the port.
+
+</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>The Devil is in the Details. Preparing the Customs manifest. Before arriving at a port, the Captain receives a long request list from the authorities, including demands for detailed information on how much medication, money, etc. is on board. The Captain spends a long time preparing the list to the best of his abilities and sends it to the authorities before arriving at the port.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 3: Étude de cas — les petites choses peuvent avoir de grandes conséquences  •  Le diable est dans les détails</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p1a.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p1.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Le diable est dans les détails</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">Préparer la déclaration en douane</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">Avant d’arriver au port, le capitaine reçoit une longue liste de demandes de la part des autorités, notamment pour obtenir des informations détaillées sur la quantité de médicaments, d’argent, etc. qui se trouvent à bord.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">Le capitaine passe un long moment à préparer la liste du mieux qu’il le peut et l’envoie aux autorités avant d’arriver au port.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Le diable est dans les détails. Préparer la déclaration en douane. Avant d’arriver au port, le capitaine reçoit une longue liste de demandes de la part des autorités, notamment pour obtenir des informations détaillées sur la quantité de médicaments, d’argent, etc. qui se trouvent à bord. Le capitaine passe un long moment à préparer la liste du mieux qu’il le peut et l’envoie aux autorités avant d’arriver au port.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>第 3 节： 案例研究 - 小事可能产生重大后果  •  细节决定成败</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p1a.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p1.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">细节决定成败</txt>
+      <txt swp="X" c="X" s="1" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">准备海关舱单</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" fontsize="16" align="left">在到达港口前，船长收到官方机构发来的一份很长的申请清单，其中包括要求详细申报船上有多少药品和财物等。</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left">船长在能力所及范围内花了很长时间准备这份清单，并在到港之前将其发送给了官方机构。
+
+</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>准备海关舱单。准备海关舱单。在到达港口前，船长收到官方机构发来的一份很长的申请清单，其中包括要求详细申报船上有多少药品和财物等。船长在能力所及范围内花了很长时间准备这份清单，并在到港之前将其发送给了官方机构。</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Sección 3: Caso práctico - Los detalles pequeños pueden tener grandes consecuencias  •  Los detalles sí cuentan</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p1a.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p1.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Los detalles sí cuentan</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">Preparación del manifiesto aduanero</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">Antes de llegar a un puerto, el capitán recibe una larga lista de solicitudes de las autoridades, que incluyen peticiones de información detallada sobre la cantidad de medicamentos, dinero, etc. que hay a bordo.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">El capitán pasa un buen tiempo preparando la lista, lo mejor que puede, y la envía a las autoridades antes de llegar al puerto.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Los detalles sí cuentan. Preparación del manifiesto aduanero
+Antes de llegar a un puerto, el capitán recibe una larga lista de solicitudes de las autoridades, que incluyen peticiones de información detallada sobre la cantidad de medicamentos, dinero, etc. que hay a bordo.
+
+El capitán pasa un buen tiempo preparando la lista, lo mejor que puede, y la envía a las autoridades antes de llegar al puerto.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Раздел 3: Изучение конкретной ситуации — Мелочи могут привести к серьезным последствиям  •  Дьявол в деталях</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p1a.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p1.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Дьявол в деталях</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">Подготовка таможенного манифеста</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">Перед прибытием в порт капитан получает длинный список требований от органов власти, согласно которому необходимо предоставить подробную информацию о количестве лекарств, денежных средств и т. д., находящихся на борту.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">Затратив много времени и сил на составление перечня, капитан заранее отправляет его в порт.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Дьявол в деталях. Подготовка таможенного манифеста
+Перед прибытием в порт капитан получает длинный список требований от органов власти, согласно которому необходимо предоставить подробную информацию о количестве лекарств, денежных средств и т. д., находящихся на борту.
+
+Затратив много времени и сил на составление перечня, капитан заранее отправляет его в порт.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>القسم 3: دراسة حالة - قد تحمل الأفعال البسيطة عواقب وخيمة  •  تكمن الخطورة في التفاصيل</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p1a.png</pic>
+      <pic />
+      <pic preload="X" x="850" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p1.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="30" align="left" fontcolor="0c0254">تكمن الخطورة في التفاصيل</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="20" align="left" fontcolor="c3000a">إعداد البيان الجمركي</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" fontsize="16" align="left">قبل الوصول إلى الميناء، يتلقى القبطان قائمة طلبات طويلة من السلطات، بما في ذلك طلبات الحصول على معلومات مفصلة حول كمية العقاقير والمال وما إلى ذلك حسب ما هو محمّل على متن السفينة.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left">يستغرق القبطان وقتًا طويلاً في إعداد القائمة حسب أفضل ما لديه من قدرات ويرسلها إلى السلطات قبل وصوله إلى الميناء.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="c6220d60-5510-4992-a20f-fd0693c7cc28" sgxmlv="1.2" qq="off">
+  <page level="FR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Section 2: Étude de cas — n’ouvrez pas les vannes  •  Comment le capitaine peut-il désamorcer la situation en cours?</title>
+    <pics>
+      <pic x="0" y="70">sc2_p8.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p9.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="100" delay="0" pt="1" e="-3" align="left">Comment le capitaine peut-il désamorcer la situation en cours?
+</txt>
+      <txt c="X" s="2" w="450" x="520" y="150" delay="0" crct="34" align="left" wrngtext="Mauvaise réponse, veuillez réessayer.&#xD;Vous n’avez pas sélectionné la bonne réponse. Essayez encore!">Rester calme et informer le fonctionnaire de présenter plutôt sa demande au chef du service d’exploitation de l’entreprise et le capitaine se propose de l’appeler.</txt>
+      <txt c="X" s="2" w="450" x="520" y="210" delay="0" crct="79" align="left" wrngtext="Mauvaise réponse, veuillez réessayer.&#xD;Vous n’avez pas sélectionné la bonne réponse. Essayez encore!">Le capitaine peut montrer les panneaux de lutte contre la corruption qui sont affichés et qui précisent les noms des membres de la direction auprès desquels il peut faire remonter les problèmes.</txt>
+      <txt c="X" s="2" w="450" x="520" y="290" delay="0" crct="86" align="left" wrngtext="Mauvaise réponse, veuillez réessayer.&#xD;Vous n’avez pas sélectionné la bonne réponse. Essayez encore!">Le capitaine informe les autorités que son entreprise est membre du MACN.</txt>
+      <txt c="X" s="2" w="450" x="520" y="335" delay="0" crct="31" align="left" wrngtext="Mauvaise réponse, veuillez réessayer.&#xD;Vous n’avez pas sélectionné la bonne réponse. Essayez encore!">Le capitaine informe les autorités que le représentant du club P&amp;I du navire sera contacté.</txt>
+      <txt c="X" s="2" x="520" y="385" delay="0" crct="77" align="left">Toutes les réponses ci-dessus.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>Comment le capitaine peut-il désamorcer la situation en cours? Rester calme et informer le fonctionnaire de présenter plutôt sa demande au chef du service d’exploitation de l’entreprise et le capitaine se propose de l’appeler. Le capitaine peut montrer les panneaux de lutte contre la corruption qui sont affichés et qui précisent les noms des membres de la direction auprès desquels il peut faire remonter les problèmes. Le capitaine informe les autorités que son entreprise est membre du MACN. Le capitaine informe les autorités que le représentant du club P&amp;I du navire sera contacté. Toutes les réponses ci-dessus.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Section 2: Case Study – Don’t Open the Floodgates  •  How could the Captain mitigate the ongoing situation?</title>
+    <pics>
+      <pic x="0" y="70">sc2_p8.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p9.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="100" delay="0" pt="1" e="-3" align="left">How could the Captain mitigate the ongoing situation?
+</txt>
+      <txt c="X" s="2" w="450" x="520" y="150" delay="0" wrngx="20" wrngy="400" crct="4" align="left" wrngtext="Incorrect, try again.&#xD;You did not select the correct response.&#xD;Anything of value taken off the ship can be a facilitation payment, including small amounts of cash, alcohol, cigarettes, soft drinks, food, bonded goods, etc.&#xD;&#xD;Food and drinks consumed on board are considered as hospitality.">Keep calm and inform the official that he can make his request to the company’s Head of Operation instead and the Captain offers to call him up.</txt>
+      <txt c="X" s="2" w="450" x="520" y="210" delay="0" wrngx="20" wrngy="400" crct="93" align="left" wrngtext="Incorrect, try again.&#xD;You did not select the correct response.&#xD;Anything of value taken off the ship can be a facilitation payment, including small amounts of cash, alcohol, cigarettes, soft drinks, food, bonded goods, etc.&#xD;&#xD;Food and drinks consumed on board are considered as hospitality.">The Captain can show the anti-corruption placards he has which include names of management he can escalate problems to.</txt>
+      <txt c="X" s="2" w="450" x="520" y="265" delay="0" wrngx="20" wrngy="400" crct="6" align="left" wrngtext="Incorrect, try again.&#xD;You did not select the correct response.&#xD;Anything of value taken off the ship can be a facilitation payment, including small amounts of cash, alcohol, cigarettes, soft drinks, food, bonded goods, etc.&#xD;&#xD;Food and drinks consumed on board are considered as hospitality.">The Captain informs the officials that his company is a member of MACN.</txt>
+      <txt c="X" s="2" w="450" x="520" y="310" delay="0" wrngx="20" wrngy="400" crct="47" align="left" wrngtext="Incorrect, try again.&#xD;You did not select the correct response.&#xD;Anything of value taken off the ship can be a facilitation payment, including small amounts of cash, alcohol, cigarettes, soft drinks, food, bonded goods, etc.&#xD;&#xD;Food and drinks consumed on board are considered as hospitality.">The Captain informs the officials that the ship’s P&amp;I club representative will be contacted.</txt>
+      <txt c="X" s="2" x="520" y="370" delay="0" wrngx="20" wrngy="400" crct="101" align="left">All of the above.</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt>How could the Captain mitigate the ongoing situation? Keep calm and inform the official that he can make his request to the company’s Head of Operation instead and the Captain offers to call him up. The Captain can show the anti-corruption placards he has which include names of management he can escalate problems to. The Captain informs the officials that his company is a member of MACN. The Captain informs the officials that the ship’s P&amp;I club representative will be contacted. All of the above.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>第 2 节： 案例研究 - 不要开先例  •  船长该如何打破目前的局面？</title>
+    <pics>
+      <pic x="0" y="70">sc2_p8.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p9.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="100" delay="0" pt="1" e="-3" align="left">船长该如何打破目前的局面？
+</txt>
+      <txt c="X" s="2" w="450" x="520" y="150" delay="0" crct="74" align="left" wrngtext="错误，重试。&#xD;您没有选择正确的答案。重试！">保持冷静，告诉官员他可以向公司的运营主管提出这一要求，船长可以主动给他打电话。</txt>
+      <txt c="X" s="2" w="450" x="520" y="210" delay="0" crct="55" align="left" wrngtext="错误，重试。&#xD;您没有选择正确的答案。重试！">船长可以展示他的反腐败标语牌，其中包含他要上报问题的管理部门名称。</txt>
+      <txt c="X" s="2" w="450" x="520" y="265" delay="0" crct="42" align="left" wrngtext="错误，重试。&#xD;您没有选择正确的答案。重试！">船长告诉官员他的公司是 MACN 会员。</txt>
+      <txt c="X" s="2" w="450" x="520" y="310" delay="0" crct="31" align="left" wrngtext="错误，重试。&#xD;您没有选择正确的答案。重试！">船长告诉官员将联系该船的 P 和 I 俱乐部代表。</txt>
+      <txt c="X" s="2" x="520" y="365" delay="0" crct="89" align="left">以上都是。</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>船长该如何打破目前的局面？保持冷静，告诉官员他可以向公司的运营主管提出这一要求，船长可以主动给他打电话。船长可以展示他的反腐败标语牌，其中包含他要上报问题的管理部门名称。船长告诉官员他的公司是 MACN 会员。船长告诉官员将联系该船的 P 和 I 俱乐部代表。
+以上都是。</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Sección 2: Caso práctico - No abra las compuertas  •  ¿Cómo podría mitigar el capitán la situación actual?</title>
+    <pics>
+      <pic x="0" y="70">sc2_p8.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p9.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="100" delay="0" pt="1" e="-3" align="left">¿Cómo podría mitigar el capitán la situación actual?</txt>
+      <txt c="X" s="2" w="450" x="520" y="150" delay="0" crct="58" align="left" wrngtext="Incorrecto, vuelva a intentarlo.&#xD;No ha seleccionado la respuesta correcta. Vuelva a intentarlo.">Mantenga la calma e informe al funcionario que, en su lugar, puede hacer su petición al Jefe de Operaciones de la compañía y el capitán se ofrece a llamarlo.</txt>
+      <txt c="X" s="2" w="450" x="520" y="210" delay="0" crct="23" align="left" wrngtext="Incorrecto, vuelva a intentarlo.&#xD;No ha seleccionado la respuesta correcta. Vuelva a intentarlo.">El capitán puede mostrar los carteles anticorrupción, que incluyen los nombres de los directivos a quienes él puede derivar los problemas.</txt>
+      <txt c="X" s="2" w="450" x="520" y="265" delay="0" crct="28" align="left" wrngtext="Incorrecto, vuelva a intentarlo.&#xD;No ha seleccionado la respuesta correcta. Vuelva a intentarlo.">El capitán comunica a los funcionarios que su compañía es miembro de la MACN.</txt>
+      <txt c="X" s="2" w="450" x="520" y="310" delay="0" crct="35" align="left" wrngtext="Incorrecto, vuelva a intentarlo.&#xD;No ha seleccionado la respuesta correcta. Vuelva a intentarlo.">El capitán informa a los funcionarios que se comunicará con el representante del club P&amp;I (“protección e indemnización”) del barco.</txt>
+      <txt c="X" s="2" x="520" y="370" delay="0" crct="87" align="left">Todas las anteriores.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>¿Cómo podría mitigar el capitán la situación actual? Mantenga la calma e informe al funcionario que, en su lugar, puede hacer su petición al Jefe de Operaciones de la compañía y el capitán se ofrece a llamarlo.	El capitán puede mostrar los carteles anticorrupción, que incluyen los nombres de los directivos a quienes él puede derivar los problemas.El capitán comunica a los funcionarios que su compañía es miembro de la MACN. El capitán informa a los funcionarios que se comunicará con el representante del club P&amp;I (“protección e indemnización”) del barco.Todas las anteriores.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Раздел 2: Изучение конкретной ситуации — Не выпускайте джинна из бутылки  •  Как капитан мог бы смягчить сложившуюся ситуацию?</title>
+    <pics>
+      <pic x="0" y="70">sc2_p8.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p9.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="100" delay="0" pt="1" e="-3" align="left">Как капитан мог бы смягчить сложившуюся ситуацию?</txt>
+      <txt c="X" s="2" w="450" x="520" y="140" delay="0" crct="92" align="left" wrngtext="Неправильно, попробуйте еще раз.&#xD;Вы выбрали неправильный ответ. Попробуйте еще раз!">Сохранять спокойствие и предложить инспектору обратиться со своим требованием к операционному директору компании. При необходимости капитан может набрать его номер.</txt>
+      <txt c="X" s="2" w="450" x="520" y="210" delay="0" crct="89" align="left" wrngtext="Неправильно, попробуйте еще раз.&#xD;Вы выбрали неправильный ответ. Попробуйте еще раз!">Капитан может показать антикоррупционные таблички с именами руководителей компании, к которым можно обратиться.</txt>
+      <txt c="X" s="2" w="450" x="520" y="265" delay="0" crct="102" align="left" wrngtext="Неправильно, попробуйте еще раз.&#xD;Вы выбрали неправильный ответ. Попробуйте еще раз!">Капитан может сообщить инспекторам, что его компания является членом MACN.</txt>
+      <txt c="X" s="2" w="450" x="520" y="310" delay="0" crct="21" align="left" wrngtext="Неправильно, попробуйте еще раз.&#xD;Вы выбрали неправильный ответ. Попробуйте еще раз!">Капитан может сказать инспекторам, что он свяжется с представителем Клуба взаимного страхования.</txt>
+      <txt c="X" s="2" x="520" y="370" delay="0" crct="35" align="left">Все указанное выше.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>Как капитан мог бы смягчить сложившуюся ситуацию? Сохранять спокойствие и предложить инспектору обратиться со своим требованием к операционному директору компании. При необходимости капитан может набрать его номер. Капитан может показать антикоррупционные таблички с именами руководителей компании, к которым можно обратиться. Капитан может сообщить инспекторам, что его компания является членом MACN. Капитан может сказать инспекторам, что он свяжется с представителем Клуба взаимного страхования. Все указанное выше.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>القسم 2: دراسة حالة - لا تفتح الباب على مصراعيه  •  كيف يمكن للقبطان التخفيف من حدة الموقف الحالي؟</title>
+    <pics>
+      <pic x="0" y="70">sc2_p8.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p9.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="100" delay="0" pt="1" e="-3" align="left"> كيف يمكن للقبطان التخفيف من حدة الموقف الحالي؟
+</txt>
+      <txt c="X" s="2" w="450" x="520" y="150" delay="0" crct="6" align="left" wrngtext="إجابة خاطئة، حاول مرة أخرى.&#xD;لم تختر الإجابة الصحيحة. حاول مرة أخرى!">حافظ على هدوئك وأخبر المسؤول أنه يمكنه بدلاً من ذلك تقديم طلبه إلى رئيس عمليات الشركة، وسيعرض القبطان إمكانية الاتصال به.</txt>
+      <txt c="X" s="2" w="450" x="520" y="210" delay="0" crct="29" align="left" wrngtext="إجابة خاطئة، حاول مرة أخرى.&#xD;لم تختر الإجابة الصحيحة. حاول مرة أخرى!">يمكن للقبطان أن يعرض لافتات مكافحة الفساد التي بحوزته التي تتضمن أسماء الإدارات التي يمكنه تصعيد المشكلات إليها.</txt>
+      <txt c="X" s="2" w="450" x="520" y="265" delay="0" crct="14" align="left" wrngtext="إجابة خاطئة، حاول مرة أخرى.&#xD;لم تختر الإجابة الصحيحة. حاول مرة أخرى!">يخبر القبطان المسؤولين أن شركته عضوًا في شبكة مكافحة الفساد في البحار.</txt>
+      <txt c="X" s="2" w="450" x="520" y="310" delay="0" crct="101" align="left" wrngtext="إجابة خاطئة، حاول مرة أخرى.&#xD;لم تختر الإجابة الصحيحة. حاول مرة أخرى!">يبلغ القبطان المسؤولين أنه سيتم التواصل مع ممثل نادي الحماية والتعويض التابع للسفينة.</txt>
+      <txt c="X" s="2" x="520" y="370" delay="0" crct="79" align="left"> جميع ما سبق. </txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

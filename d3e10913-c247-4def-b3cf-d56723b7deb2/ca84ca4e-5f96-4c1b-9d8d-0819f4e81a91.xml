@@ -1,0 +1,241 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="ca84ca4e-5f96-4c1b-9d8d-0819f4e81a91">
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T">
+      </snd>
+      <snd wfs="T">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[The ship is scheduled to do a canal transit. The Customs officials are demanding a few cartons of cigarettes from the Captain to let the ship through. The Captain knows that not all necessary papers are in order, so he gives the customs officials a few cartons of cigarettes.
+
+How would the cigarettes be considered?]]></txt>
+      <txt crct="79" c="X" s="2" align="left" delay="0" y="200"><![CDATA[A bribe]]></txt>
+      <txt crct="83" c="X" s="2" align="left" delay="0" y="260"><![CDATA[A facilitation payment]]></txt>
+      <txt crct="I" c="X" align="left"><![CDATA[]]></txt>
+      <txt crct="C" c="X" align="left"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[Le passage du navire par un canal est programmé. Les agents des douanes exigent quelques cartouches de cigarettes de la part du capitaine pour laisser passer le navire. Le capitaine sait que tous les documents nécessaires ne sont pas en règle, il donne donc aux agents des douanes quelques cartouches de cigarettes.
+
+Comment les cigarettes seraient-elles considérées?]]></txt>
+      <txt crct="17" c="X" s="2" align="left" delay="0" y="200"><![CDATA[Un pot-de-vin]]></txt>
+      <txt crct="33" c="X" s="2" align="left" delay="0" y="260"><![CDATA[Un paiement de facilitation]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[船要通过运河。海关官员要求船长送几盒香烟让船通过。船长知道自己的船手续不全，所以给了海关官员几盒烟。
+
+这些香烟属于哪种分类？]]></txt>
+      <txt crct="35" c="X" s="2" align="left" delay="0" y="200"><![CDATA[贿赂]]></txt>
+      <txt crct="5" c="X" s="2" align="left" delay="0" y="260"><![CDATA[便利费]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[El barco tiene programado un tránsito por el canal. Los funcionarios de aduanas exigen paquetes de cigarrillos al capitán para dejar pasar el barco. El capitán sabe que no todos los papeles necesarios están en orden, así que le da a los funcionarios de aduanas los paquetes de cigarrillos.
+
+¿Qué se consideraría que son los cigarrillos?]]></txt>
+      <txt crct="77" c="X" s="2" align="left" delay="0" y="200"><![CDATA[Soborno]]></txt>
+      <txt crct="29" c="X" s="2" align="left" delay="0" y="260"><![CDATA[Pago para la simplificación de trámites]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[Судно должно пересечь канал. Таможенные чиновники не пропускают судно, требуя от капитана несколько блоков сигарет. Капитан знает, что у него не все в порядке с документами, и дает сигареты.
+
+Это рассматривается как…]]></txt>
+      <txt crct="73" c="X" s="2" align="left" delay="0" y="200"><![CDATA[Взятка]]></txt>
+      <txt crct="21" c="X" s="2" align="left" delay="0" y="260"><![CDATA[Вознаграждение за оказание содействия]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T">
+      </snd>
+      <snd wfs="T">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[تم تحديد موعد لعبور السفينة القناة ولكن طلب المسؤولين المحليين من القبطان إعطائهم عددًا من علب السجائر لكي يسمحوا للسفينة بالعبور. علم القبطان أن بعض الأوراق اللازمة غير سليمة لذلك قرر إعطاء المسؤولين المحليين عددًا من علب السجائر.
+
+في سياق الموقف أعلاه، تحت أي مصطلح يجب أن تندرج السجائر؟]]></txt>
+      <txt crct="49" c="X" s="2" align="left" delay="0" y="200"><![CDATA[الرشوة]]></txt>
+      <txt crct="45" c="X" s="2" align="left" delay="0" y="260"><![CDATA[مدفوعات التسهيل]]></txt>
+      <txt crct="I" c="X" align="left"><![CDATA[]]></txt>
+      <txt crct="C" c="X" align="left"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

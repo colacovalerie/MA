@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="d98aff32-249e-48aa-900f-a7d7e79481ba" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Case Study – Don’t Open the Floodgates  •  Bargaining Power</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p1.png</pic>
+      <pic x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic x="478" y="230">sc2_p2_r1.png</pic>
+      <pic />
+      <pic x="478" y="345">sc2_p2_r1.png</pic>
+      <pic x="478" y="410">sc2_p2_r1.png</pic>
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic x="478" y="180">sc2_p3_r1.png</pic>
+      <pic x="478" y="255">sc1_p7_ramka2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Bargaining Power
+</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" align="left">Here are some lines that might help to increase your bargaining power with officials:
+
+</txt>
+      <txt swp="X" c="X" s="2" w="470" y="200" delay="0" fontsize="16" align="left" fontcolor="0c0254">1. Make it personal:
+</txt>
+      <txt swp="X" c="X" s="3" w="450" x="520" y="240" delay="0" fontsize="14" align="left">I trust you are aware that you are asking me to break my company's rules.
+</txt>
+      <txt swp="X" c="X" s="2" w="470" x="478" y="300" delay="0" fontsize="16" align="left" fontcolor="0c0254">2. Explain that the decision is not up to you – that your hands are tied:
+</txt>
+      <txt swp="X" c="X" s="3" w="450" x="520" y="355" delay="0" fontsize="14" align="left">My company has a strict anti-corruption policy, so I cannot do that.</txt>
+      <txt swp="X" c="X" s="3" x="520" y="420" delay="0" fontsize="14" align="left">Headquarters audits everything on board, so I will have to record your name.</txt>
+      <txt c="X" s="2" w="470" x="478" y="149" delay="0" fontsize="16" align="left" rpo="2,3,4,5,6,7" fontcolor="0c0254">3. Be assertive, polite and confident:
+</txt>
+      <txt swp="X" c="X" s="2" w="450" x="520" y="185" delay="0" align="left" rpo="3">When possible, don't give in. Attitude can go a long way in these kinds of situations, so stand your ground and have the right body language.
+</txt>
+      <txt swp="X" c="X" s="1" x="520" y="270" delay="0" fontsize="16" align="left" rpo="4" fontcolor="0c0254">Never lose your temper – be polite, calm and show respect.
+
+</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Bargaining Power. Here are some lines that might help to increase your bargaining power with officials: 1. Make it personal: •  I trust you are aware that you are asking me to break my company's rules. 2. Explain that the decision is not up to you – that your hands are tied: •  My company has a strict anti-corruption policy, so I cannot do that. •  Headquarters audits everything on board, so I will have to record your name.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>3. Be assertive, polite and confident:  •  When possible, don't give in. Attitude can go a long way in these kinds of situations, so stand your ground and have the right body language. Never lose your temper – be polite, calm and show respect.</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Section 2: Étude de cas — n’ouvrez pas les vannes  •  Pouvoir de négociation</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p1.png</pic>
+      <pic x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic x="478" y="230">sc2_p2_r1.png</pic>
+      <pic />
+      <pic x="478" y="345">sc2_p2_r1.png</pic>
+      <pic x="478" y="410">sc2_p2_r1.png</pic>
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic x="478" y="180">sc2_p3_r1.png</pic>
+      <pic x="478" y="255">sc1_p7_ramka2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Pouvoir de négociation
+
+</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" fontsize="13" align="left">Voici quelques exemples de phrases qui pourraient vous permettre d’améliorer votre pouvoir de négociation avec les autorités gouvernementales:</txt>
+      <txt swp="X" c="X" s="2" w="470" delay="0" fontsize="15" align="left" fontcolor="0c0254">1. Faites-en quelque chose de personnel:</txt>
+      <txt swp="X" c="X" s="3" w="450" x="520" y="240" delay="0" fontsize="13" align="left">«J’espère que vous réalisez que vous me demandez d’enfreindre les règles de mon entreprise.»
+</txt>
+      <txt swp="X" c="X" s="2" x="478" y="300" delay="0" fontsize="15" align="left" fontcolor="0c0254">2. Expliquez que la décision ne vous appartient pas, que vous avez les mains liées:</txt>
+      <txt swp="X" c="X" s="3" x="520" y="355" delay="0" fontsize="13" align="left">«Mon entreprise a une stricte politique de lutte contre la corruption, je ne suis donc pas en mesure de faire cela.»</txt>
+      <txt swp="X" c="X" s="3" x="520" y="420" delay="0" fontsize="13" align="left">«Le siège de la société contrôle tout ce qui se trouve à bord, je vais donc devoir prendre note de votre nom.»
+</txt>
+      <txt c="X" s="2" w="470" x="478" y="149" delay="0" fontsize="15" align="left" rpo="2,3,4,5,6,7" fontcolor="0c0254">3. Soyez sûr de vous, poli et décidé:</txt>
+      <txt swp="X" c="X" s="2" w="450" x="520" y="180" delay="0" fontsize="13" align="left" rpo="3">Dans la mesure du possible, ne cédez pas. Adopter la bonne attitude peut faire une grande différence dans ce genre de situations. Restez donc sur vos positions et adoptez le langage corporel approprié.</txt>
+      <txt swp="X" c="X" s="1" x="520" y="265" delay="0" fontsize="16" align="left" rpo="4" fontcolor="0c0254">Ne perdez jamais votre sang-froid. Soyez poli, calme et respectueux.
+
+</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Pouvoir de négociation. Voici quelques exemples de phrases qui pourraient vous permettre d’améliorer votre pouvoir de négociation avec les autorités gouvernementales : 1. Faites-en quelque chose de personnel: •  « J’espère que vous réalisez que vous me demandez d’enfreindre les règles de mon entreprise. » 2. Expliquez que la décision ne vous appartient pas, que vous avez les mains liées:  •  « Mon entreprise a une stricte politique de lutte contre la corruption, je ne suis donc pas en mesure de faire cela. » •  « Le siège de la société contrôle tout ce qui se trouve à bord, je vais donc devoir prendre note de votre nom. »</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>3. Soyez sûr de vous, poli et décidé: •  Dans la mesure du possible, ne cédez pas. Adopter la bonne attitude peut faire une grande différence dans ce genre de situations. Restez donc sur vos positions et adoptez le langage corporel approprié. Ne perdez jamais votre sang-froid. Soyez poli, calme et respectueux..</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>第 2 节： 案例研究 - 不要开先例  •  谈判能力</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p1.png</pic>
+      <pic x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic x="478" y="230">sc2_p2_r1.png</pic>
+      <pic />
+      <pic x="478" y="345">sc2_p2_r1.png</pic>
+      <pic x="478" y="410">sc2_p2_r1.png</pic>
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic x="478" y="180">sc2_p3_r1.png</pic>
+      <pic x="478" y="250">sc1_p7_ramka2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">谈判能力</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" align="left">以下一些内容可以帮助您提高自己与官员打交道时谈判能力：</txt>
+      <txt swp="X" c="X" s="2" w="470" y="190" delay="0" fontsize="18" align="left" fontcolor="0c0254">1. 私人化：</txt>
+      <txt swp="X" c="X" s="3" w="450" x="520" y="245" delay="0" fontsize="16" align="left">"我相信您知道您是在要我违反公司的规定。"</txt>
+      <txt swp="X" c="X" s="2" x="478" y="300" delay="0" fontsize="18" align="left" fontcolor="0c0254">2. 解释您不负责决策 - 您要服从规定：</txt>
+      <txt swp="X" c="X" s="3" x="520" y="360" delay="0" fontsize="16" align="left">"我们公司有严格的反腐败政策，所以我爱莫能助。"</txt>
+      <txt swp="X" c="X" s="3" x="520" y="425" delay="0" fontsize="16" align="left">"总部对船上的所有情况都要审计，所以我必须记录您的姓名。"</txt>
+      <txt c="X" s="2" w="470" x="478" y="149" delay="0" fontsize="18" align="left" rpo="2,3,4,5,6,7" fontcolor="0c0254">3.  坚定、礼貌并自信：</txt>
+      <txt swp="X" c="X" s="2" w="440" x="520" y="190" delay="0" fontsize="16" align="left" rpo="3">尽可能不妥协。在这种情况下，态度会起很大的作用，所以要坚持立场，使用正确的肢体语言。</txt>
+      <txt swp="X" c="X" s="1" x="520" y="275" delay="0" fontsize="20" align="left" rpo="4" fontcolor="0c0254">不要冲动 - 保持礼貌、冷静和尊重。
+
+</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>谈判能力。以下一些内容可以帮助您提高自己与官员打交道时谈判能力：私人化："我相信您知道您是在要我违反公司的规定。"解释您不负责决策 - 您要服从规定："我们公司有严格的反腐败政策，所以我爱莫能助。" "总部对船上的所有情况都要审计，所以我必须记录您的姓名。"
+</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>3.  坚定、礼貌并自信：  •尽可能不妥协。在这种情况下，态度会起很大的作用，所以要坚持立场，使用正确的肢体语言。</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Sección 2: Caso práctico - No abra las compuertas  •  Poder de negociación</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p1.png</pic>
+      <pic x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic x="478" y="230">sc2_p2_r1.png</pic>
+      <pic />
+      <pic x="478" y="345">sc2_p2_r1.png</pic>
+      <pic x="478" y="410">sc2_p2_r1.png</pic>
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic x="478" y="180">sc2_p3_r1.png</pic>
+      <pic x="478" y="255">sc1_p7_ramka2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Poder de negociación</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" align="left">A continuación indicamos algunas afirmaciones que podrían ayudarle a aumentar su poder de negociación con los funcionarios:</txt>
+      <txt swp="X" c="X" s="2" w="470" y="205" delay="0" fontsize="16" align="left" fontcolor="0c0254">1. Tómelo como algo personal:
+</txt>
+      <txt swp="X" c="X" s="3" w="450" x="520" y="240" delay="0" align="left">"Confío en que usted es consciente de que me está pidiendo que rompa las reglas de mi compañía".</txt>
+      <txt swp="X" c="X" s="2" w="470" x="478" y="300" delay="0" fontsize="16" align="left" fontcolor="0c0254">2. Explique que la decisión no depende de usted, que tiene las manos atadas:</txt>
+      <txt swp="X" c="X" s="3" w="450" x="520" y="355" delay="0" align="left">"Mi compañía tiene una política anticorrupción muy estricta, por lo que no puedo hacer eso".</txt>
+      <txt swp="X" c="X" s="3" x="520" y="420" delay="0" align="left">"La sede central audita todo lo que hay a bordo, así que tendré que registrar su nombre".</txt>
+      <txt c="X" s="2" w="470" x="478" y="149" delay="0" fontsize="16" align="left" rpo="2,3,4,5,6,7" fontcolor="0c0254">3. Sea firme, educado y muéstrese seguro:</txt>
+      <txt swp="X" c="X" s="2" w="450" x="520" y="185" delay="0" align="left" rpo="3">Siempre que sea posible, no ceda. La actitud puede ser muy importante en este tipo de situaciones, así que manténgase firme y tenga el lenguaje corporal adecuado.</txt>
+      <txt swp="X" c="X" s="2" x="520" y="270" delay="0" fontsize="16" align="left" rpo="4" fontcolor="0c0254">Nunca pierda la calma, sea educado, esté tranquilo y muestre respeto..</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Poder de negociación. A continuación indicamos algunas afirmaciones que podrían ayudarle a aumentar su poder de negociación con los funcionarios:
+
+Tómelo como algo personal:
+"Confío en que usted es consciente de que me está pidiendo que rompa las reglas de mi compañía".
+Explique que la decisión no depende de usted, que tiene las manos atadas:
+"Mi compañía tiene una política anticorrupción muy estricta, por lo que no puedo hacer eso".
+"La sede central audita todo lo que hay a bordo, así que tendré que registrar su nombre".</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Sea firme, educado y muéstrese seguro:
+Siempre que sea posible, no ceda. La actitud puede ser muy importante en este tipo de situaciones, así que manténgase firme y tenga el lenguaje corporal adecuado.
+Nunca pierda la calma, sea educado, esté tranquilo y muestre respeto..</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>Раздел 2: Изучение конкретной ситуации — Не выпускайте джинна из бутылки  •  Переговорная сила</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p1.png</pic>
+      <pic x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic x="478" y="230">sc2_p2_r1.png</pic>
+      <pic />
+      <pic x="478" y="345">sc2_p2_r1.png</pic>
+      <pic x="478" y="410">sc2_p2_r1.png</pic>
+      <pic noDelay="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic x="478" y="180">sc2_p3_r1.png</pic>
+      <pic x="478" y="255">sc1_p7_ramka2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Переговорная сила</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" align="left">Далее приведены советы, которые помогут вам укрепить переговорную силу при встрече с чиновниками:</txt>
+      <txt swp="X" c="X" s="2" w="470" x="478" y="200" delay="0" fontsize="16" align="left" fontcolor="0c0254">Будьте субъективны:</txt>
+      <txt swp="X" c="X" s="2" w="450" x="520" y="240" delay="0" align="left">«Должно быть, вы понимаете, что просите меня нарушить правила моей компании.»</txt>
+      <txt swp="X" c="X" s="2" w="470" x="478" y="300" delay="0" fontsize="16" align="left" fontcolor="0c0254">Объясните, что решение принимаете не вы — у вас связаны руки:</txt>
+      <txt swp="X" c="X" s="3" x="520" y="355" delay="0" align="left">«Я не могу пойти на это, так как в моей компании действуют строгие антикоррупционные правила.»</txt>
+      <txt swp="X" c="X" s="3" x="520" y="420" delay="0" align="left">«Головной офис отслеживает все, что происходит на борту, поэтому мне необходимо записать вашу фамилию.»</txt>
+      <txt c="X" s="2" w="470" x="478" y="149" delay="0" fontsize="16" align="left" rpo="2,3,4,5,6,7" fontcolor="0c0254">Будьте тверды, вежливы и уверены в себе:</txt>
+      <txt swp="X" c="X" s="2" w="450" x="520" y="185" delay="0" align="left" rpo="3">Если возможно, не идите на уступки. В таких ситуациях многое зависит от того, как вы держитесь: стойте на своем и правильно используйте язык тела.</txt>
+      <txt swp="X" c="X" s="2" x="520" y="260" delay="0" fontsize="16" align="left" rpo="4" fontcolor="0c0254">Ни при каких обстоятельствах не теряйте самообладания — будьте вежливы, спокойны и проявляйте уважение..</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Переговорная сила. Далее приведены советы, которые помогут вам укрепить переговорную силу при встрече с чиновниками:
+
+Будьте субъективны:
+«Должно быть, вы понимаете, что просите меня нарушить правила моей компании.»
+Объясните, что решение принимаете не вы — у вас связаны руки:
+«Я не могу пойти на это, так как в моей компании действуют строгие антикоррупционные правила.»
+«Головной офис отслеживает все, что происходит на борту, поэтому мне необходимо записать вашу фамилию.»</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Будьте тверды, вежливы и уверены в себе:
+Если возможно, не идите на уступки. В таких ситуациях многое зависит от того, как вы держитесь: стойте на своем и правильно используйте язык тела.
+Ни при каких обстоятельствах не теряйте самообладания — будьте вежливы, спокойны и проявляйте уважение..</sndTxt>
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="step" mode="default">tmp01.swf</template>
+    <title>القسم 2: دراسة حالة - لا تفتح الباب على مصراعيه  •  القدرة على التفاوض</title>
+    <pics>
+      <pic noFade="X" x="0" y="70">sc2_p1.png</pic>
+      <pic x="850" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic noDelay="X" x="850" y="125">kreska-cz.jpg</pic>
+      <pic />
+      <pic x="478" y="250">sc1_p7_ramka2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s1.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p1_s2.mp3</snd>
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" w="450" x="478" y="74" delay="0" fontsize="30" align="left" fontcolor="0c0254"> القدرة على التفاوض</txt>
+      <txt swp="X" c="X" s="2" w="450" y="149" delay="0" fontsize="16" align="left">في السطور التالية بعض الإرشادات التي قد تساعد في زيادة قدرتك على التفاوض مع المسؤولين:</txt>
+      <txt swp="X" c="X" s="1" w="450" y="200" delay="0" fontsize="18" align="left" fontcolor="0c0254">جعل الأمر شخصيًا:</txt>
+      <txt swp="X" c="X" s="2" w="450" x="490" delay="0" fontsize="16" align="left">• «أنا على يقين أنك مدرك تمامًا بأن ما تطلبه مني يعني خرقي لقوانين الشركة التي أعمل بها.»</txt>
+      <txt swp="X" c="X" s="1" x="478" delay="0" fontsize="18" align="left" fontcolor="0c0254">توضيح أنك لست صاحب القرار النهائي - ولا تستطيع فعل شيء:</txt>
+      <txt swp="X" c="X" s="2" x="490" y="330" delay="0" fontsize="16" align="left">• «تنتهج شركتي سياسة صارمة لمكافحة الفساد، لذلك لا يمكنني القيام بذلك.»</txt>
+      <txt swp="X" c="X" s="2" y="380" delay="0" fontsize="16" align="left">• «يُجري المقر الرئيسي عمليات مراجعة لكل ما يحدث على متن السفينة، لذلك سيتعين عليّ تسجيل اسمك.»</txt>
+      <txt c="X" s="1" w="450" x="478" y="149" delay="0" fontsize="18" align="left" rpo="2,3,4,5,6,7" fontcolor="0c0254">التحلي بأسلوب يتسم بالحزم والتهذيب والثقة:</txt>
+      <txt swp="X" c="X" s="2" w="450" x="490" delay="0" fontsize="16" align="left" rpo="3">• لا تستسلم عندما يكون ذلك ممكنًا. الأسلوب الذي تنتهجه في تلك المواقف يمكن أن يساعدك في تخطي الأمر بنجاح، لذا تمسك برأيك وعبر عن نفسك من خلال اختيار لغة الجسد الصحيحة.</txt>
+      <txt swp="X" c="X" s="1" w="400" x="540" y="270" delay="0" fontsize="18" align="left" rpo="4" fontcolor="0c0254">لا تفقد هدوء أعصابك أبدًا - تحلى بأسلوب مهذب، وكن هادئًا وتعامل بأسلوب يتسم بالاحترام.</txt>
+      <txt c="X" s="2" delay="0" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

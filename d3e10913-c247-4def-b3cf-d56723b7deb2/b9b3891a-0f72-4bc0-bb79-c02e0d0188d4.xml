@@ -1,0 +1,227 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="b9b3891a-0f72-4bc0-bb79-c02e0d0188d4">
+  <page level="FR">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[Un agent des autorités sanitaires a exigé un paiement du capitaine. Après de longues négociations, le capitaine réussit à éviter ce paiement.
+
+Que doit faire le capitaine maintenant?]]></txt>
+      <txt crct="64" c="X" s="2" align="left" delay="0" y="190"><![CDATA[Aucun paiement n’a été effectué donc il n’y a rien à signaler.]]></txt>
+      <txt crct="40" c="X" s="2" align="left" delay="0" y="260"><![CDATA[Signaler la demande afin de partager les bonnes pratiques.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[领港员向船长索要好处费。一番谈判后，船长设法避免了付钱。
+
+船长现在应该怎样做？]]></txt>
+      <txt crct="54" c="X" s="2" align="left" delay="0" y="200"><![CDATA[不付钱，也不报告]]></txt>
+      <txt crct="62" c="X" s="2" align="left" delay="0" y="280"><![CDATA[报告此事以便分享最佳做法]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T">
+      </snd>
+      <snd wfs="T">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[A pilot has demanded a payment from the Captain. After long negotiations, the Captain manages to avoid paying.
+
+What should the Captain do now?]]></txt>
+      <txt crct="50" c="X" s="2" align="left" delay="0" y="200"><![CDATA[No payment was made so there is nothing to report]]></txt>
+      <txt crct="6" c="X" s="2" align="left" delay="0" y="280"><![CDATA[Report the demand in order to share best practices]]></txt>
+      <txt crct="I" c="X" align="left"><![CDATA[]]></txt>
+      <txt crct="C" c="X" align="left"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[Un piloto ha exigido un pago al capitán. Después de largas negociaciones, el capitán se las arregla para evitar pagar.
+
+¿Qué debería hacer ahora el capitán?]]></txt>
+      <txt crct="94" c="X" s="2" align="left" delay="0"><![CDATA[No se hizo ningún pago, así que no hay nada que notificar.]]></txt>
+      <txt crct="68" c="X" s="2" align="left" delay="0"><![CDATA[Notifique la petición para compartir las mejores prácticas.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[Лоцман потребовал у капитана денег. После длительных переговоров капитану удалось отвергнуть это требование.
+
+Что теперь делать капитану?]]></txt>
+      <txt crct="90" c="X" s="2" align="left" delay="0"><![CDATA[Инспектор не получил денег, поэтому отчитываться не о чем]]></txt>
+      <txt crct="28" c="X" s="2" align="left" delay="0"><![CDATA[Сообщить о вымогательстве для обмена опытом]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">q1.swf</template>
+    <title><![CDATA[]]></title>
+    <pics>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt r="X" a="X" c="X" e="-3" pt="1" s="2" w="850" align="left" delay="0" y="80" x="40"><![CDATA[عندما يطلب المرشد الملاحي مبلغًا من القبطان، وبعد مفاوضات طويلة، يتمكن القبطان من تجنب الدفع.
+
+ما الذي يجب على القبطان القيام به في تلك الحالة؟]]></txt>
+      <txt crct="54" c="X" s="2" align="left" delay="0" y="200"><![CDATA[لم يتم دفع أي مبلغ، لذا لا يوجد ما يمكن الإبلاغ عنه]]></txt>
+      <txt crct="22" c="X" s="2" align="left" delay="0" y="280"><![CDATA[الإبلاغ عن الطلب لمشاركة أفضل الممارسات]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

@@ -1,0 +1,51 @@
+<section id="assesmentIntroPanel" class="row-12 full-width ng-cloak ">
+    <div ng-show="!questionsForChapters" class="assessment-result text-center" ng-style="{left: (mainData.width-750)/2+'px', top: '200px'}"  >
+        <div class="pre-wrap" ng-style="mainData.fontStyles['assessmentheader']">{{translation.ASSESSMENT_RESULT_PANEL_FIRST_BEFORE_POINTS}} {{totalScore}} {{translation.ASSESSMENT_RESULT_PANEL_FIRST_AFTER_POINTS}} {{totalPossibleScore}}
+            <i ng-if="wrongQuestionsTemp.length"
+               ng-class="{'wrong-question-info-btn__mobile':$root.mobile}"
+               class=" btn wrong-question-info-btn glyphicon glyphicon-question-sign"
+               hm-tap="showExtraInfo()"
+            ></i>
+        </div>
+        <div class="progress active no-wrap" style="display: inline-block;width:40%" >
+            <div class="progress-bar progress-bar-info no-wrap"
+                 role="progressbar"
+                 aria-valuenow="0"
+                 aria-valuemin="0"
+                 aria-valuemax="100"
+                 ng-style="barWidth()">
+                <div  class="no-wrap" ng-style="mainData.fontStyles['assessmentbody']">{{percentResult}}%</div>
+            </div>
+
+        </div>
+
+
+    </div>
+    <div ng-show="questionsForChapters" class="assessment-result chapters">
+        <div class="pre-wrap" ng-style="mainData.fontStyles['assessmentheader']">{{translation.ASSESSMENT_RESULT_PANEL_SUMMARY_TITLE}}</div>
+        <br><br>
+        <div ng-style="mainData.fontStyles['assessmentheader']" ng-class="{'disabled-text':!chapterScores[chap.id]}"
+             ng-hide="chap.id == chapterID || chap.id =='glass'" ng-repeat="chap in mainData.chapters">
+            <span class="pre-wrap">{{translation.ASSESSMENT_RESULT_PANEL_SUMMARY_BEFORE_CHAPTER}}{{chap.num}}{{translation.ASSESSMENT_RESULT_PANEL_SUMMARY_AFTER_CHAPTER}}</span>
+            <span ng-show="chapterScores[chap.id]" class="pre-wrap">{{chapterScores[chap.id].totalScore}}{{translation.ASSESSMENT_RESULT_PANEL_SUMMARY_AFTER_POINTS}}{{chapterScores[chap.id].totalPossibleScore}} ({{chapterScores[chap.id].percentScore}}%)<i ng-if="chapterScores[chap.id].wrongQuestions.length"
+                   ng-class="{'wrong-question-info-btn__mobile':$root.mobile}"
+                   class=" btn wrong-question-info-btn glyphicon glyphicon-question-sign"
+                   ng-style="{color:mainData.fontStyles['assessmentheader'].color}"
+                   hm-tap="showExtraInfo(chapterScores[chap.id])"
+                  ></i></span>
+            <span ng-show="!chapterScores[chap.id]">&horbar;&horbar;&horbar;&horbar;</span></div>
+        <br>
+        <div class="pre-wrap" ng-style="mainData.fontStyles['assessmentheader']">{{translation.ASSESSMENT_RESULT_PANEL_SUMMARY_BEFORE_TOTAL}} {{totalScore}} {{translation.ASSESSMENT_RESULT_PANEL_SUMMARY_AFTER_TOTAL}} {{totalPossibleScore}} ({{percentResult}}%)</div>
+    </div>
+    <div ng-if="wrongQuestions" class="mouseActive" id="wrong-question-info">
+        
+            <h3 class="text-center pre-wrap">{{translation.WRONG_ANSWERS_TITLE}}</h3>
+        <div class="entries">
+            <div class="entry pre-wrap" ng-repeat="quest in wrongQuestions track by $index">{{quest}}</div>
+        </div>
+        <div class="close-btn glyphicon glyphicon-remove"  hm-tap="closeExtraInfo()"></div>
+    </div>
+
+
+
+</section>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="6c5fb635-60e6-417a-b92b-5c072e666aaf" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 3: Case Study – Minor Things can have Big Consequences  •  Arriving at the Port</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p2a.png</pic>
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic preload="X" noFade="X" x="478" y="215">sc3_p2_r2.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="308">sc3_p2_r3.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="403">sc3_p2_r2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Arriving at the Port
+</txt>
+      <txt swp="X" c="X" s="2" w="450" y="145" delay="0" fontsize="14" align="left">Three Customs officials board the ship and start the process of clearing the vessel. While on the vessel, they act aggressively, pushing and verbally abusing crew members. After a while, one approaches the Captain:
+
+</txt>
+      <txt swp="X" c="X" s="1" x="525" y="225" delay="0" fontsize="14" align="left" fontcolor="c3000a">Official</txt>
+      <txt swp="X" c="X" s="2" w="410" y="250" delay="0" fontsize="14" align="left">We have found a mismatch. In the manifest you said you have 90ml of morphine, but we have found 91ml.</txt>
+      <txt swp="X" c="X" s="1" y="318" delay="0" fontsize="14" align="left" fontcolor="0c0254">Captain</txt>
+      <txt swp="X" c="X" s="2" w="455" x="525" y="343" delay="0" fontsize="14" align="left">I thought I had double-checked all quantities. I am very surprised there was a mistake. I apologise if that is the case.</txt>
+      <txt swp="X" c="X" s="1" y="413" delay="0" fontsize="14" align="left" fontcolor="c3000a">Official</txt>
+      <txt swp="X" c="X" s="2" y="438" delay="0" fontsize="14" align="left">Give us some money now, and we will make the problem go away. Otherwise, we will make your life very complicated.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Arriving at the Port. Three Customs officials board the ship and start the process of clearing the vessel. While on the vessel, they act aggressively, pushing and verbally abusing crew members. After a while, one approaches the Captain: We have found a mismatch. In the manifest you said you have 90ml of morphine, but we have found 91ml. I thought I had double-checked all quantities. I am very surprised there was a mistake. I apologise if that is the case. Give us some money now, and we will make the problem go away. Otherwise, we will make your life very complicated.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 3: Étude de cas — les petites choses peuvent avoir de grandes conséquences  •  L’arrivée au port</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p2a.png</pic>
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic preload="X" noFade="X" x="478" y="235">sc3_p2_r2.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="328">sc3_p2_r3.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="415">sc3_p2_r2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">L’arrivée au port</txt>
+      <txt swp="X" c="X" s="2" w="410" y="145" delay="0" fontsize="14" align="left">Trois agents des douanes montent à bord du navire et commencent l’inspection du navire. Pendant qu’ils se trouvent sur le navire, ils agissent de manière agressive, en poussant et en injuriant les membres d’équipage. Après un moment, l’un d’eux s’approche du capitaine:</txt>
+      <txt swp="X" c="X" s="1" x="525" y="240" delay="0" fontsize="14" align="left" fontcolor="c3000a">Fonctionnaire</txt>
+      <txt swp="X" c="X" s="2" y="265" delay="0" fontsize="14" align="left">«Nous avons trouvé une disparité. Dans la déclaration en douane, vous indiquez avoir 90 ml de morphine, mais nous en avons trouvé 91 ml.»
+</txt>
+      <txt swp="X" c="X" s="1" y="333" delay="0" fontsize="14" align="left" fontcolor="0c0254">Capitaine</txt>
+      <txt swp="X" c="X" s="2" x="525" y="358" delay="0" fontsize="14" align="left">«Je pensais avoir revérifié toutes les quantités. Je suis très surpris qu’il y ait une erreur. Je vous présente mes excuses si tel est le cas.»
+</txt>
+      <txt swp="X" c="X" s="1" y="420" delay="0" fontsize="14" align="left" fontcolor="c3000a">Fonctionnaire</txt>
+      <txt swp="X" c="X" s="2" y="445" delay="0" fontsize="14" align="left">«Donnez-nous de l’argent maintenant et nous ferons disparaître le problème. Sinon, nous vous rendrons la vie très difficile.»</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>L’arrivée au port. Trois agents des douanes montent à bord du navire et commencent l’inspection du navire. Pendant qu’ils se trouvent sur le navire, ils agissent de manière agressive, en poussant et en injuriant les membres d’équipage. Après un moment, l’un d’eux s’approche du capitaine: «Nous avons trouvé une disparité. Dans la déclaration en douane, vous indiquez avoir 90 ml de morphine, mais nous en avons trouvé 91 ml.» «Je pensais avoir revérifié toutes les quantités. Je suis très surpris qu’il y ait une erreur. Je vous présente mes excuses si tel est le cas.» «Donnez-nous de l’argent maintenant et nous ferons disparaître le problème. Sinon, nous vous rendrons la vie très difficile.»
+
+ 
+
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>第 3 节： 案例研究 - 小事可能产生重大后果  •  到达港口</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p2a.png</pic>
+      <pic preload="X" noFade="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic preload="X" noFade="X" x="478" y="215">sc3_p2_r2.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="308">sc3_p2_r3.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="403">sc3_p2_r2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">到达港口</txt>
+      <txt swp="X" c="X" s="2" w="410" y="148" delay="0" fontsize="16" align="left">三名海关官员登船，开始清关。在船上时，他们行为蛮横，推搡和辱骂船员。过了一会儿，一个人走近船长。
+
+</txt>
+      <txt swp="X" c="X" s="1" x="525" y="220" delay="0" fontsize="18" align="left" fontcolor="c3000a">官员</txt>
+      <txt swp="X" c="X" s="2" y="245" delay="0" fontsize="16" align="left">"我们发现有不匹配的地方。在舱单上您说您有 90 毫升吗啡，但我们找到了 91 毫升。"</txt>
+      <txt swp="X" c="X" s="1" y="313" delay="0" fontsize="18" align="left" fontcolor="0c0254">船长</txt>
+      <txt swp="X" c="X" s="2" x="525" y="341" delay="0" fontsize="16" align="left">"我是复查过所有数量的。出现错误我觉得很奇怪。如果真是这样，实在抱歉。"</txt>
+      <txt swp="X" c="X" s="1" y="408" delay="0" fontsize="18" align="left" fontcolor="c3000a">官员</txt>
+      <txt swp="X" c="X" s="2" y="436" delay="0" fontsize="16" align="left">"给我们点儿好处费，这事儿我们就让它过去。否则您的日子就不好过。"</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>到达港口。三名海关官员登船，开始清关。在船上时，他们行为蛮横，推搡和辱骂船员。过了一会儿，一个人走近船长。"我们发现有不匹配的地方。在舱单上您说您有 90 毫升吗啡，但我们找到了 91 毫升。" "我是复查过所有数量的。出现错误我觉得很奇怪。如果真是这样，实在抱歉。" "给我们点儿好处费，这事儿我们就让它过去。否则您的日子就不好过。"
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Sección 3: Caso práctico - Los detalles pequeños pueden tener grandes consecuencias  •  Al llegar al puerto</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p2a.png</pic>
+      <pic preload="X" noFade="X" x="478" y="115">kreska-cz.jpg</pic>
+      <pic preload="X" noFade="X" x="478" y="215">sc3_p2_r2.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="308">sc3_p2_r3.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="403">sc3_p2_r2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Al llegar al puerto</txt>
+      <txt swp="X" c="X" s="2" w="470" y="130" delay="0" fontsize="13" align="left">Tres funcionarios de aduanas suben al barco e inician el proceso de despacho de aduanas del barco. Mientras están en el barco, actúan de forma agresiva, empujando y abusando verbalmente de los miembros de la tripulación. Después de un rato, uno de ellos se acerca al capitán:</txt>
+      <txt swp="X" c="X" s="2" w="460" x="525" y="225" delay="0" fontsize="14" align="left" fontcolor="c3000a">Funcionario</txt>
+      <txt swp="X" c="X" s="2" y="250" delay="0" fontsize="14" align="left">"Hemos encontrado un desajuste. En el manifiesto usted dijo que tenían 90 ml de morfina, pero hemos encontrado 91 ml".</txt>
+      <txt swp="X" c="X" s="2" y="318" delay="0" fontsize="14" align="left" fontcolor="0c0254">Capitán</txt>
+      <txt swp="X" c="X" s="2" x="525" y="343" delay="0" fontsize="14" align="left">"Pensé que había revisado todas las cantidades. Me sorprende mucho que haya habido un error. Me disculpo si así ha sido".</txt>
+      <txt swp="X" c="X" s="2" y="413" delay="0" fontsize="14" align="left" fontcolor="c3000a">Funcionario</txt>
+      <txt swp="X" c="X" s="2" y="438" delay="0" fontsize="14" align="left">"Si nos da dinero ahora mismo, haremos como que aquí no ha pasado nada. Si no, le complicaremos la vida".</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Al llegar al puerto. Tres funcionarios de aduanas suben al barco e inician el proceso de despacho de aduanas del barco. Mientras están en el barco, actúan de forma agresiva, empujando y abusando verbalmente de los miembros de la tripulación. Después de un rato, uno de ellos se acerca al capitán: "Hemos encontrado un desajuste. En el manifiesto usted dijo que tenían 90 ml de morfina, pero hemos encontrado 91 ml".
+"Pensé que había revisado todas las cantidades. Me sorprende mucho que haya habido un error. Me disculpo si así ha sido". "Si nos da dinero ahora mismo, haremos como que aquí no ha pasado nada. Si no, le complicaremos la vida".
+
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Раздел 3: Изучение конкретной ситуации — Мелочи могут привести к серьезным последствиям  •  Прибытие в порт</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p2a.png</pic>
+      <pic preload="X" noFade="X" x="478" y="120">kreska-cz.jpg</pic>
+      <pic preload="X" noFade="X" x="478" y="215">sc3_p2_r2.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="308">sc3_p2_r3.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="403">sc3_p2_r2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Прибытие в порт</txt>
+      <txt swp="X" c="X" s="2" w="450" y="140" delay="0" fontsize="14" align="left">Трое таможенных инспекторов поднимаются на борт судна для выполнения таможенной очистки. Они ведут себя агрессивно, толкают и оскорбляют членов экипажа. Через некоторое время один из них подходит к капитану:</txt>
+      <txt swp="X" c="X" s="2" x="525" y="220" delay="0" fontsize="14" align="left" fontcolor="c3000a">Инспектор</txt>
+      <txt swp="X" c="X" s="2" y="245" delay="0" fontsize="14" align="left">«Мы нашли несоответствие. В манифесте указано, что у вас 90 мл морфина, а мы обнаружили 91 мл.»</txt>
+      <txt swp="X" c="X" s="2" y="313" delay="0" fontsize="14" align="left" fontcolor="0c0254">Капитан</txt>
+      <txt swp="X" c="X" s="2" x="525" y="338" delay="0" fontsize="14" align="left">«Я все тщательно проверял. Не могу поверить, что в документе ошибка. Если это так, я приношу извинения.»</txt>
+      <txt swp="X" c="X" s="2" y="408" delay="0" fontsize="14" align="left" fontcolor="c3000a">Инспектор</txt>
+      <txt swp="X" c="X" s="2" y="433" delay="0" fontsize="14" align="left">«Заплатите сейчас, и мы закроем на это глаза. В противном случае мы усложним вам жизнь.»</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Прибытие в порт. Трое таможенных инспекторов поднимаются на борт судна для выполнения таможенной очистки. Они ведут себя агрессивно, толкают и оскорбляют членов экипажа. Через некоторое время один из них подходит к капитану: «Мы нашли несоответствие. В манифесте указано, что у вас 90 мл морфина, а мы обнаружили 91 мл.» «Я все тщательно проверял. Не могу поверить, что в документе ошибка. Если это так, я приношу извинения.» «Заплатите сейчас, и мы закроем на это глаза. В противном случае мы усложним вам жизнь.»</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>القسم 3: دراسة حالة - قد تحمل الأفعال البسيطة عواقب وخيمة  •  الوصول إلى الميناء</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc3_p2a.png</pic>
+      <pic preload="X" noFade="X" x="850" y="125">kreska-cz.jpg</pic>
+      <pic preload="X" noFade="X" x="478" y="215">sc3_p2_r2.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="308">sc3_p2_r3.png</pic>
+      <pic />
+      <pic preload="X" noFade="X" x="478" y="403">sc3_p2_r2.png</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc3_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="30" align="right" fontcolor="0c0254"> الوصول إلى الميناء</txt>
+      <txt swp="X" c="X" s="2" w="460" y="145" delay="0" fontsize="14" align="center">يصعد ثلاثة من مسؤولي الجمارك إلى متن السفينة ويبدؤون عملية التخليص الجمركي. أثناء وجود المسؤولين على متن السفينة، يتصرفون بعدوانية، ويدفعون أفراد الطاقم ويعتدون عليهم لفظيًا. بعد فترة وجيزة، يقترب أحدهم من القبطان قائلا:</txt>
+      <txt swp="X" c="X" s="1" w="450" x="478" y="225" delay="0" fontsize="18" align="left" fontcolor="c3000a">المسؤول</txt>
+      <txt swp="X" c="X" s="2" w="400" x="540" y="250" delay="0" fontsize="16" align="left">"لقد وجدنا عدم تطابق، في البيان قلت إن لديك 90 مل من المورفين، لكننا وجدنا 91 مل."</txt>
+      <txt swp="X" c="X" s="1" y="318" delay="0" fontsize="18" align="right" fontcolor="0c0254">القبطان</txt>
+      <txt swp="X" c="X" s="2" w="400" x="540" y="343" delay="0" fontsize="16" align="left">"أعتقد أنني قمت بمراجعة جميع الكميات مرتين، وأنا مندهش للغاية من حدوث خطأ. أقدم بالغ اعتذاري عن ذلك.»</txt>
+      <txt swp="X" c="X" s="1" y="413" delay="0" fontsize="18" align="left" fontcolor="c3000a">المسؤول</txt>
+      <txt swp="X" c="X" s="2" y="438" delay="0" fontsize="16" align="left">"إذا دفعت لنا بعض المال الآن، اعتبر أن هذه المشكلة غير قائمة، وإن لم تفعل ذلك، سوف نصعّب الأمور عليك.»</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

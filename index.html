@@ -1,0 +1,55 @@
+<!--application start file, download js, css and start app
+this file is added only to dev player (for scorm player it is handled by launcher)
+during build tags between '<build:> comments are joined and minified
+-->
+
+<!DOCTYPE html>
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>[MACN] Stand Your Ground, Be A Leader! Captains' Edition (1a)</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="stylesheet" href="htmlViewer/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="htmlViewer/bower_components/libsCss.css?v=3.1.6">
+    <link rel="stylesheet" href="htmlViewer/app.min.css?v=3.1.6">
+    <script src="htmlViewer/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="htmlViewer/bower_components/forge/dist/forge.min.js"></script>
+    <!--<script src="htmlViewer/bower_components/forge/dist/forge.min.js"></script>-->
+    <script src="htmlViewer/bower_components/nonAngularLibs.js?v=3.1.6"></script>
+</head>
+<body ng-controller="MyAppCtrl as mainCtrl">
+    <!--[if lt IE 7]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+     <script>
+        function getParameterByName(name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                    results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        }
+        //no scorm - get data passed with link
+        var contentPath = getParameterByName('path');//path to module
+        var lvl = getParameterByName('lvl');//level id
+        var ch_no = getParameterByName('cno');//chapter number for preview
+        var p_no = getParameterByName('pno');//page number for preview
+        var quest = getParameterByName('q');//page number for preview
+		
+		//ch_no = 1;
+		contentPath = './';
+		contentPath = contentPath + '403501';
+		contentPath = contentPath + '/';
+    </script>
+  
+    <div ng-view></div>
+    <script src="htmlViewer/bower_components/angular/angular.min.js"></script>
+    <script src="htmlViewer/bower_components/angularLibs.js?v=3.1.6"></script>
+    <script src="htmlViewer/app.min.js?v=3.1.6"></script>
+</body>
+</html>

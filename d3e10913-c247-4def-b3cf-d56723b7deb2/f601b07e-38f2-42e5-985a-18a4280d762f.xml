@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="f601b07e-38f2-42e5-985a-18a4280d762f" chapterId="6c5322dc-cc15-4f35-99b9-4c5fc39a77cd" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">All of the ship’s and crew’s paperwork was in order. Immigration officials asked the Captain for some cans of soda as they will not leave the ship "empty-handed". After long negotiations, the Captain agreed to give them six cans of soda.
+
+How would the cans of soda be considered?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="88" align="left">A bribe</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="14" align="left">A facilitation payment</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Tous les documents du navire et de l’équipage étaient en règle. Les agents de l’immigration ont demandé au capitaine des cannettes de boisson gazeuse, car ils ne quitteront pas le navire « les mains vides ». Après de longues négociations, le capitaine accepte de leur donner six cannettes de boisson gazeuse.
+
+Comment les cannettes de boisson gazeuse seraient-elles considérées?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="68" align="left">Un pot-de-vin</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="24" align="left">Un paiement de facilitation</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">船和船员的所有手续均齐全。移民官员让船长送几罐饮料，因为他们不想两手空空下船。一番谈判后，船长同意给他们 6 罐饮料。
+
+这 6 罐饮料属于哪种分类？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="46" align="left">贿赂</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="60" align="left">便利费</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Toda la documentación del barco y de la tripulación estaba en orden. Los funcionarios de inmigración le pidieron al capitán unos refrescos porque no querían salir del barco "con las manos vacías". Después de largas negociaciones, el capitán accedió a darles seis latas de refresco.
+
+¿Qué se considerarán esas latas de refresco?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="46" align="left">Soborno</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="30" align="left">Pago para la simplificación de trámites</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Вся документация судна и экипажа была в полном порядке. Инспекторы иммиграционной службы попросили у капитана несколько банок лимонада, поскольку не хотели покидать судно с пустыми руками. После длительных переговоров капитан согласился дать им шесть банок лимонада.
+
+Это рассматривается как…</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="90" align="left">Взятка</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="32" align="left">Вознаграждение за оказание содействия</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">جميع الأوراق الخاصة بالسفينة والطاقم سليمة، ولكن طلب مسؤولو الهجرة من القبطان بعض علب المشروبات الغازية لأنهم لا يريدون مغادرة السفينة "خاليو الوفاض". بعد مفاوضات استغرقت وقتًا طويلًا، وافق القبطان على إعطائهم ست علب من المشروبات الغازية.
+
+في سياق الموقف أعلاه، تحت أي مصطلح يجب أن تندرج علب المشروبات الغازية؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="88" align="left">الرشوة</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="14" align="left">مدفوعات التسهيل</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="6afbf19c-5756-4142-86cf-0a262893d378" chapterId="6a82788d-cd38-4f6f-b039-e7049ee2de1f" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">The Captain and his/her crew have been threatened with physical harm by the Port State Control (PSC) official for refusing to make a payment. This is a threat to their safety, which means that the situation is legally considered as duress.
+
+What does this mean in practice?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="17" align="left">They are allowed to make the payment; however, you have to report it to the company</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="97" align="left">Duress doesn't change anything</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="86" align="left">They are allowed to make the payment, no need to report it</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Le capitaine et son équipage ont été menacés de dommages physiques par l’inspecteur au titre du contrôle par l’État du port pour avoir refusé d’effectuer un paiement. Il s’agit ici d’une menace à leur sécurité ce qui signifie que la situation est considérée légalement comme un acte de coercition.
+
+Qu’est-ce que cela signifie dans la pratique?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="27" align="left">Ils sont autorisés à effectuer le paiement. Toutefois, celui-ci doit être signalé à la société.</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="43" align="left">La coercition ne change rien.</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="82" align="left">Ils sont autorisés à effectuer un paiement sans devoir le signaler.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">因为拒绝给好处费，船长和其船员受到港口国管制官员的人身伤害威胁。这是对他们安全的威胁，从法律角度讲，这属于胁迫。
+
+在实际中有什么含义？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="37" align="left">他们可以付钱，但必须向公司报告此事。</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="29" align="left">胁迫什么都改变不了</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="38" align="left">他们可以付钱，也不需要报告此事</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">El Control del Estado del Puerto (PSC) ha amenazado al capitán y su tripulación con daños físicos por negarse a hacer un pago. Esto es una amenaza para su seguridad, es decir, que la situación se considera legalmente una coacción.
+
+¿Qué significa esto en la práctica?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="65" align="left">Se les permite hacer el pago; pero usted tiene que notificarlo a la compañía.</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="57" align="left">La coacción no cambia nada.</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="64" align="left">Se les permite hacer el pago, no hay necesidad de notificarlo.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Инспектор службы государственного портового контроля (СГПК) угрожает капитану и экипажу физической расправой за отказ платить. Речь идет об угрозе для безопасности, а значит с юридической точки зрения данная ситуация является физическим принуждением.
+
+Что это означает на практике?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="51" align="left">Они имеют право заплатить; однако об этом необходимо сообщить в компанию</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="87" align="left">Факт физического принуждения ничего не меняет</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="18" align="left">Они имеют право заплатить, сообщать об этом не обязательно</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">قام مسؤول الرقابة في دول الميناء (PSC) بتهديد القبطان والطاقم العامل معه/معها بإلحاق الأذى الجسدي لرفضهم دفع مبلغ؛ وهذا تهديد لسلامتهم، بما يعني أن هذا الموقف يُعد إكراهًا من الناحية القانونية.
+
+ما معنى ذلك من الناحية العملية؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="89" align="left">يمكنهم تقديم الرشوة، ومع ذلك، يجب إبلاغ الشركة عن هذا الموقف</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="99" align="left">إن تصرف الإكراه لا يغير شيئًا</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="50" align="left">يمكنهم تقديم الرشوة دون الإبلاغ عن الموقف</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="4d50b945-fa09-49be-a8ef-00f70b1d18e5" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Section 4: Case Study – Time is Money  •  The Officials are About to Board</title>
+    <pics>
+      <pic x="0" y="70">sc4_p3a.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc4_p3.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="70" delay="0" pt="1" e="-3" align="left">The officials are about to board the ship. What should you do in preparation for their arrival?</txt>
+      <txt c="X" s="2" x="520" y="120" delay="0" crct="22" align="left" wrngtext="Incorrect, try again.&#xD;You did not select the correct response. All of the options are actions the Captain should consider in preparation for officials boarding the ship.&#xD;First, it is vital that we know who boards the ship. Second, many cultures respect seniority and authority, so have a senior crew member greet them and the Captain should put on his/her uniform.&#xD;Finally, never let the officials walk around the ship without a crew member with them. When a Captain is with an official, he/she should have at least one crew member with him/her.">Ensure there is a senior crew member to greet the officials before they come on board and accompany them around the ship.</txt>
+      <txt c="X" s="2" x="520" y="170" delay="0" crct="29" align="left" wrngtext="Incorrect, try again.&#xD;You did not select the correct response. All of the options are actions the Captain should consider in preparation for officials boarding the ship.&#xD;First, it is vital that we know who boards the ship. Second, many cultures respect seniority and authority, so have a senior crew member greet them and the Captain should put on his/her uniform.&#xD;Finally, never let the officials walk around the ship without a crew member with them. When a Captain is with an official, he/she should have at least one crew member with him/her.">At the gangway, record the names of the officials that come on board.</txt>
+      <txt c="X" s="2" x="520" y="220" delay="0" crct="10" align="left" wrngtext="Incorrect, try again.&#xD;You did not select the correct response. All of the options are actions the Captain should consider in preparation for officials boarding the ship.&#xD;First, it is vital that we know who boards the ship. Second, many cultures respect seniority and authority, so have a senior crew member greet them and the Captain should put on his/her uniform.&#xD;Finally, never let the officials walk around the ship without a crew member with them. When a Captain is with an official, he/she should have at least one crew member with him/her.">Put on your uniform.</txt>
+      <txt c="X" s="2" x="520" y="270" delay="0" crct="74" align="left">All of the above.</txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt>The officials are about to board the ship. What should you do in preparation for their arrival?
+Ensure there is a senior crew member to greet the officials before they come on board and accompany them around the ship.
+At the gangway, record the names of the officials that come on board.
+Put on your uniform.
+All of the above.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Section 4: Étude de cas — Le temps, c’est de l’argent.  •  Les autorités s’apprêtent à monter à bord</title>
+    <pics>
+      <pic x="0" y="70">sc4_p3fr.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc4_p3.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="70" delay="0" pt="1" e="-3" align="left">Les autorités s’apprêtent à monter à bord du navire. Que doit faire le capitaine pour se préparer à leur arrivée?</txt>
+      <txt c="X" s="2" x="520" y="120" delay="0" wrngx="20" wrngy="320" crct="8" align="left" wrngtext="Mauvaise réponse, veuillez réessayer.&#xD;Vous n’avez pas sélectionné la bonne réponse. Toutes les options sont des mesures que doit envisager le capitaine en préparation à la montée à bord des autorités gouvernementales.&#xD;&#xD;Tout d’abord, il est indispensable que nous sachions qui monte à bord du navire. Ensuite, de nombreuses cultures respectent l’ancienneté et l’autorité. Faites en sorte qu’un membre d’équipage expérimenté les accueille et que le capitaine porte son uniforme.&#xD;&#xD;Enfin, ne laissez jamais les autorités se déplacer sur le navire sans être accompagnées d’un membre d’équipage. Lorsqu’un capitaine en compagnie d’un fonctionnaire, il doit être accompagné d’au moins un membre de l’équipage.">Veillez à ce qu'un membre senior de l'équipage accueille les fonctionnaires avant qu'ils ne viennent à bord et les accompagne autour du navire.</txt>
+      <txt c="X" s="2" x="520" y="185" delay="0" wrngx="20" wrngy="320" crct="83" align="left" wrngtext="Mauvaise réponse, veuillez réessayer.&#xD;Vous n’avez pas sélectionné la bonne réponse. Toutes les options sont des mesures que doit envisager le capitaine en préparation à la montée à bord des autorités gouvernementales.&#xD;&#xD;Tout d’abord, il est indispensable que nous sachions qui monte à bord du navire. Ensuite, de nombreuses cultures respectent l’ancienneté et l’autorité. Faites en sorte qu’un membre d’équipage expérimenté les accueille et que le capitaine porte son uniforme.&#xD;&#xD;Enfin, ne laissez jamais les autorités se déplacer sur le navire sans être accompagnées d’un membre d’équipage. Lorsqu’un capitaine en compagnie d’un fonctionnaire, il doit être accompagné d’au moins un membre de l’équipage.">Sur la passerelle, enregistrez les noms des autorités gouvernementales qui montent à bord.</txt>
+      <txt c="X" s="2" x="520" y="235" delay="0" wrngx="20" wrngy="320" crct="84" align="left" wrngtext="Mauvaise réponse, veuillez réessayer.&#xD;Vous n’avez pas sélectionné la bonne réponse. Toutes les options sont des mesures que doit envisager le capitaine en préparation à la montée à bord des autorités gouvernementales.&#xD;&#xD;Tout d’abord, il est indispensable que nous sachions qui monte à bord du navire. Ensuite, de nombreuses cultures respectent l’ancienneté et l’autorité. Faites en sorte qu’un membre d’équipage expérimenté les accueille et que le capitaine porte son uniforme.&#xD;&#xD;Enfin, ne laissez jamais les autorités se déplacer sur le navire sans être accompagnées d’un membre d’équipage. Lorsqu’un capitaine en compagnie d’un fonctionnaire, il doit être accompagné d’au moins un membre de l’équipage.">Portez votre uniforme.</txt>
+      <txt c="X" s="2" x="520" y="275" delay="0" wrngx="20" wrngy="320" crct="64" align="left">Toutes les réponses ci-dessus.</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt>Les autorités s’apprêtent à monter à bord du navire. Que doit faire le capitaine pour se préparer à leur arrivée?  Veillez à ce qu'un membre senior de l'équipage accueille les fonctionnaires avant qu'ils ne viennent à bord et les accompagne autour du navire. Sur la passerelle, enregistrez les noms des autorités gouvernementales qui montent à bord. Portez votre uniforme.Toutes les réponses ci-dessus.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>第 4 节： 案例研究 - 时间就是金钱  •  官员即将上船</title>
+    <pics>
+      <pic x="0" y="70">sc4_p3a.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc4_p3.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="80" delay="0" pt="1" e="-3" align="left">官员即将上船。您应该针对他们的到来做哪些准备？</txt>
+      <txt c="X" s="2" x="520" y="120" delay="0" crct="22" align="left" wrngtext="错误，重试。&#xD;您没有选择正确的答案。以上选项均是船长针对官员上船应考虑准备的措施。&#xD;&#xD;首先，务必知道登船人员的姓名。其次，许多文化都尊重资历和权威，所以要有一位高级船员迎接他们，船长应该穿上制服。&#xD;&#xD;最后，官员在船上巡视时，必须有船员陪同。如果船长陪同官员，身边至少应该有一位船员。">确保官员登船之前有高级别船员等待迎候，并在登船期间全程陪同。</txt>
+      <txt c="X" s="2" x="520" y="160" delay="0" crct="7" align="left" wrngtext="错误，重试。&#xD;您没有选择正确的答案。以上选项均是船长针对官员上船应考虑准备的措施。&#xD;&#xD;首先，务必知道登船人员的姓名。其次，许多文化都尊重资历和权威，所以要有一位高级船员迎接他们，船长应该穿上制服。&#xD;&#xD;最后，官员在船上巡视时，必须有船员陪同。如果船长陪同官员，身边至少应该有一位船员。">在通道记录上船官员的姓名。</txt>
+      <txt c="X" s="2" x="520" y="200" delay="0" crct="66" align="left" wrngtext="错误，重试。&#xD;您没有选择正确的答案。以上选项均是船长针对官员上船应考虑准备的措施。&#xD;&#xD;首先，务必知道登船人员的姓名。其次，许多文化都尊重资历和权威，所以要有一位高级船员迎接他们，船长应该穿上制服。&#xD;&#xD;最后，官员在船上巡视时，必须有船员陪同。如果船长陪同官员，身边至少应该有一位船员。">穿上您的制服。</txt>
+      <txt c="X" s="2" x="520" y="240" delay="0" crct="26" align="left">以上都是。</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>官员即将上船。您应该针对他们的到来做哪些准备？确保官员登船之前有高级别船员等待迎候，并在登船期间全程陪同。在通道记录上船官员的姓名。穿上您的制服。以上都是。</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Sección 4: Caso práctico - El tiempo es oro  •  Los funcionarios están a punto de embarcar</title>
+    <pics>
+      <pic x="0" y="70">sc4_p3a.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc4_p3.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="70" delay="0" pt="1" e="-3" align="left">Los funcionarios están a punto de subir al barco. ¿Qué debe hacer para prepararse antes de que lleguen?</txt>
+      <txt c="X" s="2" x="520" y="120" delay="0" crct="56" align="left" wrngtext="Incorrecto, vuelva a intentarlo.&#xD;No ha seleccionado la respuesta correcta. Todas las opciones son cosas que el capitán debe considerar para prepararse antes de que los funcionarios suban al barco. Primero, es fundamental que sepamos quién sube al barco. Segundo, muchas culturas respetan la antigüedad y la autoridad, por lo que un miembro de la tripulación de alto rango debe recibirlos y el capitán debe llevar su uniforme.&#xD;Por último, nunca permita que los funcionarios vayan por el barco sin que los acompañe un miembro de la tripulación. Cuando un capitán está con un funcionario, debe estar acompañado por un miembro de la tripulación, como mínimo.">Hay que asegurarse de que haya un miembro sénior de la tripulación para recibir a los funcionarios antes de que suban a bordo para acompañarlos en su visita.</txt>
+      <txt c="X" s="2" x="520" y="190" delay="0" crct="29" align="left" wrngtext="Incorrecto, vuelva a intentarlo.&#xD;No ha seleccionado la respuesta correcta. Todas las opciones son cosas que el capitán debe considerar para prepararse antes de que los funcionarios suban al barco. Primero, es fundamental que sepamos quién sube al barco. Segundo, muchas culturas respetan la antigüedad y la autoridad, por lo que un miembro de la tripulación de alto rango debe recibirlos y el capitán debe llevar su uniforme.&#xD;Por último, nunca permita que los funcionarios vayan por el barco sin que los acompañe un miembro de la tripulación. Cuando un capitán está con un funcionario, debe estar acompañado por un miembro de la tripulación, como mínimo.">En la pasarela, anote los nombres de los funcionarios que suben a bordo.</txt>
+      <txt c="X" s="2" x="520" y="240" delay="0" crct="22" align="left" wrngtext="Incorrecto, vuelva a intentarlo.&#xD;No ha seleccionado la respuesta correcta. Todas las opciones son cosas que el capitán debe considerar para prepararse antes de que los funcionarios suban al barco. Primero, es fundamental que sepamos quién sube al barco. Segundo, muchas culturas respetan la antigüedad y la autoridad, por lo que un miembro de la tripulación de alto rango debe recibirlos y el capitán debe llevar su uniforme.&#xD;Por último, nunca permita que los funcionarios vayan por el barco sin que los acompañe un miembro de la tripulación. Cuando un capitán está con un funcionario, debe estar acompañado por un miembro de la tripulación, como mínimo.">Póngase el uniforme.</txt>
+      <txt c="X" s="2" x="520" y="290" delay="0" crct="82" align="left">Todas las anteriores.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>Los funcionarios están a punto de subir al barco. ¿Qué debe hacer para prepararse antes de que lleguen? 	Hay que asegurarse de que haya un miembro sénior de la tripulación para recibir a los funcionarios antes de que suban a bordo para acompañarlos en su visita. En la pasarela, anote los nombres de los funcionarios que suben a bordo.Póngase el uniforme.
+Todas las anteriores.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Раздел 4: Изучение конкретной ситуации — Время — деньги  •  Инспекторы скоро поднимутся на борт</title>
+    <pics>
+      <pic x="0" y="70">sc4_p3a.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc4_p3.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="70" delay="0" pt="1" e="-3" align="left">Инспекторы скоро поднимутся на борт. Как подготовится к их визиту?</txt>
+      <txt c="X" s="2" x="520" y="120" delay="0" crct="14" align="left" wrngtext="Неправильно, попробуйте еще раз.&#xD;Вы выбрали неправильный ответ. При подготовке к визиту инспекторов капитану необходимо рассмотреть все предложенные варианты действий.&#xD;Во-первых, очень важно знать, кто посетит судно. Во-вторых, во многих культурах уважают старшинство и авторитет, поэтому инспекторов должен приветствовать старший по рангу член экипажа, а капитан должен надеть форму.&#xD;Наконец, не позволяйте инспекторам перемещаться по судну без сопровождения члена экипажа. Когда инспектора сопровождает капитан, с ним должен находиться по крайней мере еще один член экипажа.">Убедитесь, что присутствует старший член экипажа, который приветствует официальных лиц, прежде чем они поднимутся на борт и сопровождают их по всему кораблю.</txt>
+      <txt c="X" s="2" x="520" y="190" delay="0" crct="81" align="left" wrngtext="Неправильно, попробуйте еще раз.&#xD;Вы выбрали неправильный ответ. При подготовке к визиту инспекторов капитану необходимо рассмотреть все предложенные варианты действий.&#xD;Во-первых, очень важно знать, кто посетит судно. Во-вторых, во многих культурах уважают старшинство и авторитет, поэтому инспекторов должен приветствовать старший по рангу член экипажа, а капитан должен надеть форму.&#xD;Наконец, не позволяйте инспекторам перемещаться по судну без сопровождения члена экипажа. Когда инспектора сопровождает капитан, с ним должен находиться по крайней мере еще один член экипажа.">Записать имена инспекторов, поднимающихся на борт.</txt>
+      <txt c="X" s="2" x="520" y="240" delay="0" crct="74" align="left" wrngtext="Неправильно, попробуйте еще раз.&#xD;Вы выбрали неправильный ответ. При подготовке к визиту инспекторов капитану необходимо рассмотреть все предложенные варианты действий.&#xD;Во-первых, очень важно знать, кто посетит судно. Во-вторых, во многих культурах уважают старшинство и авторитет, поэтому инспекторов должен приветствовать старший по рангу член экипажа, а капитан должен надеть форму.&#xD;Наконец, не позволяйте инспекторам перемещаться по судну без сопровождения члена экипажа. Когда инспектора сопровождает капитан, с ним должен находиться по крайней мере еще один член экипажа.">Надеть форму.</txt>
+      <txt c="X" s="2" x="520" y="290" delay="0" crct="22" align="left">Все указанное выше.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>Инспекторы скоро поднимутся на борт. Как подготовится к их визиту? Убедитесь, что присутствует старший член экипажа, который приветствует официальных лиц, прежде чем они поднимутся на борт и сопровождают их по всему кораблю. Записать имена инспекторов, поднимающихся на борт. Надеть форму. Все указанное выше.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>القسم 4: دراسة حالة - الوقت من ذهب  •  قرب موعد صعود المسؤولين إلى متن السفينة</title>
+    <pics>
+      <pic x="0" y="70">sc4_p3a.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc4_p3.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="120" delay="0" pt="1" e="-3" align="left"> اقترب موعد صعود المسؤولين إلى متن السفينة. ما الواجب عليك فعله استعدادًا لصعودهم؟</txt>
+      <txt c="X" s="2" w="450" x="520" y="180" delay="0" wrngx="20" wrngy="418" crct="10" align="left" wrngtext="إجابة خاطئة، حاول مرة أخرى.&#xD;لم تختر الإجابة الصحيحة. جميع الخيارات هي إجراءات ينبغي على القبطان مراعاتها استعدادًا لصعود المسؤولين إلى متن السفينة.&#xD;أولاً، من الضروري معرفة من سيصعد إلى متن السفينة. ثانياً، تولي العديد من الثقافات الاحترام للأقدمية وللسلطات، لذا يجب على أحد كبار أفراد الطاقم استقبالهم، وينبغي على القبطان ارتداء الزي الرسمي له/لها.&#xD;وأخيرًا، لا تسمح للمسؤولين بالتجول في أنحاء السفينة دون مصاحبة أحد أفراد الطاقم لهم؛ وعندما يصاحب القبطان أحد المسؤولين أثناء الجولة، يجب أن يكون معه/معها فردًا واحدًا من أفراد الطاقم على الأقل."> تأكد من وجود أحد كبار أفراد الطاقم لاستقبال المسؤولين قبل أن يصعدوا على متن السفينة ومرافقتهم على ظهرها. </txt>
+      <txt c="X" s="2" x="520" y="250" delay="0" wrngx="20" wrngy="418" crct="63" align="left" wrngtext="إجابة خاطئة، حاول مرة أخرى.&#xD;لم تختر الإجابة الصحيحة. جميع الخيارات هي إجراءات ينبغي على القبطان مراعاتها استعدادًا لصعود المسؤولين إلى متن السفينة.&#xD;أولاً، من الضروري معرفة من سيصعد إلى متن السفينة. ثانياً، تولي العديد من الثقافات الاحترام للأقدمية وللسلطات، لذا يجب على أحد كبار أفراد الطاقم استقبالهم، وينبغي على القبطان ارتداء الزي الرسمي له/لها.&#xD;وأخيرًا، لا تسمح للمسؤولين بالتجول في أنحاء السفينة دون مصاحبة أحد أفراد الطاقم لهم؛ وعندما يصاحب القبطان أحد المسؤولين أثناء الجولة، يجب أن يكون معه/معها فردًا واحدًا من أفراد الطاقم على الأقل."> تسجيل أسماء المسؤولين الذين يصعدون إلى متن السفينة على سلم السفينة. </txt>
+      <txt c="X" s="2" x="520" y="300" delay="0" wrngx="20" wrngy="418" crct="10" align="left" wrngtext="إجابة خاطئة، حاول مرة أخرى.&#xD;لم تختر الإجابة الصحيحة. جميع الخيارات هي إجراءات ينبغي على القبطان مراعاتها استعدادًا لصعود المسؤولين إلى متن السفينة.&#xD;أولاً، من الضروري معرفة من سيصعد إلى متن السفينة. ثانياً، تولي العديد من الثقافات الاحترام للأقدمية وللسلطات، لذا يجب على أحد كبار أفراد الطاقم استقبالهم، وينبغي على القبطان ارتداء الزي الرسمي له/لها.&#xD;وأخيرًا، لا تسمح للمسؤولين بالتجول في أنحاء السفينة دون مصاحبة أحد أفراد الطاقم لهم؛ وعندما يصاحب القبطان أحد المسؤولين أثناء الجولة، يجب أن يكون معه/معها فردًا واحدًا من أفراد الطاقم على الأقل.">ارتداء الزي الرسمي المخصص لك.</txt>
+      <txt c="X" s="2" x="520" y="350" delay="0" crct="64" align="left"> جميع ما سبق. </txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

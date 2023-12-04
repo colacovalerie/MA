@@ -1,0 +1,143 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="ee20374f-0405-43bb-95a0-7681d0571415">
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Fighting Corruption]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p10.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p10.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Fighting Corruption]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Fighting corruption can be difficult. But there are numerous ways to tackle a corrupt demand. Preparation is key to success. The following three screens show experiences collected from Captains who have been successful in rejecting corruption globally, including in high risk countries. ]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Fighting Corruption. Fighting corruption can be difficult. But there are numerous ways to tackle a corrupt demand. Preparation is key to success. The following three screens show experiences collected from Captains who have been successful in rejecting corruption globally, including in high risk countries. </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Lutter contre la corruption]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p10.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p10.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Lutter contre la corruption]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Dans certaines parties du monde, la lutte contre la corruption peut être difficile. Il existe toutefois de nombreuses manières de s’attaquer à une demande de pot-de-vin. Pour cela, la préparation est la clé du succès.Les trois écrans suivants présentent des expériences vécues par des capitaines qui ont refusé la corruption avec succès dans différentes parties du monde, notamment dans des pays présentant un risque élevé.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Lutter contre la corruption. Dans certaines parties du monde, la lutte contre la corruption peut être difficile. Il existe toutefois de nombreuses manières de s’attaquer à une demande de pot-de-vin. Pour cela, la préparation est la clé du succès.Les trois écrans suivants présentent des expériences vécues par des capitaines qui ont refusé la corruption avec succès dans différentes parties du monde, notamment dans des pays présentant un risque élevé.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 1 节： 简介  •  抗击腐败]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p10.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p10.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[抗击腐败]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="470" align="left" delay="0" y="155"><![CDATA[在全球的某些地区抗击腐败可能困难重重。但应对索贿的方法很多，而准备是成功的关键。以下三个屏幕显示了从一些船长收集的经历，他们都曾在全球成功拒绝腐败，包括在一些高风险国家。]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>抗击腐败。在全球的某些地区抗击腐败可能困难重重。但应对索贿的方法很多，而准备是成功的关键。以下三个屏幕显示了从一些船长收集的经历，他们都曾在全球成功拒绝腐败，包括在一些高风险国家。</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 1: Introducción  •  Lucha contra la corrupción]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p10.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p10.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Lucha contra la corrupción]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Luchar contra la corrupción puede ser difícil en algunas partes del mundo. Sin embargo, hay muchas maneras de abordar una petición corrupta y la preparación es la clave del éxito.En las siguientes tres pantallas se muestran las experiencias recogidas de los capitanes que han logrado rechazar con éxito la corrupción a nivel internacional, incluso en países de alto riesgo.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Lucha contra la corrupción. Luchar contra la corrupción puede ser difícil en algunas partes del mundo. Sin embargo, hay muchas maneras de abordar una petición corrupta y la preparación es la clave del éxito.En las siguientes tres pantallas se muestran las experiencias recogidas de los capitanes que han logrado rechazar con éxito la corrupción a nivel internacional, incluso en países de alto riesgo.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 1: Введение  •  Борьба с коррупцией]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p10.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p10.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Борьба с коррупцией]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[В некоторых странах мира бороться с коррупцией бывает непросто. Однако существует целый ряд способов решения проблемы вымогательства, и залогом успеха в этом деле является фактор подготовки.На следующих трех слайдах приведены практические рекомендации капитанов, которым удавалось успешно противостоять коррупции в разных частях света, в том числе в странах с высокой степенью риска.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Борьба с коррупцией. В некоторых странах мира  бороться с коррупцией бывает непросто. Однако существует целый ряд способов решения проблемы вымогательства, и залогом успеха в этом деле является фактор подготовки.На следующих трех слайдах приведены практические рекомендации капитанов, которым удавалось успешно противостоять коррупции в разных частях света, в том числе в странах с высокой степенью риска.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 1  •  محاربة الفساد]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p10.png</pic>
+      <pic>
+      </pic>
+      <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p10.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="478"><![CDATA[محاربة الفساد]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontsize="17" s="2" w="470" align="left" delay="0" y="149"><![CDATA[قد تكون محاربة الفساد صعبة في بعض أجزاء من العالم. ولكن ثمة طرق عديدة لمعالجة أحد الطلبات المنطوية على الفساد والإعداد أو التأهيل هو مفتاح النجاح في ذلك.تُظهر الشاشات الثلاث التالية التجارب التي تم جمعها من القباطنة الذين نجحوا في رفض ممارسات الفساد عالميًا، بما في ذلك في البلدان عالية المخاطر.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

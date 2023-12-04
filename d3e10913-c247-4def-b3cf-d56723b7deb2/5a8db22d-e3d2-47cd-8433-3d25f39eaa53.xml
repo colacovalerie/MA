@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="5a8db22d-e3d2-47cd-8433-3d25f39eaa53" chapterId="6c5322dc-cc15-4f35-99b9-4c5fc39a77cd" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">The Customs officials are telling the Captain that they will forget about the Captain’s miscalculation of one open bucket of paint if he/she pays them some cash. The Captain promises to pay the cash.
+
+Who committed bribery?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="96" align="left">The Captain</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="65" align="left">The public official</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="58" align="left">The Company</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="18" align="left">All of the above</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="92" align="left">No-one</txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Les agents des douanes avisent le capitaine qu’ils ne tiendront pas compte de son erreur de calcul concernant un pot de peinture ouvert, s’il leur verse un peu d’argent en espèces. Le capitaine promet de payer le montant en espèces.
+
+Qui a commis un acte de corruption?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="20" align="left">Le capitaine</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="47" align="left">Le fonctionnaire</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="78" align="left">La société</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="56" align="left">Toutes les réponses ci-dessus</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="74" align="left">Personne</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">海关官员告诉船长，如果付给他们一些现金，他们就不追究船长误算一桶打开的油漆的事。船长答应付钱。
+
+谁实施了贿赂？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="64" align="left">船长</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="97" align="left">公共官员</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="86" align="left">公司</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="20" align="left">以上都是</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="42" align="left">没有人</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Los funcionarios de Aduanas le dicen al capitán que se olvidarán del error de cálculo del capitán por haber dejado un cubo abierto de pintura si les paga en efectivo. El capitán promete pagar el dinero en efectivo.
+
+¿Quién cometió el soborno?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="58" align="left">El capitán</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="71" align="left">El funcionario público</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="14" align="left">La compañía</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="36" align="left">Todas las opciones anteriores</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="52" align="left">Ninguno</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Таможенные инспекторы говорят капитану, что они закроют глаза на несоответствие в виде одной открытой банки краски, если он заплатит наличными. Капитан обещает заплатить наличными.
+
+Кто совершил подкуп?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="50" align="left">Капитан</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="67" align="left">Чиновник</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="20" align="left">Компания</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="70" align="left">Все указанные выше</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="10" align="left">Никто</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">أخبر مسؤولو الجمارك القبطان أنهم سيتغاضون عن الخطأ الذي ارتكبه القبطان في فتح دلو طلاء وذلك في حال دفعت/دفع لهم بعض النقود، وعليه تعهد القبطان بدفع النقود.
+
+من الذي ارتكب جريمة الرشوة؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="16" align="left">القبطان</txt>
+      <txt c="X" s="2" y="250" delay="0" crct="43" align="left">المسؤول العام</txt>
+      <txt c="X" s="2" y="300" delay="0" crct="60" align="left">الشركة</txt>
+      <txt c="X" s="2" y="350" delay="0" crct="78" align="left">جميع ما سبق</txt>
+      <txt c="X" s="2" y="400" delay="0" crct="24" align="left">لا أحد</txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

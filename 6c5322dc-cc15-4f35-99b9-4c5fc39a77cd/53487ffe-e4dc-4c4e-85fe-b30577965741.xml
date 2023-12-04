@@ -1,0 +1,402 @@
+﻿<pages sgxmlv="1.2" guid="53487ffe-e4dc-4c4e-85fe-b30577965741">
+  <page level="EN">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 2: Case Study – Don’t Open the Floodgates  •  Lessons Learnt]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s3.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Lessons Learnt]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[1. In the first interaction with the authorities, the Captain stood his ground and acted with strong leadership. He did everything right to mitigate risks of corruption and remained calm.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[2. However, later, the Captain was challenged by the hostile environment he was operating in. He felt pressured to keep the ship on schedule and in this situation the officials caught a scent of this and used it to escalate to a situation where the Captain got concerned for his own safety. If his own safety was threatened this might be considered as an act of duress, but it needs to be properly documented. Mere delay to the ship is not duress.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="3,4" delay="0" y="149"><![CDATA[3. To avoid this, be prepared – know what to expect, typical demands, the consequences of breaking a law/regulation, etc. If in doubt, the Captain should seek advice from the agents with support from this company.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[4. Without the agent present, there is no one there to verify that the officials are making false statements. The agent should be present.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="5,6" delay="0" y="149"><![CDATA[5. If the Captain caves in to the first demand, the next officials will find out about it, and they won’t stop until they also get paid. Don’t open the floodgates for your ship and later ships – stand your ground.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[6. Ask for a receipt and document the situation properly. The Captain should report the incident (through your company’s reporting channels). Reporting is a recognition of the reality that Captains face in many places.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Lessons Learnt. 1. In the first interaction with the authorities, the Captain stood his ground and acted with strong leadership. He did everything right to mitigate risks of corruption and remained calm. 2. However, later, the Captain was challenged by the hostile environment he was operating in. He felt pressured to keep the ship on schedule and in this situation the officials caught a scent of this and used it to escalate to a situation where the Captain got concerned for his own safety. If his own safety was threatened this might be considered as an act of duress, but it needs to be properly documented. Mere delay to the ship is not duress.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3. To avoid this, be prepared – know what to expect, typical demands, the consequences of breaking a law/regulation, etc. If in doubt, the Captain should seek advice from the agents with support from this company. 4. Without the agent present, there is no one there to verify that the officials are making false statements. The agent should be present.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>5. If the Captain caves in to the first demand, the next officials will find out about it, and they won’t stop until they also get paid. Don’t open the floodgates for your ship and later ships – stand your ground. 6. Ask for a receipt and document the situation properly. The Captain should report the incident (through your company’s reporting channels). Reporting is a recognition of the reality that Captains face in many places.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 2: Étude de cas — n’ouvrez pas les vannes  •  Enseignements tirés]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s3.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Enseignements tirés]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[1.Pendant la première interaction avec les autorités, le capitaine est resté sur ses positions et a montré de solides qualités de leadership. Il a suivi à la lettre les instructions pour réduire les risques de corruption et il est resté calme.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[2. Toutefois, par la suite, le capitaine a rencontré des difficultés du fait de l’environnement hostile dans lequel il se trouvait. Il s’est senti contraint de respecter les délais, les autorités s’en sont aperçues et ont utilisé cet argument pour faire dégénérer la situation au point où le capitaine s’est inquiété de sa propre sécurité. Si sa sécurité a été menacée, on peut considérer cela comme un acte de coercition, mais il doit être dûment documenté. Un simple retard du navire ne constitue pas une coercition.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="3,4" delay="0" y="149"><![CDATA[3. Pour éviter cela, soyez préparé. Sachez ce à quoi vous attendre, les demandes typiques, les conséquences liées à l’infraction d’une loi ou d’une réglementation, etc. En cas de doute, le capitaine doit demander conseil auprès des agents portuaires avec le soutien de son entreprise.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[4. En l’absence de l’agent portuaire, personne n’est en mesure de confirmer que les autorités font de fausses déclarations. L’agent portuaire doit être présent.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="5,6" delay="0" y="149"><![CDATA[5. Si le capitaine cède à la première demande, les fonctionnaires suivants le découvriront et ne cesseront pas tant qu’ils n’auront pas obtenu un paiement. N’ouvrez pas les vannes pour votre navire et pour les navires suivants. Restez sur vos positions.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[6. Demandez un reçu et documentez la situation de manière appropriée. Le capitaine doit signaler l’incident (par le biais des canaux de communication de votre entreprise). Signaler un incident est la reconnaissance de la réalité à laquelle les capitaines sont confrontés dans de nombreux endroits.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Enseignements tirés. 1.Pendant la première interaction avec les autorités, le capitaine est resté sur ses positions et a montré de solides qualités de leadership. Il a suivi à la lettre les instructions pour réduire les risques de corruption et il est resté calme. 2. Toutefois, par la suite, le capitaine a rencontré des difficultés du fait de l’environnement hostile dans lequel il se trouvait. Il s’est senti contraint de respecter les délais, les autorités s’en sont aperçues et ont utilisé cet argument pour faire dégénérer la situation au point où le capitaine s’est inquiété de sa propre sécurité. Si sa sécurité a été menacée, on peut considérer cela comme un acte de coercition, mais il doit être dûment documenté. Un simple retard du navire ne constitue pas une coercition.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3. Pour éviter cela, soyez préparé. Sachez ce à quoi vous attendre, les demandes typiques, les conséquences liées à l’infraction d’une loi ou d’une réglementation, etc. En cas de doute, le capitaine doit demander conseil auprès des agents portuaires avec le soutien de son entreprise. 4. En l’absence de l’agent portuaire, personne n’est en mesure de confirmer que les autorités font de fausses déclarations. L’agent portuaire doit être présent.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>5. Si le capitaine cède à la première demande, les fonctionnaires suivants le découvriront et ne cesseront pas tant qu’ils n’auront pas obtenu un paiement. N’ouvrez pas les vannes pour votre navire et pour les navires suivants. Restez sur vos positions. 6. Demandez un reçu et documentez la situation de manière appropriée. Le capitaine doit signaler l’incident (par le biais des canaux de communication de votre entreprise). Signaler un incident est la reconnaissance de la réalité à laquelle les capitaines sont confrontés dans de nombreux endroits.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 2 节： 案例研究 - 不要开先例  •  学到的经验]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s3.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[学到的经验]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontsize="18" s="2" w="470" align="left" delay="0" y="155"><![CDATA[1. 在与官方机构首次接触时，船长坚持了自己的立场，并表现出强大的领导力。他采取了合适的措施减轻了腐败的风险，并保持了冷静。]]></txt>
+      <txt c="X" swp="X" fontsize="18" s="2" align="left" delay="0"><![CDATA[2. 但是，后来船长陷入困境。他承受着让船按时到达的压力，官员捕捉到了这一情况并将它演变成让船长对自身安全感到担心的境遇。如果船长的自身安全受到威胁，可以将其视为胁迫行为，但需要适当记录。仅是船误期不算是胁迫。]]></txt>
+      <txt c="X" fontsize="18" s="2" w="470" align="left" rpo="3,4" delay="0" y="155"><![CDATA[3. 为了避免出现这种情况，做好充分准备 - 做出预测、了解通常有哪些需求、违反法律/法规的后果等。如果有疑问，船长应该借助此公司提供的支持向代理征求建议。]]></txt>
+      <txt c="X" swp="X" fontsize="18" s="2" align="left" delay="0"><![CDATA[4. 没有代理在场，没有人去核实官员们是在做虚假陈述。代理应该在场。]]></txt>
+      <txt c="X" fontsize="18" s="2" w="470" align="left" rpo="5,6" delay="0" y="149"><![CDATA[5. 如果船长屈从了第一个索贿要求，后面的官员会知道此事，他们在索贿成功之前不会善罢甘休。不要为自己的船只和其他船只开这个先例 - 坚持自己的立场。]]></txt>
+      <txt c="X" swp="X" fontsize="18" s="2" align="left" delay="0"><![CDATA[6. 索要收据并适当记录情况。船长应报告这一事件（通过公司的报告渠道）。报告是承认船长们在许多地方面对的事实。]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>学到的经验。1. 在与官方机构首次接触时，船长坚持了自己的立场，并表现出强大的领导力。他采取了合适的措施减轻了腐败的风险，并保持了冷静。2. 但是，后来船长陷入困境。他承受着让船按时到达的压力，官员捕捉到了这一情况并将它演变成让船长对自身安全感到担心的境遇。如果船长的自身安全受到威胁，可以将其视为胁迫行为，但需要适当记录。仅是船误期不算是胁迫。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3. 为了避免出现这种情况，做好充分准备 - 做出预测、了解通常有哪些需求、违反法律/法规的后果等。如果有疑问，船长应该借助此公司提供的支持向代理征求建议。4. 没有代理在场，没有人去核实官员们是在做虚假陈述。代理应该在场。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>5. 如果船长屈从了第一个索贿要求，后面的官员会知道此事，他们在索贿成功之前不会善罢甘休。不要为自己的船只和其他船只开这个先例 - 坚持自己的立场。6. 索要收据并适当记录情况。船长应报告这一事件（通过公司的报告渠道）。报告是承认船长们在许多地方面对的事实。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 2: Caso práctico - No abra las compuertas  •  Qué hemos aprendido]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s3.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Qué hemos aprendido]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[1. En la primera interacción con las autoridades, el capitán se mantuvo firme y actuó con un liderazgo evidente. Hizo todo lo que debía para mitigar los riesgos de corrupción y no perdió la calma.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[2. Sin embargo, después, el capitán se vio incapacitado por el entorno hostil en el que estaba operando. Se sintió presionado a mantener el barco en el calendario previsto y, en esta situación, los funcionarios se percataron y se aprovecharon para llevarlo a una situación en la que al capitán le preocupaba su seguridad. Si se vio amenazada su propia seguridad, esto podría considerarse un acto de coacción, pero debe ser documentado adecuadamente. El mero retraso del barco no es una coacción.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="3,4" delay="0" y="149"><![CDATA[3. Para evitar esto, esté preparado: sepa qué esperar, cuáles son las peticiones más habituales, las consecuencias de violar una ley/regulación, etc. En caso de duda, el capitán debe pedir consejo a los agentes con el apoyo de esta compañía.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[4. Sin la presencia del agente, no hay nadie que verifique que los funcionarios están haciendo declaraciones falsas. El agente debe estar presente.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="5,6" delay="0" y="149"><![CDATA[5. Si el capitán cede a la primera petición, los siguientes oficiales se enterarán y no pararán hasta que también les paguen. No abra las compuertas de su barco y los barcos posteriores; manténgase firme.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[6. Pida un comprobante. Tanto si el capitán terminó o no haciendo un pago, debe notificar el incidente (a través de los canales de notificación de su compañía) y enviar el comprobante, si lo recibió. El registro del incidente no es un sello de aprobación de los pagos, es una constatación de la realidad a la que se enfrentan los capitanes en muchos lugares.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Qué hemos aprendido. 1. En la primera interacción con las autoridades, el capitán se mantuvo firme y actuó con un liderazgo evidente. Hizo todo lo que debía para mitigar los riesgos de corrupción y no perdió la calma. 2. Sin embargo, después, el capitán se vio incapacitado por el entorno hostil en el que estaba operando. Se sintió presionado a mantener el barco en el calendario previsto y, en esta situación, los funcionarios se percataron y se aprovecharon para llevarlo a una situación en la que al capitán le preocupaba su seguridad. Si se vio amenazada su propia seguridad, esto podría considerarse un acto de coacción, pero debe ser documentado adecuadamente. El mero retraso del barco no es una coacción. </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3. Para evitar esto, esté preparado: sepa qué esperar, cuáles son las peticiones más habituales, las consecuencias de violar una ley/regulación, etc. En caso de duda, el capitán debe pedir consejo a los agentes con el apoyo de esta compañía.que verifique que los funcionarios están haciendo declaraciones falsas. El agente debe estar presente. 4. Sin la presencia del agente, no hay nadie que verifique que los funcionarios están haciendo declaraciones falsas. El agente debe estar presente.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>5. Si el capitán cede a la primera petición, los siguientes oficiales se enterarán y no pararán hasta que también les paguen. No abra las compuertas de su barco y los barcos posteriores; manténgase firme. 6. Pida un comprobante. Tanto si el capitán terminó o no haciendo un pago, debe notificar el incidente (a través de los canales de notificación de su compañía) y enviar el comprobante, si lo recibió. El registro del incidente no es un sello de aprobación de los pagos, es una constatación de la realidad a la que se enfrentan los capitanes en muchos lugares.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 2: Изучение конкретной ситуации — Не выпускайте джинна из бутылки  •  Выводы]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s3.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Выводы]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[1. На первой встрече с представителями органов власти капитан стоял на своем и проявил себя как сильный лидер. Он все сделал правильно, чтобы свести к минимуму коррупционные риски, и не потерял самообладания.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[2. Однако затем Капитан столкнулся с неблагоприятными обстоятельствами, в которых он вынужден был действовать. Его беспокоило, что судно может отстать от графика. Почувствовав это, инспекторы обострили ситуацию до того, что капитан начал опасаться за свою безопасность. Такие действия могут трактоваться как физическое принуждение, однако, чтобы доказать это, все должно быть надлежащим образом задокументировано. Сама по себе задержка не является фактом физического принуждения.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="3,4" delay="0" y="149"><![CDATA[3. Чтобы избежать подобных ситуаций, будьте к ним готовы. Заранее выясните, чего ожидать, каковы типичные виды вымогательства, что влечет за собой нарушение требований закона и нормативных актов и т. д. В случае сомнений капитан должен обратиться за советом к агентам и опираться на поддержку компании.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[4. В отсутствие агента некому подтвердить, что чиновники делают ложные заявления. Агент должен присутствовать.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="5,6" delay="0" y="149"><![CDATA[5. Если капитан уступит первому требованию, другие чиновники узнают об этом и не отстанут, пока тоже не получат вознаграждения. Не выпускайте джинна из бутылки — помогите капитану стоять на своем. Это оградит ваше судно и последующие суда.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[6. Попросите квитанцию и задокументируйте ситуацию надлежащим образом. Капитан должен сообщить об инциденте (по каналам предоставления отчетности вашей компании). Отчеты — это признание реальности, с которой сталкиваются капитаны в различных портах.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Выводы. 1. На первой встрече с представителями органов власти капитан стоял на своем и проявил себя как сильный лидер. Он все сделал правильно, чтобы свести к минимуму коррупционные риски, и не потерял самообладания. 2. Однако затем Капитан столкнулся с неблагоприятными обстоятельствами, в которых он вынужден был действовать. Его беспокоило, что судно может отстать от графика. Почувствовав это, инспекторы обострили ситуацию до того, что капитан начал опасаться за свою безопасность. Такие действия могут трактоваться как физическое принуждение, однако, чтобы доказать это, все должно быть надлежащим образом задокументировано. Сама по себе задержка не является фактом физического принуждения.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>3. Чтобы избежать подобных ситуаций, будьте к ним готовы. Заранее выясните, чего ожидать, каковы типичные виды вымогательства, что влечет за собой нарушение требований закона и нормативных актов и т. д. В случае сомнений капитан должен обратиться за советом к агентам и опираться на поддержку компании. 4. В отсутствие агента некому подтвердить, что чиновники делают ложные заявления. Агент должен присутствовать.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>5. Если капитан уступит первому требованию, другие чиновники узнают об этом и не отстанут, пока тоже не получат вознаграждения. Не выпускайте джинна из бутылки — помогите капитану стоять на своем. Это оградит ваше судно и последующие суда. 6. Попросите квитанцию и задокументируйте ситуацию надлежащим образом. Капитан должен сообщить об инциденте (по каналам предоставления отчетности вашей компании). Отчеты — это признание реальности, с которой сталкиваются капитаны в различных портах.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 2: دراسة حالة - لا تفتح الباب على مصراعيه  •  الدروس المستفادة]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p15_s3.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="478"><![CDATA[ الدروس المستفادة]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontsize="17" s="2" w="450" align="left" delay="0" y="155" x="478"><![CDATA[1. في أول تعامل للقبطان مع السلطات، ثبت على موقفه وتصرف بطريقة قيادية قوية، ولقد فعل كل ما رآهُ صحيحًا للحد من مخاطر الفساد مع التزامه الهدوء.]]></txt>
+      <txt c="X" swp="X" fontsize="17" s="2" align="left" delay="0"><![CDATA[2. على الرُغم من ذلك، واجه القبطان لاحقًا تحديات ناجمة عن البيئة المعادية التي كان يعمل بها، كما أنه شعر بالضغط للالتزام بالجدول الزمني المحدد للسفينة وهو ما عرفه المسؤولون في هذا الموقف واستغلوه لتصعيد الأحداث إلى موقف جعل القبطان يشعر فيه بالقلق على سلامته. وفي حال تعرض سلامته الشخصية للتهديد، فقد يتم النظر إلى ذلك على أنه فعل من أفعال الإكراه، ولكن يجب توثيق الأمر بشكلٍ صحيح. لا يُعد مجرد تأخير السفينة فعلاً من أفعال الإكراه.]]></txt>
+      <txt c="X" fontsize="17" s="2" w="450" align="left" rpo="3,4" delay="0" y="155" x="478"><![CDATA[3. لتجنب حدوث ذلك، كن مستعدًا - بالتعرّف على ما يمكن توقعه والمطالب النمطية وعواقب انتهاك القانون/اللائحة، وما إلى ذلك؛ وفي حالة الشك، يجب على القبطان طلب المشورة من الوكلاء بدعم من هذه الشركة.]]></txt>
+      <txt c="X" swp="X" fontsize="17" s="2" align="left" delay="0"><![CDATA[4. إذا لم يكن الوكيل حاضرًا، فلن يكن هناك أحد لإثبات إصدار المسؤولين تصريحات كاذبة. يجب أن يكون الوكيل حاضرًا.]]></txt>
+      <txt c="X" fontsize="17" s="2" w="450" align="left" rpo="5,6" delay="0" y="155" x="478"><![CDATA[5. في حال رضوخ القبطان للمطلب الأول - سوف يكتشف المسؤولون التالون الأمر ولن يتوقفوا إلى أن يتقاضوا المال هم أيضًا؛ فلا تفتح الباب على مصراعيه لسفينتك والسفن التالية - تمسك برأيك واثبت على موقفك.]]></txt>
+      <txt c="X" swp="X" fontsize="17" s="2" align="left" delay="0"><![CDATA[6. اطلب إيصالاً بالاستلام ثم وثّق الموقف بشكلٍ صحيح. يجب على القبطان الإبلاغ عن الحادث (من خلال وسائل الإبلاغ في شركتك). يشكل الإبلاغ اعترافًا بالواقع الذي يواجهه القباطنة في العديد من الأماكن.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

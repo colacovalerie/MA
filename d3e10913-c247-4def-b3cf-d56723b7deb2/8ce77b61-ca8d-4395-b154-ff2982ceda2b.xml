@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="8ce77b61-ca8d-4395-b154-ff2982ceda2b" chapterId="6c5322dc-cc15-4f35-99b9-4c5fc39a77cd" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">The ship is scheduled to do a canal transit, and all necessary papers are in order. However, the Customs officials are demanding a few cartons of cigarettes from the Captain to let the ship through.
+
+How would the cigarettes be considered?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="96" align="left">A bribe</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="74" align="left">A facilitation payment</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Le passage du navire par un canal est programmé et tous les documents nécessaires sont en règle. Toutefois, les agents des douanes exigent quelques cartouches de cigarettes de la part du capitaine pour laisser passer le navire.
+
+Comment les cigarettes seraient-elles considérées?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="64" align="left">Un pot-de-vin</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="56" align="left">Un paiement de facilitation</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">船要通过运河，并且所有手续齐全。但是海关官员要求船长送几盒香烟才让船通过。
+
+这些香烟属于哪种分类？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="60" align="left">贿赂</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="90" align="left">便利费</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">El barco tiene programado hacer un tránsito por el canal, y todos los papeles necesarios están en orden. Sin embargo, los funcionarios de aduanas exigen paquetes de cigarrillos al capitán para dejar pasar el barco.
+
+¿Qué se consideraría que son los cigarrillos?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="42" align="left">Soborno</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="32" align="left">Pago para la simplificación de trámites</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Судно должно пересечь канал, все необходимые документы в порядке. Однако таможенные чиновники не пропускают судно, требуя у капитана несколько блоков сигарет.
+
+Это рассматривается как…</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="52" align="left">Взятка</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="58" align="left">Вознаграждение за оказание содействия</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">من المقرر عبور السفينة القناة كما أن جميع الأوراق اللازمة سليمة، ولكن طلب المسؤولين المحليين من القبطان عددًا من علب السجائر نظير السماح للسفينة بالعبور.
+
+في سياق الموقف أعلاه، تحت أي مصطلح يجب أن تندرج السجائر؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="96" align="left">الرشوة</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="74" align="left">مدفوعات التسهيل</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

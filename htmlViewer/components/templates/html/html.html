@@ -1,0 +1,9 @@
+<section id="html"  class="sg-page row-12">
+
+    <div id="innerHtml" class="poItem" ng-if="trustedHtml"
+
+         ng-style="styleCalculator(page.pics[0])"
+         ng-bind-html="trustedHtml"
+         ui-event="{finished:'htmlCtrl.htmlFinished($event)'}"></div>
+    <page-title ng-hide="subPageData && !isSubPage"></page-title>
+</section>

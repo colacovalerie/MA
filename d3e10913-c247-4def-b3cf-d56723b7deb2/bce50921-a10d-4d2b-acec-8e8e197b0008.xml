@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="bce50921-a10d-4d2b-acec-8e8e197b0008" chapterId="6a82788d-cd38-4f6f-b039-e7049ee2de1f" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">The Captain and his/her crew have been physically threatened by the Customs officials for refusing to give them some bottles of expensive alcohol. This is a threat to their safety, which means that the situation is legally considered as duress.
+
+What does this mean in practice?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="33" align="left">They are allowed to make the payment; however, you have to report it properly</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="55" align="left">Duress doesn't change anything – it is still an illegal act</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="46" align="left">They are allowed to make the payment, no need to report it</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Le capitaine et son équipage ont été physiquement menacés par les agents des douanes pour avoir refusé de leur donner quelques bouteilles d’alcool onéreuses. Il s’agit ici d’une menace à leur sécurité ce qui signifie que la situation est considérée légalement comme un acte de coercition.
+
+Qu’est-ce que cela signifie dans la pratique?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="33" align="left">Ils sont autorisés à effectuer un paiement. Toutefois, celui-ci doit être signalé en bonne et due forme.</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="19" align="left">La coercition ne change rien, l’acte en soi reste illégal.</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="92" align="left">Ils sont autorisés à effectuer un paiement sans devoir le signaler.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">因为拒绝送几瓶价格昂贵的酒，船长和其船员受到海关官员的人身威胁。这是对他们安全的威胁，从法律角度讲，这属于胁迫。
+
+在实际中有什么含义？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="51" align="left">他们可以付钱，但必须向公司适当报告此事。</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="19" align="left">胁迫什么都改变不了 - 这种行为仍是违法的</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="10" align="left">他们可以付钱，也不需要报告此事</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Los funcionarios de Aduanas han amenazado físicamente al capitán y su tripulación por negarse a darles unas botellas de alcohol caro. Esto es una amenaza para su seguridad, es decir, que la situación se considera legalmente una coacción.
+
+¿Qué significa esto en la práctica?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="89" align="left">Se les permite hacer el pago, pero usted debe notificarlo adecuadamente.</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="15" align="left">La coacción no cambia nada, sigue siendo un acto ilegal.</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="32" align="left">Se les permite hacer el pago, no hay necesidad de notificarlo.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Таможенные инспекторы угрожают капитану и экипажу физической расправой за отказ дать им несколько бутылок дорогого спиртного. Речь идет об угрозе для безопасности, а значит с юридической точки зрения данная ситуация является физическим принуждением.
+
+Что это означает на практике?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="63" align="left">Они имеют право дать спиртное; однако об этом необходимо должным образом отчитаться</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="7" align="left">Факт физического принуждения ничего не меняет — закон запрещает такие действия</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="8" align="left">Они имеют право дать спиртное, сообщать об этом не обязательно</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">قام مسؤولو الجمارك بتهديد القبطان والطاقم العامل معه/معها بإلحاق الأذى الجسدى لرفضهم إعطاء المسؤولين بعض زجاجات من المشروبات الكحولية باهظة الثمن؛ وهذا تهديد لسلامتهم، بما يعني أن هذا الموقف يُعد إكراهًا من الناحية القانونية.
+
+ما معنى ذلك من الناحية العملية؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="41" align="left">يمكنهم تقديم الرشوة، ومع ذلك، يجب الإبلاغ عن هذا الموقف على النحو الواجب</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="75" align="left">إن الإكراه لا يغير شيئًا - ولذا سيظل تصرفًا غير قانوني</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="38" align="left">يمكنهم تقديم الرشوة دون الإبلاغ عن الموقف</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

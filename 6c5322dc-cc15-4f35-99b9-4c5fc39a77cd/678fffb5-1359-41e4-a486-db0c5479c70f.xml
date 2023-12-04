@@ -1,0 +1,370 @@
+﻿<pages sgxmlv="1.2" guid="678fffb5-1359-41e4-a486-db0c5479c70f">
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 2: Case Study – Don’t Open the Floodgates  •  You Stand Your Ground]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p6.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic y="195" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+      <pic y="305" x="478">sc2_p3_r2.png</pic>
+      <pic>
+      </pic>
+      <pic y="380" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p6.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[You Stand Your Ground]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="470" align="left" delay="0" y="149"><![CDATA[The Captain can tell that the official is not happy; however, he stands his ground.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="1" w="450" align="left" delay="0" y="197" x="525"><![CDATA[Captain]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="223"><![CDATA[I am sorry, I cannot give you any bottles of alcohol. It is against our policies and we don’t have any alcohol on board.]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="1" align="left" delay="0" y="310"><![CDATA[Official]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="336"><![CDATA[Then you will have to give me some cigarettes.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="1" align="left" delay="0" y="385"><![CDATA[Captain]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="411"><![CDATA[I cannot do that either. My company has strict policies against such payments and everything on board is recorded and audited.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>You Stand Your Ground. The Captain can tell that the official is not happy; however, he stands his ground. Captain. I am sorry, I cannot give you any bottles of alcohol. It is against our policies and we don’t have any alcohol on board. Official. Then you will have to give me some cigarettes. Captain. I cannot do that either. My company has strict policies against such payments and everything on board is recorded and audited.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 2: Étude de cas — n’ouvrez pas les vannes  •  Vous restez sur vos positions]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p6.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic y="195" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+      <pic y="305" x="478">sc2_p3_r2.png</pic>
+      <pic>
+      </pic>
+      <pic y="380" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p6.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Vous restez sur vos positions]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Le capitaine a remarqué que le fonctionnaire n’est pas satisfait. Toutefois, il reste sur ses positions.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="1" w="450" align="left" delay="0" y="197" x="525"><![CDATA[Capitaine]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="223"><![CDATA[«Je suis désolé, je ne peux pas vous donner de bouteilles d’alcool. Cela est contraire à nos politiques et nous n’avons pas d’alcool à bord.»]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="1" align="left" delay="0" y="310"><![CDATA[Fonctionnaire]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="336"><![CDATA[«Alors vous allez devoir me donner des cigarettes.»]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="1" align="left" delay="0" y="385"><![CDATA[Capitaine]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="411"><![CDATA[«Je ne peux pas faire ça non plus. Ma société a des politiques strictes contre de tels paiements et tout ce que nous avons à bord est enregistré et contrôlé.»]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Vous restez sur vos positions. Le capitaine a remarqué que le fonctionnaire n’est pas satisfait. Toutefois, il reste sur ses positions. «Je suis désolé, je ne peux pas vous donner de bouteilles d’alcool. Cela est contraire à nos politiques et nous n’avons pas d’alcool à bord.» «Alors vous allez devoir me donner des cigarettes.» «Je ne peux pas faire ça non plus. Ma société a des politiques strictes contre de tels paiements et tout ce que nous avons à bord est enregistré et contrôlé.»</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 2 节： 案例研究 - 不要开先例  •  坚持立场]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p6.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic y="195" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+      <pic y="305" x="478">sc2_p3_r2.png</pic>
+      <pic>
+      </pic>
+      <pic y="380" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p6.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[坚持立场]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="470" align="left" delay="0" y="149"><![CDATA[船长觉察到官员不高兴，但他坚持了自己的立场。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" w="450" align="left" delay="0" y="197" x="525"><![CDATA[船长]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="228"><![CDATA["抱歉，我不能送您酒。我们的政策不允许，船上也没有酒。"]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="1" align="left" delay="0" y="310"><![CDATA[官员]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="341"><![CDATA["那就送我些烟吧。"]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" delay="0" y="385"><![CDATA[船长]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="416"><![CDATA["我还得说抱歉。我们公司这方面的规定很严，船上的任何东西都要做记录和审计。"]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>坚持立场。 船长觉察到官员不高兴，但他坚持了自己的立场。"抱歉，我不能送您酒。我们的政策不允许，船上也没有酒。" "那就送我些烟吧。"  "我还得说抱歉。我们公司这方面的规定很严，船上的任何东西都要做记录和审计。"</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 2: Caso práctico - No abra las compuertas  •  Usted se mantiene firme]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p6.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic y="195" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+      <pic y="305" x="478">sc2_p3_r2.png</pic>
+      <pic>
+      </pic>
+      <pic y="380" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p6.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Usted se mantiene firme]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="470" align="left" delay="0" y="149"><![CDATA[El capitán se da cuenta de que el funcionario está molesto, pero se mantiene firme.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="2" w="450" align="left" delay="0" y="197" x="525"><![CDATA[Capitán]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="223"><![CDATA["Lo siento, no puedo darle ninguna botella de alcohol. Va en contra de nuestras políticas y no tenemos alcohol a bordo".]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="2" align="left" delay="0" y="310"><![CDATA[Funcionario]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="336"><![CDATA["Entonces tendrá que darme cigarrillos".]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="2" align="left" delay="0" y="385"><![CDATA[Capitán]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="411"><![CDATA["Tampoco puedo. Mi compañía tiene políticas estrictas contra esos pagos y todo lo que está a bordo se registra y se audita".]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Usted se mantiene firme. El capitán se da cuenta de que el funcionario está molesto, pero se mantiene firme."Lo siento, no puedo darle ninguna botella de alcohol. Va en contra de nuestras políticas y no tenemos alcohol a bordo"."Entonces tendrá que darme cigarrillos"."Tampoco puedo. Mi compañía tiene políticas estrictas contra esos pagos y todo lo que está a bordo se registra y se audita".</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 2: Изучение конкретной ситуации — Не выпускайте джинна из бутылки  •  Стойте на своем]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p6.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic y="195" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+      <pic y="305" x="478">sc2_p3_r2.png</pic>
+      <pic>
+      </pic>
+      <pic y="380" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p6.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Стойте на своем]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Капитан чувствует недовольство инспектора, но стоит на своем.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="2" w="450" align="left" delay="0" y="197" x="525"><![CDATA[Капитан]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="223"><![CDATA[«Извините, но я не могу дать ни одной бутылки. Это против наших правил, и на борту нет алкоголя.»]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="2" align="left" delay="0" y="310"><![CDATA[Инспектор]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="336"><![CDATA[«Тогда давайте сигареты.»]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="2" align="left" delay="0" y="385"><![CDATA[Капитан]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="411"><![CDATA[«Это тоже невозможно. В моей компании строго запрещены такие вознаграждения, и все, что происходит на борту, фиксируется и отслеживается.»]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Стойте на своем. Капитан чувствует недовольство инспектора, но стоит на своем. «Извините, но я не могу дать ни одной бутылки. Это против наших правил, и на борту нет алкоголя.» «Тогда давайте сигареты.» «Это тоже невозможно. В моей компании строго запрещены такие вознаграждения, и все, что происходит на борту, фиксируется и отслеживается.»</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 2: دراسة حالة - لا تفتح الباب على مصراعيه  •  اثبت على موقفك]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p6.png</pic>
+      <pic y="125" x="850">kreska-cz.jpg</pic>
+      <pic y="195" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+      <pic y="305" x="478">sc2_p3_r2.png</pic>
+      <pic>
+      </pic>
+      <pic y="380" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p6.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" w="450" align="left" delay="0" y="74" x="478"><![CDATA[ اثبت على موقفك]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0" y="149" x="478"><![CDATA[قد يذكر القبطان أن المسؤول ليس سعيدًا. ومع ذلك، فإنه يثبت على موقفه.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" w="450" align="left" delay="0" y="197" x="478"><![CDATA[القبطان]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="400" align="left" delay="0" y="223" x="540"><![CDATA["أنا آسف، لا أستطيع أن أعطيك أي زجاجات مشروبات كحولية. هذا مخالف لسياساتنا وليس لدينا أي مشروبات كحولية على متن السفينة".]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="1" w="450" align="left" delay="0" y="310" x="478"><![CDATA[المسؤول]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="400" align="left" delay="0" y="336" x="540"><![CDATA["إذن عليك أن تعطيني بعض السجائر."]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" w="450" align="left" delay="0" y="385" x="478"><![CDATA[القبطان]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="400" align="left" delay="0" y="411" x="540"><![CDATA[«لا أستطيع أن أفعل ذلك أيضًا، فالشركة التي أعمل بها تتبع سياسات صارمة ضد هذه المدفوعات ويُسجل كل شيء يحدث على متن السفينة ويخضع للمراجعة".]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

@@ -1,0 +1,14 @@
+<section class="fullSizeTransparent" ng-class="{'mouseActive':glassLayerActive && !subGlassData}" id="glass-layer">
+    <div ng-if="glassLayerActive"  ng-hide="subGlassData.cover">
+        <tmp01-template ng-if="glassTemplate == TEMPLATES.TMP_01"   template-role="glassLayer"></tmp01-template>
+        <vid-template ng-if="glassTemplate == TEMPLATES.VID"  template-role="glassLayer"></vid-template>
+        <doc-template ng-if="glassTemplate == TEMPLATES.DOC" template-role="glassLayer"></doc-template>
+        <q1-template ng-if="glassTemplate == TEMPLATES.Q1" template-role="glassLayer"></q1-template>
+        <q2-template ng-if="glassTemplate == TEMPLATES.Q2" template-role="glassLayer"></q2-template>
+
+    </div>
+    <div ng-if="$root.chapter.glassOpenImg" ng-style="{left:$root.chapter.glassImgX,top:$root.chapter.glassImgY}" class="glassToggle mouseActive" hm-tap="toggleGlassLayer()">
+        <img ng-src="{{glassLayerActive && $root.chapter.glassCloseImg ? $root.chapter.glassCloseImg:$root.chapter.glassOpenImg}}"/>
+    </div>
+
+</section>

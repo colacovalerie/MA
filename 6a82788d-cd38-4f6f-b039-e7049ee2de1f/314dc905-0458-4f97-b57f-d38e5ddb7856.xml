@@ -1,0 +1,392 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="314dc905-0458-4f97-b57f-d38e5ddb7856">
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 3: Case Study – Minor Things can have Big Consequences  •  Stand Your Ground]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p3a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noFade="X" preload="X" y="215" x="478">sc3_p2_r1.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="315" x="478">sc3_p2_r2.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="415" x="475">sc3_p2_r3.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p3.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Stand Your Ground]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="410" align="left" delay="0" y="140"><![CDATA[The official is standing very close to the Captain and is acting menacingly. The Captain can see he is serious, and the Captain feels physically threatened. He acts confidently and tries to stand his ground.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="1" align="left" delay="0" y="220" x="525"><![CDATA[Captain]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="245"><![CDATA[I would be happy to re-count and to resubmit the statement if we were wrong. However, I am quite certain we only have 90ml of morphine.]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="1" align="left" delay="0" y="320"><![CDATA[Official]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="345" x="525"><![CDATA[That is not possible. Either pay us now or there will be physical consequences. Or I will make sure we find illegal drugs on board and involve the police.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="1" align="left" delay="0" y="420"><![CDATA[Captain]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="445"><![CDATA[I can’t make a payment without getting approval from my operator, so you will have to excuse me for a moment so that I can call him.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Stand Your Ground. The official is standing very close to the Captain and is acting menacingly. The Captain can see he is serious, and the Captain feels physically threatened. He acts confidently and tries to stand his ground. I would be happy to re-count and to resubmit the statement if we were wrong. However, I am quite certain we only have 90ml of morphine. That is not possible. Either pay us now or there will be physical consequences. Or I will make sure we find illegal drugs on board and involve the police. I can’t make a payment without getting approval from my operator, so you will have to excuse me for a moment so that I can call him.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 3: Étude de cas — les petites choses peuvent avoir de grandes conséquences  •  Rester sur ses positions]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p3a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noFade="X" preload="X" y="215" x="478">sc3_p2_r1.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="315" x="478">sc3_p2_r2.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="415" x="475">sc3_p2_r3.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p3.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Rester sur ses positions]]></txt>
+      <txt c="X" swp="X" fontsize="13" s="2" w="470" align="left" delay="0" y="140"><![CDATA[Le fonctionnaire se tient très près du capitaine et agit de manière menaçante. Le capitaine peut voir que le fonctionnaire est sérieux. Le capitaine se sent menacé physiquement. Il agit avec assurance et tente de rester sur ses positions.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="13" s="1" align="left" delay="0" y="220" x="525"><![CDATA[Capitaine]]></txt>
+      <txt c="X" swp="X" fontsize="13" s="2" w="430" align="left" delay="0" y="245"><![CDATA[«Je suis tout à fait disposé à refaire le compte à renvoyer ma déclaration si nous avons fait une erreur. Toutefois, je suis convaincu que nous n’avons que 90 ml de morphine.»]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="13" s="1" align="left" delay="0" y="320"><![CDATA[Fonctionnaire]]></txt>
+      <txt c="X" swp="X" fontsize="13" s="2" align="left" delay="0" y="345" x="525"><![CDATA[«Ce n’est pas possible. Soit vous nous payez maintenant soit il y aura des conséquences physiques. Sinon, je vais m’assurer de trouver des substances illicites à bord et d’impliquer la police.»]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="13" s="1" align="left" delay="0" y="420"><![CDATA[Capitaine]]></txt>
+      <txt c="X" swp="X" fontsize="13" s="2" align="left" delay="0" y="445"><![CDATA[«Je ne peux pas effectuer de paiement sans l’approbation de mon exploitant, vous devrez donc m’excuser un moment pour que je puisse l’appeler.»]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Rester sur ses positions. Le fonctionnaire se tient très près du capitaine et agit de manière menaçante. Le capitaine peut voir que le fonctionnaire est sérieux. Le capitaine se sent menacé physiquement. Il agit avec assurance et tente de rester sur ses positions. «Je suis tout à fait disposé à refaire le compte à renvoyer ma déclaration si nous avons fait une erreur. Toutefois, je suis convaincu que nous n’avons que 90 ml de morphine.» «Ce n’est pas possible. Soit vous nous payez maintenant soit il y aura des conséquences physiques. Sinon, je vais m’assurer de trouver des substances illicites à bord et d’impliquer la police.» «Je ne peux pas effectuer de paiement sans l’approbation de mon exploitant, vous devrez donc m’excuser un moment pour que je puisse l’appeler.»</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 3 节： 案例研究 - 小事可能产生重大后果  •  坚持立场]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p3a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noFade="X" preload="X" y="215" x="478">sc3_p2_r1.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="315" x="478">sc3_p2_r2.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="415" x="475">sc3_p2_r3.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p3.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[坚持立场]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="410" align="left" delay="0" y="140"><![CDATA[官员站在离船长很近的地方，态度威严。船长看出官员很严肃，让自己感到受到人身威胁。他自信的回应并努力坚持自己的立场。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" delay="0" y="220" x="525"><![CDATA[船长]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="245"><![CDATA["我愿意重数一遍，如果我们错了，重新提交报表。不过，我很确定我们只有 90 毫升吗啡。"]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="1" align="left" delay="0" y="320"><![CDATA[官员]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="345" x="525"><![CDATA["不可能。要么现在付钱给我们，要么会有人身后果。否则我会断定我们在船上找到了违禁药品，警方就会介入。"]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" delay="0" y="420"><![CDATA[船长]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="445"><![CDATA["没有运营方的批准我不能给钱，请给我点儿时间让我联系运营方。"
+]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>坚持立场。 官员站在离船长很近的地方，态度威严。船长看出官员很严肃，让自己感到受到人身威胁。他自信的回应并努力坚持自己的立场。"我愿意重数一遍，如果我们错了，重新提交报表。不过，我很确定我们只有 90 毫升吗啡。" "不可能。要么现在付钱给我们，要么会有人身后果。否则我会断定我们在船上找到了违禁药品，警方就会介入。" "没有运营方的批准我不能给钱，请给我点儿时间让我联系运营方。"
+
+
+
+
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 3: Caso práctico - Los detalles pequeños pueden tener grandes consecuencias  •  Manténgase firme]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p3a.png</pic>
+      <pic noFade="X" preload="X" y="115" x="478">kreska-cz.jpg</pic>
+      <pic noFade="X" preload="X" y="215" x="478">sc3_p2_r1.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="315" x="478">sc3_p2_r2.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="415" x="475">sc3_p2_r3.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p3.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Manténgase firme]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="470" align="left" delay="0" y="140"><![CDATA[El oficial se acerca mucho al capitán y tiene una actitud amenazante. El capitán ve que va en serio y se siente físicamente amenazado. Actúa con seguridad y trata de mantenerse firme.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="2" w="450" align="left" delay="0" y="220" x="525"><![CDATA[Capitán]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="245"><![CDATA["Estaría encantado de volver a hacer un recuento y volver a presentar la declaración, si nos equivocamos. Sin embargo, estoy seguro de que solo tenemos 90 ml de morfina".]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="2" align="left" delay="0" y="320"><![CDATA[Funcionario]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="345" x="525"><![CDATA["Eso no va a ser posible. O nos paga ahora o habrá consecuencias físicas. O me encargaré de que encontremos drogas ilegales a bordo y llamaré a la policía".]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="2" align="left" delay="0" y="420"><![CDATA[Capitán]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="445"><![CDATA["No puedo pagarles sin la aprobación de mi operador, así que tendrá que disculparme un momento para que lo llame".]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Manténgase firme. El oficial se acerca mucho al capitán y tiene una actitud amenazante. El capitán ve que va en serio y se siente físicamente amenazado. Actúa con seguridad y trata de mantenerse firme. "Estaría encantado de volver a hacer un recuento y volver a presentar la declaración, si nos equivocamos. Sin embargo, estoy seguro de que solo tenemos 90 ml de morfina". "Eso no va a ser posible. O nos paga ahora o habrá consecuencias físicas. O me encargaré de que encontremos drogas ilegales a bordo y llamaré a la policía". "No puedo pagarles sin la aprobación de mi operador, así que tendrá que disculparme un momento para que lo llame".
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 3: Изучение конкретной ситуации — Мелочи могут привести к серьезным последствиям  •  Стойте на своем]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p3a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" noFade="X" preload="X" y="145" x="478">sc3_p2_r1.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="245" x="478">sc3_p3_russ.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="360" x="475">sc3_p2_r3.png</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p3_a.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p3_b.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Стойте на своем]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="450" align="left" delay="0" y="149"><![CDATA[Инспектор стоит очень близко к капитану и ведет себя угрожающе. Видя серьезный настрой инспектора, капитан чувствует опасность. Он действует уверенно и пытается стоять на своем.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="14" s="2" align="left" rpo="3" delay="0" y="150" x="525"><![CDATA[Капитан]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="175"><![CDATA[«Если мы допустили ошибку, я готов еще раз все проверить и заново подать декларацию. Однако я уверен, что на борту только 90 мл морфина».]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="2" align="left" delay="0" y="250"><![CDATA[Инспектор]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="275" x="525"><![CDATA[«Это невозможно. Или вы заплатите сейчас, или готовьтесь к физическим последствиям. Либо я сделаю так, что мы найдем на борту запрещенные лекарства и привлечем полицию.»]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="2" align="left" delay="0" y="365"><![CDATA[Капитан
+
+]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="390"><![CDATA[«Я не имею права передавать деньги без согласования со своим оператором. Пожалуйста, подождите, пока я позвоню оператору.»
+]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Инспектор стоит очень близко к капитану и ведет себя угрожающе. Видя серьезный настрой инспектора, капитан чувствует опасность. Он действует уверенно и пытается стоять на своем.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>«Если мы допустили ошибку, я готов еще раз все проверить и заново подать декларацию. Однако я уверен, что на борту только 90 мл морфина». «Это невозможно. Или вы заплатите сейчас, или готовьтесь к физическим последствиям. Либо я сделаю так, что мы найдем на борту запрещенные лекарства и привлечем полицию.» «Я не имею права передавать деньги без согласования со своим оператором. Пожалуйста, подождите, пока я позвоню оператору.»</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 3: دراسة حالة - قد تحمل الأفعال البسيطة عواقب وخيمة  •  اثبت على موقفك]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc3_p3a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic noFade="X" preload="X" y="215" x="478">sc3_p2_r1.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="315" x="478">sc3_p2_r2.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="415" x="475">sc3_p2_r3.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc3_p3.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="478"><![CDATA[ اثبت على موقفك]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0" y="140" x="478"><![CDATA[يقف المسؤول بالقرب من القبطان ويتصرف بشكل تهديدي. قد يرى القبطان أنه جاد وبالتالي يشعر بالتهديد الجسدي. ثم يتصرف بثقة ويحاول الثبات على موقفه. ]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" w="410" align="left" delay="0" y="220" x="525"><![CDATA[القبطان]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="245"><![CDATA[«سيكون من دواعي سروري إعادة الفرز وإعادة تقديم البيان إذا كنا مخطئين. ومع ذلك، أنا على تمام الثقة أن لدينا 90 مل من المورفين فقط».]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="1" align="left" delay="0" y="320"><![CDATA[المسؤول]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="345" x="525"><![CDATA[«هذا غير ممكن. إما أن تدفع لنا للتو أو ستكون هناك عواقب جسدية، أو سأحرص على تأكيد العثور على عقاقير محظورة على متن السفينة وإبلاغ الشرطة .]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" delay="0" y="420"><![CDATA[القبطان]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="445"><![CDATA[ل"لا يمكنني السداد دون الحصول على موافقة المشغّل لديّ، لذلك سيتعين عليك إمهالي بعض الوقت حتى أتمكن من الاتصال بها."]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

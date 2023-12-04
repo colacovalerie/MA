@@ -1,0 +1,373 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="74f6e4e7-3429-4f18-8874-8625cc831220">
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 4: Case Study – Time is Money  •  Reporting Back]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noFade="X" preload="X" y="140" x="478">sc3_p2_r1.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="245" x="478">sc3_p6_r2.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="350" x="478">sc4_p1_r1.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p5.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Reporting Back]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="1" align="left" delay="0" y="145" x="525"><![CDATA[Captain]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="170"><![CDATA[I think it worked. I told them we had a strict policy against such payments. I acted confidently, and even though they insisted for a while, they finally gave in and left the vessel.]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="1" align="left" delay="0" y="250"><![CDATA[Operator]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="275" x="525"><![CDATA[Great job! In case a similar situation presents itself, and you can see they are not backing down, make sure to contact me again.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="1" align="left" delay="0" y="355"><![CDATA[Captain]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="380"><![CDATA[I will.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Reporting Back. I think it worked. I told them we had a strict policy against such payments. I acted confidently, and even though they insisted for a while, they finally gave in and left the vessel. Great job! In case a similar situation presents itself, and you can see they are not backing down, make sure to contact me again. I will.
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 4: Étude de cas — Le temps, c’est de l’argent.  •  Signaler l’incident]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noFade="X" preload="X" y="150" x="478">sc2_p6_r1.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="285" x="478">sc3_p6_r2.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="380" x="478">sc4_p1_r1.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p5.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Signaler l’incident]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="1" align="left" delay="0" y="155" x="525"><![CDATA[Capitaine]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="450" align="left" delay="0" y="180"><![CDATA[«Je pense que ça a fonctionné. Je leur ai dit que nous avions une politique stricte contre ce type de paiement. J’ai agi avec assurance et bien qu’ils aient insisté pendant un moment, ils ont fini par abandonner et ont quitté le navire.»]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="1" align="left" delay="0" y="290"><![CDATA[Exploitant]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="315" x="525"><![CDATA[«Beau travail ! Si vous vous trouvez dans une situation semblable à l’avenir et qu’ils refusent de céder, ne manquez pas de me contacter de nouveau.»]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="1" align="left" delay="0" y="385"><![CDATA[Capitaine]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="410"><![CDATA[«D’accord.»]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Signaler l’incident. «Je pense que ça a fonctionné. Je leur ai dit que nous avions une politique stricte contre ce type de paiement. J’ai agi avec assurance et bien qu’ils aient insisté pendant un moment, ils ont fini par abandonner et ont quitté le navire.» «Beau travail ! Si vous vous trouvez dans une situation semblable à l’avenir et qu’ils refusent de céder, ne manquez pas de me contacter de nouveau.» «D’accord.»</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 4 节： 案例研究 - 时间就是金钱  •  汇报]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noFade="X" preload="X" y="140" x="478">sc3_p2_r1.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="245" x="478">sc3_p6_r2.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="350" x="478">sc4_p1_r1.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p5.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[汇报]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" w="450" align="left" delay="0" y="145" x="525"><![CDATA[船长]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="170"><![CDATA["您的办法起作用了。我告诉他们我们对这类付款有严格的政策。我信心十足，虽然他们还会坚持了一会，但最终他们退让并下船了。"]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="1" align="left" delay="0" y="250"><![CDATA[运营方]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="275" x="525"><![CDATA["干得好！如果再出现类似的情形，并且检查人员不让步，一定再和我联系。"]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" delay="0" y="355"><![CDATA[船长]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="380"><![CDATA["好的。"]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>汇报。"您的办法起作用了。我告诉他们我们对这类付款有严格的政策。我信心十足，虽然他们还会坚持了一会，但最终他们退让并下船了。" "干得好！如果再出现类似的情形，并且检查人员不让步，一定再和我联系。" "好的。"</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 4: Caso práctico - El tiempo es oro  •  Notificación]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noFade="X" preload="X" y="140" x="478">sc3_p2_r1.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="245" x="478">sc3_p6_r2.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="350" x="478">sc4_p1_r1.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p5.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Notificación]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="2" align="left" delay="0" y="145" x="525"><![CDATA[Capitán]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="165"><![CDATA["Creo que ha funcionado. Les dije que teníamos una política estricta contra ese tipo de pagos. Actué con seguridad y, aunque insistieron por un momento, finalmente cedieron y abandonaron el barco".]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="2" align="left" delay="0" y="250"><![CDATA[Operador]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="270" x="525"><![CDATA["¡Muy bien hecho! En caso de que vuelva a ocurrir una situación similar, y si ve que no se están echando atrás, comuníquese de nuevo conmigo".]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="2" align="left" delay="0" y="355"><![CDATA[Capitán]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="380"><![CDATA["Así lo haré".]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Notificación. "Creo que ha funcionado. Les dije que teníamos una política estricta contra ese tipo de pagos. Actué con seguridad y, aunque insistieron por un momento, finalmente cedieron y abandonaron el barco". "¡Muy bien hecho! En caso de que vuelva a ocurrir una situación similar, y si ve que no se están echando atrás, comuníquese de nuevo conmigo". "Así lo haré".</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 4: Изучение конкретной ситуации — Время — деньги  •  Отчет]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noFade="X" preload="X" y="140" x="478">sc4_p5_russ.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="255" x="478">sc3_p6_r2.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="360" x="478">sc4_p1_r1.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p5.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Отчет]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="2" align="left" delay="0" y="145" x="525"><![CDATA[Капитан]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="170"><![CDATA[«Кажется, сработало. Я сказал им, что в нашей компании строго запрещены подобные выплаты. Я действовал уверенно, хотя поначалу они были настойчивы. В конце концов, они пошли на попятную и покинули судно.»]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="2" align="left" delay="0" y="260"><![CDATA[Оператор]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="285" x="525"><![CDATA[«Отличная работа! Если возникнет похожая ситуация и вы увидите, что инспекторы не отступаются, обязательно еще раз свяжитесь со мной.»
+]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="14" s="2" align="left" delay="0" y="365"><![CDATA[Капитан]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0" y="390"><![CDATA[«Хорошо.»]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Отчет. «Кажется, сработало. Я сказал им, что в нашей компании строго запрещены подобные выплаты. Я действовал уверенно, хотя поначалу они были настойчивы. В конце концов, они пошли на попятную и покинули судно.» «Отличная работа! Если возникнет похожая ситуация и вы увидите, что инспекторы не отступаются, обязательно еще раз свяжитесь со мной.»  «Хорошо.»
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 4: دراسة حالة - الوقت من ذهب  •  الإبلاغ]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p1a.png</pic>
+      <pic noFade="X" preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic noFade="X" preload="X" y="140" x="478">sc3_p2_r1.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="245" x="478">sc3_p6_r2.png</pic>
+      <pic>
+      </pic>
+      <pic noFade="X" preload="X" y="350" x="478">sc4_p1_r1.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p5.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" w="450" align="left" delay="0" y="74" x="478"><![CDATA[الإبلاغ]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" w="410" align="left" delay="0" y="145" x="525"><![CDATA[القبطان]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="170"><![CDATA[«أعتقد أن هذه الخطوة قد نجحت. لقد أخبرتهم أن لدينا سياسة صارمة ضد تلك المدفوعات، ولقد تصرفت بكل ثقة، على الرغم من إصرارهم لفترة من الوقت، إلا أنهم استسلموا في النهاية وغادروا السفينة".]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="1" align="left" delay="0" y="250"><![CDATA[المشغل]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="275" x="525"><![CDATA[«رائع، أحسنت صنعًا! في حال حدوث موقف مشابه، ولاحظت عدم تراجعهم، فتواصل معي مرة أخرى.»]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" delay="0" y="355"><![CDATA[القبطان]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="380"><![CDATA[«سفعل بالتأكيد.»]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

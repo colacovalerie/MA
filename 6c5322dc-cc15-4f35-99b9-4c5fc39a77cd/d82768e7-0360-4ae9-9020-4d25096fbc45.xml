@@ -1,0 +1,256 @@
+﻿<pages sgxmlv="1.2" guid="d82768e7-0360-4ae9-9020-4d25096fbc45">
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 2: Case Study – Don’t Open the Floodgates  •  Breaking Point]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p7.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic y="155" x="478">sc2_p3_r3a.png</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Breaking Point]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="1" align="left" delay="0" y="160" x="525"><![CDATA[Official]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="450" align="left" delay="0" y="190"><![CDATA[OK, let me have a look at the papers again as I might have missed something.]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="285" x="478"><![CDATA[The officials set off to look for something they may have missed the first time. In the meantime, the Captain asks the agent to come on board again as he sees the situation escalating. He also calls his operator.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Breaking Point. Official. OK, let me have a look at the papers again as I might have missed something. The officials set off to look for something they may have missed the first time. In the meantime, the Captain asks the agent to come on board again as he sees the situation escalating. He also calls his operator.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 2: Étude de cas — n’ouvrez pas les vannes  •  Moment décisif]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p7.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic y="155" x="478">sc2_p3_r3a.png</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Moment décisif]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="1" align="left" delay="0" y="160" x="525"><![CDATA[Fonctionnaire]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="450" align="left" delay="0" y="190"><![CDATA[«D’accord, je vais parcourir de nouveau les documents, j’ai peut-être manqué quelque chose.»]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="285" x="478"><![CDATA[Les autorités se mettent à la recherche de quelque chose qu’elles auraient pu ne pas repérer la première fois. Pendant ce temps, le capitaine demande à l’agent portuaire de remonter à bord, car il craint que la situation se détériore. Il appelle également son exploitant.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Moment décisif. Fonctionnaire. «D’accord, je vais parcourir de nouveau les documents, j’ai peut-être manqué quelque chose.» Les autorités se mettent à la recherche de quelque chose qu’elles auraient pu ne pas repérer la première fois. Pendant ce temps, le capitaine demande à l’agent portuaire de remonter à bord, car il craint que la situation se détériore. Il appelle également son exploitant.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 2 节： 案例研究 - 不要开先例  •  突破点]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p7.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic y="155" x="478">sc2_p3_r3a.png</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[突破点]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0" y="160" x="525"><![CDATA[官员]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0" y="190"><![CDATA["好吧，那我再看一下材料，我怕刚才漏过什么东西。"]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="470" align="left" delay="0" y="285" x="478"><![CDATA[官员们开始寻找他们第一次可能漏掉的东西。与此同时，船长发现事态升级，请代理再次上船。他联系了他的运营方。]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>突破点。"好吧，那我再看一下材料，我怕刚才漏过什么东西。" 官员们开始寻找他们第一次可能漏掉的东西。与此同时，船长发现事态升级，请代理再次上船。他联系了他的运营方。</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 2: Caso práctico - No abra las compuertas  •  Punto de inflexión]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p7.png</pic>
+      <pic y="126" x="478">kreska-cz.jpg</pic>
+      <pic y="155" x="478">sc2_p3_r3a.png</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Punto de inflexión]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="1" align="left" delay="0" y="160" x="525"><![CDATA[Funcionario]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="450" align="left" delay="0" y="190"><![CDATA["Bien, déjeme ver los papeles de nuevo, quizá se me haya pasado algo por alto".]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="285" x="478"><![CDATA[Los funcionarios se ponen a buscar algo que puedan haber pasado por alto la primera vez. Mientras, el capitán pide al agente que vuelva a bordo cuando ve que la situación se agrava. También llama a su operador.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Punto de inflexión. "Bien, déjeme ver los papeles de nuevo, quizá se me haya pasado algo por alto". Los funcionarios se ponen a buscar algo que puedan haber pasado por alto la primera vez. Mientras, el capitán pide al agente que vuelva a bordo cuando ve que la situación se agrava. También llama a su operador.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 2: Изучение конкретной ситуации — Не выпускайте джинна из бутылки  •  Переломный момент]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p7.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic y="155" x="478">sc2_p3_r3a.png</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Переломный момент]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="14" s="2" align="left" delay="0" y="160" x="525"><![CDATA[Инспектор]]></txt>
+      <txt c="X" swp="X" fontsize="14" s="2" w="450" align="left" delay="0" y="190"><![CDATA[«Хорошо, я еще раз просмотрю документы. Возможно, я что-то упустил.»]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="285" x="478"><![CDATA[Инспекторы начинают искать несоответствия, которые они могли пропустить первый раз. Почувствовав, что ситуация обостряется, капитан просит агента вновь подняться на борт. Капитан также звонит оператору.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Переломный момент. «Хорошо, я еще раз просмотрю документы. Возможно, я что-то упустил.» Инспекторы начинают искать несоответствия, которые они могли пропустить первый раз. Почувствовав, что ситуация обостряется, капитан просит агента вновь подняться на борт. Капитан также звонит оператору.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 2: دراسة حالة - لا تفتح الباب على مصراعيه  •  نقطة التحول]]></title>
+    <pics>
+      <pic y="70" x="0">sc2_p7.png</pic>
+      <pic y="125" x="850">kreska-cz.jpg</pic>
+      <pic y="155" x="478">sc2_p3_r3.png</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p7.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" w="450" align="left" delay="0" y="74" x="478"><![CDATA[ نقطة التحول]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="20" s="1" w="450" align="left" delay="0" y="160" x="478"><![CDATA[المسؤول]]></txt>
+      <txt c="X" swp="X" fontsize="17" s="2" w="400" align="left" delay="0" y="190" x="540"><![CDATA[«حسنًا، دعني ألقي نظرة على الأوراق مرة أخرى فلعلّي قد تغافلت عن أي من البنود.»]]></txt>
+      <txt c="X" swp="X" fontsize="17" s="2" w="450" align="left" delay="0" y="285" x="478"><![CDATA[انطلق المسؤولون لفحص الأوراق للبحث عن شيء ربما قد تغافلوا عنه في المرة الأولى. في غضون ذلك، يطلب القبطان من الوكيل أن يصعد إلى متن السفينة مرة أخرى لأنه يرى أن الموقف يتصاعد، كما أنه يتصل بالمُشغِل الخاص به،]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="53452ecd-23b1-4f83-b5f6-75375bc64777" chapterId="6c5322dc-cc15-4f35-99b9-4c5fc39a77cd" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">All of the ship's paperwork was in order. Customs officials asked the Captain for some cigarettes as they did not want to leave the ship "empty-handed". After long negotiations, the Captain agreed to give the Customs officials one pack of cigarettes only.
+
+How would the cigarettes be considered?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="80" align="left">A bribe</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="88" align="left">A facilitation payment</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Tous les documents du navire étaient en règle. Les agents des douanes ont demandé au capitaine des cigarettes au capitaine, car ils ne voulaient pas quitter le navire « les mains vides ». Après de longues négociations, le capitaine a accepté de donner aux agents des douanes un seul paquet de cigarettes.
+
+Comment les cigarettes seraient-elles considérées?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="12" align="left">Un pot-de-vin</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="80" align="left">Un paiement de facilitation</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">船上的手续齐全。海关官员让船长送几盒烟，因为他们不想两手空空下船。在经过一番谈判后，船长同意只给海关官员一包烟。
+
+这些香烟属于哪种分类？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="70" align="left">贿赂</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="12" align="left">便利费</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Toda la documentación del barco estaba en orden. Los funcionarios de aduanas pidieron al capitán cigarrillos porque no querían irse del barco "con las manos vacías". Después de largas negociaciones, el capitán accedió a dar a los funcionarios de Aduanas un solo paquete de cigarrillos.
+
+¿Qué se consideraría que son los cigarrillos?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="60" align="left">Soborno</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="96" align="left">Pago para la simplificación de trámites</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Вся документация судна была в полном порядке. Таможенные инспекторы попросили у капитана сигарет, поскольку не хотели покидать судно с пустыми руками. После длительных переговоров капитан согласился дать им только одну пачку сигарет.
+
+Это рассматривается как…</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="86" align="left">Взятка</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="98" align="left">Вознаграждение за оказание содействия</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">جميع الأوراق الخاصة بالسفينة سليمة، ومع ذلك طلب مسؤولو الجمارك من القبطان بعض من السجائر حيث إنهم لا يريدون مغادرة السفينة «خاليو الوفاض» بعد مفاوضات استغرقت وقتًا طويلًا، وافق القبطان على إعطاء مسؤولي الجمارك علبة واحدة من السجائر فقط.
+
+في سياق الموقف أعلاه، تحت أي مصطلح يجب أن تندرج السجائر؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="80" align="left">الرشوة</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="88" align="left">مدفوعات التسهيل</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

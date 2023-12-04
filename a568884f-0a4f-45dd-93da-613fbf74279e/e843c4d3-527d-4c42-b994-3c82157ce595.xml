@@ -1,0 +1,277 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="e843c4d3-527d-4c42-b994-3c82157ce595">
+  <page level="EN">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 5: Case Study – Cash in Hand  •  Ballast Water Exchange Records]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc5_p1.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc5_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">sc5_p1_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="600" align="left" delay="0" y="74" x="478"><![CDATA[Ballast Water Exchange Records]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="149"><![CDATA[All vessels arriving in ports must have proper ballast water exchange records and sealing of the various overboard valves to comply with regulations for pollution prevention. In some countries, corrupt demands from local authorities are common during ballast water exchange inspections.]]></txt>
+      <txt c="X" fontcolor="0c0254" s="2" w="470" align="left" rpo="3" delay="0" y="149"><![CDATA[During one inspection which led to a deficiency, the Captain noticed that the penalty slip the official issued was only in one copy and the Captain was concerned that the cash payment for the fine went straight into the official's own pocket and wasn't properly documented. Even if the deficiency is valid, the payment of the fine may also include corruption risks.The Captain questioned the payment and discussed it with the operational manager.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Ballast Water Exchange Records. All vessels arriving in ports must have proper ballast water exchange records and sealing of the various overboard valves to comply with regulations for pollution prevention. In some countries, corrupt demands from local authorities are common during ballast water exchange inspections. </sndTxt>
+      <sndTxt>During one inspection which led to a deficiency, the Captain noticed that the penalty slip the official issued was only in one copy and the Captain was concerned that the cash payment for the fine went straight into the official's own pocket and wasn't properly documented. Even if the deficiency is valid, the payment of the fine may also include corruption risks.The Captain questioned the payment and discussed it with the operational manager.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 5: Étude de cas — Espèces en caisse  •  Rapports sur le renouvellement des eaux de ballast]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc5_p1.png</pic>
+      <pic noFade="X" y="155" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc5_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">sc5_p1_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="26" s="2" w="450" align="left" delay="0" y="74" x="478"><![CDATA[Rapports sur le renouvellement des eaux de ballast]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="175"><![CDATA[Tous les navires faisant escale]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0"><![CDATA[dans des ports doivent être en possession de rapports complets sur le renouvellement des eaux de ballast et sur l’étanchéification des nombreuses décharges à la mer pour être conformes aux réglementations en matière de prévention de la pollution. Dans certains pays, les demandes de pots-de-vin par les autorités locales sont habituelles pendant les inspections du renouvellement des eaux de ballast.]]></txt>
+      <txt c="X" fontcolor="0c0254" s="2" w="470" align="left" rpo="3,4" delay="0" y="175"><![CDATA[Lors d’une inspection qui s’est soldée par un manquement, le capitaine a remarqué que le reçu du règlement de l’amende délivré par le fonctionnaire n’était qu’en un seul exemplaire. Le capitaine s’inquiétait que le règlement en espèces de l’amende allait directement dans la poche du fonctionnaire et qu’il n’était pas documenté de manière appropriée. Même si le manquement existe, le paiement de l’amende comporte également des risques de corruption.Le capitaine a remis en cause le règlement et en a discuté avec le responsable des opérations.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Rapports sur le renouvellement des eaux de ballast. Tous les navires faisant escale dans des ports doivent être en possession de rapports complets sur le renouvellement des eaux de ballast et sur l’étanchéification des nombreuses décharges à la mer pour être conformes aux réglementations en matière de prévention de la pollution. Dans certains pays, les demandes de pots-de-vin par les autorités locales sont habituelles pendant les inspections du renouvellement des eaux de ballast.</sndTxt>
+      <sndTxt>Lors d’une inspection qui s’est soldée par un manquement, le capitaine a remarqué que le reçu du règlement de l’amende délivré par le fonctionnaire n’était qu’en un seul exemplaire. Le capitaine s’inquiétait que le règlement en espèces de l’amende allait directement dans la poche du fonctionnaire et qu’il n’était pas documenté de manière appropriée. Même si le manquement existe, le paiement de l’amende comporte également des risques de corruption.Le capitaine a remis en cause le règlement et en a discuté avec le responsable des opérations.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 5 节： 案例研究 - 手头现金  •  压载水交换记录]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc5_p1.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc5_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">sc5_p1_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" w="600" align="left" delay="0" y="74" x="478"><![CDATA[压载水交换记录]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" w="470" align="left" delay="0" y="155"><![CDATA[防污染章程规定：所有到达港口的船舶都必须有适当的压载水交换记录并密封各种舷外阀门。在某些国家，当地官方机构在检查压载水交换经常会有索贿行为。]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="18" s="2" w="470" align="left" rpo="3" delay="0" y="155"><![CDATA[在一次检查中发现了缺陷，船长注意到官员签发的罚款单只有一份副本，船长担心罚款的现金直接进入官员的口袋，没有得到适当的记录。即使真有缺陷，罚金也可能包含腐败的风险。
+
+船长对付款有所质疑，并与运营经理讨论了此事。]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>压载水交换记录。
+防污染章程规定：所有到达港口的船舶都必须有适当的压载水交换记录并密封各种舷外阀门。在某些国家，当地官方机构在检查压载水交换经常会有索贿行为。</sndTxt>
+      <sndTxt>在一次检查中发现了缺陷，船长注意到官员签发的罚款单只有一份副本，船长担心罚款的现金直接进入官员的口袋，没有得到适当的记录。即使真有缺陷，罚金也可能包含腐败的风险。
+
+船长对付款有所质疑，并与运营经理讨论了此事。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 5: Caso práctico - Efectivo en mano  •  Registros de intercambio de agua de lastre]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc5_p1a.png</pic>
+      <pic noFade="X" y="150" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc5_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">sc5_p1_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Registros de intercambio de agua de lastre]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="175"><![CDATA[Todos los buques]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0"><![CDATA[que lleguen a los puertos deben tener los registros adecuados de intercambio de agua de lastre y el sellado de las diferentes válvulas marinas para cumplir con las normas de prevención de la contaminación. En algunos países, es común que se hagan peticiones corruptas por parte de las autoridades locales durante las inspecciones de intercambio de agua de lastre.]]></txt>
+      <txt c="X" s="2" align="left" rpo="3,4" delay="0" y="175"><![CDATA[Durante una inspección que dio como resultado una deficiencia, el capitán se dio cuenta de que el recibo de la multa que el funcionario emitió solo tenía una copia y al capitán le preocupaba que el pago en efectivo de la multa fuera directamente al bolsillo del funcionario y no estuviera documentado adecuadamente. Incluso si la deficiencia es legítima, el pago de la multa también puede tener riesgo de corrupción.El capitán cuestionó el pago y lo discutió con el director de operaciones.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Registros de intercambio de agua de lastre. Todos los buques que lleguen a los puertos deben tener los registros adecuados de intercambio de agua de lastre y el sellado de las diferentes válvulas marinas para cumplir con las normas de prevención de la contaminación. En algunos países, es común que se hagan peticiones corruptas por parte de las autoridades locales durante las inspecciones de intercambio de agua de lastre.</sndTxt>
+      <sndTxt>Durante una inspección que dio como resultado una deficiencia, el capitán se dio cuenta de que el recibo de la multa que el funcionario emitió solo tenía una copia y al capitán le preocupaba que el pago en efectivo de la multa fuera directamente al bolsillo del funcionario y no estuviera documentado adecuadamente. Incluso si la deficiencia es legítima, el pago de la multa también puede tener riesgo de corrupción.El capitán cuestionó el pago y lo discutió con el director de operaciones.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 5: Изучение конкретной ситуации — Наличные  •  Журнал обмена балластными водами]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc5_p1a.png</pic>
+      <pic noFade="X" y="150" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc5_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">sc5_p1_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="500" align="left" delay="0" y="74" x="478"><![CDATA[Журнал обмена балластными водами]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="18" s="2" align="left" delay="0" y="175"><![CDATA[На всех судах,]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0"><![CDATA[прибывающих в порт, должен быть заполнен журнал обмена балластными водами и обеспечена герметичность отливных забортных клапанов. Это обусловлено требованиями по предотвращению загрязнения окружающей среды. В некоторых странах проверки системы обмена балластными водами часто сопровождаются вымогательством со стороны местных чиновников.]]></txt>
+      <txt c="X" fontcolor="0c0254" s="2" w="470" align="left" rpo="3,4" delay="0" y="175"><![CDATA[Во время одной из таких проверок на судне была выявлена недостача. Капитан обратил внимание на то, что инспектор выписал квитанцию о штрафе только в одном экземпляре. Озабоченность Капитана вызвал тот факт, что штраф попал непосредственно в карман инспектора и не был должным образом оформлен. Даже если претензия чиновников в отношении недостачи обоснована, оплата штрафа также может нести в себе коррупционные риски.Капитан поставил под сомнение правомерность такой оплаты штрафа и обсудил этот вопрос с руководителем операционного отдела.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Журнал обмена балластными водами. На всех судах, прибывающих в порт, должен быть заполнен журнал обмена балластными водами и обеспечена герметичность отливных забортных клапанов. Это обусловлено требованиями по предотвращению загрязнения окружающей среды. В некоторых странах проверки системы обмена балластными водами часто сопровождаются вымогательством со стороны местных чиновников.</sndTxt>
+      <sndTxt>Во время одной из таких проверок на судне была выявлена недостача. Капитан обратил внимание на то, что инспектор выписал квитанцию о штрафе только в одном экземпляре. Озабоченность Капитана вызвал тот факт, что штраф попал непосредственно в карман инспектора и не был должным образом оформлен. Даже если претензия чиновников в отношении недостачи обоснована, оплата штрафа также может нести в себе коррупционные риски.Капитан поставил под сомнение правомерность такой оплаты штрафа и обсудил этот вопрос с руководителем операционного отдела.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 5: دراسة حالة - السيولة النقدية  •  السجلات المتعلقة بتبديل مياه الصابورة]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc5_p1.png</pic>
+      <pic noFade="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc5_p1_i1.mp3</snd>
+      <snd wfs="T" preload="X">sc5_p1_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="465" align="left" delay="0" y="74" x="485"><![CDATA[ السجلات المتعلقة بتبديل مياه الصابورة]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" w="470" align="left" delay="0" y="149"><![CDATA[يجب أن يكون لدى جميع السفن الموجودة في الموانئ سجلات مناسبة متعلقة بتبديل مياه الصابورة وإحكام إغلاق مختلف الصمامات الخارجية الموجودة على متن السفينة للامتثال للوائح مكافحة التلوث؛ وفي بعض البلدان، تشيع المطالبات الفاسدة من السلطات المحلية أثناء التفتيش على عملية تبديل مياه الصابورة. ]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="18" s="2" w="470" align="left" rpo="3" delay="0" y="149"><![CDATA[أثناء إحدى عمليات التفتيش التي أدت إلى عطل ما، لاحظ القبطان أن إخطار العقوبة بسبب الخطأ الذي أصدره المسؤول كان من نسخة واحدة فقط، وأعرب القبطان عن قلقه من أن المبلغ النقدي قيمة الغرامة يتجه مباشرةً إلى جيب المسؤول نفسه ولا يُوثق بشكل صحيح، وحتى إذا كان العطل صحيحًا، فإن دفع الغرامة قد ينطوي أيضًا على مخاطر الفساد.شكك القبطان في الدفع وناقش ذلك مع مدير العمليات.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

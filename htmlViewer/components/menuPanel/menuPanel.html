@@ -1,0 +1,19 @@
+<section id="menuPanel" class="row-12 full-width mouseActive ">
+    <page-title></page-title>
+    <div class="absolute-full-width scrollable" ng-style="chapContStyle">
+        <table class="full-width">
+            <tr ng-repeat="chap in $root.mainData.chapters" ng-if="chap.id != 'glass'">
+                <td class="col-xs-10">
+                    <div class="chapter-title link-like" ng-style="$root.mainData.fontStyles['menu']" hm-tap="startChapter(chap.num)">{{chap.num}}. {{chap.name}}</div>
+                    <div class="progress active">
+                        <div ng-class="{'progress-bar-success': chap.percent ==100,'progress-bar-info': chap.percent !=100}" class="progress-bar" role="progressbar" aria-valuenow="{{chap.percent}}"
+                             aria-valuemin="0" aria-valuemax="100" ng-style="barWidth(chap)">
+                            <div class="percent-text">{{chap.percent}}%</div>
+                        </div>
+                    </div>
+                </td>
+                <td class="col-xs-2"><div class="btn btn-primary btn-block" hm-tap="startChapter(chap.num)">{{translation.MENU_ITEM_CHAPTER_NAME}} {{chap.num}}</div></td>
+            </tr>
+        </table>
+    </div>
+</section>

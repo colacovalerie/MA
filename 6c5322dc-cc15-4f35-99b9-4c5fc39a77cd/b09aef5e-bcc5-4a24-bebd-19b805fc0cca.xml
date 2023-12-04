@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="b09aef5e-bcc5-4a24-bebd-19b805fc0cca" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Section 2: Case Study – Don’t Open the Floodgates  •  Types of Facilitation Payment</title>
+    <pics>
+      <pic x="0" y="70">sc2_p4.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="120" delay="0" pt="1" e="-3" align="left">This is a demand for a facilitation payment as the official has not found any deficiencies.Which of the following are common facilitation payments?</txt>
+      <txt c="X" s="2" x="520" y="200" delay="0" crct="92" align="left" wrngtext="Incorrect, try again.You did not select the correct response.Anything of value taken off the ship can be a facilitation payment, including small amounts of cash, alcohol, cigarettes, soft drinks, food, bonded goods, etc.Food and drinks consumed on board are considered as hospitality.">Small amounts of cash.</txt>
+      <txt c="X" s="2" x="520" y="240" delay="0" crct="47" align="left" wrngtext="Incorrect, try again.You did not select the correct response.Anything of value taken off the ship can be a facilitation payment, including small amounts of cash, alcohol, cigarettes, soft drinks, food, bonded goods, etc.Food and drinks consumed on board are considered as hospitality.">Alcohol.</txt>
+      <txt c="X" s="2" x="520" y="280" delay="0" crct="52" align="left" wrngtext="Incorrect, try again.You did not select the correct response.Anything of value taken off the ship can be a facilitation payment, including small amounts of cash, alcohol, cigarettes, soft drinks, food, bonded goods, etc.Food and drinks consumed on board are considered as hospitality.">Cigarettes.</txt>
+      <txt c="X" s="2" x="520" y="320" delay="0" crct="14" align="left">All of the above.</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt>Types of Facilitation Payment. This is a demand for a facilitation payment as the official has not found any deficiencies. Which of the following are common facilitation payments? Small amounts of cash. Alcohol. Cigarettes. All of the above.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Section 2: Étude de cas — n’ouvrez pas les vannes  •  Types de paiements de facilitation</title>
+    <pics>
+      <pic x="0" y="70">sc2_p4.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="120" delay="0" pt="1" e="-3" align="left">Il s’agit d’une demande de paiement de facilitation puisque le fonctionnaire n’a trouvé aucun problème.Parmi les propositions suivantes, lesquelles représentent des paiements de facilitation courants ?</txt>
+      <txt c="X" s="2" x="520" y="220" delay="0" crct="58" align="left" wrngtext="Mauvaise réponse, veuillez réessayer.Vous n’avez pas sélectionné la bonne réponse.Tout objet de valeur quittant le navire peut être considéré comme un paiement de facilitation, y compris des petites sommes d’argent en espèces, de l’alcool, des cigarettes, des boissons non alcoolisées, de la nourriture, des marchandises entreposées, etc.La nourriture et les boissons consommées à bord sont considérées comme une marque d’hospitalité.">Des petites sommes d’argent en espèces.</txt>
+      <txt c="X" s="2" x="520" y="260" delay="0" crct="45" align="left" wrngtext="Mauvaise réponse, veuillez réessayer.Vous n’avez pas sélectionné la bonne réponse.Tout objet de valeur quittant le navire peut être considéré comme un paiement de facilitation, y compris des petites sommes d’argent en espèces, de l’alcool, des cigarettes, des boissons non alcoolisées, de la nourriture, des marchandises entreposées, etc.La nourriture et les boissons consommées à bord sont considérées comme une marque d’hospitalité.">De l’alcool.</txt>
+      <txt c="X" s="2" x="520" y="300" delay="0" crct="22" align="left" wrngtext="Mauvaise réponse, veuillez réessayer.Vous n’avez pas sélectionné la bonne réponse.Tout objet de valeur quittant le navire peut être considéré comme un paiement de facilitation, y compris des petites sommes d’argent en espèces, de l’alcool, des cigarettes, des boissons non alcoolisées, de la nourriture, des marchandises entreposées, etc.La nourriture et les boissons consommées à bord sont considérées comme une marque d’hospitalité.">Des cigarettes.</txt>
+      <txt c="X" s="2" x="520" y="340" delay="0" crct="82" align="left">Toutes les réponses ci-dessus.</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt>Types de paiements de facilitation. Il s’agit d’une demande de paiement de facilitation puisque le fonctionnaire n’a trouvé aucun problème. Parmi les propositions suivantes, lesquelles représentent des paiements de facilitation courants? Des petites sommes d’argent en espèces. De l’alcool. Des cigarettes. Toutes les réponses ci-dessus.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>第 2 节： 案例研究 - 不要开先例  •  便利费的类型</title>
+    <pics>
+      <pic x="0" y="70">sc2_p4.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="120" delay="0" pt="1" e="-3" align="left">由于官员没有发现任何不合格的地方，所以索要便利费。以下哪些是常见的便利费？</txt>
+      <txt c="X" s="2" x="520" y="200" delay="0" crct="86" align="left" wrngtext="错误，重试。您没有选择正确的答案。从船上取下的任何有价物品都可以作为便利费，包括小额现金、酒、香烟、软饮料、食品、保税物品等。船上吃喝的食品和饮料视为招待。">小额现金。</txt>
+      <txt c="X" s="2" x="520" y="240" delay="0" crct="41" align="left" wrngtext="错误，重试。您没有选择正确的答案。从船上取下的任何有价物品都可以作为便利费，包括小额现金、酒、香烟、软饮料、食品、保税物品等。船上吃喝的食品和饮料视为招待。">酒。</txt>
+      <txt c="X" s="2" x="520" y="280" delay="0" crct="60" align="left" wrngtext="错误，重试。您没有选择正确的答案。从船上取下的任何有价物品都可以作为便利费，包括小额现金、酒、香烟、软饮料、食品、保税物品等。船上吃喝的食品和饮料视为招待。">烟。</txt>
+      <txt c="X" s="2" x="520" y="320" delay="0" crct="12" align="left">以上都是</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>便利费的类型。由于官员没有发现任何不合格的地方，所以索要便利费。以下哪些是常见的便利费？小额现金。酒。烟。以上都是</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Раздел 2: Изучение конкретной ситуации — Не выпускайте джинна из бутылки  •  Виды вознаграждений за оказание содействия</title>
+    <pics>
+      <pic x="0" y="70">sc2_p4.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="110" delay="0" pt="1" e="-3" align="left">Это называется требованием вознаграждения за оказание содействия, ведь инспектор не нашел никаких несоответствий.Что из перечисленного относится к основным видам вознаграждения за оказание содействия?</txt>
+      <txt c="X" s="2" x="520" y="200" delay="0" wrngx="20" wrngy="390" crct="100" align="left" wrngtext="Неправильно, попробуйте еще раз.Вы выбрали неправильный ответ.Вознаграждением за оказание содействия может быть любая материальная ценность, взятая с судна, в том числе небольшие суммы наличных, алкогольные и безалкогольные напитки, сигареты, продукты питания, нерастаможенные товары и т. д.Угощение едой и напитками на борту считается проявлением гостеприимства.">Небольшие суммы наличных.</txt>
+      <txt c="X" s="2" x="520" y="240" delay="0" wrngx="20" wrngy="390" crct="101" align="left" wrngtext="Неправильно, попробуйте еще раз.Вы выбрали неправильный ответ.Вознаграждением за оказание содействия может быть любая материальная ценность, взятая с судна, в том числе небольшие суммы наличных, алкогольные и безалкогольные напитки, сигареты, продукты питания, нерастаможенные товары и т. д.Угощение едой и напитками на борту считается проявлением гостеприимства.">Алкоголь.</txt>
+      <txt c="X" s="2" x="520" y="280" delay="0" wrngx="20" wrngy="390" crct="82" align="left" wrngtext="Неправильно, попробуйте еще раз.Вы выбрали неправильный ответ.Вознаграждением за оказание содействия может быть любая материальная ценность, взятая с судна, в том числе небольшие суммы наличных, алкогольные и безалкогольные напитки, сигареты, продукты питания, нерастаможенные товары и т. д.Угощение едой и напитками на борту считается проявлением гостеприимства.">Сигареты.</txt>
+      <txt c="X" s="2" x="520" y="320" delay="0" wrngx="20" wrngy="390" crct="8" align="left">Все указанное выше.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>Это называется требованием вознаграждения за оказание содействия, ведь инспектор не нашел никаких несоответствий.Что из перечисленного относится к основным видам вознаграждения за оказание содействия? Небольшие суммы наличных. Алкоголь. Сигареты. Все указанное выше.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>Sección 2: Caso práctico - No abra las compuertas  •  Tipos de pagos para la simplificación de trámites</title>
+    <pics>
+      <pic x="0" y="70">sc2_p4.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="120" delay="0" pt="1" e="-3" align="left">Se trata de una petición de pago para la simplificación de trámites, ya que el funcionario no ha encontrado ninguna deficiencia.De las siguientes opciones, ¿cuáles son los pagos para la simplificación de trámites más comunes?</txt>
+      <txt c="X" s="2" x="520" y="200" delay="0" crct="86" align="left" wrngtext="Incorrecto, vuelva a intentarlo.No ha seleccionado la respuesta correcta.Cualquier cosa de valor que se saque del barco puede ser un pago para la simplificación de trámites, como pequeñas cantidades de dinero en efectivo, alcohol, cigarrillos, refrescos, comida, mercancías depositadas en la aduana, etc.Los alimentos y bebidas consumidos a bordo son considerados como hospitalidad..">Pequeñas cantidades de dinero en efectivo.</txt>
+      <txt c="X" s="2" x="520" y="240" delay="0" crct="17" align="left" wrngtext="Incorrecto, vuelva a intentarlo.No ha seleccionado la respuesta correcta.Cualquier cosa de valor que se saque del barco puede ser un pago para la simplificación de trámites, como pequeñas cantidades de dinero en efectivo, alcohol, cigarrillos, refrescos, comida, mercancías depositadas en la aduana, etc.Los alimentos y bebidas consumidos a bordo son considerados como hospitalidad..">Alcohol.</txt>
+      <txt c="X" s="2" x="520" y="280" delay="0" crct="54" align="left" wrngtext="Incorrecto, vuelva a intentarlo.No ha seleccionado la respuesta correcta.Cualquier cosa de valor que se saque del barco puede ser un pago para la simplificación de trámites, como pequeñas cantidades de dinero en efectivo, alcohol, cigarrillos, refrescos, comida, mercancías depositadas en la aduana, etc.Los alimentos y bebidas consumidos a bordo son considerados como hospitalidad..">Cigarrillos.</txt>
+      <txt c="X" s="2" x="520" y="320" delay="0" crct="46" align="left">Todas las anteriores.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>Se trata de una petición de pago para la simplificación de trámites, ya que el funcionario no ha encontrado ninguna deficiencia.De las siguientes opciones, ¿cuáles son los pagos para la simplificación de trámites más comunes? Pequeñas cantidades de dinero en efectivo. Alcohol. Cigarrillos. Todas las anteriores.</sndTxt>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title>القسم 2: دراسة حالة - لا تفتح الباب على مصراعيه  •  أنواع مدفوعات التسهيل</title>
+    <pics>
+      <pic x="0" y="70">sc2_p4.png</pic>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T">sc2_p4.mp3</snd>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="450" x="478" y="120" delay="0" pt="1" e="-3" align="left"> يُعد هذا طلبًا للحصول على مدفوعات تسهيل لأن المسؤول لم يجد أي عيوب.أي مما يلي يعتبر من مدفوعات التسهيل الشائعة؟</txt>
+      <txt c="X" s="2" x="520" y="200" delay="0" crct="62" align="left" wrngtext="إجابة خاطئة، حاول مرة أخرى.لم تختر الإجابة الصحيحة.يمكن أن يكون أي شيء ذات قيمة مأخوذ من السفينة بمثابة مدفوعات تسهيل بما في ذلك المبالغ النقدية الصغيرة والمشروبات الكحولية والسجائر والمشروبات الغازية والأطعمة والسلع الجمركية وما إلى ذلك.تعتبر الأطعمة والمشروبات المستهلكة على متن السفينة من قبيل الضيافة.">المبالغ النقدية الصغيرة.</txt>
+      <txt c="X" s="2" x="520" y="240" delay="0" crct="61" align="left" wrngtext="إجابة خاطئة، حاول مرة أخرى.لم تختر الإجابة الصحيحة.يمكن أن يكون أي شيء ذات قيمة مأخوذ من السفينة بمثابة مدفوعات تسهيل بما في ذلك المبالغ النقدية الصغيرة والمشروبات الكحولية والسجائر والمشروبات الغازية والأطعمة والسلع الجمركية وما إلى ذلك.تعتبر الأطعمة والمشروبات المستهلكة على متن السفينة من قبيل الضيافة.">المشروبات الكحولية.</txt>
+      <txt c="X" s="2" x="520" y="280" delay="0" crct="28" align="left" wrngtext="إجابة خاطئة، حاول مرة أخرى.لم تختر الإجابة الصحيحة.يمكن أن يكون أي شيء ذات قيمة مأخوذ من السفينة بمثابة مدفوعات تسهيل بما في ذلك المبالغ النقدية الصغيرة والمشروبات الكحولية والسجائر والمشروبات الغازية والأطعمة والسلع الجمركية وما إلى ذلك.تعتبر الأطعمة والمشروبات المستهلكة على متن السفينة من قبيل الضيافة."> السجائر. </txt>
+      <txt c="X" s="2" x="520" y="320" delay="0" crct="100" align="left">جميع ما سبق.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

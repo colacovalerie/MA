@@ -1,0 +1,409 @@
+<section id="controls" class="row" hm-tap="showMobileControls()" hm-press="showMobileControls()"
+ng-class="{
+    'mobile':$root.mobile,
+     'autohide':!$root.mobile && $root.mainData.toolbarAutoHide && allowHideControls && !$root.resetControls || $root.isWelcomePopupShown
+    }"
+>
+    <div class="extraControls" ng-class="{'visible':controlsCtrl.ac.step.show, 'tt':controlsCtrl.ac.step.tt}">
+        <div id="stepPrevButton" ng-if="controlsCtrl.ac.stepPrev.show" ng-class="{'btn-primary':controlsCtrl.ac.stepPrev.active}" title="{{translation.PREV_STEP_TOOLTIP}}"
+             class="btn btn-default glyphicon glyphicon-step-backward" ng-disabled="controlsCtrl.ac.stepPrev.disabled"
+             hm-tap="controlsCtrl.stepPrevClick($event)"
+             hm-press="showToolTipMobile(controlsCtrl.ac.stepPrev)" hm-recognizer-options='{time:1000 }'></div>
+        <div id="stepsInfo"  class="text-center progressDisplay" ng-style="menuStyle">
+            {{controlsCtrl.currentStep}}/{{controlsCtrl.numSteps}}
+        </div>
+        <div id="stepNextButton"
+             ng-class="{'btn-primary':controlsCtrl.ac.step.active}" 
+             title="{{translation.NEXT_STEP_TOOLTIP}}"
+             class="btn btn-default"
+             ng-style="{'background': (controlsCtrl.ac.step.active) ? '#2e5c97' : 'white'}"
+             ng-disabled="controlsCtrl.ac.step.disabled"
+             hm-tap="controlsCtrl.stepClick($event)"
+             hm-press="showToolTipMobile(controlsCtrl.ac.step)" hm-recognizer-options='{time:1000 }'>
+             <svg id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                <path ng-style="{'fill': (controlsCtrl.ac.step.active) ? 'white' : 'black'}" id="skip-to-next" d="M20.44781,15.32617a.8.8,0,0,1,0,1.34766L10.23187,23.212a.8.8,0,0,1-1.2312-.67383V9.46185a.8.8,0,0,1,1.2312-.67383ZM23,8H22a1,1,0,0,0-1,1V23a1,1,0,0,0,1,1h1a1,1,0,0,0,1-1V9A1,1,0,0,0,23,8Z"/>
+              </svg>
+            </div>
+    </div>
+    <div 
+      id="mainControls"
+      hm-recognizer-options='{time:1000 }' 
+       ng-class="[{
+        'hide-menu':
+          $root.mainData.toolbarAutoHide
+          && allowHideControls
+          && !$root.resetControls
+          && $root.mobile
+          && controlsCtrl.ac.pause.show
+          || $root.alertVisible
+          || $root.glossaryVisible
+          || $root.isWelcomePopupShown,
+        'mobile-view': $root.mobile,
+        'semitransparent-background': !$root.mobile
+        }]"
+    >
+        <div ng-show="controlsCtrl.ac.displayProgress.show" class="progressSlider"   
+             ng-class="{'visible':controlsCtrl.ac.displayProgress.show}">
+            <div class="progressFill display" ng-style="{width:controlsCtrl.currentDisplayPercent +'%'}"></div>
+            <div class="progressDoneFill" ng-style="{width:controlsCtrl.previousDisplayPercent +'%'}"></div>
+        </div>
+        <div ng-show="controlsCtrl.ac.videoProgress.show" class="progressSlider"
+             ng-class="{'visible':controlsCtrl.ac.videoProgress.show, 'on-top':controlsCtrl.videoSlider.value > 0}">
+            <!--<div ng-repeat="buff in controlsCtrl.currentBufferPercents" class="progressFill buffer"-->
+                <!--ng-style="{bottom: (20 + $index*20)+'px',left:(buff.start *100) + '%',width:((buff.end - buff.start)*100) +'%'}"></div>-->
+
+            <rzslider 
+            class="custom-slider mouseActive" 
+            ng-class="{'focused':controlsCtrl.seeking, 'rz-pointer__hidden': $root.mainData.toolbarAutoHide && allowHideControls && !$root.resetControls}"
+                      rz-slider-model="controlsCtrl.videoSlider.value"
+                      rz-slider-options="controlsCtrl.videoSlider.options"></rzslider>
+            <div ng-if="showTicks" class="tick-container">
+                <span ng-repeat="cue in controlsCtrl.cuePercents" class="slider-tick" ng-style="{left:cue+'%'}"></span>
+            </div>
+        </div>
+
+        <div ng-if="page.template != TEMPLATES.WELCOME && page.template != TEMPLATES.OBJECTIVES && page.template != TEMPLATES.MENU"
+             class="col-xs-6 title"
+             ng-class="{'title__mobile':$root.mobile}"
+             ng-style="menuStyle.toolbarFont && menuStyle.leftBottomText">
+             <div 
+
+               class="progressDisplay"
+               ng-class="{'progressDisplay__mobile':$root.mobile,
+               'text-right__mobile-hidden': $root.mainData.toolbarAutoHide && allowHideControls && !$root.resetControls && $root.page.template !== TEMPLATES.VID
+            }"
+               ng-show="controlsCtrl.ac.page.show">
+                <span ng-style="menuStyle.toolbarFont" >{{pageIndex+1}}/{{numPages}}</span>&nbsp;
+                <span ng-style="menuStyle.toolbarFont" ng-show="page.template == TEMPLATES.VID || subPageData.template == TEMPLATES.VID ">{{currTimeString}} / {{totalTimeString}}</span>
+            </div>
+            <div
+            ng-style="menuStyle.toolbarFont"
+              ng-class="{'titleDisplay__mobile':$root.mobile,
+                'text-right__mobile-hidden': 
+                 $root.mainData.toolbarAutoHide 
+                  && allowHideControls 
+                  && !$root.resetControls 
+                  && $root.page.template !== TEMPLATES.VID }" 
+                  class="titleDisplay">{{chapter.num}}.
+                {{chapter.name}}
+            </div>
+            
+        </div>
+
+        <div ng-if="page.template == TEMPLATES.WELCOME || page.template == TEMPLATES.OBJECTIVES || page.template == TEMPLATES.MENU"
+             class="col-xs-6 title"
+             ng-class="{'title__mobile':$root.mobile}"
+             ng-style="menuStyle.toolbarFont">
+            <div class="titleDisplay">{{$root.mainData.displayName}}
+            </div>
+            <!-- DEV-START -->
+            <div class="progressDisplay">
+                <span>{{controlsCtrl.modulePercent()}}%</span>
+            </div>
+            <!-- DEV-END -->
+        </div>
+        <div ng-class="{
+            'text-right__mobile':$root.mobile,
+            'text-right__mobile-hidden': $root.mobile && $root.mainData.toolbarAutoHide && allowHideControls && !$root.resetControls && $root.page.template !== TEMPLATES.VID
+            }" 
+        class="col-xs-6 text-right" data-toggle="buttons" style="padding: 2px">
+            <!-- DEV-START -->
+            <div ng-show="controlsCtrl.ac.menu.show" ng-class="{'preview-hidden':previewMode, 'tt':controlsCtrl.ac.menu.tt,'disabled':controlsCtrl.ac.menu.disabled}" title="{{translation.MENU_TOOLTIP}}"
+                 class="btn btn-info glyphicon glyphicon-menu-hamburger" hm-tap="controlsCtrl.menuClick()"
+                 hm-press="showToolTipMobile(controlsCtrl.ac.menu)" hm-recognizer-options='{time:1000, }'></div>
+            <!-- DEV-END -->
+           
+            <div ng-if="!$root.mobile && controlsCtrl.ac.reload.show" class="btn btn-default" title="{{translation.RELOAD_TOOLTIP}}"
+                 hm-tap="controlsCtrl.reloadPage()" ng-class="{'tt':controlsCtrl.ac.reload.tt,'disabled':controlsCtrl.ac.reload.disabled}"
+                 hm-press="showToolTipMobile(controlsCtrl.ac.reload)" hm-recognizer-options='{time:1000 }'>
+            <svg id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+               <path ng-style="menuStyle.menuItem" id="reload" d="M19.87274,10.13794l1.31787-1.48267A8.92382,8.92382,0,0,0,14.93652,7.063,9.0169,9.0169,0,0,0,7.509,19.0083a8.88913,8.88913,0,0,0,5.76245,5.57849,9.01793,9.01793,0,0,0,10.66144-4.34558.9883.9883,0,0,1,1.252-.43762l.9262.38513a1.00842,1.00842,0,0,1,.50147,1.40161A11.99311,11.99311,0,1,1,23.1991,6.39575L24.584,4.83765a.49992.49992,0,0,1,.8595.214l1.47235,6.05273a.5.5,0,0,1-.5462.6145L20.186,10.96643A.5.5,0,0,1,19.87274,10.13794Z"/>
+             </svg>
+             
+           </div>
+            <div ng-if="!$root.mobile" ng-show="controlsCtrl.ac.vol.show" title="{{session.soundEnabled ? translation.SOUND_OFF_TOOLTIP:translation.SOUND_ON_TOOLTIP}}"
+                   ng-class="{'active':!session.soundEnabled, 'tt':controlsCtrl.ac.vol.tt,'disabled':controlsCtrl.ac.vol.disabled}"
+                   class="btn"
+                   ng-if="page.template != TEMPLATES.WELCOME"
+                   hm-tap="controlsCtrl.toggleSound()"
+                   hm-press="showToolTipMobile(controlsCtrl.ac.vol)" hm-recognizer-options='{time:1000 }'>
+
+                   <svg ng-if="!session.soundEnabled" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                    <path ng-style="menuStyle.menuItem" id="volume-off" d="M13.16992,22.797l2.8302-2.83014v3.39667a.8.8,0,0,1-1.29138.63128ZM23.41669,12.55048a9.0868,9.0868,0,0,1-1.38684,9.22943.98739.98739,0,0,0,.074,1.32409l.56787.56757a1.00774,1.00774,0,0,0,1.48487-.06928,11.88343,11.88343,0,0,0,1.363-13.15472Zm-1.74726,1.74719-2.701,2.701a4.0421,4.0421,0,0,1-.53906,1.2511,1.01339,1.01339,0,0,0,.10437,1.284l.57318.57373a1.00134,1.00134,0,0,0,1.5163-.10656,6.75152,6.75152,0,0,0,1.04626-5.70331ZM27.21484,2.93945a1.49946,1.49946,0,0,0-2.12109,0L16.00012,12.0329V8.63647a.8.8,0,0,0-1.29138-.63128L9.57654,12H5a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H8.03284L2.93945,25.09326a1.49984,1.49984,0,1,0,2.1211,2.1211L27.21484,5.06055A1.49946,1.49946,0,0,0,27.21484,2.93945Z"/>
+                  </svg>
+                  <svg ng-if="session.soundEnabled" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                    <path ng-style="menuStyle.menuItem" id="volume-up" d="M16.00012,8.63647V23.36353a.8.8,0,0,1-1.29138.63128L9.57654,20H5a1,1,0,0,1-1-1V13a1,1,0,0,1,1-1H9.57654l5.1322-3.99481A.8.8,0,0,1,16.00012,8.63647Zm4.623,3.36255a1.00134,1.00134,0,0,0-1.5163-.10656l-.57318.57373a1.01339,1.01339,0,0,0-.10437,1.284,4.11089,4.11089,0,0,1,0,4.49964,1.01339,1.01339,0,0,0,.10437,1.284l.57318.57373a1.00134,1.00134,0,0,0,1.5163-.10656,6.90528,6.90528,0,0,0,0-8.002Zm3.53339-3.60131a1.00774,1.00774,0,0,0-1.48487-.06928l-.56787.56757a.98739.98739,0,0,0-.074,1.32409,9.10523,9.10523,0,0,1,0,11.55982.98739.98739,0,0,0,.074,1.32409l.56787.56757a1.00774,1.00774,0,0,0,1.48487-.06928,11.90369,11.90369,0,0,0,0-15.20458Z"/>
+                  </svg>
+
+                </div>
+            <div ng-if="!$root.mobile && controlsCtrl.ac.subs.show" title="{{session.subtitlesVisible ? translation.SUBTITLES_OFF_TOOLTIP:translation.SUBTITLES_ON_TOOLTIP}}"
+                   ng-class="{'active':session.subtitlesVisible, 'tt':controlsCtrl.ac.subs.tt,'disabled':controlsCtrl.ac.subs.disabled}"
+                   class="btn"
+                   hm-tap="controlsCtrl.toggleSubtitles()"
+                 hm-press="showToolTipMobile(controlsCtrl.ac.subs)" hm-recognizer-options='{time:1000 }'>
+                
+                 <svg ng-if="session.subtitlesVisible" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                    <path ng-style="menuStyle.menuItem" id="subtitles" d="M24.5,5H6.5A3.50424,3.50424,0,0,0,3,8.5v12A3.50424,3.50424,0,0,0,6.5,24h5.4502l2.26367,3.77148a1.49953,1.49953,0,0,0,2.57226,0L19.0498,24H24.5A3.50424,3.50424,0,0,0,28,20.5V8.5A3.50424,3.50424,0,0,0,24.5,5ZM25,20.5a.501.501,0,0,1-.5.5H18.2002a1.49927,1.49927,0,0,0-1.28614.72852L15.5,24.085l-1.41406-2.35644A1.49927,1.49927,0,0,0,12.7998,21H6.5a.501.501,0,0,1-.5-.5V8.5A.501.501,0,0,1,6.5,8h18a.501.501,0,0,1,.5.5ZM17,17v1a1,1,0,0,1-1,1H15a1,1,0,0,1-1-1V17a1,1,0,0,1,1-1h1A1,1,0,0,1,17,17Zm-5,0v1a1,1,0,0,1-1,1H10a1,1,0,0,1-1-1V17a1,1,0,0,1,1-1h1A1,1,0,0,1,12,17Zm10,0v1a1,1,0,0,1-1,1H20a1,1,0,0,1-1-1V17a1,1,0,0,1,1-1h1A1,1,0,0,1,22,17Z"/>
+                  </svg>
+
+                  <svg ng-if="!session.subtitlesVisible" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                    <path ng-style="menuStyle.menuItem" id="subtitles-off" d="M21,16a1,1,0,0,1,1,1v1a1,1,0,0,1-1,1H20a1,1,0,0,1-1-1V17c0-.01465.00781-.0271.00842-.0415l.94995-.9502C19.973,16.00781,19.98523,16,20,16Zm6.951-7.98438L25,10.9668V20.5a.501.501,0,0,1-.5.5H18.2002a1.49927,1.49927,0,0,0-1.28614.72852L15.5,24.085l-1.35693-2.26123-2.18665,2.18652,2.25745,3.76123a1.49953,1.49953,0,0,0,2.57226,0L19.0498,24H24.5A3.50424,3.50424,0,0,0,28,20.5V8.5A3.45808,3.45808,0,0,0,27.95105,8.01562Zm-.73621-2.95507L5.06055,27.21484a1.49984,1.49984,0,0,1-2.1211-2.12109l1.66162-1.66162A3.49473,3.49473,0,0,1,3,20.5V8.5A3.50424,3.50424,0,0,1,6.5,5H23.0332l2.06055-2.06055a1.49984,1.49984,0,0,1,2.12109,2.1211ZM20.0332,8H6.5a.501.501,0,0,0-.5.5v12a.501.501,0,0,0,.5.5h.5332l2.27954-2.27954A.9919.9919,0,0,1,9,18V17a1,1,0,0,1,1-1h1a.99123.99123,0,0,1,.72046.31274Z"/>
+                  </svg>
+                
+                </div>
+
+                <div ng-show="controlsCtrl.ac.fs.show"
+                 title="{{session.fullScreen ? translation.FULLSCREEN_OFF_TOOLTIP:translation.FULLSCREEN_ON_TOOLTIP}}"
+                 ng-class="{'tt':controlsCtrl.ac.fs.tt,'disabled':controlsCtrl.ac.fs.disabled}"
+                 class="btn" 
+                 hm-tap="controlsCtrl.fullscreen()"
+                 hm-press="showToolTipMobile(controlsCtrl.ac.fs)" 
+                 hm-recognizer-options='{time:1000 }'>
+                
+                 <svg ng-if="session.fullScreen" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                    <path ng-style="menuStyle.menuItem" id="fullscreen-off" d="M13.66748,7.48438l1.20758,6.811a.5.5,0,0,1-.57959.57959L7.48462,13.66748a.4999.4999,0,0,1-.26624-.8457l1.32856-1.32862L6.27838,7.93268a.5.5,0,0,1,.06806-.62219l.96386-.96412a.5.5,0,0,1,.62232-.06817L11.493,8.54688l1.32868-1.32874A.49992.49992,0,0,1,13.66748,7.48438Zm4.037,7.39062,6.81085-1.20752a.4999.4999,0,0,0,.26624-.8457l-1.32856-1.32862,2.26856-3.56048a.5.5,0,0,0-.06806-.62219l-.96386-.96412a.5.5,0,0,0-.62232-.06817L20.507,8.54688,19.17828,7.21814a.49992.49992,0,0,0-.84576.26624l-1.20758,6.811A.5.5,0,0,0,17.70453,14.875Zm-3.40906,2.25L7.48462,18.33252a.4999.4999,0,0,0-.26624.8457l1.32856,1.32862L6.27838,24.06732a.5.5,0,0,0,.06806.62219l.96386.96412a.5.5,0,0,0,.62232.06817L11.493,23.45312l1.32868,1.32874a.49992.49992,0,0,0,.84576-.26624l1.20758-6.811A.5.5,0,0,0,14.29547,17.125Zm9.15759,3.38184,1.32856-1.32862a.4999.4999,0,0,0-.26624-.8457L17.70453,17.125a.5.5,0,0,0-.57959.57959l1.20758,6.811a.49992.49992,0,0,0,.84576.26624L20.507,23.45312l3.56042,2.26868a.5.5,0,0,0,.62232-.06817l.96386-.96412a.5.5,0,0,0,.06806-.62219Z"/>
+                  </svg>
+                 <svg ng-if="!session.fullScreen" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                    <path ng-style="menuStyle.menuItem" id="fullscreen" d="M13.72156,12.06732a.5.5,0,0,1-.06812.62219l-.96374.96375a.5.5,0,0,1-.6222.06811L7.89624,11.064,6.19342,12.76642a.49983.49983,0,0,1-.847-.27521L4.10779,4.67969a.49976.49976,0,0,1,.57184-.57184L12.491,5.34619a.50011.50011,0,0,1,.27527.8476L11.06378,7.896Zm5.58874,1.58594a.5.5,0,0,0,.6222.06811L24.10376,11.064l1.70282,1.70246a.49983.49983,0,0,0,.847-.27521l1.23858-7.81152a.49976.49976,0,0,0-.57184-.57184L19.509,5.34619a.50011.50011,0,0,0-.27527.8476L20.93622,7.896l-2.65778,4.17132a.5.5,0,0,0,.06812.62219Zm-6.6206,4.69348a.5.5,0,0,0-.6222-.06811L7.89624,20.936,6.19342,19.23358a.49983.49983,0,0,0-.847.27521L4.10779,27.32031a.49976.49976,0,0,0,.57184.57184l7.8114-1.23834a.50011.50011,0,0,0,.27527-.8476L11.06378,24.104l2.65778-4.17132a.5.5,0,0,0-.06812-.62219Zm13.11688.88684L24.10376,20.936,19.9325,18.27863a.5.5,0,0,0-.6222.06811l-.96374.96375a.5.5,0,0,0-.06812.62219L20.93622,24.104,19.2337,25.80621a.50011.50011,0,0,0,.27527.8476l7.8114,1.23834a.49976.49976,0,0,0,.57184-.57184l-1.23858-7.81152A.49983.49983,0,0,0,25.80658,19.23358Z"/>
+                  </svg>
+
+                </div>
+
+                 {{isHidden}}
+                 <div ng-show="controlsCtrl.ac.burgerMenu.show" 
+                     ng-class="{'preview-hidden':previewMode, 'tt':controlsCtrl.ac.menu.tt,'disabled':controlsCtrl.ac.menu.disabled}" 
+                     title="{{translation.MENU_TOOLTIP}}"
+                     ng-if="page.template != TEMPLATES.WELCOME"
+                     class="btn"
+                     tabindex="0"
+                     hm-press="showHidePopupMenu()"
+                     ng-blur="showHidePopupMenu($event)"
+                     hm-tap="showHidePopupMenu()"
+                     hm-recognizer-options='{time:1000 }'>
+                     <svg id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                        <path 
+                        id="menu" ng-style="menuStyle.menuItem" d="M27,23v2a1,1,0,0,1-1,1H6a1,1,0,0,1-1-1V23a1,1,0,0,1,1-1H26A1,1,0,0,1,27,23ZM26,6H6A1,1,0,0,0,5,7V9a1,1,0,0,0,1,1H26a1,1,0,0,0,1-1V7A1,1,0,0,0,26,6Zm0,8H6a1,1,0,0,0-1,1v2a1,1,0,0,0,1,1H26a1,1,0,0,0,1-1V15A1,1,0,0,0,26,14Z"/>
+                      </svg>
+                  </div>
+
+                  <!-- MENU ITEMS INSIDE BURGER  -->
+                <div ng-class="popup">
+
+                    <div id="1_info" class="popup-menu__item"
+                    ng-class="{'popup-menu-item-icon__mobile':$root.mobile, 'popup-menu-item__mobile':$root.mobile}"
+                    hm-tap="controlsCtrl.showPopupMenu()"
+                    hm-press="controlsCtrl.showPopupMenu()"
+                    ng-if="page.template != TEMPLATES.WELCOME" 
+                    title="{{translation.BOOKMARK_INFO}}"
+                    class="popup-menu-item__hidden"
+                    >
+                        <span class="popup-menu__text">Info</span>
+                        <svg class="popup-menu__icon" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                            <path fill="white" id="square-empty-info" d="M24.5,4H7.5A3.50424,3.50424,0,0,0,4,7.5v17A3.50424,3.50424,0,0,0,7.5,28h17A3.50424,3.50424,0,0,0,28,24.5V7.5A3.50424,3.50424,0,0,0,24.5,4ZM25,24.5a.50641.50641,0,0,1-.5.5H7.5a.50641.50641,0,0,1-.5-.5V7.5A.50641.50641,0,0,1,7.5,7h17a.50641.50641,0,0,1,.5.5ZM18.903,9.58221l-.33331,2A.5.5,0,0,1,18.07642,12H15.59021a.5.5,0,0,1-.49316-.58221l.33331-2A.5.5,0,0,1,15.92358,9h2.48621A.5.5,0,0,1,18.903,9.58221Zm-.47766,5.33344L16.6,21h1.25958a.5.5,0,0,1,.48505.62128l-.25,1A.49993.49993,0,0,1,17.60962,23H14a1.40763,1.40763,0,0,1-1.42529-1.91565L14.4,15h-.75958a.5.5,0,0,1-.48505-.62128l.25-1A.49993.49993,0,0,1,13.89038,13H17A1.40763,1.40763,0,0,1,18.42529,14.91565Z"/>
+                          </svg>
+                     </div>
+
+                    <div id="2_glossary" class="popup-menu__item"
+                    ng-class="{
+                        'popup-menu-item-icon__mobile':$root.mobile,
+                        'popup-menu-item__mobile':$root.mobile,
+                        'active':$root.glossaryVisible,
+                        'tt':controlsCtrl.ac.glossary.tt,
+                        'disabled':controlsCtrl.ac.glossary.disabled
+                        }"
+                    ng-show="controlsCtrl.ac.glossary.show" 
+                    title="{{translation.GLOSSARY_TOOLTIP}}"
+                    hm-tap="controlsCtrl.toggleGlossary()" 
+                    hm-press="showToolTipMobile(controlsCtrl.ac.glossary)" hm-recognizer-options='{time:1000 }'
+                    >
+                        <span class="popup-menu__text">Glossary</span>
+                        <svg class="popup-menu__icon" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                            <path fill="white" id="book-library-search" d="M18,5a6.9908,6.9908,0,0,1,.07751-.98438C18.0506,4.01343,18.02747,4,18,4H13a1,1,0,0,0-1,1V27a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V8.58643A6.94578,6.94578,0,0,1,18,5ZM17,25.5a.5.5,0,0,1-.5.5h-2a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5h2a.5.5,0,0,1,.5.5Zm0-18a.5.5,0,0,1-.5.5h-2a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5h2a.5.5,0,0,1,.5.5Zm10.25391,4.12012a6.93471,6.93471,0,0,1-6.23334-.86866l2.94275,16.68921a.99983.99983,0,0,0,1.15845.811l4.924-.86817a.9999.9999,0,0,0,.81115-1.15844l-2.3554-13.35816Zm.9674,14.0542-1.96966.34741a.50005.50005,0,0,1-.57923-.40552l-.17364-.98486a.49987.49987,0,0,1,.40558-.5791l1.96966-.34742a.49987.49987,0,0,1,.57923.40552l.17364.98486A.49987.49987,0,0,1,28.22131,25.67432ZM9,4H4A1,1,0,0,0,3,5V27a1,1,0,0,0,1,1H9a1,1,0,0,0,1-1V5A1,1,0,0,0,9,4ZM8,25.5a.5.5,0,0,1-.5.5h-2a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5h2a.5.5,0,0,1,.5.5Zm0-18a.5.5,0,0,1-.5.5h-2A.5.5,0,0,1,5,7.5v-1A.5.5,0,0,1,5.5,6h2a.5.5,0,0,1,.5.5Zm23.6217,2.5835-2.411-2.41065A4.99038,4.99038,0,1,0,25,10a4.95656,4.95656,0,0,0,2.67261-.78955l2.41107,2.41113a.5.5,0,0,0,.70715,0l.83087-.831A.49991.49991,0,0,0,31.6217,10.0835ZM22,5a3,3,0,1,1,3,3A3.00328,3.00328,0,0,1,22,5Z"/>
+                          </svg>
+                     </div>
+
+                    <div ng-if="$root.mobile && controlsCtrl.ac.reload.show" id="4_reload" class="popup-menu__item"
+                       ng-class="{
+                       'popup-menu-item-icon__mobile':$root.mobile,
+                       'popup-menu-item__mobile':$root.mobile,
+                       'preview-hidden':previewMode, 
+                       'tt':controlsCtrl.ac.reload.tt,
+                       'disabled':controlsCtrl.ac.reload.disabled
+                      }"
+                    title="{{translation.RELOAD_TOOLTIP}}"
+                    hm-tap="controlsCtrl.reloadPage()"
+                    hm-press="showToolTipMobile(controlsCtrl.ac.reload)"
+                    hm-recognizer-options='{time:1000 }'
+                   >
+                        <span class="popup-menu__text">Reload</span>
+                        <svg class="popup-menu__icon" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                            <path fill="white" id="reload" d="M19.87274,10.13794l1.31787-1.48267A8.92382,8.92382,0,0,0,14.93652,7.063,9.0169,9.0169,0,0,0,7.509,19.0083a8.88913,8.88913,0,0,0,5.76245,5.57849,9.01793,9.01793,0,0,0,10.66144-4.34558.9883.9883,0,0,1,1.252-.43762l.9262.38513a1.00842,1.00842,0,0,1,.50147,1.40161A11.99311,11.99311,0,1,1,23.1991,6.39575L24.584,4.83765a.49992.49992,0,0,1,.8595.214l1.47235,6.05273a.5.5,0,0,1-.5462.6145L20.186,10.96643A.5.5,0,0,1,19.87274,10.13794Z"/>
+                          </svg>
+
+                     </div>
+                    <div 
+                     ng-if="$root.mobile && page.template != TEMPLATES.WELCOME"  id="5_volume"  class="popup-menu__item"
+                     ng-show="controlsCtrl.ac.vol.show"
+                     ng-class="{
+                         'popup-menu-item-icon__mobile':$root.mobile,
+                         'popup-menu-item__mobile':$root.mobile,
+                         'preview-hidden':previewMode, 
+                         'active':!session.soundEnabled,
+                          'tt':controlsCtrl.ac.vol.tt,'disabled':controlsCtrl.ac.vol.disabled
+                     }"
+                     title="{{session.soundEnabled ? translation.SOUND_OFF_TOOLTIP:translation.SOUND_ON_TOOLTIP}}"
+                     hm-tap="controlsCtrl.toggleSound()"
+                     hm-press="showToolTipMobile(controlsCtrl.ac.vol)" hm-recognizer-options='{time:1000 }'>
+                     <span class="popup-menu__text">Volume On/Off</span>
+                       <svg class="popup-menu__icon" ng-if="!session.soundEnabled" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                        <path fill="white" id="volume-off" d="M13.16992,22.797l2.8302-2.83014v3.39667a.8.8,0,0,1-1.29138.63128ZM23.41669,12.55048a9.0868,9.0868,0,0,1-1.38684,9.22943.98739.98739,0,0,0,.074,1.32409l.56787.56757a1.00774,1.00774,0,0,0,1.48487-.06928,11.88343,11.88343,0,0,0,1.363-13.15472Zm-1.74726,1.74719-2.701,2.701a4.0421,4.0421,0,0,1-.53906,1.2511,1.01339,1.01339,0,0,0,.10437,1.284l.57318.57373a1.00134,1.00134,0,0,0,1.5163-.10656,6.75152,6.75152,0,0,0,1.04626-5.70331ZM27.21484,2.93945a1.49946,1.49946,0,0,0-2.12109,0L16.00012,12.0329V8.63647a.8.8,0,0,0-1.29138-.63128L9.57654,12H5a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H8.03284L2.93945,25.09326a1.49984,1.49984,0,1,0,2.1211,2.1211L27.21484,5.06055A1.49946,1.49946,0,0,0,27.21484,2.93945Z"/>
+                      </svg>
+                      <svg class="popup-menu__icon" ng-if="session.soundEnabled" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                        <path fill="white" id="volume-up" d="M16.00012,8.63647V23.36353a.8.8,0,0,1-1.29138.63128L9.57654,20H5a1,1,0,0,1-1-1V13a1,1,0,0,1,1-1H9.57654l5.1322-3.99481A.8.8,0,0,1,16.00012,8.63647Zm4.623,3.36255a1.00134,1.00134,0,0,0-1.5163-.10656l-.57318.57373a1.01339,1.01339,0,0,0-.10437,1.284,4.11089,4.11089,0,0,1,0,4.49964,1.01339,1.01339,0,0,0,.10437,1.284l.57318.57373a1.00134,1.00134,0,0,0,1.5163-.10656,6.90528,6.90528,0,0,0,0-8.002Zm3.53339-3.60131a1.00774,1.00774,0,0,0-1.48487-.06928l-.56787.56757a.98739.98739,0,0,0-.074,1.32409,9.10523,9.10523,0,0,1,0,11.55982.98739.98739,0,0,0,.074,1.32409l.56787.56757a1.00774,1.00774,0,0,0,1.48487-.06928,11.90369,11.90369,0,0,0,0-15.20458Z"/>
+                      </svg>
+                    </div>
+
+                    <div ng-if="$root.mobile && controlsCtrl.ac.subs.show" id="6_subtitles"  class="popup-menu__item"
+                           title="{{session.subtitlesVisible ? translation.SUBTITLES_OFF_TOOLTIP:translation.SUBTITLES_ON_TOOLTIP}}"
+                          ng-class="{
+                           'popup-menu-item-icon__mobile':$root.mobile,
+                           'popup-menu-item__mobile':$root.mobile,
+                           'preview-hidden':previewMode, 
+                           'active':session.subtitlesVisible,
+                           'tt':controlsCtrl.ac.subs.tt,'disabled':controlsCtrl.ac.subs.disabled
+                           }"
+                          hm-tap="controlsCtrl.toggleSubtitles()"
+                        hm-press="showToolTipMobile(controlsCtrl.ac.subs)" hm-recognizer-options='{time:1000 }'>
+                        <span class="popup-menu__text">Subtitles</span>
+                        <svg class="popup-menu__icon" ng-if="session.subtitlesVisible" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                           <path fill="white" id="subtitles" d="M24.5,5H6.5A3.50424,3.50424,0,0,0,3,8.5v12A3.50424,3.50424,0,0,0,6.5,24h5.4502l2.26367,3.77148a1.49953,1.49953,0,0,0,2.57226,0L19.0498,24H24.5A3.50424,3.50424,0,0,0,28,20.5V8.5A3.50424,3.50424,0,0,0,24.5,5ZM25,20.5a.501.501,0,0,1-.5.5H18.2002a1.49927,1.49927,0,0,0-1.28614.72852L15.5,24.085l-1.41406-2.35644A1.49927,1.49927,0,0,0,12.7998,21H6.5a.501.501,0,0,1-.5-.5V8.5A.501.501,0,0,1,6.5,8h18a.501.501,0,0,1,.5.5ZM17,17v1a1,1,0,0,1-1,1H15a1,1,0,0,1-1-1V17a1,1,0,0,1,1-1h1A1,1,0,0,1,17,17Zm-5,0v1a1,1,0,0,1-1,1H10a1,1,0,0,1-1-1V17a1,1,0,0,1,1-1h1A1,1,0,0,1,12,17Zm10,0v1a1,1,0,0,1-1,1H20a1,1,0,0,1-1-1V17a1,1,0,0,1,1-1h1A1,1,0,0,1,22,17Z"/>
+                         </svg>
+
+                         <svg class="popup-menu__icon" ng-if="!session.subtitlesVisible" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                           <path fill="white" id="subtitles-off" d="M21,16a1,1,0,0,1,1,1v1a1,1,0,0,1-1,1H20a1,1,0,0,1-1-1V17c0-.01465.00781-.0271.00842-.0415l.94995-.9502C19.973,16.00781,19.98523,16,20,16Zm6.951-7.98438L25,10.9668V20.5a.501.501,0,0,1-.5.5H18.2002a1.49927,1.49927,0,0,0-1.28614.72852L15.5,24.085l-1.35693-2.26123-2.18665,2.18652,2.25745,3.76123a1.49953,1.49953,0,0,0,2.57226,0L19.0498,24H24.5A3.50424,3.50424,0,0,0,28,20.5V8.5A3.45808,3.45808,0,0,0,27.95105,8.01562Zm-.73621-2.95507L5.06055,27.21484a1.49984,1.49984,0,0,1-2.1211-2.12109l1.66162-1.66162A3.49473,3.49473,0,0,1,3,20.5V8.5A3.50424,3.50424,0,0,1,6.5,5H23.0332l2.06055-2.06055a1.49984,1.49984,0,0,1,2.12109,2.1211ZM20.0332,8H6.5a.501.501,0,0,0-.5.5v12a.501.501,0,0,0,.5.5h.5332l2.27954-2.27954A.9919.9919,0,0,1,9,18V17a1,1,0,0,1,1-1h1a.99123.99123,0,0,1,.72046.31274Z"/>
+                         </svg>
+                
+                     </div>
+
+                     <div id="3_exit" class="popup-menu__item"
+                   ng-class="{
+                       'popup-menu-item-icon__mobile':$root.mobile,
+                       'popup-menu-item__mobile':$root.mobile,
+                       'preview-hidden':previewMode, 
+                       'tt':controlsCtrl.ac.exit.tt,
+                       'disabled':controlsCtrl.ac.exit.disabled,
+                    }"
+                   ng-show="controlsCtrl.ac.exit.show"
+                   title="{{translation.EXIT_TOOLTIP}}"
+                   hm-tap="controlsCtrl.menuClick()"
+                   hm-press="controlsCtrl.menuClick()"
+                   >
+                        <span class="popup-menu__text">Main menu</span>
+                       <svg class="popup-menu__icon" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                        <path fill="white" id="home" d="M27.10482,17H24V27.5a.5.5,0,0,1-.5.5h-4a.5.5,0,0,1-.5-.5v-5a.5.5,0,0,0-.5-.5h-5a.5.5,0,0,0-.5.5v5a.5.5,0,0,1-.5.5h-4a.5.5,0,0,1-.5-.5V17H4.89518a.785.785,0,0,1-.55508-1.34008L15.46967,4.53023a.75.75,0,0,1,1.06066,0L27.6599,15.65992A.785.785,0,0,1,27.10482,17Z"/>
+                      </svg>
+                    </div>
+
+                 </div>
+                  <!-- MENU ITEMS INSIDE BURGER END -->
+
+        </div>
+
+        <div
+         id="centralControls"
+         class="buttons-col"
+         ng-class="{'central-controls__mobile': $root.mobile,'hide-menu':page.template == TEMPLATES.WELCOME && $root.mobile}"
+         ng-show="$root.readyToDisplay"
+           >
+            <div ng-class="{'chevron__left': $root.mobile}" class="col-xs-4 buttons-col text-center chevron">
+                <div ng-class="{
+                    'btn-primary':controlsCtrl.ac.prev.active,
+                    'preview-hidden':(previewMode && !$root.subPageData.cover),
+                    'disabled':controlsCtrl.ac.prev.disabled,
+                    'tt':controlsCtrl.ac.prev.tt
+                }"
+                     ng-show="controlsCtrl.ac.prev.show"
+                      title="{{translation.PREV_PAGE_TOOLTIP}}"
+                     class="btn btn-default btn-block"
+                     hm-tap="controlsCtrl.prevClick($event)"
+                     hm-press="showToolTipMobile(controlsCtrl.ac.prev)" hm-recognizer-options='{time:1000 }'>
+                     <svg id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                        <path ng-style="menuStyle.centralControl" id="chevron-left" d="M22.41406,23.37866a.5.5,0,0,1,0,.70709L19.586,26.91425a.50007.50007,0,0,1-.70715,0L8.67151,16.70709a.99988.99988,0,0,1,0-1.41418L18.87885,5.08575a.50007.50007,0,0,1,.70715,0l2.82806,2.8285a.5.5,0,0,1,0,.70709L15.03564,16Z"/>
+                      </svg>
+                    </div>
+            </div>
+            <div class="col-xs-4 buttons-col text-center">
+                <!-- Play-pause start -->
+                <div ng-show="controlsCtrl.ac.video.show">
+                    <div ng-show="controlsCtrl.ac.pause.show" title="{{translation.PAUSE_TOOLTIP}}"
+                         class="btn btn-default"
+                         ng-class="{'play-pause':!$root.mobile, 'play-pause-icon__mobile':$root.mobile, 'tt':controlsCtrl.ac.pause.tt,'disabled':controlsCtrl.ac.pause.disabled}"
+                         hm-tap="controlsCtrl.pause()"
+                         hm-press="showToolTipMobile(controlsCtrl.ac.pause)" hm-recognizer-options='{"preventGhosts":true, "stopPropagation":true}'>
+                         <svg id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                            <path ng-style="menuStyle.centralControl" id="pause" d="M14,7V25a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V7A1,1,0,0,1,8,6h5A1,1,0,0,1,14,7Zm9-1H18a1,1,0,0,0-1,1V25a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V7A1,1,0,0,0,23,6Z"/>
+                          </svg>
+                        </div>
+                    <div ng-show="controlsCtrl.ac.play.show" title="{{translation.PLAY_TOOLTIP}}"
+                         class="btn btn-default"
+                         ng-class="{'play-pause':!$root.mobile, 'play-pause-icon__mobile':$root.mobile, 'tt':controlsCtrl.ac.play.tt,'disabled':controlsCtrl.ac.play.disabled}"
+                         hm-tap="controlsCtrl.play()"
+                         hm-press="showToolTipMobile(controlsCtrl.ac.play)" hm-recognizer-options='{"preventGhosts":true,"stopPropagation":true}'>
+                         <svg id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                            <path ng-style="menuStyle.centralControl" id="play" d="M24.8175,16.86432,9.503,25.77667A1,1,0,0,1,8,24.91235V7.08765a1,1,0,0,1,1.503-.86432L24.8175,15.13568A1.00006,1.00006,0,0,1,24.8175,16.86432Z"/>
+                          </svg>
+                        </div>
+                    <!-- Play-pause end -->
+                </div>
+                <div ng-show="controlsCtrl.ac.quest.show">
+                    <div ng-show="controlsCtrl.ac.done.show" title="{{translation.DONE_TOOLTIP}}"
+                         ng-class="{
+                            'square-checkbox__mobile':$root.mobile,
+                            'circle-checkbox__to-bottom': $root.mobile,
+                            'btn-info':controlsCtrl.ac.done.active,
+                            'disabled':controlsCtrl.ac.done.disabled,
+                            'tt':controlsCtrl.ac.done.tt
+                            }"
+                         class="btn"
+                         hm-tap="controlsCtrl.done()"
+                         hm-press="showToolTipMobile(controlsCtrl.ac.done)" hm-recognizer-options='{time:1000 }' >
+                         <svg id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                            <path ng-style="menuStyle.centralControl" id="square-checkbox" d="M24,15.75049,27,12.426V23.5A3.50424,3.50424,0,0,1,23.5,27H8.5A3.50424,3.50424,0,0,1,5,23.5V8.5A3.50424,3.50424,0,0,1,8.5,5h15a3.47066,3.47066,0,0,1,1.40424.29907,2.45024,2.45024,0,0,0-.24311.17456L21.78619,8H8.5a.50641.50641,0,0,0-.5.5v15a.50641.50641,0,0,0,.5.5h15a.50641.50641,0,0,0,.5-.5Zm3.66412-7.753-.99933-.99927a.5.5,0,0,0-.68359-.0221L15.33331,16.33325l-3.63842-1.81909a.5.5,0,0,0-.61408.13477l-.8092,1.01147a.50012.50012,0,0,0,.027.65576l4.62433,4.89636a1,1,0,0,0,1.46942-.01672L27.68176,8.686A.5.5,0,0,0,27.66412,7.99744Z"/>
+                          </svg>
+                        </div>
+                </div>
+                <div ng-show="controlsCtrl.ac.continue.show" title="{{translation.CONTINUE_TOOLTIP}}"
+                         ng-class="{'btn-primary':controlsCtrl.ac.continue.active, 'disabled':controlsCtrl.ac.continue.disabled, 'tt':controlsCtrl.ac.continue.tt}"
+                         class="btn"
+                         hm-tap="controlsCtrl.closeSubpage()"
+                         hm-press="showToolTipMobile(controlsCtrl.ac.continue)" hm-recognizer-options='{time:1000 }' >
+                         <svg style="fill: #0ca826;" id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                            <path id="check" d="M27.37592,9.70459l-14.151,15.97693a.99985.99985,0,0,1-1.47558.02356L4.59711,18.1322a.99992.99992,0,0,1-.05384-1.31128L5.495,15.63123a.99994.99994,0,0,1,1.22808-.26966L12,18,24.79724,7.09863a.99991.99991,0,0,1,1.35553.0542l1.1817,1.18164A1,1,0,0,1,27.37592,9.70459Z"/>
+                          </svg>
+                        </div>
+
+            </div>
+            <div ng-class="{'chevron__right': $root.mobile}" class="col-xs-4 buttons-col text-center chevron">
+                <div ng-class="{
+                    'btn-primary':controlsCtrl.ac.next.active,
+                    'preview-hidden':previewMode,
+                    'disabled':controlsCtrl.ac.next.disabled,
+                    'tt':controlsCtrl.ac.next.tt
+                    }"
+                     ng-show="controlsCtrl.ac.next.show" title="{{translation.NEXT_PAGE_TOOLTIP}}"
+                     class="btn btn-default btn-block"
+                     hm-tap="controlsCtrl.nextClick()"
+                     hm-press="showToolTipMobile(controlsCtrl.ac.next)" hm-recognizer-options='{time:1000,"preventGhosts":true}'
+                     >
+                     <svg id="glyphicons-basic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                        <path ng-style="menuStyle.centralControl" id="chevron-right" d="M23.32849,16.70709,13.12115,26.91425a.50007.50007,0,0,1-.70715,0l-2.82806-2.8285a.5.5,0,0,1,0-.70709L16.96436,16,9.58594,8.62134a.5.5,0,0,1,0-.70709L12.414,5.08575a.50007.50007,0,0,1,.70715,0L23.32849,15.29291A.99988.99988,0,0,1,23.32849,16.70709Z"/>
+                      </svg>
+                      
+                    </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>

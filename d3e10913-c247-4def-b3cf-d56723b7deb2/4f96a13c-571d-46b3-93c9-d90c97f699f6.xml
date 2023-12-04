@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="4f96a13c-571d-46b3-93c9-d90c97f699f6" chapterId="6c5322dc-cc15-4f35-99b9-4c5fc39a77cd" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">A ship is in a foreign country, and in a hurry to leave the port. The local officials quickly learn that the ship is running behind schedule and suggest the Captain pay them some cash that would ‘help’ his/her ship leave the port faster. The Captain pays.
+
+What would this payment be considered to be?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="11" align="left">A bribe</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="57" align="left">A facilitation payment</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Un navire a fait escale dans un pays étranger et est pressé de quitter le port. Les fonctionnaires locaux découvrent rapidement que le navire a pris du retard et suggèrent au capitaine de leur faire un versement en espèces pour « aider » son navire à quitter le port plus rapidement. Le capitaine effectue un paiement.
+
+Commet ce paiement serait-il considéré?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="93" align="left">Un pot-de-vin</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="49" align="left">Un paiement de facilitation</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">船只在外国水域，并且要尽快离开港口。当地官员很快了解到这艘船要赶时间，建议船长给他们一些现金，这样他们就能“帮助”让船更快地离开港口。船长付了这笔钱。
+
+如何看待这一付款？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="69" align="left">贿赂</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="37" align="left">便利费</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Un barco está en un país extranjero, y con prisa por salir del puerto. Los funcionarios locales se enteran rápidamente de que el barco se está retrasando y sugieren al capitán que les pague dinero en efectivo que 'ayude' a su barco a salir del puerto más rápido. El capitán paga.
+
+¿Qué se consideraría este pago?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="41" align="left">Soborno</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="21" align="left">Pago para la simplificación de trámites</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Судно находится в зарубежной стране и торопится покинуть порт. Местные чиновники быстро узнают, что судно отстает от графика, и требуют от капитана наличных денег в обмен на обещание «помочь» судну быстрее покинуть порт. Капитан платит.
+
+Такая выплата рассматривается как…</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="59" align="left">Взятка</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="33" align="left">Вознаграждение за оказание содействия</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">السفينة في بلد أجنبي وفي عجلة من أمرها لمغادرة الميناء، ولكن سرعان ما علم المسؤولون المحليون بأن السفينة متأخرة عن موعدها واقترح القبطان دفع مبلغ نقدي لهم من شأنه أن «يساعد» سفينتها/سفينته على مغادرة الميناء أسرع. وعليه دفع القبطان المبلغ.
+
+المبلغ الذي تم دفعه يندرج تحت أي مما يلي؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="11" align="left">الرشوة</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="57" align="left">مدفوعات التسهيل</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

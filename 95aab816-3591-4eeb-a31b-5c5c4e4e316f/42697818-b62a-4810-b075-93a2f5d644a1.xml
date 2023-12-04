@@ -1,0 +1,253 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="42697818-b62a-4810-b075-93a2f5d644a1">
+  <page level="EN">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 4: Case Study – Time is Money  •  Lessons Learnt]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p6a.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Lessons Learnt]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="155"><![CDATA[1. As this is your first port call it is important that you get support from the office. Both the office and vessel can focus on being prepared – know what to expect, what type of requests may come, what the consequences are for breaking a law/regulation and inform the agent of the company’s anti-corruption policy in advance of the port call.]]></txt>
+      <txt c="X" fontcolor="0c0254" s="2" align="left" rpo="2" delay="0" y="155"><![CDATA[2. If you have worked with this port previously, consider what happened last time. If not, make sure to use the knowledge of those around you. The Captain can also engage with other Captains on the same trade route to share experience and local insight.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[3. It is important to stay calm in these situations. Those who stand their ground and have the right body language are generally not worth the trouble. You can benefit from having a confident and calm attitude when dealing with officials as you are backed by the company.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Lessons Learnt. 1. As this is your first port call it is important that you get support from the office. Both the office and vessel can focus on being prepared – know what to expect, what type of requests may come, what the consequences are for breaking a law/regulation and inform the agent of the company’s anti-corruption policy in advance of the port call. </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>2. If you have worked with this port previously, consider what happened last time. If not, make sure to use the knowledge of those around you. The Captain can also engage with other Captains on the same trade route to share experience and local insight. 3. It is important to stay calm in these situations. Those who stand their ground and have the right body language are generally not worth the trouble. You can benefit from having a confident and calm attitude when dealing with officials as you are backed by the company.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 4: Étude de cas — Le temps, c’est de l’argent.  •  Enseignements tirés]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p6a.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Enseignements tirés]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="155"><![CDATA[1. Puisqu’il s’agit de votre première escale, il est important de demander le soutien du bureau. Aussi bien le bureau que le navire peuvent dédier leurs efforts aux préparatifs. Sachez ce à quoi vous attendre, les types de demandes, les conséquences liées à une violation de loi ou de réglementation et informez l’agent portuaire de la politique de lutte contre la corruption de l’entreprise avant l’escale.]]></txt>
+      <txt c="X" fontcolor="0c0254" s="2" align="left" rpo="2" delay="0" y="155"><![CDATA[2. Si vous avez déjà fait escale dans ce port, réfléchissez à ce qui s’est passé la fois précédente. Dans le cas contraire, ne manquez pas de tirer parti des connaissances de ceux qui vous entourent. Le capitaine peut également s’entretenir avec d’autres capitaines sur la même route commerciale pour partager leurs expériences et leurs connaissances locales.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[3. Il est important de rester calme dans ces situations. Ceux qui restent sur leurs positions et adoptent le langage corporel approprié n’en valent généralement pas la peine. Vous pouvez bénéficier d’une attitude assurée et calme lorsque vous traitez avec des fonctionnaires, car vous êtes soutenu par l’entreprise.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Enseignements tirés. 1. Puisqu’il s’agit de votre première escale, il est important de demander le soutien du bureau. Aussi bien le bureau que le navire peuvent dédier leurs efforts aux préparatifs. Sachez ce à quoi vous attendre, les types de demandes, les conséquences liées à une violation de loi ou de réglementation et informez l’agent portuaire de la politique de lutte contre la corruption de l’entreprise avant l’escale.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>2. Si vous avez déjà fait escale dans ce port, réfléchissez à ce qui s’est passé la fois précédente. Dans le cas contraire, ne manquez pas de tirer parti des connaissances de ceux qui vous entourent. Le capitaine peut également s’entretenir avec d’autres capitaines sur la même route commerciale pour partager leurs expériences et leurs connaissances locales. 3. Il est important de rester calme dans ces situations. Ceux qui restent sur leurs positions et adoptent le langage corporel approprié n’en valent généralement pas la peine. Vous pouvez bénéficier d’une attitude assurée et calme lorsque vous traitez avec des fonctionnaires, car vous êtes soutenu par l’entreprise.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 4 节： 案例研究 - 时间就是金钱  •  学到的经验]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p6a.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[学到的经验]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" w="470" align="left" delay="0" y="155"><![CDATA[1. 因为这是您第一次港口停靠，所以务必从工作场所得到支持。工作场所和船舶都重视准备工作 – 预测出现的情况、会有哪类索贿要求、违反法律/法规有哪些后果，并在港口停靠前提前向代理通告公司的反腐败政策。]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="18" s="2" align="left" rpo="2" delay="0" y="155"><![CDATA[2. 如果您之前到过这个港口，回忆一下上次的情形。如果没有，务必向周围的人请教。船长还可以与同一条贸易航线的其他船长分享经验和对当地的看法。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="2" align="left" delay="0"><![CDATA[3. 在这些情况下务必保持冷静。那些坚持立场并正确运用肢体语言的人通常不会有麻烦。与官员打交道时，记得公司是您的后盾，自信和冷静是致胜法宝。]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>学到的经验。1. 因为这是您第一次港口停靠，所以务必从工作场所得到支持。工作场所和船舶都重视准备工作 – 预测出现的情况、会有哪类索贿要求、违反法律/法规有哪些后果，并在港口停靠前提前向代理通告公司的反腐败政策。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>2. 如果您之前到过这个港口，回忆一下上次的情形。如果没有，务必向周围的人请教。船长还可以与同一条贸易航线的其他船长分享经验和对当地的看法。3. 在这些情况下务必保持冷静。那些坚持立场并正确运用肢体语言的人通常不会有麻烦。与官员打交道时，记得公司是您的后盾，自信和冷静是致胜法宝。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 4: Caso práctico - El tiempo es oro  •  Qué hemos aprendido]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p6a.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Qué hemos aprendido]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="155"><![CDATA[1. Como es su primera escala portuaria, es importante que reciba apoyo de la oficina. Tanto la oficina como el barco pueden concentrarse en estar preparados: saber qué esperar, qué tipo de peticiones pueden hacerles, cuáles son las consecuencias de infringir una ley/regulación e informar al agente de la política anticorrupción de la compañía antes de la escala portuaria.]]></txt>
+      <txt c="X" s="2" align="left" rpo="3" delay="0" y="155"><![CDATA[2. Si ha trabajado antes con este puerto, tenga en cuenta lo que ocurrió la última vez. Si no, asegúrese de hacer uso de los conocimientos de quienes le rodean. El capitán también puede interactuar con otros capitanes de la misma ruta comercial para compartir experiencias y conocimientos locales.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[3. Es importante mantener la calma en estas situaciones. No se suelen meter con quienes se mantienen firmes y tienen un lenguaje corporal correcto. Usted puede beneficiarse si tiene una actitud confiada y tranquila cuando trate con los funcionarios, ya que está respaldado por la compañía.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Qué hemos aprendido. 1. Como es su primera escala portuaria, es importante que reciba apoyo de la oficina. Tanto la oficina como el barco pueden concentrarse en estar preparados: saber qué esperar, qué tipo de peticiones pueden hacerles, cuáles son las consecuencias de infringir una ley/regulación e informar al agente de la política anticorrupción de la compañía antes de la escala portuaria.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>2. Si ha trabajado antes con este puerto, tenga en cuenta lo que ocurrió la última vez. Si no, asegúrese de hacer uso de los conocimientos de quienes le rodean. El capitán también puede interactuar con otros capitanes de la misma ruta comercial para compartir experiencias y conocimientos locales. 3. Es importante mantener la calma en estas situaciones. No se suelen meter con quienes se mantienen firmes y tienen un lenguaje corporal correcto. Usted puede beneficiarse si tiene una actitud confiada y tranquila cuando trate con los funcionarios, ya que está respaldado por la compañía.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 4: Изучение конкретной ситуации — Время — деньги  •  Выводы]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p6a.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Выводы]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" w="470" align="left" delay="0" y="155"><![CDATA[1. Так как это ваш первый заход в порт, необходимо заручиться поддержкой из офиса. Офис и судно должны быть готовы к различным ситуациям — заранее выясните, чего ожидать, каковы типичные виды вымогательства и что влечет за собой нарушение требований закона и нормативных актов. Перед заходом в порт сообщите агенту антикоррупционные правила своей компании.]]></txt>
+      <txt c="X" fontcolor="0c0254" s="2" align="left" rpo="2" delay="0" y="155"><![CDATA[2. Если вы уже ранее работали с этим портом, вспомните свой прошлый опыт. В противном случае обратитесь за информацией к окружающим. Капитан, в свою очередь, может попросить поделиться опытом и знанием местной обстановки других капитанов на том же торговом пути.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[3. В таких ситуациях важно сохранять спокойствие. С тем, кто стоит на своем и точно использует язык тела, как правило, не связываются. Спокойствие и уверенность в себе при общении с чиновниками дают результат, ведь за вами стоит компания]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Выводы. 1. Так как это ваш первый заход в порт, необходимо заручиться поддержкой из офиса. Офис и судно должны быть готовы к различным ситуациям — заранее выясните, чего ожидать, каковы типичные виды вымогательства и что влечет за собой нарушение требований закона и нормативных актов. Перед заходом в порт сообщите агенту антикоррупционные правила своей компании.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>2. Если вы уже ранее работали с этим портом, вспомните свой прошлый опыт. В противном случае обратитесь за информацией к окружающим. Капитан, в свою очередь, может попросить поделиться опытом и знанием местной обстановки других капитанов на том же торговом пути. 3. В таких ситуациях важно сохранять спокойствие. С тем, кто стоит на своем и точно использует язык тела, как правило, не связываются. Спокойствие и уверенность в себе при общении с чиновниками дают результат, ведь за вами стоит компания</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 4: دراسة حالة - الوقت من ذهب  •  الدروس المستفادة]]></title>
+    <pics>
+      <pic noFade="X" preload="X" y="70" x="0">sc4_p6a.png</pic>
+      <pic preload="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic noDelay="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i1.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc4_p6_i2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="478"><![CDATA[ الدروس المستفادة]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="17" s="2" w="470" align="left" delay="0" y="155"><![CDATA[1. بما أن ذلك هو أول وصول إلى ميناء التوقف، فمن الضروري الحصول على الدعم من المكتب؛ بوسع المكتب والسفينة التركيز على الاستعداد – ومعرفة ما يمكن توقعه، ونوعية الطلبات التي يُمكن استقبالها، والعواقب المترتبة على انتهاك القانون/اللائحة وإبلاغ الوكيل بسياسة مكافحة الفساد التي تنتهجها الشركة قبل الوصول إلى ميناء التوقف.]]></txt>
+      <txt c="X" fontcolor="0c0254" fontsize="17" s="2" align="left" rpo="2" delay="0" y="155"><![CDATA[2. إذا كان قد سبق لك التعامل مع هذا الميناء من قبل، فاسترجع ما حدث المرة السابقة؛ وإذا لم يكن قد سبق لك التعامل معه من قبل، فتأكد من الاستفادة من معرفة من حولك، حيث يمكن للقبطان أيضًا التواصل مع القباطنة الآخرين على نفس المسار التجاري لمشاركة الخبرات والرؤى المحلية.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="17" s="2" align="left" delay="0"><![CDATA[3. من الضروري التزامك الهدوء في هذه المواقف؛ لأنه بشكل عام، لا يستحق الأمر كل هذا العناء من أولئك الذين يثبتون على مواقفهم ويتمتعون بلغة الجسد الصحيحة، ويمكنك الاستفادة من التحلي بالثقة والتزام الهدوء عند التعامل مع المسؤولين لأن الشركة تساند موقفك.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

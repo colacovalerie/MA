@@ -1,0 +1,1556 @@
+﻿<pages sgxmlv="1.2" guid="e61f8f54-7b1c-4a39-af37-e18d33e1d91b">
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 2: Étude de cas — n’ouvrez pas les vannes  •  Des autorités montent à bord du navire]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic hotid="8" hot="S" y="180" x="478">Link_pdf.png</pic>
+      <pic hotid="9" hot="S" y="210" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="10" hot="S" y="270" x="478">Link_pdf.png</pic>
+      <pic hotid="11" hot="S" y="300" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="12" hot="S" y="360" x="478">Link_pdf.png</pic>
+      <pic hotid="13" hot="S" y="390" x="478">Link_pdf.png</pic>
+      <pic hotid="14" hot="S" y="420" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p2_s1.mp3</snd>
+      <snd wfs="T" preload="X">sc2_p2_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="22" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Des autorités montent à bord du navire]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Un navire est accosté dans un port réputé pour la corruption. Le capitaine attend que les autorités montent à bord du navire. Le navire suit un calendrier serré à cause d’un retard dans le port précédent concernant la prise de bunker.Les autorités sanitaires sont les premières à monter à bord. Elles examinent attentivement les certificats sanitaires de l’équipage et les certificats de contrôle sanitaire du navire, à la recherche d’une erreur.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="3" delay="0" y="149"><![CDATA[Le capitaine est préparé. Il a déjà informé l’agent portuaire de la politique de lutte contre la corruption de l’entreprise et de son adhésion au MACN. Des panneaux sont visibles sur la passerelle et il a respecté les consignes de l’entreprise concernant les mesures préventives. Il s’est assuré que les documents sanitaires sont parfaitement en ordre et ne comportent aucune violation technique ou grave.]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="16" s="1" align="left" rpo="4" delay="0" y="149"><![CDATA[Guidance for Captains:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Captains – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Captains – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0" x="478"><![CDATA[Guidance for Agents]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Agents – Letter]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Agents – Tips and Tricks]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0" x="475"><![CDATA[Welcome On Board]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Poster (Non-Smoking)]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Des autorités montent à bord du navire. Un navire est accosté dans un port réputé pour la corruption. Le capitaine attend que les autorités montent à bord du navire. Le navire suit un calendrier serré à cause d’un retard dans le port précédent concernant la prise de bunker.Les autorités sanitaires sont les premières à monter à bord. Elles examinent attentivement les certificats sanitaires de l’équipage et les certificats de contrôle sanitaire du navire, à la recherche d’une erreur.</sndTxt>
+      <sndTxt>Le capitaine est préparé. Il a déjà informé l’agent portuaire de la politique de lutte contre la corruption de l’entreprise et de son adhésion au MACN. Des panneaux sont visibles sur la passerelle et il a respecté les consignes de l’entreprise concernant les mesures préventives. Il s’est assuré que les documents sanitaires sont parfaitement en ordre et ne comportent aucune violation technique ou grave.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 2: Case Study – Don’t Open the Floodgates  •  Officials Board the Ship]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic hotid="15" hot="S" y="180" x="478">Link_pdf.png</pic>
+      <pic hotid="16" hot="S" y="210" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="17" hot="S" y="270" x="478">Link_pdf.png</pic>
+      <pic hotid="18" hot="S" y="300" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="19" hot="S" y="360" x="478">Link_pdf.png</pic>
+      <pic hotid="20" hot="S" y="390" x="478">Link_pdf.png</pic>
+      <pic hotid="21" hot="S" y="420" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p2_s1.mp3</snd>
+      <snd wfs="T" preload="X">sc2_p2_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Officials Board the Ship]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[A ship is berthed in a port which is known for corruption. The Captain is waiting for the officials to embark the vessel. The ship is running on a tight schedule due to some delay in the previous port with bunker supply.The health authorities are the first ones to come on board, and they are looking at the Crew Health Certificates and Vessel Sanitation Certificate carefully, looking for anything which is out of line.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="3" delay="0" y="149"><![CDATA[The Captain is prepared. He has informed the agent in advance of the company’s anti-corruption policy and that they are an MACN member. He has signs visible at the gangway and he has followed the company's instructions on preventive measures. He has made sure the health documents are fully in order with no substantive or technical violations.]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="16" s="1" align="left" rpo="4" delay="0" y="149"><![CDATA[Guidance for Captains:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Captains – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Captains – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0" x="478"><![CDATA[Guidance for Agents]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Agents – Letter]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Agents – Tips and Tricks]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0" x="475"><![CDATA[Welcome On Board]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Poster (Non-Smoking)]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Officials Board the Ship. A ship is berthed in a port which is known for corruption. The Captain is waiting for the officials to embark the vessel. The ship is running on a tight schedule due to some delay in the previous port with bunker supply.The health authorities are the first ones to come on board, and they are looking at the Crew Health Certificates and Vessel Sanitation Certificate carefully, looking for anything which is out of line.</sndTxt>
+      <sndTxt>The Captain is prepared. He has informed the agent in advance of the company’s anti-corruption policy and that they are an MACN member. He has signs visible at the gangway and he has followed the company's instructions on preventive measures. He has made sure the health documents are fully in order with no substantive or technical violations.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 2 节： 案例研究 - 不要开先例  •  官员登船]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic hotid="22" hot="S" y="180" x="478">Link_pdf.png</pic>
+      <pic hotid="23" hot="S" y="210" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="24" hot="S" y="270" x="478">Link_pdf.png</pic>
+      <pic hotid="25" hot="S" y="300" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="26" hot="S" y="360" x="478">Link_pdf.png</pic>
+      <pic hotid="27" hot="S" y="390" x="478">Link_pdf.png</pic>
+      <pic hotid="28" hot="S" y="420" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p2_s1.mp3</snd>
+      <snd wfs="T" preload="X">sc2_p2_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[官员登船]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontsize="18" s="2" w="470" align="left" delay="0" y="149"><![CDATA[船停泊在一个以腐败著称的港口。船长正在等待官员们上船。由于前一个港口的燃料补给有些延误，这艘船有着紧凑的行程。最早上船的是卫生部门，他们正在仔细查看船员健康证书和船舶卫生证书，查找有无不符合规定的地方。]]></txt>
+      <txt c="X" fontsize="18" s="2" w="470" align="left" rpo="3" delay="0" y="149"><![CDATA[船长已经做好了准备。他已经提前告诉代理公司的反腐败政策，并指出他们是 MACN 成员。他在通道布置了明显的标志，并且采用了公司对防范措施的指导。船长确保卫生材料完全合格，没有任何实质或技术方面的违规。]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="16" s="1" align="left" rpo="4" delay="0" y="149"><![CDATA[Guidance for Captains:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Captains – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Captains – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0" x="478"><![CDATA[Guidance for Agents]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Agents – Letter]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Agents – Tips and Tricks]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0" x="475"><![CDATA[Welcome On Board]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Poster (Non-Smoking)]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>官员登船。 船停泊在一个以腐败著称的港口。船长正在等待官员们上船。由于前一个港口的燃料补给有些延误，这艘船有着紧凑的行程。最早上船的是卫生部门，他们正在仔细查看船员健康证书和船舶卫生证书，查找有无不符合规定的地方。</sndTxt>
+      <sndTxt>船长已经做好了准备。他已经提前告诉代理公司的反腐败政策，并指出他们是 MACN 成员。他在通道布置了明显的标志，并且采用了公司对防范措施的指导。船长确保卫生材料完全合格，没有任何实质或技术方面的违规。</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 2: Caso práctico - No abra las compuertas  •  Los funcionarios suben a bordo del barco]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="150" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic hotid="36" hot="S" y="190" x="478">Link_pdf.png</pic>
+      <pic hotid="37" hot="S" y="220" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="38" hot="S" y="280" x="478">Link_pdf.png</pic>
+      <pic hotid="39" hot="S" y="310" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="40" hot="S" y="370" x="478">Link_pdf.png</pic>
+      <pic hotid="41" hot="S" y="400" x="478">Link_pdf.png</pic>
+      <pic hotid="42" hot="S" y="430" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p2_s1.mp3</snd>
+      <snd wfs="T" preload="X">sc2_p2_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Los funcionarios suben a bordo del barco]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="175"><![CDATA[Un barco está atracado en un puerto conocido por su corrupción. El capitán está esperando a que los funcionarios suban al barco. El calendario del barco ya está ajustado debido a un retraso del suministro de combustible en el puerto anterior.Las autoridades del sector de la salud son las primeras en subir a bordo y están revisando cuidadosamente los certificados de salud de la tripulación y el certificado de saneamiento de los buques, buscando cualquier cosa que esté fuera de lugar.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="3" delay="0" y="175"><![CDATA[El capitán está preparado y ha informado previamente al agente de la política anticorrupción de la compañía y de que es miembro de la MACN. Tiene señales visibles en la pasarela y ha seguido las instrucciones de la compañía sobre medidas preventivas. Se ha asegurado de que los documentos de salud estén completamente en orden sin violaciones importantes o técnicas.]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="16" s="1" align="left" rpo="4" delay="0" y="159"><![CDATA[Guidance for Captains:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Captains – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Captains – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0" x="478"><![CDATA[Guidance for Agents]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Agents – Letter]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Agents – Tips and Tricks]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0" x="475"><![CDATA[Welcome On Board]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Poster (Non-Smoking)]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Los funcionarios suben a bordo del barco. Un barco está atracado en un puerto conocido por su corrupción. El capitán está esperando a que los funcionarios suban al barco. El calendario del barco ya está ajustado debido a un retraso del suministro de combustible en el puerto anterior. Las autoridades del sector de la salud son las primeras en subir a bordo y están revisando cuidadosamente los certificados de salud de la tripulación y el certificado de saneamiento de los buques, buscando cualquier cosa que esté fuera de lugar.</sndTxt>
+      <sndTxt>El capitán está preparado y ha informado previamente al agente de la política anticorrupción de la compañía y de que es miembro de la MACN. Tiene señales visibles en la pasarela y ha seguido las instrucciones de la compañía sobre medidas preventivas. Se ha asegurado de que los documentos de salud estén completamente en orden sin violaciones importantes o técnicas.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 2: Изучение конкретной ситуации — Не выпускайте джинна из бутылки  •  Посещение судна чиновниками]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic hotid="50" hot="S" y="190" x="478">Link_pdf.png</pic>
+      <pic hotid="51" hot="S" y="220" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="52" hot="S" y="280" x="478">Link_pdf.png</pic>
+      <pic hotid="53" hot="S" y="310" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="54" hot="S" y="370" x="478">Link_pdf.png</pic>
+      <pic hotid="55" hot="S" y="400" x="478">Link_pdf.png</pic>
+      <pic hotid="56" hot="S" y="430" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p2_s1.mp3</snd>
+      <snd wfs="T" preload="X">sc2_p2_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" w="500" align="left" delay="0" y="74" x="478"><![CDATA[Судно пришвартовано в порту,]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Судно пришвартовано в порту, в котором распространена коррупция. Капитан ждет прибытия на борт чиновников. У судна напряженный график из-за задержек с бункеровкой в предыдущем порту.Первыми на борт поднимаются инспекторы санитарно-эпидемиологической службы. Они тщательно проверяют медицинские свидетельства членов экипажа и свидетельство о прохождении судном санитарного контроля, стараясь найти несоответствия.]]></txt>
+      <txt c="X" s="2" w="470" align="left" rpo="3" delay="0" y="149"><![CDATA[Капитан подготовлен. Он заранее сообщил агенту об антикоррупционной политике компании и ее членстве в MACN. Капитан разместил таблички на видном месте рядом с трапом и принял превентивные меры согласно инструкциям компании. Капитан позаботился о том, чтобы все медицинские документы были в полном порядке и соответствовали требованиям по форме и содержанию.]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="16" s="1" align="left" rpo="4" delay="0" y="159"><![CDATA[Guidance for Captains:]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Captains – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Captains – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0" x="478"><![CDATA[Guidance for Agents]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Agents – Letter]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Guidance for Agents – Tips and Tricks]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0" x="475"><![CDATA[Welcome On Board]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0" x="520"><![CDATA[•  Welcome On Board – Poster (Non-Smoking)]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Посещение судна чиновниками. Судно пришвартовано в порту, в котором распространена коррупция. Капитан ждет прибытия на борт чиновников. У судна напряженный график из-за задержек с бункеровкой в предыдущем порту.Первыми на борт поднимаются инспекторы санитарно-эпидемиологической службы. Они тщательно проверяют медицинские свидетельства членов экипажа и свидетельство о прохождении судном санитарного контроля, стараясь найти несоответствия.</sndTxt>
+      <sndTxt>Капитан подготовлен. Он заранее сообщил агенту об антикоррупционной политике компании и ее членстве в MACN. Капитан разместил таблички на видном месте рядом с трапом и принял превентивные меры согласно инструкциям компании. Капитан позаботился о том, чтобы все медицинские документы были в полном порядке и соответствовали требованиям по форме и содержанию.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 2: دراسة حالة - لا تفتح الباب على مصراعيه  •  صعود المسؤولين إلى متن السفينة]]></title>
+    <pics>
+      <pic noFade="X" y="70" x="0">sc2_p1.png</pic>
+      <pic noFade="X" y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic hotid="57" hot="S" y="180" x="478">Link_pdf.png</pic>
+      <pic hotid="58" hot="S" y="210" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="59" hot="S" y="270" x="478">Link_pdf.png</pic>
+      <pic hotid="60" hot="S" y="300" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+      <pic hotid="61" hot="S" y="360" x="478">Link_pdf.png</pic>
+      <pic hotid="62" hot="S" y="390" x="478">Link_pdf.png</pic>
+      <pic hotid="63" hot="S" y="420" x="478">Link_pdf.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc2_p2_s1.mp3</snd>
+      <snd wfs="T" preload="X">sc2_p2_s2.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="478"><![CDATA[ صعود المسؤولين إلى متن السفينة]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0" y="149"><![CDATA[ترسو السفينة في ميناء معروف بالفساد، ومن ثم ينتظر القبطان صعود المسؤولين إلى متن السفينة. تعمل السفينة وفقًا لجدول زمني ضيق نظرًا لتأخرها في الميناء السابق للتزود بالوقود.الهيئات الصحية هي أول من يصعد إلى متن السفينة، حيث يفحصون الشهادات الصحية لطاقم السفينة والشهادة الصحية للسفينة بعناية بحثًا عن أي شيء يخالف القواعد المقررة.]]></txt>
+      <txt c="X" fontsize="16" s="2" w="450" align="left" rpo="3" delay="0" y="149"><![CDATA[يكون القبطان حينها مستعدًا، فقد أبلغ الوكيل مسبقًا بسياسة مكافحة الفساد المتبعة في الشركة، وأنها عضو في شبكة مكافحة الفساد في البحار، وقد وضع لوحات في مكان مرئي للجميع على سلم السفينة، واتبع تعليمات الشركة الخاصة بالتدابير الوقائية، كما أنه قد تأكد من أن المستندات الصحية سليمة تمامًا ولم يرد بها أي انتهاكات جسيمة أو فنية.]]></txt>
+      <txt c="X" fontcolor="c3000a" fontsize="16" s="1" w="450" align="left" rpo="4" delay="0" y="149" x="478"><![CDATA[Guidance for Captains]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[•  Guidance for Captains – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[•  Guidance for Captains – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0"><![CDATA[Guidance for Agents]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[•  Guidance for Agents – Letter]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[•  Guidance for Agents – Tips and Tricks]]></txt>
+      <txt c="X" swp="X" fontcolor="c3000a" fontsize="16" s="1" align="left" delay="0"><![CDATA[Welcome On Board]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[•  Welcome On Board – Poster]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[•  Welcome On Board – Leaflet]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" s="2" align="left" delay="0"><![CDATA[•  Welcome On Board – Poster (Non-Smoking)]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages>
+    <page id="1">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="2">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-poster.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="3">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_letter.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="4">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_tips.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="5">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_print.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="6">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="7">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_non-smoking.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="8">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="9">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-poster.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="10">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_letter.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="11">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_tips.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="12">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_print.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="13">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="14">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_non-smoking.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="15">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="16">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-poster.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="17">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_letter.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="18">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_tips.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="19">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_print.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="20">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="21">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_non-smoking.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="22">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="23">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-poster.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="24">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_letter.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="25">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_tips.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="26">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_print.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="27">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="28">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_non-smoking.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="36">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="37">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-poster.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="38">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_letter.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="39">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_tips.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="40">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_print.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="41">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="42">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_non-smoking.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="50">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="51">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-poster.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="52">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_letter.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="53">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_tips.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="54">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_print.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="55">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="56">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_non-smoking.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="57">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="58">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_captains-poster.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="59">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_letter.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="60">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="guidance_for_agents_tips.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="61">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_print.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="62">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_leaflet.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+    <page id="63">
+      <template mode="default" pm="standard">doc.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic altDoc="welcome_on_board_poster_non-smoking.pdf">
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+      </soundTexts>
+    </page>
+  </subpages>
+</pages>

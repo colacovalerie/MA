@@ -1,0 +1,56 @@
+<section id="q1"  class="sg-page">
+
+   <div  ng-if="visible" id="question-container"
+         ng-class="{'dynamic-position':dynamicPositioning}">
+        <img class="poItem"
+             ng-if="picture.src"
+             ng-style="processPic(picture)"
+             ng-src="{{picture.src}}"
+            draggable="false">
+        <div class="poItem poText"
+             ng-if="showPOItem(question)"
+             id="q1QuestionText"
+             ng-class="{'dynamic-position':dynamicPositioning}"
+             ng-style="processText(question)">{{question.text}}</div>
+              
+        <label class="answerLabel poText mouseActive "
+               ng-repeat="answ in shuffledAnswers track by $index"
+               ng-style="processText(answ, $index)"
+               ng-class="{
+                   'dynamic-position':dynamicPositioning,
+                    'control--radio':oneAnswer,
+                    'control--checkbox':!oneAnswer,
+                    'correct':showAnswer && answ.correctAnsw,
+                    'incorrect':showAnswer && !answ.correctAnsw,
+                    'disabled':answerChecked}">{{answ.text}}
+            <input ng-if="oneAnswer" type="radio"
+                    name="sgAnswer"
+                   ng-model="answersModel.index" ng-change="answerChanged()"
+                   ng-value="answ.index"
+                   ng-disabled="answerChecked || anwsersBlocked">
+            <input ng-if="!oneAnswer" type="checkbox" ng-model="answersModel.index[answ.index]"
+                   ng-change="answerChanged()"
+                   ng-value="answ.index"
+                   ng-disabled="answerChecked || anwsersBlocked"><div
+                    class="control__indicator"
+                    ng-class="{
+                        'control__indicator':oneAnswer,
+                        'control__indicator-no-one-answer':!oneAnswer,
+                        'control__indicator__mobile':$root.mobile,
+                        }"
+                    ></div></label>
+
+        <div class="poItem feedback-container"
+             ng-class="{'dynamic-position':dynamicPositioning}"
+             ng-style="feedbacksContStyle">
+            <div class="feedbackText" ng-class="{'poItem':positionedFeedbacks}" ng-repeat="feedback in feedbacks track by $index"
+                 ng-style="processText(feedback)"
+            >{{feedback.text}}</div>
+        </div>
+    </div>
+    <page-title></page-title>
+
+
+    <subtitles></subtitles>
+
+</section>

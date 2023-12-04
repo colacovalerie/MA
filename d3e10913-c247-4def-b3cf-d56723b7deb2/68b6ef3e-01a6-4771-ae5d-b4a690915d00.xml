@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="68b6ef3e-01a6-4771-ae5d-b4a690915d00" chapterId="6c5322dc-cc15-4f35-99b9-4c5fc39a77cd" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">If you promise to pay for the foreign government official’s dinner in an expensive restaurant, in order to gain business advantages to which you would not otherwise be entitled.
+
+How would that be considered?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="6" align="left">A facilitation payment</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="90" align="left">A bribe</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="38" align="left">Business as usual, not a criminal offence</txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Vous promettez de payer le dîner d’un fonctionnaire étranger dans un restaurant haut de gamme, afin d’en tirer des avantages commerciaux auxquels vous n’auriez pas droit autrement.
+
+Comment cela serait-il considéré?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="92" align="left">Un paiement de facilitation</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="48" align="left">Un pot-de-vin</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="38" align="left">Une affaire courante, pas un délit</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">如果您许诺在一家昂贵的餐馆为外国官员支付餐费，以期获得原本无权获得的商业利益。
+
+这会被视为何种行为？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="28" align="left">便利费</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="66" align="left">贿赂</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="102" align="left">正常商业往来，不是刑事犯罪</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Si promete pagar la cena del funcionario gubernamental extranjero en un restaurante caro, para obtener ventajas comerciales a las que de otro modo no tendría derecho.
+
+¿Qué se consideraría eso?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="16" align="left">Pago para la simplificación de trámites</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="98" align="left">Soborno</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="80" align="left">El desarrollo normal de la actividad, no es un delito penal</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Если вы обещаете должностному лицу иностранного государства оплатить ужин в дорогом ресторане с целью получения коммерческих преимуществ, на которые в противном случае вы не имеете права.
+
+Это рассматривается как…</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="54" align="left">Вознаграждение за оказание содействия</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="6" align="left">Взятка</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="90" align="left">Обычная практика в бизнесе, ничего противозаконного</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd wfs="T" />
+      <snd wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">إذا وعدت بدفع ثمن عشاء مسؤول حكومي أجنبي في مطعم فاخر بغرض الحصول على مزايا تجارية لا يحق لك الحصول عليها بخلاف ذلك.
+
+ما المصطلح الذي يصف هذه الجملة؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="92" align="left">مدفوعات التسهيل</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="14" align="left">الرشوة</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="24" align="left">أسلوب العمل المعتاد وليس جريمة جنائية</txt>
+      <txt c="X" crct="I" align="left" />
+      <txt c="X" crct="C" align="left" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

@@ -1,0 +1,123 @@
+<section id="devPanel">
+    <div id="trigger" keypress-events
+         hm-tap="debugToggle()"
+         hm-swipe="debugToggle()"
+         hm-recognizer-options='[{"type":"tap","taps":5, "pointers":1},{"type":"swipe", "pointers":2}]'
+            >
+        <div id="toolbar-trigger"></div>
+    </div>
+
+    <div ng-if="devPanelVisible" class="content" ng-class="{'minimized':debugMinimized}">
+        <div id="hide-debug-btn"
+             class="btn btn-warning" hm-tap="hideDev()"><span class="glyphicon glyphicon-remove"></span>{{debugMinimized ? '':'Close Debug'}}</div>
+        <div id="minimize-debug-btn"
+             class="btn btn-primary" hm-tap="minimizeDevToggle()" title="Keyboard: Ctrl+M">
+            <span class="glyphicon" ng-class="{'glyphicon-chevron-up':!debugMinimized,'glyphicon-chevron-down':debugMinimized}"></span> {{debugMinimized ? '':'Minimize'}}
+        </div>
+        <div ng-hide="debugMinimized" id="minimizableContent">
+            <div id="moduleInfo" class="devField">
+                <div class="filedLabel"> Build: {{mainData.build}}</div>
+                <div class="filedLabel"> Lang: {{session.level}}</div>
+                <div class="filedLabel" ng-show="chapter.id" title="{{chapter.id}}"> Chapter: <span class="mouseActive"
+                                                                               style="cursor: default">{{chapter.num}}</span>
+                </div>
+                <div class="filedLabel" ng-show="getPageIndex(page.id)" title="{{page.id}}"> Editor page no: <span class="mouseActive" style="cursor: default">{{getPageIndex(page.id)}}</span></div>
+                <div class="filedLabel" ng-show="getQuestIndex(page.id)" title="{{page.id}}"> Editor question no: <span class="mouseActive" style="cursor: default">{{getQuestIndex(page.id)}}</span></div>
+                <div class="filedLabel"> Total time: <span>{{totalTime}}</span></div>
+                <div class="filedLabel"> Active time: <span>{{activeTime}}</span></div>
+
+                <div ng-hide="mobile" id="mouse-info">
+                    <div class="filedLabel"> Mouse:</div>
+                    <div class="filedLabel"> x: <span class="fieldValue">{{mouseXPos}}</span></div>
+                    <div class="filedLabel"> y: <span class="fieldValue">{{mouseYPos}}</span></div>
+                </div>
+            </div>
+            <div ng-class="{'not-visible':!$root.chapter || previewMode}"
+                 id="jump-to-page" class="devField">
+                <div class="filedLabel">Jump to page:
+                    <form ng-submit="jumpToPage()" style="display: inline;">
+                        <input type="number" inputmode="numeric" pattern="\d*"
+                               title="Page no"
+                               style="min-width: 50px;max-width: 60px;line-height: 20px;min-height: 28px"
+                               min="1" max="{{$root.pagesOrder.length}}"
+                               ng-model="pageTarget.value">
+                    </form>
+                    <div class="fieldValue btn-group">
+                        <div class="btn btn-default btn-sm" hm-tap="jumpToPage()">Go!</div>
+                        <div class="btn btn-default btn-sm glyphicon glyphicon-list"  hm-tap="toggleList()"></div>
+                    </div>
+
+                </div>
+            </div>
+            <div id="all-questions" class="devField" ng-class="{'not-visible':previewMode}">
+                <div class="filedLabel">Show all chapter questions
+                    <div class="fieldValue">
+                        <div class="material-switch"
+                             ng-class="{'pull-right':!showAllQuestions.value,'pull-left':showAllQuestions.value }">
+                            <input id="showAllQuestionsSwitch" name="showAllQuestionsSwitch" type="checkbox"
+                                   ng-model="showAllQuestions.value" ng-change="allQuestionsChange()"/>
+                            <label for="showAllQuestionsSwitch" class="label-default"></label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="correct-answers" class="devField">
+                <div class="filedLabel">Show correct answers
+                    <div class="fieldValue">
+                        <div class="material-switch"
+                             ng-class="{'pull-right':!showCorrectAnswers.value,'pull-left':showCorrectAnswers.value }">
+                            <input id="showCorrectAnswersSwitch" name="showCorrectAnswersSwitch" type="checkbox"
+                                   ng-model="showCorrectAnswers.value" ng-change="correctAnswersChange()"/>
+                            <label for="showCorrectAnswersSwitch" class="label-default"  title="Keyboard: C"></label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="fast-forward" class="devField">
+                <div class="filedLabel">Fast forward
+                    <div class="fieldValue">
+                        <div class="material-switch"
+                             ng-class="{'pull-right':!fastForward.value,'pull-left':fastForward.value }">
+                            <input id="fastForwardSwitch" name="fastForwardSwitch" type="checkbox"
+                                   ng-model="fastForward.value" ng-change="toggleFastForward()"/>
+                            <label for="fastForwardSwitch" class="label-default" title="Keyboard: F"></label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="force-step-mode" class="devField">
+                <div class="filedLabel">Force Step Mode
+                    <div class="fieldValue">
+                        <div class="material-switch"
+                             ng-class="{'pull-right':!forceStepMode.value,'pull-left':forceStepMode.value }">
+                            <input id="forceStepModeSwitch" name="forceStepModeSwitch" type="checkbox"
+                                   ng-model="forceStepMode.value" ng-change="toggleForceStepMode()"/>
+                            <label for="forceStepModeSwitch" class="label-default" title="Keyboard: S"></label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div ng-class="{'not-visible':!(page.template == TEMPLATES.TMP_01 || page.template == TEMPLATES.VID)}"
+                 id="nextPO" class="devField">
+                <div class="filedLabel">PO ({{debugCurrStep}}/{{debugNumSteps}}):
+                    <div class="btn btn-default fieldValue glyphicon glyphicon-chevron-right"
+                         ng-class="{'disabled':debugNumSteps == debugCurrStep || fastForward.value}"
+                         hm-tap="debugNextPO()" title="Keyboard: &rarr;"></div>
+                    <div class="btn btn-default fieldValue glyphicon glyphicon-chevron-left"
+                         ng-class="{'disabled':debugCurrStep <= 1 || fastForward.value}"
+                         hm-tap="debugPrevPO()" title="Keyboard: &larr;"></div>
+                </div>
+
+            </div>
+            <div class="devField minor">
+                While in debug you can also use following shortcuts:
+                <div>Play/Pause (<span class="glyphicon" ng-class="{'glyphicon-play':debugPaused,'glyphicon-pause':!debugPaused}">)</span><div class="fieldValue">SPACE</div></div>
+                <div>Next/Prev Page <div class="fieldValue">PgDn/PgUp</div></div>
+            </div>
+        </div>
+        <div ng-hide="debugMinimized || !pageTitles"  id="dev-ListOfContent">
+                <div class="btn btn-link btn-xs btn-block" style="text-align:left; padding-left:6px" ng-repeat="title in pageTitles track by $index"
+                hm-tap="pageTitleSelected($index)">{{title}}</div>
+        </div>
+    </div>
+</section>

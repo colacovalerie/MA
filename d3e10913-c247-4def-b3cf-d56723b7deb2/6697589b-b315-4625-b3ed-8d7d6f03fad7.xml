@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="6697589b-b315-4625-b3ed-8d7d6f03fad7" chapterId="6a82788d-cd38-4f6f-b039-e7049ee2de1f" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">The Captain is about to arrive in the port of a high-risk country. What measures should the Captain take to prevent corruption risks in the port?</txt>
+      <txt c="X" s="2" delay="0" crct="64" align="left">Post anti-corruption signs at the gangway and in the office so they are clearly visible for visitors</txt>
+      <txt c="X" s="2" delay="0" crct="99" align="left">Double-check all documentation in advance, have all the documents ready and in order to present</txt>
+      <txt c="X" s="2" delay="0" crct="32" align="left">Make sure to ask the agent about relevant local requirements and comply with them</txt>
+      <txt c="X" s="2" delay="0" crct="80" align="left">All of the above</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Le capitaine s’apprête à faire escale dans le port d’un pays présentant un risque élevé de corruption. Quelles mesures le capitaine doit-il prendre pour éviter des risques de corruption dans le port?</txt>
+      <txt c="X" s="2" delay="0" crct="94" align="left">Placer des panneaux pour la lutte contre la corruption sur la passerelle et dans le bureau pour que ceux-ci soient clairement visibles aux visiteurs.</txt>
+      <txt c="X" s="2" delay="0" crct="37" align="left">Vérifier tous les documents à l’avance et les avoir prêts et en règle pour être présentés.</txt>
+      <txt c="X" s="2" delay="0" crct="68" align="left">Ne pas manquer de se renseigner auprès de l’agent portuaire sur les exigences locales à connaître et s’y conformer.</txt>
+      <txt c="X" s="2" delay="0" crct="50" align="left">Toutes les réponses ci-dessus</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">船长将到达一个高风险国家的港口。船长应该采取哪些措施防范该港口的腐败风险？</txt>
+      <txt c="X" s="2" delay="0" crct="6" align="left">在通道和办公场所张贴反腐败标志，让来宾可以清楚地看到</txt>
+      <txt c="X" s="2" delay="0" crct="95" align="left">提前复查所有材料并做好呈递准备</txt>
+      <txt c="X" s="2" delay="0" crct="20" align="left">确保向代理询问当地的要求并遵守这些要求</txt>
+      <txt c="X" s="2" delay="0" crct="38" align="left">以上都是</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">El capitán está a punto de llegar al puerto de un país de alto riesgo. ¿Qué medidas debería tomar el capitán para prevenir los riesgos de corrupción en el puerto?</txt>
+      <txt c="X" s="2" delay="0" crct="66" align="left">Coloque carteles anticorrupción en la pasarela y en la oficina para que estén claramente visibles para los visitantes.</txt>
+      <txt c="X" s="2" delay="0" crct="15" align="left">Revise con antelación toda la documentación, tenga todos los documentos listos y preparados para presentarlos.</txt>
+      <txt c="X" s="2" delay="0" crct="98" align="left">No se olvide de preguntar al agente acerca de los requisitos locales pertinentes y cúmplalos.</txt>
+      <txt c="X" s="2" delay="0" crct="100" align="left">Todas las opciones anteriores</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Судно прибывает в порт страны с высокими коррупционными рисками. Какие меры должен предпринять капитан, чтобы предотвратить коррупционные риски в порту?</txt>
+      <txt c="X" s="2" delay="0" crct="26" align="left">Разместить антикоррупционные таблички рядом с трапом и в офисе так, чтобы их было хорошо видно посетителям</txt>
+      <txt c="X" s="2" delay="0" crct="93" align="left">Заранее перепроверить и привести в порядок всю документацию и быть готовым предъявить ее</txt>
+      <txt c="X" s="2" delay="0" crct="28" align="left">Выяснить у агента применимые местные требования и соблюдать их</txt>
+      <txt c="X" s="2" delay="0" crct="62" align="left">Все указанное выше</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" notRandomized="X" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">القبطان على وشك الوصول إلى ميناء بلد شديد الخطورة، ما هي الإجراءات التي يجب على القبطان اتخاذها لمنع مخاطر الفساد في الميناء؟</txt>
+      <txt c="X" s="2" delay="0" crct="66" align="left">ضع لوحات مكافحة الفساد في الممرات وفي المكاتب بحيث تكون مرئية للزوار بوضوح</txt>
+      <txt c="X" s="2" delay="0" crct="85" align="left">تحقق مرة أخرى من جميع الوثائق مسبقًا، وقم بترتيب جميع الوثائق وجعلها جاهزة للتقديم</txt>
+      <txt c="X" s="2" delay="0" crct="6" align="left">تأكد من سؤال الوكيل عن الاشتراطات المحلية ذات الصلة والامتثال لها</txt>
+      <txt c="X" s="2" delay="0" crct="78" align="left">جميع ما سبق</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

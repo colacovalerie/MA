@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="90dd8833-3c40-4220-824c-90f4d88cb3fd" chapterId="a568884f-0a4f-45dd-93da-613fbf74279e" sgxmlv="1.2" qq="off">
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Un navire est à quai et l’agent portuaire appelle la société et propose de verser un peu d’argent aux autorités sanitaires pour qu’elles passent outre l’erreur de calcul du médicament à bord du navire.
+
+La société peut-elle être tenue responsable si l’agent portuaire verse un peu d’argent aux autorités sanitaires?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="3" align="left">Oui, il s’agit d’un pot-de-vin.</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="51" align="left">Oui, il s’agit d’un paiement de facilitation.</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="96" align="left">Non, la société ne peut pas être responsable.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="EN">
+    <template alignTxt="left" notRandomized="" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd />
+      <snd />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">A ship is at berth and the agent calls the company and offers to pay some money to the health authorities so that they forget about miscalculation of the medicine on board the ship.
+
+Can the company be liable if the agent gives some money to the health authorities?</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="35" align="left">Yes, it is a bribe</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="85" align="left">Yes, it is a facilitation payment</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="16" align="left">No, the company cannot be responsible</txt>
+      <txt c="X" crct="I" />
+      <txt c="X" crct="C" />
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">船停泊在泊位上，代理与公司联系，提到要给卫生局一些好处费，以便他们不追究船上药品量的误算错误。
+
+如果代理给卫生局好处费，公司要对此负责吗？</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="79" align="left">是，这是贿赂</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="59" align="left">是，这是便利费</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="64" align="left">否，公司不对此负责</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Un barco está atracado y el agente llama a la compañía y le ofrece pagar un dinero a las autoridades sanitarias para que se olviden de los errores de cálculo de medicamentos a bordo del barco.
+
+¿La compañía puede ser responsable si el agente paga un dinero a las autoridades del sector de la salud?</txt>
+      <txt c="X" s="2" delay="0" crct="47" align="left">Sí, es un soborno.</txt>
+      <txt c="X" s="2" delay="0" crct="63" align="left">Sí, es un pago para la simplificación de trámites.</txt>
+      <txt c="X" s="2" delay="0" crct="58" align="left">No, la compañía no puede ser responsable.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">Судно стоит на причале. Агент звонит в компанию и предлагает дать денег инспекторам санитарно-эпидемиологической службы, чтобы они закрыли глаза на несоответствия в учете лекарств на борту судна.
+
+Будет ли компания нести ответственность, если агент даст денег инспекторам санитарно-эпидемиологической службы?</txt>
+      <txt c="X" s="2" delay="0" crct="29" align="left">Да, это взятка</txt>
+      <txt c="X" s="2" delay="0" crct="79" align="left">Да, это вознаграждение за оказание содействия</txt>
+      <txt c="X" s="2" delay="0" crct="84" align="left">Нет, компания не несет ответственности</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">q1.swf</template>
+    <title />
+    <pics>
+      <pic />
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+    </sounds>
+    <texts>
+      <txt c="X" a="X" r="X" s="2" w="850" x="40" y="80" delay="0" pt="1" e="-3" align="left">عندما تكون السفينة في المرسى، ويتصل الوكيل بالشركة، ويعرض دفع بعض الأموال للهيئات الصحية لكي يتغاضوا عن الخطأ في حسابات الأدوية الموجودة على متن السفينة،
+
+هل يمكن أن تكون الشركة مسؤولة عندما يقدم الوكيل بعض الأموال للهيئات الصحية؟</txt>
+      <txt c="X" s="2" y="200" delay="0" crct="57" align="left">نعم، فإن هذا التصرف يُعد رشوة</txt>
+      <txt c="X" s="2" y="260" delay="0" crct="3" align="left">نعم، لأنها مدفوعات تسهيل</txt>
+      <txt c="X" s="2" y="320" delay="0" crct="18" align="left">لا، لا يمكن أن تكون الشركة مسؤولة عن ذلك</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

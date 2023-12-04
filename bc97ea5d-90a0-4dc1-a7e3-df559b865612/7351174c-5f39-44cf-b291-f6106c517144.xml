@@ -1,0 +1,251 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="7351174c-5f39-44cf-b291-f6106c517144">
+  <page level="EN">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Course Description]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p3.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic preload="X" y="390" x="478">sc1_p3_ramka.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p3.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Course Description]]></txt>
+      <txt c="X" swp="X" fontsize="13" s="2" w="470" align="left" delay="0" y="149"><![CDATA[This course will give you a better understanding of corruption and key concepts within international anti-corruption laws.It will also show you some typical scenarios that you might encounter as well as give you tips on how to act in order to increase your bargaining power, helping you to stand your ground and be a leader.Through this training, we hope to give you the tools to better address challenging situations and to come closer to achieving a maritime industry free of corruption.The aim of the course is also to encourage employees to work together and improve their communication lines when tackling maritime corruption. The course will take approximately 25 minutes to complete.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="1" align="left" delay="0" y="400" x="530"><![CDATA[Test Assessment]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[At the end of the course there will be a test, so please payattention!]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Course Description. This course will give you a better understanding of corruption and key concepts within international anti-corruption laws. It will also show you some typical scenarios that you might encounter as well as give you tips on how to act in order to increase your bargaining power, helping you to stand your ground and be a leader. Through this training, we hope to give you the tools to better address challenging situations and to come closer to achieving a maritime industry free of corruption. The aim of the course is also to encourage employees to work together and improve their communication lines when tackling maritime corruption. The course will take approximately 25 minutes to complete. Test Assessment At the end of the course there will be a test, so please pay attention!</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Description de la formation]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p3.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic preload="X" y="415" x="478">sc1_p3_r_fr.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p3.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Description de la formation]]></txt>
+      <txt c="X" swp="X" fontsize="12" s="2" w="475" align="left" delay="0" y="149"><![CDATA[La présente formation vous permettra de mieux comprendre ce qu’est la corruption et d’appréhender des concepts fondamentaux en matière de lois anticorruption internationales.Quelques scénarios typiques auxquels vous pourriez faire face vous seront également présentés. En outre, vous recevrez des conseils sur la façon d’agir pour améliorer votre pouvoir de négociation, pour vous aider à rester sur vos positions et être un leader.Grâce à cette formation, nous espérons vous donner les outils pour mieux gérer les situations difficiles et nous rapprocher de l’objectif d’un secteur maritime dépourvu de toute forme de corruption.Le but de cette formation est également d’encourager les employés à travailler ensemble et à améliorer les lignes de communication lorsqu’il s’agit de s’attaquer à la corruption dans le secteur maritime. Cette formation prendra environ 25 minutes.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0" y="425" x="530"><![CDATA[Contrôle des connaissances]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[La formation se terminera par un test, soyez donc attentifs !]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Description de la formation. La présente formation vous permettra de mieux comprendre ce qu’est la corruption et d’appréhender des concepts fondamentaux en matière de lois anticorruption internationales. Quelques scénarios typiques auxquels vous pourriez faire face vous seront également présentés. En outre, vous recevrez des conseils sur la façon d’agir pour améliorer votre pouvoir de négociation, pour vous aider à rester sur vos positions et être un leader. Grâce à cette formation, nous espérons vous donner les outils pour mieux gérer les situations difficiles et nous rapprocher de l’objectif d’un secteur maritime dépourvu de toute forme de corruption. Le but de cette formation est également d’encourager les employés à travailler ensemble et à améliorer les lignes de communication lorsqu’il s’agit de s’attaquer à la corruption dans le secteur maritime. Cette formation prendra environ 25 minutes. Contrôle des connaissances. La formation se terminera par un test, soyez donc attentifs !</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 1 节： 简介  •  课程说明]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p3.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic preload="X" y="370" x="478">sc1_p3_ramka.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p3.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[课程说明]]></txt>
+      <txt c="X" swp="X" fontsize="15" s="2" w="470" align="left" delay="0" y="149"><![CDATA[
+本课程让您更好地了解腐败和国际反腐败法中的关键概念。
+
+它还将向您展示一些您可能遇到的典型情况，并给您一些建议，告诉您如何采取行动来提高谈判能力，帮助您坚持立场，做出表率。
+
+我们希望经过这次培训，您可以更好地应对困难的情况，为实现海事行业零腐败的目标贡献力量。
+
+本课程还希望能促进员工更好地沟通，以便同心协力处理海事腐败行为。完成本课程大约需要 25 分钟。]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="18" s="1" align="left" delay="0" y="380" x="530"><![CDATA[测验评估]]></txt>
+      <txt c="X" swp="X" fontsize="15" s="2" align="left" delay="0"><![CDATA[请注意，课程结束后会有测验！]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+本课程让您更好地了解腐败和国际反腐败法中的关键概念。
+
+它还将向您展示一些您可能遇到的典型情况，并给您一些建议，告诉您如何采取行动来提高谈判能力，帮助您坚持立场，做出表率。
+
+我们希望经过这次培训，您可以更好地应对困难的情况，为实现海事行业零腐败的目标贡献力量。
+
+本课程还希望能促进员工更好地沟通，以便同心协力处理海事腐败行为。完成本课程大约需要 25 分钟。
+
+测验评估
+
+请注意，课程结束后会有测验！</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 1  •  وصف الدورة التدريبية]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p3.png</pic>
+      <pic preload="X" y="125" x="860">kreska-cz.jpg</pic>
+      <pic preload="X" y="410" x="478">sc1_p3_r_ar.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p3.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="1" align="right" delay="0" y="74" x="478"><![CDATA[وصف الدورة التدريبية]]></txt>
+      <txt c="X" swp="X" fontsize="15" s="2" w="470" align="right" delay="0" y="149" x="478"><![CDATA[تقدم لك هذه الدورة التدريبية فهمًا أفضل حول موضوع الفساد والمفاهيم الأساسية ضمن قوانين مكافحة الفساد الدولية،كما ستعرض لك بعض الاحتمالات المتكررة التي قد تواجها، وتقدم لك نصائح حول كيفية التصرف لزيادة قدرتك على التفاوض، وذلك لمساعدتك في الثبات على موقفك والتحلي بسمات القيادة.نأمل من خلال هذا المحتوى التدريبي أن نوفر لك الأدوات اللازمة لتحسين تعاملك مع المواقف الصعبة والاقتراب من تحقيق عمل خالٍ من الفساد في القطاع البحري.تهدف هذه الدورة التدريبية أيضًا إلى تشجيع الموظفين على التعاون وتحسين خطوط التواصل فيما بينهم عند التعامل مع حالات الفساد في البحار. سيستغرق إتمام هذه الدورة التدريبية 25 دقيقة تقريبًا.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="20" s="1" w="415" align="right" delay="0" y="420" x="530"><![CDATA[تقييم الاختبار]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="right" delay="0"><![CDATA[ستخضع للاختبار عند إتمام هذه الدورة التدريبية، ولذا يُرجى التركيز والانتباه!]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="standard" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 1: Introducción  •  Descripción del curso]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p3.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic preload="X" y="410" x="478">sc1_p3_ramka_russ.png</pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p3.mp3</snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Descripción del curso]]></txt>
+      <txt c="X" swp="X" fontsize="13" s="2" w="470" align="left" delay="0" y="140"><![CDATA[Este curso le ayudará a comprender mejor la corrupción y los conceptos clave dentro de las leyes internacionales anticorrupción.También le enseñará algunos escenarios típicos a los que podría enfrentarse y le dará consejos sobre cómo actuar para tener un mejor poder de negociación, además de ayudarle a mantenerse firme y ser un buen líder.A través de esta capacitación, esperamos darle las herramientas para abordar mejor las situaciones difíciles y estar más cerca de alcanzar un sector marítimo sin corrupción.El objetivo del curso es también animar a los empleados a que trabajen juntos y mejorar sus vías de comunicación a la hora de combatir la corrupción marítima. El curso tardará aproximadamente 25 minutos en completarse.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" align="left" delay="0" y="420" x="530"><![CDATA[Evaluación del examen]]></txt>
+      <txt c="X" swp="X" s="2" w="400" align="left" delay="0"><![CDATA[Al final del curso habrá un examen, así que le pedimos que preste atención.]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Descripción del curso. Este curso le ayudará a comprender mejor la corrupción y los conceptos clave dentro de las leyes internacionales anticorrupción.También le enseñará algunos escenarios típicos a los que podría enfrentarse y le dará consejos sobre cómo actuar para tener un mejor poder de negociación, además de ayudarle a mantenerse firme y ser un buen líder.A través de esta capacitación, esperamos darle las herramientas para abordar mejor las situaciones difíciles y estar más cerca de alcanzar un sector marítimo sin corrupción.El objetivo del curso es también animar a los empleados a que trabajen juntos y mejorar sus vías de comunicación a la hora de combatir la corrupción marítima. El curso tardará aproximadamente 25 minutos en completarse. Evaluación del examen. Al final del curso habrá un examen, así que le pedimos que preste atención.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 1: Введение  •  Описание курса]]></title>
+    <pics>
+      <pic y="70" x="0">sc1_p3.png</pic>
+      <pic preload="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic noDelay="X">
+      </pic>
+      <pic preload="X" y="245" x="478">sc1_p3_ramka_russ.png</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p3_a.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">sc1_p3_b.mp3</snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Описание курса]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+      <txt c="X" swp="X" s="2" w="470" align="left" delay="0" y="149"><![CDATA[Из этого курса вы получите более полное представление о коррупции и узнаете основные понятия, используемые в международном антикоррупционном законодательстве.Мы также продемонстрируем типичные ситуации, с которыми вы можете столкнуться, расскажем, как укрепить свою переговорную силу, и научим вас стоять на своем и быть лидером.Мы надеемся, что наши рекомендации помогут вам принимать более эффективные решения в сложных обстоятельствах и позволят снизить уровень коррупции в морской отрасли.]]></txt>
+      <txt c="X" s="2" align="left" rpo="3" delay="0" y="149"><![CDATA[Еще одна цель обучения — мотивировать работников морской отрасли к сотрудничеству и улучшению каналов связи, когда речь идет о борьбе с коррупцией в судоходстве. Прохождение курса займет около 25 минут.]]></txt>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="16" s="2" w="450" align="left" delay="0" y="250" x="530"><![CDATA[Тест]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[В конце курса вас ожидает тест, так что будьте внимательны!]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Описание курса. Из этого курса вы получите более полное представление о коррупции и узнаете основные понятия, используемые в международном антикоррупционном законодательстве.Мы также продемонстрируем типичные ситуации, с которыми вы можете столкнуться, расскажем, как укрепить свою переговорную силу, и научим вас стоять на своем и быть лидером.Мы надеемся, что наши рекомендации помогут вам принимать более эффективные решения в сложных обстоятельствах и позволят снизить уровень коррупции в морской отрасли.</sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>Еще одна цель обучения — мотивировать работников морской отрасли к сотрудничеству и улучшению каналов связи, когда речь идет о борьбе с коррупцией в судоходстве. Прохождение курса займет около 25 минут. Тест. В конце курса вас ожидает тест, так что будьте внимательны!</sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

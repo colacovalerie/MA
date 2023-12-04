@@ -1,0 +1,26 @@
+<div id="sgAlert" class="sgAlert" ng-class="{'shown':sgAlertCtrl.sgAlertShow}" role="dialog">
+    <div ng-class="{'modal-dialog-font__mobile':$root.mobile}" class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button ng-class="{'close__mobile':$root.mobile}" type="button" class="close" ng-disabled="sgAlertCtrl.userAnswered"
+                        hm-tap="closeWithX()">&times;</button>
+                <h4 ng-if="!$root.mobile" class="modal-title">{{sgAlertCtrl.alertHeader}}</h4>
+                <h3 ng-if="$root.mobile" class="modal-title">{{sgAlertCtrl.alertHeader}}</h3>
+            </div>
+            <div class="modal-body">
+                <p>{{sgAlertCtrl.alertMessage}}</p>
+            </div>
+            <div class="modal-footer">
+                <button ng-class="{'modal-dialog-font__mobile':$root.mobile}" type="button" class="btn btn-default" ng-disabled="sgAlertCtrl.userAnswered"
+                        ng-show="sgAlertCtrl.alertCallback" hm-tap="closeAlert()">{{sgAlertCtrl.btnLabels[0]}}</button>
+                <button ng-class="{'modal-dialog-font__mobile':$root.mobile}" type="button" class="btn btn-default" ng-disabled="sgAlertCtrl.userAnswered"
+                        ng-show="sgAlertCtrl.cancelCallback" hm-tap="cancelAlert()">{{sgAlertCtrl.btnLabels[1]}}</button>
+                <button ng-class="{'modal-dialog-font__mobile':$root.mobile}" type="button" class="btn btn-default" ng-disabled="sgAlertCtrl.userAnswered"
+                        ng-show="sgAlertCtrl.thirdCallback" hm-tap="alertThirdFunction()">{{sgAlertCtrl.btnLabels[2]}}</button>
+
+            </div>
+        </div>
+
+    </div>
+</div>

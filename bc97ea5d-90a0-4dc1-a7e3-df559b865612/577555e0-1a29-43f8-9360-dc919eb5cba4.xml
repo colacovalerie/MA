@@ -1,0 +1,931 @@
+﻿<pages sgxmlv="1.2" qq="off" guid="577555e0-1a29-43f8-9360-dc919eb5cba4">
+  <page level="EN">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Keep Calm]]></title>
+    <pics>
+      <pic hotid="1" hot="S" noFade="X" y="70" x="0">sc1_p12.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Keep Calm]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="149" x="478"><![CDATA[1. Ask the agent how official payments (fees, fines) are paid before speaking with government officials. This will help to avoid cash transactions and also show that you are aware of local requirements.]]></txt>
+      <txt c="X" swp="X" s="2" w="450" align="left" delay="0" x="478"><![CDATA[2. Where possible, get your company’s local manager or agents to inform the local authorities about your company’s anti-corruption policy. This action can prevent a demand later.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[3. Inform the agent in advance of your company’s anti-corruption policy, and of the fact that third parties acting on your company’s behalf must enforce the same rules.]]></txt>
+      <txt c="X" txtFade="X" s="2" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[4. Post anti-corruption signs at the gangway and in the office so they are clearly visible for visitors.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" rpo="3"><![CDATA[5. Collect data on corrupt demands. Share these internally.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" rpo="4" delay="0"><![CDATA[6. If relevant, check the charterer’s instruction on corruption, and especially on facilitation payments.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[7. In ports prone to corruption, assess if it is relevant to have a P&I club representative or protective agent on board when meeting with authorities.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[8. Finally, consider asking for an official fine letter and for a signed receipt.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+     <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Section 1: Introduction  •  Garder son calme]]></title>
+    <pics>
+      <pic hotid="2" hot="S" noFade="X" y="70" x="0">sc1_p12.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Garder son calme]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="149" x="478"><![CDATA[1. Demandez à l’agent portuaire comment s’effectuent les paiements officiels (frais, amendes) avant de vous entretenir avec les autorités gouvernementales. Cela permettra d’éviter des transactions en espèces et montrera également que vous avez connaissance des exigences locales.]]></txt>
+      <txt c="X" swp="X" s="2" w="450" align="left" delay="0" x="478"><![CDATA[2. Dans la mesure du possible, demandez au responsable local ou aux agents de votre entreprise d’informer les autorités locales de la politique de lutte contre la corruption de votre entreprise. Cette démarche peut vous permettre d’éviter toute demande future.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[3. Informez d’avance l’agent portuaire concernant la politique de lutte contre la corruption de votre société et sur le fait que les tiers agissant au nom de votre entreprise sont tenus d’appliquer les mêmes règles.]]></txt>
+      <txt c="X" txtFade="X" s="2" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[4. Affichez des panneaux anticorruption sur la passerelle et dans le bureau de manière à ce qu’ils soient clairement visibles pour les visiteurs.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" rpo="3"><![CDATA[5. Recueillez des données sur les demandes de pots-de-vin. Partagez-les en interne.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" rpo="4" delay="0"><![CDATA[6. Le cas échéant, vérifiez les consignes de l’affréteur en matière de corruption et particulièrement concernant les paiements de facilitation.
+]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[7. Dans les ports sujets à la corruption, évaluez la nécessité d’avoir à bord un représentant du club de protection et d’indemnité (club P&I) ou un agent de surveillance lorsque vous vous entretenez avec les autorités.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[8. Enfin, envisagez de demander un avis officiel d’amende et un accusé de réception signé.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[第 1 节： 简介  •  保持冷静]]></title>
+    <pics>
+      <pic hotid="3" hot="S" noFade="X" y="70" x="0">sc1_p12.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="28" s="1" align="left" delay="0" y="74" x="478"><![CDATA[保持冷静]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="1" align="left" delay="0" y="149" x="478"><![CDATA[1. 在与政府官员谈话前向代理了解向官方付费（费用、罚款）的方式。这会有助于避免现金交易，并表明您了解当地的要求。]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="1" w="450" align="left" delay="0" x="478"><![CDATA[2. 如果可能，让公司在当地的经理或代理向当地机构通告公司的反腐败政策。这一措施可以防止以后出现索贿要求。]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="1" align="left" delay="0"><![CDATA[3. 提前通知代理您公司的反腐败政策，并告之代表公司行事的第三方必须遵循同样的规则。]]></txt>
+      <txt c="X" txtFade="X" fontsize="16" s="1" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[4. 在通道和办公场所张贴反腐败标志，让来宾可以清楚地看到。]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="1" align="left" rpo="3"><![CDATA[5. 收集索贿要求的数据。在内部共享这些数据。]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="1" align="left" rpo="4" delay="0"><![CDATA[6. 如果相关，检查租船方关于腐败的说明，尤其是关于便利费的说明。]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="1" align="left" delay="0"><![CDATA[7. 在容易发生腐败的港口，与当局会晤时，评估是否需要在船上配备一名 P 和 I 俱乐部代表或起保护作用的代理。
+]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="1" align="left" delay="0"><![CDATA[8. 最后，考虑索要一封正式的罚款信和一张签字的收据。
+
+]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Sección 1: Introducción  •  Mantenga la calma]]></title>
+    <pics>
+      <pic hotid="5" hot="S" noFade="X" y="70" x="0">sc1_p12.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Mantenga la calma]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="149" x="478"><![CDATA[1. Pregunte al agente cómo se abonan los pagos oficiales (tasas, multas) antes de hablar con los funcionarios gubernamentales. Esto ayudará a evitar las transacciones en efectivo y también demostrará que usted está al tanto de los requisitos locales.]]></txt>
+      <txt c="X" swp="X" s="2" w="450" align="left" delay="0" x="478"><![CDATA[2. Siempre que sea posible, pida al superior o a los agentes locales de su compañía que informen a las autoridades locales sobre la política anticorrupción de su compañía. Hacer esto puede evitar una petición posterior.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[3. Informe con antelación al agente de la política anticorrupción de su compañía y de que los terceros que actúen en nombre de su compañía deben hacer cumplir las mismas normas.]]></txt>
+      <txt c="X" txtFade="X" s="2" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[4. Coloque carteles anticorrupción en la pasarela y en la oficina para que estén claramente visibles para los visitantes.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" rpo="3"><![CDATA[5. Recopile datos sobre peticiones corruptas. Compártalos internamente.
+]]></txt>
+      <txt c="X" swp="X" s="2" align="left" rpo="4" delay="0"><![CDATA[6. Si es pertinente, compruebe las instrucciones sobre corrupción del fletador y, más concretamente, sobre los pagos para la simplificación de trámites.
+]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[7. En los puertos propensos a la corrupción, evalúe si es pertinente tener a bordo un representante del club P&I ("protección e indemnización") o un agente protector cuando se reúna con las autoridades.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[8. Finalmente, considere pedir una carta oficial de multa y un comprobante firmado.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[Раздел 1: Введение  •  Сохраняйте спокойствие]]></title>
+    <pics>
+      <pic hotid="7" hot="S" noFade="X" y="70" x="0">sc1_p12.png</pic>
+      <pic y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="27" s="2" align="left" delay="0" y="74" x="478"><![CDATA[Сохраняйте спокойствие]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0" y="149" x="478"><![CDATA[Перед встречей с представителями органов власти спросите агента, как осуществляются официальные платежи (сборы, штрафы). Это поможет избежать операций с наличными и покажет, что вы в курсе местных требований.]]></txt>
+      <txt c="X" swp="X" s="2" w="450" align="left" delay="0" x="478"><![CDATA[Если возможно, попросите руководителя местного офиса или агентов вашей компании сообщить местным властям об антикоррупционной политике вашей компании. Это один из способов защитить себя от вымогательства в будущем.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[Заранее проинформируйте агента об антикоррупционной политике своей компании и о том, что третьи лица, действующие в интересах компании, также обязаны следовать этим правилам.]]></txt>
+      <txt c="X" txtFade="X" s="2" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[Разместите антикоррупционные таблички рядом с трапом и в офисе так, чтобы их было хорошо видно посетителям.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" rpo="3"><![CDATA[Сохраняйте всю информацию о вымогательствах. Делитесь ею внутри компании.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" rpo="4" delay="0"><![CDATA[Если применимо, ознакомьтесь с инструкциями фрахтователя по поводу коррупции, особенно в той части, которая касается выплаты вознаграждений за оказание содействия.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[В портах, где распространена коррупция, перед встречей с чиновниками подумайте о необходимости присутствия на борту представителя Клуба взаимного страхования или протектинг-агента.]]></txt>
+      <txt c="X" swp="X" s="2" align="left" delay="0"><![CDATA[Наконец, подумайте над тем, чтобы запросить официальное письмо о штрафе и квитанцию с подписью.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt></sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template mode="default" pm="step" alignTxt="left">tmp01.swf</template>
+    <title><![CDATA[القسم 1  •  كن هادئًا]]></title>
+    <pics>
+      <pic hotid="8" hot="S" noFade="X" y="70" x="0">sc1_p12.png</pic>
+      <pic y="125" x="850">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic noDelay="X" y="125" x="478">kreska-cz.jpg</pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+      <pic>
+      </pic>
+    </pics>
+    <sounds>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+      <snd wfs="T" preload="X">
+      </snd>
+    </sounds>
+    <texts>
+      <txt c="X" swp="X" fontcolor="0c0254" fontsize="30" s="2" align="left" delay="0" y="74" x="478"><![CDATA[ كن هادئًا]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0" y="149" x="478"><![CDATA[1.  اسأل الوكيل عن كيفية سداد المدفوعات الرسمية (الغرامات والرسوم) قبل التحدث مع المسؤولين الحكوميين. سيساعد هذا في تجنب المعاملات النقدية ويُظهر أيضًا أنك على دراية بالاشتراطات المحلية.]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" w="450" align="left" delay="0" x="478"><![CDATA[2.  حيثما أمكن، اطلب من المدير أو الوكلاء المحليين لشركتك إبلاغ السلطات المحلية بسياسة مكافحة الفساد التي تنتهجها شركتك. يمكن أن يمنع هذا الإجراء الطلب في وقت لاحق.]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[3.  أبلغ الوكيل مسبقًا بسياسة مكافحة الفساد الخاصة بشركتك، وحقيقة أن الأطراف الأخرى التي تعمل نيابة عن شركتك يجب أن تفرض نفس القواعد. ]]></txt>
+      <txt c="X" txtFade="X" fontsize="16" s="2" w="450" align="left" rpo="2" delay="0" y="149" x="478"><![CDATA[4.  ضع لوحات مكافحة الفساد في الممرات وفي المكاتب بحيث تكون مرئية للزوار بوضوح.]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" rpo="3"><![CDATA[5.  جمع البيانات حول المطالب الفاسدة. شارك هذه القواعد داخليًا.]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" rpo="4" delay="0"><![CDATA[6.  إذا كان ذلك مناسبًا، تحقق من تعليمات المستأجر بشأن الفساد، وخاصة بشأن المدفوعات التي تتم بغرض التسهيل.]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[7.  في الموانئ المعرضة لممارسات الفساد، قم بتقييم ما إذا كان من المناسب وجود ممثل لنادي الحماية والتعويض أو وكيل حماية على متن السفينة عند الاجتماع مع السلطات. ]]></txt>
+      <txt c="X" swp="X" fontsize="16" s="2" align="left" delay="0"><![CDATA[8.  أخيرًا، فكر في طلب بيان غرامة رسمي وإيصال موقع عليه.]]></txt>
+      <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+    </texts>
+    <soundTexts>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+      <sndTxt>
+      </sndTxt>
+    </soundTexts>
+  </page>
+  <subpages>
+    <page level="EN" id="1">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[  ]]></title>
+      <pics>
+        <pic fps="25" nv="sc1_p12.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt crct="60" c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt crct="89" c="X" s="2" align="left" delay="0" cue="17360"><![CDATA[]]></txt>
+        <txt crct="74" c="X" s="2" align="left" delay="0" cue="31960"><![CDATA[]]></txt>
+        <txt crct="13" c="X" s="2" align="left" delay="0" cue="44680"><![CDATA[]]></txt>
+        <txt crct="12" c="X" s="2" align="left" delay="0" cue="53000"><![CDATA[]]></txt>
+        <txt crct="53" c="X" s="2" align="left" delay="0" cue="59120"><![CDATA[]]></txt>
+        <txt crct="14" c="X" s="2" align="left" delay="0" cue="67840"><![CDATA[]]></txt>
+        <txt crct="35" c="X" s="2" align="left" delay="0" cue="79600"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Keep Calm. Ask the agent how official payments (fees, fines) are paid before speaking with government officials. This will help to avoid cash transactions and also show that you are aware of local requirements.</sndTxt>
+        <sndTxt>Where possible, get your company’s local manager or agents to inform the local authorities about your company’s anti-corruption policy. This action can prevent a demand later.</sndTxt>
+        <sndTxt>Inform the agent in advance of your company’s anti-corruption policy, and of the fact that third parties acting on your company’s behalf must enforce the same rules.</sndTxt>
+        <sndTxt>Post anti-corruption signs at the gangway and in the office so they are clearly visible for visitors.</sndTxt>
+        <sndTxt>Collect data on corrupt demands. Share these internally.</sndTxt>
+        <sndTxt>If relevant, check the charterer’s instruction on corruption, and especially on facilitation payments.</sndTxt>
+        <sndTxt>In ports prone to corruption, assess if it is relevant to have a P&amp;I club representative or protective agent on board when meeting with authorities.</sndTxt>
+        <sndTxt>Finally, consider asking for an official fine letter and for a signed receipt.</sndTxt>
+      </soundTexts>
+    </page>
+    <page level="FR" id="2">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic fps="25" nv="sc1_p12.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="9680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="17360"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="26960"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="36680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="44680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="59120"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="67840"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="79600"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Garder son calme. Demandez à l’agent portuaire comment s’effectuent les paiements officiels (frais, amendes) avant de vous entretenir avec les autorités gouvernementales.</sndTxt>
+        <sndTxt>Cela permettra d’éviter des transactions en espèces et montrera également que vous avez connaissance des exigences locales.</sndTxt>
+        <sndTxt>Dans la mesure du possible, demandez au responsable local ou aux agents de votre entreprise d’informer les autorités locales de la politique de lutte contre la corruption de votre entreprise.</sndTxt>
+        <sndTxt>Cette démarche peut vous permettre d’éviter toute demande future. Informez d’avance l’agent portuaire concernant la politique de lutte contre la corruption de votre société</sndTxt>
+        <sndTxt>et sur le fait que les tiers agissant au nom de votre entreprise sont tenus d’appliquer les mêmes règles.
+</sndTxt>
+        <sndTxt>Affichez des panneaux anticorruption sur la passerelle et dans le bureau de manière à ce qu’ils soient clairement visibles pour les visiteurs. Recueillez des données sur les demandes de pots-de-vin. Partagez-les en interne.
+
+</sndTxt>
+        <sndTxt>Le cas échéant, vérifiez les consignes de l’affréteur en matière de corruption et particulièrement concernant les paiements de facilitation.
+</sndTxt>
+        <sndTxt>Dans les ports sujets à la corruption, évaluez la nécessité d’avoir à bord un représentant du club de protection et d’indemnité (club P&amp;I) ou un agent de surveillance lorsque vous vous entretenez avec les autorités.
+</sndTxt>
+        <sndTxt>Enfin, envisagez de demander un avis officiel d’amende et un accusé de réception signé.
+</sndTxt>
+      </soundTexts>
+    </page>
+    <page level="CH" id="3">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic fps="25" nv="sc1_p12.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="9680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="17360"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="26960"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="36680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="44680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="59120"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="67840"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="79600"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>保持冷静。 在与政府官员谈话前向代理了解向官方付费（费用、罚款）的方式。</sndTxt>
+        <sndTxt>这会有助于避免现金交易，并表明您了解当地的要求。</sndTxt>
+        <sndTxt>如果可能，让公司在当地的经理或代理向当地机构通告公司的反腐败政策。</sndTxt>
+        <sndTxt>这一措施可以防止以后出现索贿要求。提前通知代理您公司的反腐败政策，</sndTxt>
+        <sndTxt>并告之代表公司行事的第三方必须遵循同样的规则。
+</sndTxt>
+        <sndTxt>在通道和办公场所张贴反腐败标志，让来宾可以清楚地看到。收集索贿要求的数据。在内部共享这些数据。
+
+</sndTxt>
+        <sndTxt>如果相关，检查租船方关于腐败的说明，尤其是关于便利费的说明。
+</sndTxt>
+        <sndTxt>在容易发生腐败的港口，与当局会晤时，评估是否需要在船上配备一名 P 和 I 俱乐部代表或起保护作用的代理。
+</sndTxt>
+        <sndTxt>最后，考虑索要一封正式的罚款信和一张签字的收据。
+</sndTxt>
+      </soundTexts>
+    </page>
+    <page level="ES" id="5">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic fps="25" nv="sc1_p12.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="9680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="17360"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="26960"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="36680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="44680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="59120"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="67840"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="79600"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Mantenga la calma. Pregunte al agente cómo se abonan los pagos oficiales (tasas, multas) antes de hablar con los funcionarios gubernamentales</sndTxt>
+        <sndTxt>Esto ayudará a evitar las transacciones en efectivo y también demostrará que usted está al tanto de los requisitos locales.</sndTxt>
+        <sndTxt>Siempre que sea posible, pida al superior o a los agentes locales de su compañía que informen a las autoridades locales sobre la política anticorrupción de su compañía.</sndTxt>
+        <sndTxt>Hacer esto puede evitar una petición posterior.Informe con antelación al agente de la política anticorrupción de su compañía</sndTxt>
+        <sndTxt>y de que los terceros que actúen en nombre de su compañía deben hacer cumplir las mismas normas.</sndTxt>
+        <sndTxt>Coloque carteles anticorrupción en la pasarela y en la oficina para que estén claramente visibles para los visitantes.
+Recopile datos sobre peticiones corruptas. Compártalos internamente.</sndTxt>
+        <sndTxt>Si es pertinente, compruebe las instrucciones sobre corrupción del fletador y, más concretamente, sobre los pagos para la simplificación de trámites.</sndTxt>
+        <sndTxt>En los puertos propensos a la corrupción, evalúe si es pertinente tener a bordo un representante del club P&amp;I ("protección e indemnización") o un agente protector cuando se reúna con las autoridades.</sndTxt>
+        <sndTxt>Finalmente, considere pedir una carta oficial de multa y un comprobante firmado.</sndTxt>
+      </soundTexts>
+    </page>
+    <page level="RU" id="7">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic fps="25" nv="sc1_p12.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="9680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="17360"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="26960"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="36680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="44680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="59120"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="67840"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="79600"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt>Перед встречей с представителями органов власти спросите агента, как осуществляются официальные платежи (сборы, штрафы)</sndTxt>
+        <sndTxt>Это поможет избежать операций с наличными и покажет, что вы в курсе местных требований.</sndTxt>
+        <sndTxt>Если возможно, попросите руководителя местного офиса или агентов вашей компании сообщить местным властям об антикоррупционной политике вашей компании.</sndTxt>
+        <sndTxt>Это один из способов защитить себя от вымогательства в будущем.Заранее проинформируйте агента об антикоррупционной политике своей компании и о том,</sndTxt>
+        <sndTxt>что третьи лица, действующие в интересах компании, также обязаны следовать этим правилам.</sndTxt>
+        <sndTxt>Разместите антикоррупционные таблички рядом с трапом и в офисе так, чтобы их было хорошо видно посетителям.
+Сохраняйте всю информацию о вымогательствах. Делитесь ею внутри компании.</sndTxt>
+        <sndTxt>Если применимо, ознакомьтесь с инструкциями фрахтователя по поводу коррупции, особенно в той части, которая касается выплаты вознаграждений за оказание содействия.
+</sndTxt>
+        <sndTxt>В портах, где распространена коррупция, перед встречей с чиновниками подумайте о необходимости присутствия на борту представителя Клуба взаимного страхования или протектинг-агента.</sndTxt>
+        <sndTxt>В портах, где распространена коррупция, перед встречей с чиновниками подумайте о необходимости присутствия на борту представителя Клуба взаимного страхования или протектинг-агента.
+Наконец, подумайте над тем, чтобы запросить официальное письмо о штрафе и квитанцию с подписью.</sndTxt>
+      </soundTexts>
+    </page>
+    <page level="AR" id="8">
+      <template mode="autoback" pm="standard" alignTxt="left">vid.swf</template>
+      <title><![CDATA[ ]]></title>
+      <pics>
+        <pic fps="25" nv="sc1_p12.mp4" exactfit="X" h="557" w="990">
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+        <pic>
+        </pic>
+      </pics>
+      <sounds>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+        <snd wfs="T" preload="X">
+        </snd>
+      </sounds>
+      <texts>
+        <txt c="X" s="2" align="left" delay="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="0"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="9680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="17360"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="26960"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="36680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="44680"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="59120"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="67840"><![CDATA[]]></txt>
+        <txt c="X" s="2" align="left" delay="0" cue="79600"><![CDATA[]]></txt>
+      </texts>
+      <soundTexts>
+        <sndTxt>
+        </sndTxt>
+        <sndTxt></sndTxt>
+        <sndTxt></sndTxt>
+        <sndTxt></sndTxt>
+        <sndTxt></sndTxt>
+        <sndTxt></sndTxt>
+        <sndTxt></sndTxt>
+        <sndTxt></sndTxt>
+        <sndTxt></sndTxt>
+        <sndTxt></sndTxt>
+      </soundTexts>
+    </page>
+  </subpages>
+</pages>

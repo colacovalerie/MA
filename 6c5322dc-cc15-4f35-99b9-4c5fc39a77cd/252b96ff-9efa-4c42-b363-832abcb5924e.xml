@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="252b96ff-9efa-4c42-b363-832abcb5924e" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">02</txt>
+      <txt swp="X" c="X" s="1" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">CASE STUDY</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">DON’T OPEN THE FLOODGATES</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>02 CASE STUDY - DON’T OPEN THE FLOODGATES</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">02</txt>
+      <txt swp="X" c="X" s="2" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">ÉTUDE DE CAS</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">N’OUVREZ PAS LES VANNES</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>02 ÉTUDE DE CAS - N’OUVREZ PAS LES VANNES</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">02</txt>
+      <txt swp="X" c="X" s="1" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">案例研究
+</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">不要开先例</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>02 案例研究
+ - 不要开先例</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">02</txt>
+      <txt swp="X" c="X" s="2" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">CASO PRÁCTICO</txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">NO ABRA LAS COMPUERTAS</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>02 CASO PRÁCTICO. NO ABRA LAS COMPUERTAS
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="45" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">02</txt>
+      <txt swp="X" c="X" s="2" w="800" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">ИЗУЧЕНИЕ КОНКРЕТНОЙ СИТУАЦИИ</txt>
+      <txt swp="X" c="X" s="1" y="445" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="470" delay="0" fontsize="22" align="left" fontcolor="ffffff">НЕ ВЫПУСКАЙТЕ ДЖИННА ИЗ БУТЫЛКИ</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>02 ИЗУЧЕНИЕ КОНКРЕТНОЙ СИТУАЦИИ. НЕ ВЫПУСКАЙТЕ ДЖИННА ИЗ БУТЫЛКИ
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title />
+    <pics>
+      <pic x="0" y="0">Re-brand_pr1A.jpg</pic>
+      <pic />
+      <pic />
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc2_p0.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="215" delay="0" fontsize="80" align="left" fontcolor="ffffff">02</txt>
+      <txt swp="X" c="X" s="1" y="340" delay="0" fontsize="50" align="left" fontcolor="ffffff">دراسة حالة </txt>
+      <txt swp="X" c="X" s="1" y="390" delay="0" fontsize="24" align="left" fontcolor="c3000a">—</txt>
+      <txt swp="X" c="X" s="2" y="420" delay="0" fontsize="22" align="left" fontcolor="ffffff">لا تفتح الباب على مصراعيه</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>

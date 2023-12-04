@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages guid="84bcd374-814a-4b98-b607-0dc2c5ea3519" sgxmlv="1.2" qq="off">
+  <page level="EN">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 4: Case Study – Time is Money  •  Time is Money</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p2a.png</pic>
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Time is Money</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" align="left">As soon as the government hold surveyors come on board, they request a cash payment to ensure operations run smoothly as they know the Captain is on a tight schedule. As expected, they threaten to fail the clearance of the cargo holds if a payment is not made, even though the holds are appropriately cleaned.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">This would result in serious commercial and thereby financial consequences.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Time is Money. As soon as the government hold surveyors come on board, they request a cash payment to ensure operations run smoothly as they know the Captain is on a tight schedule. As expected, they threaten to fail the clearance of the cargo holds if a payment is not made, even though the holds are appropriately cleaned. This would result in serious commercial and thereby financial consequences.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="FR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Section 4: Étude de cas — Le temps, c’est de l’argent.  •  Le temps, c’est de l’argent</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p2a.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Le temps, c’est de l’argent</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">À peine montés à bord,</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">les inspecteurs de cargaisons maritimes de l’État exigent un paiement en espèces pour que les opérations se déroulent sans encombre parce qu’ils savent que le capitaine a un calendrier serré. Comme prévu, ils menacent de refuser de valider l’inspection des cales si un paiement n’est pas effectué, même si les cales ont été nettoyées correctement.
+
+Cela engendrerait de lourdes conséquences commerciales et donc financières.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Le temps, c’est de l’argent. À peine montés à bord, les inspecteurs de cargaisons maritimes de l’État exigent un paiement en espèces pour que les opérations se déroulent sans encombre parce qu’ils savent que le capitaine a un calendrier serré. Comme prévu, ils menacent de refuser de valider l’inspection des cales si un paiement n’est pas effectué, même si les cales ont été nettoyées correctement.
+
+Cela engendrerait de lourdes conséquences commerciales et donc financières.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="CH">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>第 4 节： 案例研究 - 时间就是金钱  •  时间就是金钱</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p2a.png</pic>
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="1" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">时间就是金钱</txt>
+      <txt swp="X" c="X" s="2" w="470" y="155" delay="0" fontsize="18" align="left">政府货舱验船师知道船长这艘船有着紧凑的行程，所以一上船就索要现金，并用检查做为要挟。就像预料的那样，他们威胁说如果不给好处，即便是货舱没有问题，也不能通关。</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="18" align="left">那样会导致严重的商务和财务损失。</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>时间就是金钱。政府货舱验船师知道船长这艘船有着紧凑的行程，所以一上船就索要现金，并用检查做为要挟。就像预料的那样，他们威胁说如果不给好处，即便是货舱没有问题，也不能通关。
+
+那样会导致严重的商务和财务损失。</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="ES">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Sección 4: Caso práctico - El tiempo es oro  •  El tiempo es oro</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p2a.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">El tiempo es oro</txt>
+      <txt swp="X" c="X" s="2" w="600" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">Tan pronto como los inspectores gubernamentales</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">de la bodega suben a bordo, piden un pago en efectivo para garantizar que las operaciones se desarrollen sin problemas, porque saben que el capitán va con el calendario muy ajustado. Como era de esperar, amenazan con no autorizar el despacho de las bodegas de carga si no se realiza un pago, aunque las bodegas estén correctas.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">Esto tendría graves consecuencias comerciales y, por ende, económicas.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>El tiempo es oro. Tan pronto como los inspectores gubernamentales de la bodega suben a bordo, piden un pago en efectivo para garantizar que las operaciones se desarrollen sin problemas, porque saben que el capitán va con el calendario muy ajustado. Como era de esperar, amenazan con no autorizar el despacho de las bodegas de carga si no se realiza un pago, aunque las bodegas estén correctas. Esto tendría graves consecuencias comerciales y, por ende, económicas.</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="RU">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>Раздел 4: Изучение конкретной ситуации — Время — деньги  •  Время — деньги</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p2a.png</pic>
+      <pic />
+      <pic preload="X" x="478" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="28" align="left" fontcolor="0c0254">Время — деньги</txt>
+      <txt swp="X" c="X" s="2" y="149" delay="0" fontsize="18" align="left" fontcolor="c3000a">Как только государственные</txt>
+      <txt swp="X" c="X" s="2" w="470" y="180" delay="0" align="left">Как только государственные инспекторы по проверке трюмов поднимаются на борт, они сразу требуют денег за то, чтобы все прошло гладко, так как им известно, что у судна напряженный график. Как и предполагалось, хотя трюмы очищены надлежащим образом, инспекторы грозят, что не признают их годными для перевозки груза, если не получат денег.</txt>
+      <txt swp="X" c="X" s="2" delay="0" align="left">Это приведет к серьезным коммерческим, а следовательно, и финансовым последствиям.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+      <sndTxt>Время — деньги. Как только государственные инспекторы по проверке трюмов поднимаются на борт, они сразу требуют денег за то, чтобы все прошло гладко, так как им известно, что у судна напряженный график. Как и предполагалось, хотя трюмы очищены надлежащим образом, инспекторы грозят, что не признают их годными для перевозки груза, если не получат денег. Это приведет к серьезным коммерческим, а следовательно, и финансовым последствиям.
+
+</sndTxt>
+    </soundTexts>
+  </page>
+  <page level="AR">
+    <template alignTxt="left" pm="standard" mode="default">tmp01.swf</template>
+    <title>القسم 4: دراسة حالة - الوقت من ذهب  •  الوقت من ذهب</title>
+    <pics>
+      <pic preload="X" noFade="X" x="0" y="70">sc4_p2a.png</pic>
+      <pic preload="X" x="850" y="125">kreska-cz.jpg</pic>
+      <pic />
+    </pics>
+    <sounds>
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T" />
+      <snd preload="X" wfs="T">sc4_p2.mp3</snd>
+    </sounds>
+    <texts>
+      <txt swp="X" c="X" s="2" x="478" y="74" delay="0" fontsize="30" align="left" fontcolor="0c0254"> الوقت من ذهب</txt>
+      <txt swp="X" c="X" s="2" w="470" y="149" delay="0" fontsize="16" align="left">لدى صعود خبراء المعاينة التابعين للحكومة إلى متن السفينة، يطلبون على الفور مبلغًا نقديًا لضمان سير العمليات بسلاسة لأنهم يعرفون أن القبطان يعمل تحت ضغط بجدول زمني ضيق؛ وكما هو متوقع، فهم يهددون بمنع تخليص بضائع السفينة في حال عدم الدفع، حتى في حال فحص البضائع بشكل صحيح.</txt>
+      <txt swp="X" c="X" s="2" delay="0" fontsize="16" align="left">هذا ومن شأن ذلك أن يؤدي إلى عواقب تجارية وخيمة وبالتالي عواقب مالية.</txt>
+    </texts>
+    <soundTexts>
+      <sndTxt />
+      <sndTxt />
+      <sndTxt />
+    </soundTexts>
+  </page>
+  <subpages />
+</pages>
